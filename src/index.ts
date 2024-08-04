@@ -1,2 +1,4 @@
-const greeting: string = "Hello, TypeScript!";
-console.log(greeting);
+import FarfetchParserController from "./shops/farfetch/controller";
+
+const farfetch = new FarfetchParserController()
+farfetch.GetClothing()
