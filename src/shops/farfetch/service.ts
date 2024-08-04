@@ -1,6 +1,6 @@
 import axiosInstance from "../../axiosInstance";
 import cheerio, { CheerioAPI } from 'cheerio';
-import { Product } from "./types";
+import { Product } from "../../types";
 
 const baseUrl = "https://www.farfetch.com"
 
@@ -15,12 +15,10 @@ class FarfetchParserService{
             
                 $('[data-component="ProductCardLink"]').each((index, element) => {
                     const product: Product = {
-                        sex: gender,
                         image: $(element).find('[data-component="ProductCardImagePrimary"]').attr('src') || '',
-                        brandName: $(element).find('[data-component="ProductCardBrandName"]').text().trim(),
-                        description: $(element).find('[data-component="ProductCardDescription"]').text().trim(),
+                        label: $(element).find('[data-component="ProductCardBrandName"]').text().trim(),
+                        name: $(element).find('[data-component="ProductCardDescription"]').text().trim(),
                         price: $(element).find('[data-component="Price"]').text().trim() || $(element).find('[data-component="PriceFinal"]').text().trim(),
-                        sizesAvailable: $(element).find('[data-component="ProductCardSizesAvailable"]').text().trim(),
                     };
                     if (product.image) {
                         products.push(product);
@@ -28,7 +26,6 @@ class FarfetchParserService{
                 });
             }
         } catch (err) {
-            
         }
         return products;
     }

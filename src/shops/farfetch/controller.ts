@@ -1,5 +1,5 @@
 import FarfetchParserService from "./service";
-import { Product } from "./types";
+import { Product } from "../../types";
 
 const farfetch = new FarfetchParserService()
 
@@ -20,8 +20,8 @@ class FarfetchParserController{
             if (temp){
                 products.push(...temp)
             }
-            const randomDelay = Math.floor(Math.random() * (15000 - 10000 + 1)) + 10000;
-            console.log("Men",temp.length)
+            const randomDelay = Math.floor(Math.random() * (90000 - 60000 + 1)) + 60000;
+            console.log(temp)
             await sleep(randomDelay);
         }
         console.log("Men",products.length)
@@ -38,8 +38,8 @@ class FarfetchParserController{
                 products.push(...temp);
             }
             
-            const randomDelay = Math.floor(Math.random() * (15000 - 10000 + 1)) + 10000;
-            console.log("Women",temp.length)
+            const randomDelay = Math.floor(Math.random() * (90000 - 60000 + 1)) + 60000;
+            console.log(temp)
 
             await sleep(randomDelay);
 
