@@ -62,5 +62,5 @@ async function combineJsonFiles(fileNames: string[], outputFileName: string) {
 // const outputFileName = '../products/farfetch/women/all.json';
 
 // combineJsonFiles(fileNames, outputFileName);
-//some();
+some();
 

@@ -7,18 +7,19 @@ const farfetch = new FarfetchParserService()
 
 class FarfetchParserController{
     async GetClothing(): Promise<Product[]> {
-        const womenClothing = await this.GetWomenClothing();
+        //const womenClothing = await this.GetWomenClothing();
         const menClothing = await this.GetMenClothing();
-        return [...womenClothing, ...menClothing];
+        return menClothing
+        //return [...womenClothing, ...menClothing];
     }
     
     async GetMenClothing():Promise<Product[]>{
         const menClothes = [
-            "coats-2",
-            "denim-2",
-            "jackets-2",
-            "polo-shirts-2",
-            "shirts-2",
+            // "coats-2",
+            // "denim-2",
+            //"jackets-2",
+            //"polo-shirts-2",
+            //"shirts-2",
             "shorts-2",
             "suits-2",
             "sweaters-knitwear-2",
