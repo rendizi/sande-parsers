@@ -51,7 +51,8 @@ class FarfetchParserController{
             "jackets-1", 
             "dresses-1", 
             "denim-1", 
-            "coats-1"];
+            "coats-1"
+        ];
         const gender = "women";
         const products: Product[] = [];
         

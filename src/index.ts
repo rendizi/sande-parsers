@@ -2,6 +2,7 @@ import FarfetchParserController from "./shops/farfetch/controller";
 import fs from 'fs/promises';
 import { Product } from "./types";
 import PullAndBearController from "./shops/pullandbear/controller";
+import path from "path"
 
 const some = async (): Promise<void> => {
     const farfetch = new FarfetchParserController();
@@ -29,6 +30,37 @@ export const shuffleArray = (array: Product[]): Product[] => {
     return array;
 };
 
+async function combineJsonFiles(fileNames: string[], outputFileName: string) {
+    try {
+        let combinedData: Product[] = [];
 
-some();
+        for (const fileName of fileNames) {
+            const filePath = path.join(__dirname, `../products/farfetch/women/${fileName}.json`);
+            const fileData = await fs.readFile(filePath, 'utf8');
+            const jsonData = JSON.parse(fileData);
+            combinedData = combinedData.concat(jsonData);
+        }
+
+        const shuffled = shuffleArray(combinedData)
+        await fs.writeFile(path.join(__dirname, outputFileName), JSON.stringify(shuffled, null, 2));
+        console.log(`Combined data saved to ${outputFileName}`);
+    } catch (error) {
+        console.error('Error combining JSON files:', error);
+    }
+}
+
+// const fileNames = [
+//     'skirts-1',
+//     'tops-1',
+//     'trousers-1',
+//     'knitwear-1',
+//     'jackets-1',
+//     'dresses-1',
+//     'denim-1',
+//     'coats-1'
+// ];
+// const outputFileName = '../products/farfetch/women/all.json';
+
+// combineJsonFiles(fileNames, outputFileName);
+//some();
 

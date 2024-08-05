@@ -1,0 +1,74 @@
+[
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/37/09/23443709_54318695_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "striped dress",
+    "price": "$3,963"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/98/16/20/23981620_54269922_480.jpg",
+    "label": "Sachin & Babi",
+    "name": "Bonnie gown",
+    "price": "$920"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/30/83/53/24308353_54340967_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "Thorn Branches midi dres",
+    "price": "$2,315"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/88/16/64/22881664_53374569_480.jpg",
+    "label": "Sachin & Babi",
+    "name": "Florence panelled gown",
+    "price": "$1,075"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/01/88/51/24018851_54436385_480.jpg",
+    "label": "Marni",
+    "name": "floral-appliqué crepon dress",
+    "price": "$2,621"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/70/36/23447036_53833090_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "feather-trim denim dress",
+    "price": "$2,075"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/37/64/13/24376413_54608689_480.jpg",
+    "label": "Jacquemus",
+    "name": "La Mini Robe dress",
+    "price": "$686"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/33/77/23733377_54574794_480.jpg",
+    "label": "ERDEM",
+    "name": "flared denim midi dress",
+    "price": "$910"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/26/77/97/24267797_54249913_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "Chrysanthemum dress",
+    "price": "$2,149"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/90/23/84/23902384_54486986_480.jpg",
+    "label": "Maje",
+    "name": "tweed dress set",
+    "price": "$393"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/96/03/80/23960380_54091381_480.jpg",
+    "label": "Self-Portrait",
+    "name": "gem-embellished pleated mini dress",
+    "price": "$446"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/37/47/23733747_53678321_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "cut-out long-sleeve midi dress",
+    "price": "$6,469"
+  }
+]

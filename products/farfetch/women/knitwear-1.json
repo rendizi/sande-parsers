@@ -1,0 +1,218 @@
+[
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/95/98/57/17959857_40036973_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной джемпер с логотипом",
+    "price": "$377"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/46/89/84/16468984_31997489_480.jpg",
+    "label": "Burberry",
+    "name": "кардиган в клетку Vintage Check",
+    "price": "$1,180"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/27/81/01/24278101_54373723_480.jpg",
+    "label": "Gucci",
+    "name": "кардиган с жаккардовым логотипом",
+    "price": "$1,351"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/20/83/48/20208348_50583151_480.jpg",
+    "label": "SANDRO",
+    "name": "платье мини в рубчик",
+    "price": "$204"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/51/58/35/24515835_54597923_480.jpg",
+    "label": "Saint Laurent",
+    "name": "трикотажная рубашка поло",
+    "price": "$988"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/18/63/32/22186332_52823050_480.jpg",
+    "label": "SANDRO",
+    "name": "кардиган в рубчик с декорированными пуговицами",
+    "price": "$170"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/82/62/22118262_52862018_480.jpg",
+    "label": "Maje",
+    "name": "комплект из топа и кардигана вязки интарсия",
+    "price": "$480"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/50/63/19595063_43860394_480.jpg",
+    "label": "AMI Paris",
+    "name": "кардиган с монограммой Ami de Coeur",
+    "price": "$301"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/26/68/77/24266877_54249277_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "свитер с анималистичным принтом",
+    "price": "$2,365"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/67/21820867_48163517_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной кардиган с монограммой Ami de Coeur",
+    "price": "$231"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/82/67/22118267_52891071_480.jpg",
+    "label": "Maje",
+    "name": "трикотажный топ в полоску",
+    "price": "$220"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/38/35/22153835_51906537_480.jpg",
+    "label": "ETRO",
+    "name": "джемпер с цветочным принтом",
+    "price": "$1,215"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/42/55/85/22425585_52323968_480.jpg",
+    "label": "ETRO",
+    "name": "платье макси с цветочным принтом",
+    "price": "$1,928"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/55/17/23445517_53604977_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "топ в полоску",
+    "price": "$1,594"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/34/75/31/24347531_54498761_480.jpg",
+    "label": "Gucci",
+    "name": "футболка из шерсти с отделкой Web",
+    "price": "$1,027"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/42/22/21614222_52521787_480.jpg",
+    "label": "PINKO",
+    "name": "кардиган с контрастным логотипом Love Birds",
+    "price": "$297"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/59/78/32/22597832_54452713_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "рубашка поло с полосками",
+    "price": "$2,230"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/12/89/70/20128970_45361085_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "трикотажное платье без рукавов",
+    "price": "$1,087"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/38/79/93/16387993_31612778_480.jpg",
+    "label": "MISBHV",
+    "name": "джемпер с воротником-воронкой и логотипом",
+    "price": "$107"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/55/36/02/22553602_53112519_480.jpg",
+    "label": "Diesel",
+    "name": "укороченный топ M-Bletilla в рубчик",
+    "price": "$309"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/99/29/07/21992907_52551493_480.jpg",
+    "label": "Maje",
+    "name": "кардиган с контрастной отделкой",
+    "price": "$480"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/03/11/67/24031167_54235682_480.jpg",
+    "label": "Gucci",
+    "name": "кардиган с жаккардовым логотипом",
+    "price": "$1,351"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/86/38/76/22863876_53121961_480.jpg",
+    "label": "b+ab",
+    "name": "кардиган с цветочной вышивкой",
+    "price": "$125"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/45/34/23444534_53630530_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "кардиган на пуговицах с логотипом VLogo Signature",
+    "price": "$1,534"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/37/05/20/22370520_52397124_480.jpg",
+    "label": "Thom Browne",
+    "name": "трикотажный топ с цветочным принтом",
+    "price": "$1,458"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/28/86/46/24288646_54366835_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "топ рыхлой вязки с пайетками",
+    "price": "$3,608"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/45/38/23444538_53604999_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "джемпер в полоску",
+    "price": "$1,670"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/58/24/96/18582496_40240679_480.jpg",
+    "label": "SANDRO",
+    "name": "джемпер Bridget с V-образным вырезом",
+    "price": "$225"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/62/27/17/22622717_52690161_480.jpg",
+    "label": "Cult Gaia",
+    "name": "платье миди Andreas в рубчик",
+    "price": "$373"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/56/87/23725687_54365497_480.jpg",
+    "label": "Gucci",
+    "name": "рубашка поло в рубчик",
+    "price": "$1,685"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/53/17/66/22531766_52517298_480.jpg",
+    "label": "Jacquemus",
+    "name": "топ Le Haut с логотипом",
+    "price": "$440"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/73/01/91/22730191_52976499_480.jpg",
+    "label": "GANNI",
+    "name": "шерстяной кардиган в полоску",
+    "price": "$366"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/26/93/19592693_43858827_480.jpg",
+    "label": "AMI Paris",
+    "name": "жилет с логотипом",
+    "price": "$216"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/71/67/09/22716709_52789925_480.jpg",
+    "label": "Jacquemus",
+    "name": "трикотажное платье мини La Robe Sierra",
+    "price": "$464"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/08/21/00/20082100_51273639_480.jpg",
+    "label": "Karl Lagerfeld Jeans",
+    "name": "logo-print belted minidress",
+    "price": "$62"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/46/00/45/24460045_54596637_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной джемпер с монограммой Ami de Coeur",
+    "price": "$376"
+  }
+]
