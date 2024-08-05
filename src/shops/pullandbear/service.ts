@@ -5,34 +5,41 @@ import { Product } from "../../types";
 const baseUrl = "https://www.pullandbear.com/kz";
 
 class PullAndBearService {
-  async GetClothes(gender: string, type: string): Promise<Product[]> {
+  async GetClothes(category: string): Promise<Product[]> {
     const products: Product[] = [];
     try {
-      const resp = await axiosInstance.get(`${baseUrl}/${gender}/одежда/${type}`);
-      const html = resp.data;
-      const $: CheerioAPI = cheerio.load(html);
-
-      $('.c-tile--product').each((_, element) => {
-        const name = $(element).find('.name span').text().trim();
-        const price = $(element).find('.product-price--price').text().trim();
-        const label = $(element).find('.color-container .title-color').map((_, colorElement) => $(colorElement).text().trim()).get().join(', ');
-        const image = $(element).find('.carousel-item.is-current img').attr('src');
-
-        const product: Product = {
-          name,
-          price,
-          label,
-          image : ""
-        };
-
-        products.push(product);
-      });
-
+      const resp = await axiosInstance.get<ProductIdsResponseType>(`${baseUrl}/itxrest/3/catalog/store/25009553/20309427/category/${category}/product?languageId=-1&appId=3&showProducts=false&showNoStock=false`)
+      const productIds = resp.data.productIds.slice(0, 50).join(',');
+      console.log(productIds)
+      const anotherResp = await axiosInstance.get<ProductArrayResponseType>(`${baseUrl}/itxrest/3/catalog/store/25009553/20309427/productsArray?languageId=-1&appId=3&productIds=${productIds}&categoryId=${category}`)
+      console.log(anotherResp.data.products[0].bundleProductSummaries[0].detail.xmedia[0].xmediaItems[1].medias[0].extraInfo.deliveryUrl)
     } catch (err) {
       console.log('Error fetching products:', err);
     }
     return products;
   }
+}
+
+interface ProductIdsResponseType{
+  productIds: number[]
+}
+
+interface ProductArrayResponseType{
+  products: {
+    bundleProductSummaries: {
+      detail: {
+        xmedia:{
+          xmediaItems:{
+            medias:{
+              extraInfo:{
+                deliveryUrl: string
+              }
+            }[]
+          }[]
+        }[]
+      }
+    }[]
+  }[]
 }
 
 export default PullAndBearService;

@@ -15,16 +15,16 @@ class FarfetchParserController{
     
     async GetMenClothing():Promise<Product[]>{
         const menClothes = [
-            // "coats-2",
-            // "denim-2",
-            //"jackets-2",
-            //"polo-shirts-2",
-            //"shirts-2",
+            "coats-2",
+            "denim-2",
+            "jackets-2",
+            "polo-shirts-2",
+            "shirts-2",
             "shorts-2",
-            "suits-2",
             "sweaters-knitwear-2",
             "trousers-2",
-            "t-shirts-vests-2"]
+            "t-shirts-vests-2"
+        ]
         const gender = "men"
         const products:Product[] = []
 
