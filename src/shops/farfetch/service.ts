@@ -26,7 +26,7 @@ class FarfetchParserService{
                     }
                 });
                 console.log(products)
-                const randomDelay = Math.floor(Math.random() * (10000 - 5000 + 1)) + 5000;
+                const randomDelay = Math.floor(Math.random() * (90000 - 60000 + 1)) + 60000;
                 await sleep(randomDelay)
             }
         } catch (err) {

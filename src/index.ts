@@ -9,7 +9,7 @@ const some = async (): Promise<void> => {
 
     const shuffledProducts = shuffleArray(products);
 
-    await fs.writeFile('./farfetch.json', JSON.stringify(shuffledProducts, null, 2));
+    await fs.writeFile('./products/farfetch/farfetch.json', JSON.stringify(shuffledProducts, null, 2));
     console.log('Shuffled products have been saved to ./farfetch.json');
 };
 

@@ -13,7 +13,17 @@ class FarfetchParserController{
     }
     
     async GetMenClothing():Promise<Product[]>{
-        const menClothes = ["coats-2","denim-2","jackets-2","polo-shirts-2","shirts-2","shorts-2","suits-2","sweaters-knitwear-2","trousers-2","t-shirts-vests-2"]
+        const menClothes = [
+            "coats-2",
+            "denim-2",
+            "jackets-2",
+            "polo-shirts-2",
+            "shirts-2",
+            "shorts-2",
+            "suits-2",
+            "sweaters-knitwear-2",
+            "trousers-2",
+            "t-shirts-vests-2"]
         const gender = "men"
         const products:Product[] = []
 
@@ -25,7 +35,7 @@ class FarfetchParserController{
             const randomDelay = Math.floor(Math.random() * (90000 - 60000 + 1)) + 60000;
             if (temp.length !== 0){
                 const shuffledProducts = shuffleArray(temp);
-                await fs.writeFile(`./${menClothes[i]}.json`, JSON.stringify(shuffledProducts, null, 2));
+                await fs.writeFile(`./products/farfetch/men/${menClothes[i]}.json`, JSON.stringify(shuffledProducts, null, 2));
             }
             await sleep(randomDelay);
         }
@@ -33,7 +43,15 @@ class FarfetchParserController{
         return products
     }
     async GetWomenClothing(): Promise<Product[]> {
-        const womenClothes = ["skirts-1", "tops-1", "trousers-1", "knitwear-1", "jackets-1", "dresses-1", "denim-1", "coats-1"];
+        const womenClothes = [
+            "skirts-1", 
+            "tops-1", 
+            "trousers-1", 
+            "knitwear-1", 
+            "jackets-1", 
+            "dresses-1", 
+            "denim-1", 
+            "coats-1"];
         const gender = "women";
         const products: Product[] = [];
         
@@ -46,7 +64,7 @@ class FarfetchParserController{
             const randomDelay = Math.floor(Math.random() * (90000 - 60000 + 1)) + 60000;
             if (temp.length !== 0){
                 const shuffledProducts = shuffleArray(temp);
-                await fs.writeFile(`./${womenClothes[i]}.json`, JSON.stringify(shuffledProducts, null, 2));
+                await fs.writeFile(`./products/farfetch/women/${womenClothes[i]}.json`, JSON.stringify(shuffledProducts, null, 2));
             }
             await sleep(randomDelay);
         }
