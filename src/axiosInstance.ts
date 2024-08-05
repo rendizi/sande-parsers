@@ -1,18 +1,19 @@
-import axios from 'axios';
+import axios, { AxiosInstance } from 'axios';
 import { wrapper } from 'axios-cookiejar-support';
 import { CookieJar } from 'tough-cookie';
+import randomUseragent from 'random-useragent';
 
 const cookieJar = new CookieJar();
 
-const axiosInstance = wrapper(axios.create({
-  timeout: 5000, 
+const axiosInstance: AxiosInstance = wrapper(axios.create({
+  timeout: 5000,
   headers: {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
+    'User-Agent': randomUseragent.getRandom(),
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
     'Accept-Language': 'en-US,en;q=0.9'
   },
-  jar: cookieJar, 
-  withCredentials: true 
+  jar: cookieJar,
+  withCredentials: true
 }));
 
 axiosInstance.interceptors.request.use(
@@ -33,4 +34,10 @@ axiosInstance.interceptors.response.use(
   }
 );
 
+const setRandomUserAgent = (): void => {
+  axiosInstance.defaults.headers['User-Agent'] = randomUseragent.getRandom();
+  console.log(axiosInstance.defaults.headers['User-Agent'])
+};
+
 export default axiosInstance;
+export { setRandomUserAgent };

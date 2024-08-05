@@ -1,10 +1,14 @@
 import FarfetchParserService from "./service";
 import { Product } from "../../types";
+import { shuffleArray } from "../..";
+import fs from 'fs/promises';
+import { setRandomUserAgent } from "../../axiosInstance";
 
 const farfetch = new FarfetchParserService()
 
 class FarfetchParserController{
     async GetClothing(): Promise<Product[]> {
+        setRandomUserAgent()
         const womenClothing = await this.GetWomenClothing();
         const menClothing = await this.GetMenClothing();
         return [...womenClothing, ...menClothing];
@@ -21,8 +25,12 @@ class FarfetchParserController{
                 products.push(...temp)
             }
             const randomDelay = Math.floor(Math.random() * (90000 - 60000 + 1)) + 60000;
-            console.log(temp)
+            if (temp.length !== 0){
+                const shuffledProducts = shuffleArray(temp);
+                await fs.writeFile(`./${menClothes[i]}.json`, JSON.stringify(shuffledProducts, null, 2));
+            }
             await sleep(randomDelay);
+            setRandomUserAgent()
         }
         console.log("Men",products.length)
         return products
@@ -39,10 +47,12 @@ class FarfetchParserController{
             }
             
             const randomDelay = Math.floor(Math.random() * (90000 - 60000 + 1)) + 60000;
-            console.log(temp)
-
+            if (temp.length !== 0){
+                const shuffledProducts = shuffleArray(temp);
+                await fs.writeFile(`./${womenClothes[i]}.json`, JSON.stringify(shuffledProducts, null, 2));
+            }
             await sleep(randomDelay);
-
+            setRandomUserAgent()
         }
         console.log("Women",products.length)
         return products; 

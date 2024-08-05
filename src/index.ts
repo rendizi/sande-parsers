@@ -21,7 +21,7 @@ const another = async() :Promise<void> => {
     await fs.writeFile('./pab.json', JSON.stringify(shuffledProducts, null, 2));
     console.log('Shuffled products have been saved to ./pab.json');}
 
-const shuffleArray = (array: Product[]): Product[] => {
+export const shuffleArray = (array: Product[]): Product[] => {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [array[i], array[j]] = [array[j], array[i]];
@@ -29,4 +29,6 @@ const shuffleArray = (array: Product[]): Product[] => {
     return array;
 };
 
+
 some();
+

@@ -1,4 +1,4 @@
-import axiosInstance from "../../axiosInstance";
+import axiosInstance, { setRandomUserAgent } from "../../axiosInstance";
 import cheerio, { CheerioAPI } from 'cheerio';
 import { Product } from "../../types";
 
@@ -26,6 +26,7 @@ class FarfetchParserService{
                 });
             }
         } catch (err) {
+            
         }
         return products;
     }
