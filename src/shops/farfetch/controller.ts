@@ -2,13 +2,11 @@ import FarfetchParserService from "./service";
 import { Product } from "../../types";
 import { shuffleArray } from "../..";
 import fs from 'fs/promises';
-import { setRandomUserAgent } from "../../axiosInstance";
 
 const farfetch = new FarfetchParserService()
 
 class FarfetchParserController{
     async GetClothing(): Promise<Product[]> {
-        setRandomUserAgent()
         const womenClothing = await this.GetWomenClothing();
         const menClothing = await this.GetMenClothing();
         return [...womenClothing, ...menClothing];
@@ -30,7 +28,6 @@ class FarfetchParserController{
                 await fs.writeFile(`./${menClothes[i]}.json`, JSON.stringify(shuffledProducts, null, 2));
             }
             await sleep(randomDelay);
-            setRandomUserAgent()
         }
         console.log("Men",products.length)
         return products
@@ -52,14 +49,13 @@ class FarfetchParserController{
                 await fs.writeFile(`./${womenClothes[i]}.json`, JSON.stringify(shuffledProducts, null, 2));
             }
             await sleep(randomDelay);
-            setRandomUserAgent()
         }
         console.log("Women",products.length)
         return products; 
     }
 }
 
-function sleep(ms: number): Promise<void> {
+export function sleep(ms: number): Promise<void> {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 

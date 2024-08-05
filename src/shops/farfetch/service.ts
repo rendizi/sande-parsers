@@ -1,6 +1,7 @@
-import axiosInstance, { setRandomUserAgent } from "../../axiosInstance";
+import axiosInstance from "../../axiosInstance";
 import cheerio, { CheerioAPI } from 'cheerio';
 import { Product } from "../../types";
+import { sleep } from "./controller";
 
 const baseUrl = "https://www.farfetch.com"
 
@@ -24,9 +25,12 @@ class FarfetchParserService{
                         products.push(product);
                     }
                 });
+                console.log(products)
+                const randomDelay = Math.floor(Math.random() * (10000 - 5000 + 1)) + 5000;
+                await sleep(randomDelay)
             }
         } catch (err) {
-            
+            console.log(err)
         }
         return products;
     }
