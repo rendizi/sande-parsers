@@ -36,7 +36,7 @@ async function combineJsonFiles(fileNames: string[], outputFileName: string) {
         let combinedData: Product[] = [];
 
         for (const fileName of fileNames) {
-            const filePath = path.join(__dirname, `../products/farfetch/men/${fileName}.json`);
+            const filePath = path.join(__dirname, `../products/pab/women/${fileName}.json`);
             const fileData = await fs.readFile(filePath, 'utf8');
             const jsonData = JSON.parse(fileData);
             combinedData = combinedData.concat(jsonData);
@@ -51,20 +51,30 @@ async function combineJsonFiles(fileNames: string[], outputFileName: string) {
 }
 
 const fileNames = [
-    "coats-2",
-            "denim-2",
-            "jackets-2",
-            "polo-shirts-2",
-            "shirts-2",
-            "shorts-2",
-            "sweaters-knitwear-2",
-            "trousers-2",
-            "t-shirts-vests-2"
-];
-const outputFileName = '../products/farfetch/men/all.json';
+    "t-shirts",
+    "dresses",
+    "tops",
+    "pants",
+    "jeans",
+    "yubka",
+    "shorts",
+    "hoodie",
+    "kurtki",
+    "trikotasz",
+    "shirts",
+    "zhileti",
+    "kombinezoni",
+    "blazer"
+]
+
+const outputFileName = '../products/pab/women/all.json';
 
 combineJsonFiles(fileNames, outputFileName);
 // some();
 // another()
-// const pab = new PullAndBearService()
-// pab.GetClothes("1030204791")
+const lol = async () => {
+    const pab = new PullAndBearController()
+    pab.GetClothes()
+}
+
+//lol()
