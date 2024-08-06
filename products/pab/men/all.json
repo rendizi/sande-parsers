@@ -1,333 +1,9 @@
 [
   {
-    "name": "Basic denim jacket",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/04fc/bdf4/14aa4cde8c81/b2be95b70880/0771051342701-a7m/0771051342701-a7m.jpg?ts=1722869954008"
-  },
-  {
-    "name": "Cargo trousers with seams",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2b6c/e5c5/f70a466596a7/b8bd30e32c2a/07678507700-A20M/07678507700-A20M.jpg?ts=1720789400180"
-  },
-  {
-    "name": "Striped cropped short sleeve shirt",
-    "price": "1999000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5621/9c2a/56ef460ebed8/d774e1e45692/07470519250-C/07470519250-C.jpg?ts=1719505150659"
-  },
-  {
-    "name": "STWD retro tracksuit jacket",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/562e/dbd8/ed3845fe8483/9aa18a9ec987/0759054140001-A7M/0759054140001-A7M.jpg?ts=1722334070818"
-  },
-  {
-    "name": "Cropped boxy-fit denim jacket",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/4b87/f03c/bf4e48b9a2e0/55179a66bc23/0771152440601-A7M/0771152440601-A7M.jpg?ts=1720436472576"
-  },
-  {
-    "name": "STWD denim jacket with zip",
-    "price": "2599000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e377/8231/186b4621bf14/53cdc2fcbaff/07710512406-C/07710512406-C.jpg?ts=1720788758785"
-  },
-  {
-    "name": "Lightning bolt graphic T-shirt",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0c86/f135/a6504a9c881b/1c8a3fdfd742/0724952261101-A7M/0724952261101-A7M.jpg?ts=1721740036822"
-  },
-  {
-    "name": "Skater jeans",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ac9b/638a/141f4bafb22b/c1f4d656d715/07685517426-A1M/07685517426-A1M.jpg?ts=1718895844945"
-  },
-  {
-    "name": "Cargo trousers with seams",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2b6c/e5c5/f70a466596a7/b8bd30e32c2a/07678507700-A20M/07678507700-A20M.jpg?ts=1720789400180"
-  },
-  {
-    "name": "Short sleeve textured shirt",
-    "price": "1999000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/a0c3/6916/054e4a9eba50/0f7e79fa3582/03471501251-C/03471501251-C.jpg?ts=1718372429871"
-  },
-  {
-    "name": "Ombré STWD T-shirt",
-    "price": "559000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/bc6b/16ae/4f16465fabfd/dc35e6cdb0d5/07248514400-A6M/07248514400-A6M.jpg?ts=1721805019093"
-  },
-  {
-    "name": "Baggy denim Bermuda shorts",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
-  },
-  {
-    "name": "Basic denim jacket",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/04fc/bdf4/14aa4cde8c81/b2be95b70880/0771051342701-a7m/0771051342701-a7m.jpg?ts=1722869954008"
-  },
-  {
-    "name": "Short sleeve shirt with palm tree print",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/453d/1d34/10bf49e484fe/06b02ab2f6ce/03471504251-C/03471504251-C.jpg?ts=1719504923524"
-  },
-  {
-    "name": "Short sleeve T-shirt with print",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0753/72b0/e1a644928414/4086e845c127/07248598110-A6M/07248598110-A6M.jpg?ts=1720789003145"
-  },
-  {
     "name": "Long sleeve linen blend shirt",
     "price": "2199000",
     "label": "",
     "image": "https://static.pullandbear.net/assets/public/ecc1/fd05/560048a7a242/d7ad233e9815/03470585251-A6M/03470585251-A6M.jpg?ts=1716809181900"
-  },
-  {
-    "name": "Skater jeans",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ac9b/638a/141f4bafb22b/c1f4d656d715/07685517426-A1M/07685517426-A1M.jpg?ts=1718895844945"
-  },
-  {
-    "name": "Lightweight hooded jacket",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/7159/53e5/3a4941acb910/d9663ab4f380/07710541800-A6M/07710541800-A6M.jpg?ts=1719505435617"
-  },
-  {
-    "name": "New York embroidery black hoodie",
-    "price": "599000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5878/7798/1be94ab38a26/9c82d223efd9/0359052080002-A6M/0359052080002-A6M.jpg?ts=1721509699771"
-  },
-  {
-    "name": "Standard jeans",
-    "price": "1999000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/b7e1/0ae8/a058437797f7/72029824d016/0768650040302-a7m/0768650040302-a7m.jpg?ts=1721052071261"
-  },
-  {
-    "name": "21 Savage short sleeve T-shirt",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/1d57/cffa/a82b404193af/6fb7621cfaa7/03243920922-A7M/03243920922-A7M.jpg?ts=1721049996364"
-  },
-  {
-    "name": "Long sleeve linen blend shirt",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ecc1/fd05/560048a7a242/d7ad233e9815/03470585251-A6M/03470585251-A6M.jpg?ts=1716809181900"
-  },
-  {
-    "name": "STWD Sicily boxy football T-shirt",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/61cd/324a/cd074781b55c/6db08873eb93/03244542400-A6M/03244542400-A6M.jpg?ts=1718363034190"
-  },
-  {
-    "name": "Basic short sleeve linen blend shirt",
-    "price": "699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/7f0b/39b9/1d8f4e4aad47/caf142219b27/03473545251-A5M/03473545251-A5M.jpg?ts=1721755514876"
-  },
-  {
-    "name": "Short sleeve knit jumper",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8bc2/2807/10b84e898196/847db5ccd2c5/0755450525101-a7m/0755450525101-a7m.jpg?ts=1722325759907"
-  },
-  {
-    "name": "STWD cherry T-shirt",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/34bc/5cb7/392e40d68d26/beb9e7c4ef6a/07249576800-C/07249576800-C.jpg?ts=1718295755928"
-  },
-  {
-    "name": "Textured short sleeve shirt",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ec13/3c70/4aca4fe49fb8/73b9a0cd366a/03470917707-A6M/03470917707-A6M.jpg?ts=1720788909098"
-  },
-  {
-    "name": "Corduroy cargo Bermuda shorts",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/16e1/fc37/b6ec437bbe3b/748179e62e18/0769352150001-A7M/0769352150001-A7M.jpg?ts=1721733686941"
-  },
-  {
-    "name": "Baggy denim Bermuda shorts",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
-  },
-  {
-    "name": "Rustic short sleeve open knit shirt",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/1a12/191f/f91c4d528f11/ae46b08ca483/03470560800-A6M/03470560800-A6M.jpg?ts=1716557342897"
-  },
-  {
-    "name": "Washed gilet with zip",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/13de/578a/8db0474bacd7/e14900e38316/0759054080202-A7M/0759054080202-A7M.jpg?ts=1721740025666"
-  },
-  {
-    "name": "Skater jeans",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ac9b/638a/141f4bafb22b/c1f4d656d715/07685517426-A1M/07685517426-A1M.jpg?ts=1718895844945"
-  },
-  {
-    "name": "Baggy denim Bermuda shorts",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
-  },
-  {
-    "name": "Lightweight hooded jacket",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/7159/53e5/3a4941acb910/d9663ab4f380/07710541800-A6M/07710541800-A6M.jpg?ts=1719505435617"
-  },
-  {
-    "name": "Black Label short sleeve seersucker shirt",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9b9b/ae41/74434210ae28/324ee6f1a4c8/03470562707-A6M/03470562707-A6M.jpg?ts=1721817399366"
-  },
-  {
-    "name": "Striped pyjama trousers",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/7fb7/c10a/dcf94d68b141/13e0d1efa84a/07678533700-A2M/07678533700-A2M.jpg?ts=1720715497255"
-  },
-  {
-    "name": "Long sleeve linen blend shirt",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ecc1/fd05/560048a7a242/d7ad233e9815/03470585251-A6M/03470585251-A6M.jpg?ts=1716809181900"
-  },
-  {
-    "name": "Tie-dye short sleeve shirt",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/f0fb/23a4/1745489d9fa6/674e2e87edb5/03470929800-A1M/03470929800-A1M.jpg?ts=1716999393258"
-  },
-  {
-    "name": "Cropped boxy-fit denim jacket",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/4b87/f03c/bf4e48b9a2e0/55179a66bc23/0771152440601-A7M/0771152440601-A7M.jpg?ts=1720436472576"
-  },
-  {
-    "name": "Paris “Rue de Rivoli 65” short sleeve sweatshirt",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/3999/9ff3/a457474a9621/fa7172c3c248/07248593805-A2M/07248593805-A2M.jpg?ts=1720434362488"
-  },
-  {
-    "name": "Washed boxy fit STWD T-shirt",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0b7a/d8d9/87c34f9f8d87/76ba0c22ae06/0324358671701-A7M/0324358671701-A7M.jpg?ts=1720523320287"
-  },
-  {
-    "name": "Tie-dye short sleeve shirt",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/454e/4cec/6bd1432ab837/6d87bbfadae6/03470589512-A6M/03470589512-A6M.jpg?ts=1720714074954"
-  },
-  {
-    "name": "Short sleeve knit jumper",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8bc2/2807/10b84e898196/847db5ccd2c5/0755450525101-a7m/0755450525101-a7m.jpg?ts=1722325759907"
-  },
-  {
-    "name": "Baggy denim Bermuda shorts",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
-  },
-  {
-    "name": "STWD cherry T-shirt",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/34bc/5cb7/392e40d68d26/beb9e7c4ef6a/07249576800-C/07249576800-C.jpg?ts=1718295755928"
-  },
-  {
-    "name": "Baggy denim Bermuda shorts",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
-  },
-  {
-    "name": "Hokusai ‘Shichirigahama’ T-shirt",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/37c1/b450/d5c643d99eb5/75ff37a3d924/0724992280002-A7M/0724992280002-A7M.jpg?ts=1721745743424"
-  },
-  {
-    "name": "21 Savage American Dream T-shirt",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/78f2/a074/cc3642b5a961/398823a1606d/03243919922-A20M/03243919922-A20M.jpg?ts=1720535277746"
-  },
-  {
-    "name": "Black Label rustic short sleeve shirt",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/40fa/3a37/32224be0b9b3/7b291918b849/03470570251-A6M/03470570251-A6M.jpg?ts=1716823243971"
-  },
-  {
-    "name": "Boxy fit STWD stars sweatshirt",
-    "price": "599000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d817/6aad/ea7048779a7d/20b90d1cb91e/0359052671103-A6M/0359052671103-A6M.jpg?ts=1721804619880"
-  },
-  {
-    "name": "Cargo trousers with seams",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2b6c/e5c5/f70a466596a7/b8bd30e32c2a/07678507700-A20M/07678507700-A20M.jpg?ts=1720789400180"
-  },
-  {
-    "name": "Baggy denim Bermuda shorts",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
-  },
-  {
-    "name": "Short sleeve check floral shirt",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/fa12/3d2f/7fd64ef6a466/14a5f8430985/03470575251-A6M/03470575251-A6M.jpg?ts=1720788863054"
-  },
-  {
-    "name": "Denim skater shorts with boxer waistband",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d4e8/be70/544a4416a7d4/bbd0204b6694/0769551342702-a7m/0769551342702-a7m.jpg?ts=1720618099481"
-  },
-  {
-    "name": "Baggy denim Bermuda shorts",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
   },
   {
     "name": "Zip-up STWD denim jacket",
@@ -336,28 +12,10 @@
     "image": "https://static.pullandbear.net/assets/public/694b/2628/43b643a9a5c0/b162af1deb56/0771051643401-a7m/0771051643401-a7m.jpg?ts=1722869899379"
   },
   {
-    "name": "Cartoon Network T-shirt",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/526d/f398/c85649228363/6d24d429592b/03243577809-A6M/03243577809-A6M.jpg?ts=1719307050765"
-  },
-  {
     "name": "Basic denim jacket",
     "price": "2199000",
     "label": "",
     "image": "https://static.pullandbear.net/assets/public/04fc/bdf4/14aa4cde8c81/b2be95b70880/0771051342701-a7m/0771051342701-a7m.jpg?ts=1722869954008"
-  },
-  {
-    "name": "Short sleeve T-shirt with print",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8f26/dcce/c45e4c3fb7ca/7989b4958cc7/0724859780201-a7m/0724859780201-a7m.jpg?ts=1722325757152"
-  },
-  {
-    "name": "Oversized short sleeve shirt",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d820/0e3f/37b64fccb510/8cd647ab985e/0747150043401-a7m/0747150043401-a7m.jpg?ts=1722327889770"
   },
   {
     "name": "Print short sleeve shirt",
@@ -366,34 +24,16 @@
     "image": "https://static.pullandbear.net/assets/public/3903/692e/00f34b649e4a/bfd153a42f8f/03470923800-C/03470923800-C.jpg?ts=1718295754930"
   },
   {
-    "name": "Jogger Bermuda trunks",
-    "price": "1899000",
+    "name": "Cropped boxy-fit denim jacket",
+    "price": "2199000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/42bd/34ba/cc6c46e48d0a/1cf0165b5be8/07695506823-C/07695506823-C.jpg?ts=1718295758667"
+    "image": "https://static.pullandbear.net/assets/public/4b87/f03c/bf4e48b9a2e0/55179a66bc23/0771152440601-A7M/0771152440601-A7M.jpg?ts=1720436472576"
   },
   {
-    "name": "STWD Lisbon boxy football T-shirt",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9937/072b/605e40c3b35d/1277b2240bb3/03244541800-C/03244541800-C.jpg?ts=1718368735415"
-  },
-  {
-    "name": "Van Gogh Arles T-shirt",
+    "name": "Cartoon Network T-shirt",
     "price": "1199000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ad97/ea3c/53024633ad32/c20e6ac71afa/07248556251-A20M/07248556251-A20M.jpg?ts=1721220617937"
-  },
-  {
-    "name": "Patchwork Bermuda shorts",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/a52a/f282/fbaf4c458956/4ed2f6257cff/0769550443401-A7M/0769550443401-A7M.jpg?ts=1722335971319"
-  },
-  {
-    "name": "Faded short sleeve T-shirt",
-    "price": "899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2fbb/9c53/2af94537977c/95703d53a105/0724951180201-a7m/0724951180201-a7m.jpg?ts=1722325941633"
+    "image": "https://static.pullandbear.net/assets/public/526d/f398/c85649228363/6d24d429592b/03243577809-A6M/03243577809-A6M.jpg?ts=1719307050765"
   },
   {
     "name": "Cropped boxy-fit denim jacket",
@@ -402,52 +42,22 @@
     "image": "https://static.pullandbear.net/assets/public/4b87/f03c/bf4e48b9a2e0/55179a66bc23/0771152440601-A7M/0771152440601-A7M.jpg?ts=1720436472576"
   },
   {
-    "name": "Short sleeve shirt with sun detail",
+    "name": "Jogger Bermuda trunks",
     "price": "1899000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/6bdf/cd56/3b584db4a344/b8c837fadc2b/03470726251-A6M/03470726251-A6M.jpg?ts=1716480925355"
+    "image": "https://static.pullandbear.net/assets/public/42bd/34ba/cc6c46e48d0a/1cf0165b5be8/07695506823-C/07695506823-C.jpg?ts=1718295758667"
   },
   {
-    "name": "Lightweight raincoat",
-    "price": "2199000",
+    "name": "Interlock short sleeve sweatshirt",
+    "price": "1499000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0110/5331/f46c473bad70/c5de01affa55/07710523711-A8M/07710523711-A8M.jpg?ts=1719914348101"
+    "image": "https://static.pullandbear.net/assets/public/1c06/2457/ee1c47d5bf2e/4f82dfd9aac5/07248590251-A1M/07248590251-A1M.jpg?ts=1721652932837"
   },
   {
     "name": "Baggy denim Bermuda shorts",
     "price": "1899000",
     "label": "",
     "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
-  },
-  {
-    "name": "Skater jeans",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ac9b/638a/141f4bafb22b/c1f4d656d715/07685517426-A1M/07685517426-A1M.jpg?ts=1718895844945"
-  },
-  {
-    "name": "Baggy denim Bermuda shorts",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ea8c/2aad/72ed483bb958/16882727b7e3/0769451240501-a7m/0769451240501-a7m.jpg?ts=1722869840632"
-  },
-  {
-    "name": "Interlock short sleeve sweatshirt",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/1c06/2457/ee1c47d5bf2e/4f82dfd9aac5/07248590251-A1M/07248590251-A1M.jpg?ts=1721652932837"
-  },
-  {
-    "name": "Ripped denim jacket",
-    "price": "2599000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/6d04/73cd/76aa40c68785/68e24a412177/07710900833-A1M/07710900833-A1M.jpg?ts=1718006583003"
-  },
-  {
-    "name": "Interlock short sleeve sweatshirt",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/1c06/2457/ee1c47d5bf2e/4f82dfd9aac5/07248590251-A1M/07248590251-A1M.jpg?ts=1721652932837"
   },
   {
     "name": "Baggy denim Bermuda shorts",
@@ -462,22 +72,58 @@
     "image": "https://static.pullandbear.net/assets/public/34a9/4ccf/a8744e919a08/be80a82364e4/07471502406-A6M/07471502406-A6M.jpg?ts=1716557332065"
   },
   {
+    "name": "Baggy denim Bermuda shorts",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
+  },
+  {
+    "name": "Short sleeve textured shirt",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/a0c3/6916/054e4a9eba50/0f7e79fa3582/03471501251-C/03471501251-C.jpg?ts=1718372429871"
+  },
+  {
+    "name": "STWD Lisbon boxy football T-shirt",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9937/072b/605e40c3b35d/1277b2240bb3/03244541800-C/03244541800-C.jpg?ts=1718368735415"
+  },
+  {
     "name": "Denim skater shorts with boxer waistband",
     "price": "2199000",
     "label": "",
     "image": "https://static.pullandbear.net/assets/public/d4e8/be70/544a4416a7d4/bbd0204b6694/0769551342702-a7m/0769551342702-a7m.jpg?ts=1720618099481"
   },
   {
-    "name": "Lightweight raincoat",
-    "price": "2199000",
+    "name": "Cargo trousers with seams",
+    "price": "1899000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0110/5331/f46c473bad70/c5de01affa55/07710523711-A8M/07710523711-A8M.jpg?ts=1719914348101"
+    "image": "https://static.pullandbear.net/assets/public/2b6c/e5c5/f70a466596a7/b8bd30e32c2a/07678507700-A20M/07678507700-A20M.jpg?ts=1720789400180"
   },
   {
-    "name": "STWD denim jacket with zip",
-    "price": "2599000",
+    "name": "STWD retro tracksuit jacket",
+    "price": "2199000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e377/8231/186b4621bf14/53cdc2fcbaff/07710512406-C/07710512406-C.jpg?ts=1720788758785"
+    "image": "https://static.pullandbear.net/assets/public/562e/dbd8/ed3845fe8483/9aa18a9ec987/0759054140001-A7M/0759054140001-A7M.jpg?ts=1722334070818"
+  },
+  {
+    "name": "Textured short sleeve shirt",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ec13/3c70/4aca4fe49fb8/73b9a0cd366a/03470917707-A6M/03470917707-A6M.jpg?ts=1720788909098"
+  },
+  {
+    "name": "Cargo trousers with seams",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/2b6c/e5c5/f70a466596a7/b8bd30e32c2a/07678507700-A20M/07678507700-A20M.jpg?ts=1720789400180"
+  },
+  {
+    "name": "New York embroidery black hoodie",
+    "price": "599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5878/7798/1be94ab38a26/9c82d223efd9/0359052080002-A6M/0359052080002-A6M.jpg?ts=1721509699771"
   },
   {
     "name": "Contrast STWD jogger trousers",
@@ -486,9 +132,363 @@
     "image": "https://static.pullandbear.net/assets/public/678d/579f/78ee4cea82fe/fb13ce9c8519/0767950740001-A7M/0767950740001-A7M.jpg?ts=1722334438386"
   },
   {
+    "name": "Lightweight raincoat",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0110/5331/f46c473bad70/c5de01affa55/07710523711-A8M/07710523711-A8M.jpg?ts=1719914348101"
+  },
+  {
+    "name": "STWD cherry T-shirt",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/34bc/5cb7/392e40d68d26/beb9e7c4ef6a/07249576800-C/07249576800-C.jpg?ts=1718295755928"
+  },
+  {
+    "name": "Basic short sleeve linen blend shirt",
+    "price": "699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/7f0b/39b9/1d8f4e4aad47/caf142219b27/03473545251-A5M/03473545251-A5M.jpg?ts=1721755514876"
+  },
+  {
+    "name": "STWD denim jacket with zip",
+    "price": "2599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e377/8231/186b4621bf14/53cdc2fcbaff/07710512406-C/07710512406-C.jpg?ts=1720788758785"
+  },
+  {
+    "name": "Short sleeve knit jumper",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8bc2/2807/10b84e898196/847db5ccd2c5/0755450525101-a7m/0755450525101-a7m.jpg?ts=1722325759907"
+  },
+  {
     "name": "STWD retro tracksuit jacket",
     "price": "2199000",
     "label": "",
     "image": "https://static.pullandbear.net/assets/public/562e/dbd8/ed3845fe8483/9aa18a9ec987/0759054140001-A7M/0759054140001-A7M.jpg?ts=1722334070818"
+  },
+  {
+    "name": "Short sleeve knit jumper",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8bc2/2807/10b84e898196/847db5ccd2c5/0755450525101-a7m/0755450525101-a7m.jpg?ts=1722325759907"
+  },
+  {
+    "name": "Paris “Rue de Rivoli 65” short sleeve sweatshirt",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/3999/9ff3/a457474a9621/fa7172c3c248/07248593805-A2M/07248593805-A2M.jpg?ts=1720434362488"
+  },
+  {
+    "name": "Ripped denim jacket",
+    "price": "2599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/6d04/73cd/76aa40c68785/68e24a412177/07710900833-A1M/07710900833-A1M.jpg?ts=1718006583003"
+  },
+  {
+    "name": "STWD cherry T-shirt",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/34bc/5cb7/392e40d68d26/beb9e7c4ef6a/07249576800-C/07249576800-C.jpg?ts=1718295755928"
+  },
+  {
+    "name": "Denim skater shorts with boxer waistband",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d4e8/be70/544a4416a7d4/bbd0204b6694/0769551342702-a7m/0769551342702-a7m.jpg?ts=1720618099481"
+  },
+  {
+    "name": "Corduroy cargo Bermuda shorts",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/16e1/fc37/b6ec437bbe3b/748179e62e18/0769352150001-A7M/0769352150001-A7M.jpg?ts=1721733686941"
+  },
+  {
+    "name": "Washed gilet with zip",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/13de/578a/8db0474bacd7/e14900e38316/0759054080202-A7M/0759054080202-A7M.jpg?ts=1721740025666"
+  },
+  {
+    "name": "Baggy denim Bermuda shorts",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
+  },
+  {
+    "name": "Tie-dye short sleeve shirt",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/454e/4cec/6bd1432ab837/6d87bbfadae6/03470589512-A6M/03470589512-A6M.jpg?ts=1720714074954"
+  },
+  {
+    "name": "Cargo trousers with seams",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/2b6c/e5c5/f70a466596a7/b8bd30e32c2a/07678507700-A20M/07678507700-A20M.jpg?ts=1720789400180"
+  },
+  {
+    "name": "Baggy denim Bermuda shorts",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
+  },
+  {
+    "name": "Baggy denim Bermuda shorts",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
+  },
+  {
+    "name": "Lightning bolt graphic T-shirt",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0c86/f135/a6504a9c881b/1c8a3fdfd742/0724952261101-A7M/0724952261101-A7M.jpg?ts=1721740036822"
+  },
+  {
+    "name": "Ombré STWD T-shirt",
+    "price": "559000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/bc6b/16ae/4f16465fabfd/dc35e6cdb0d5/07248514400-A6M/07248514400-A6M.jpg?ts=1721805019093"
+  },
+  {
+    "name": "STWD Sicily boxy football T-shirt",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/61cd/324a/cd074781b55c/6db08873eb93/03244542400-A6M/03244542400-A6M.jpg?ts=1718363034190"
+  },
+  {
+    "name": "Interlock short sleeve sweatshirt",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/1c06/2457/ee1c47d5bf2e/4f82dfd9aac5/07248590251-A1M/07248590251-A1M.jpg?ts=1721652932837"
+  },
+  {
+    "name": "Black Label rustic short sleeve shirt",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/40fa/3a37/32224be0b9b3/7b291918b849/03470570251-A6M/03470570251-A6M.jpg?ts=1716823243971"
+  },
+  {
+    "name": "Short sleeve check floral shirt",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/fa12/3d2f/7fd64ef6a466/14a5f8430985/03470575251-A6M/03470575251-A6M.jpg?ts=1720788863054"
+  },
+  {
+    "name": "Short sleeve T-shirt with print",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0753/72b0/e1a644928414/4086e845c127/07248598110-A6M/07248598110-A6M.jpg?ts=1720789003145"
+  },
+  {
+    "name": "Short sleeve T-shirt with print",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8f26/dcce/c45e4c3fb7ca/7989b4958cc7/0724859780201-a7m/0724859780201-a7m.jpg?ts=1722325757152"
+  },
+  {
+    "name": "Baggy denim Bermuda shorts",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ea8c/2aad/72ed483bb958/16882727b7e3/0769451240501-a7m/0769451240501-a7m.jpg?ts=1722869840632"
+  },
+  {
+    "name": "Black Label short sleeve seersucker shirt",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9b9b/ae41/74434210ae28/324ee6f1a4c8/03470562707-A6M/03470562707-A6M.jpg?ts=1721817399366"
+  },
+  {
+    "name": "Van Gogh Arles T-shirt",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ad97/ea3c/53024633ad32/c20e6ac71afa/07248556251-A20M/07248556251-A20M.jpg?ts=1721220617937"
+  },
+  {
+    "name": "Short sleeve shirt with sun detail",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/6bdf/cd56/3b584db4a344/b8c837fadc2b/03470726251-A6M/03470726251-A6M.jpg?ts=1716480925355"
+  },
+  {
+    "name": "Tie-dye short sleeve shirt",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/f0fb/23a4/1745489d9fa6/674e2e87edb5/03470929800-A1M/03470929800-A1M.jpg?ts=1716999393258"
+  },
+  {
+    "name": "Lightweight raincoat",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0110/5331/f46c473bad70/c5de01affa55/07710523711-A8M/07710523711-A8M.jpg?ts=1719914348101"
+  },
+  {
+    "name": "Short sleeve shirt with palm tree print",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/453d/1d34/10bf49e484fe/06b02ab2f6ce/03471504251-C/03471504251-C.jpg?ts=1719504923524"
+  },
+  {
+    "name": "Long sleeve linen blend shirt",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ecc1/fd05/560048a7a242/d7ad233e9815/03470585251-A6M/03470585251-A6M.jpg?ts=1716809181900"
+  },
+  {
+    "name": "Striped pyjama trousers",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/7fb7/c10a/dcf94d68b141/13e0d1efa84a/07678533700-A2M/07678533700-A2M.jpg?ts=1720715497255"
+  },
+  {
+    "name": "Baggy denim Bermuda shorts",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
+  },
+  {
+    "name": "Patchwork Bermuda shorts",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/a52a/f282/fbaf4c458956/4ed2f6257cff/0769550443401-A7M/0769550443401-A7M.jpg?ts=1722335971319"
+  },
+  {
+    "name": "Skater jeans",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ac9b/638a/141f4bafb22b/c1f4d656d715/07685517426-A1M/07685517426-A1M.jpg?ts=1718895844945"
+  },
+  {
+    "name": "Long sleeve linen blend shirt",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ecc1/fd05/560048a7a242/d7ad233e9815/03470585251-A6M/03470585251-A6M.jpg?ts=1716809181900"
+  },
+  {
+    "name": "Baggy denim Bermuda shorts",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
+  },
+  {
+    "name": "Cropped boxy-fit denim jacket",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/4b87/f03c/bf4e48b9a2e0/55179a66bc23/0771152440601-A7M/0771152440601-A7M.jpg?ts=1720436472576"
+  },
+  {
+    "name": "Lightweight hooded jacket",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/7159/53e5/3a4941acb910/d9663ab4f380/07710541800-A6M/07710541800-A6M.jpg?ts=1719505435617"
+  },
+  {
+    "name": "Striped cropped short sleeve shirt",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5621/9c2a/56ef460ebed8/d774e1e45692/07470519250-C/07470519250-C.jpg?ts=1719505150659"
+  },
+  {
+    "name": "Basic denim jacket",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/04fc/bdf4/14aa4cde8c81/b2be95b70880/0771051342701-a7m/0771051342701-a7m.jpg?ts=1722869954008"
+  },
+  {
+    "name": "Boxy fit STWD stars sweatshirt",
+    "price": "599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d817/6aad/ea7048779a7d/20b90d1cb91e/0359052671103-A6M/0359052671103-A6M.jpg?ts=1721804619880"
+  },
+  {
+    "name": "STWD denim jacket with zip",
+    "price": "2599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e377/8231/186b4621bf14/53cdc2fcbaff/07710512406-C/07710512406-C.jpg?ts=1720788758785"
+  },
+  {
+    "name": "Baggy denim Bermuda shorts",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/faee/94da/60274b13b1f3/23a24b0c35c5/0369450541501-A7M/0369450541501-A7M.jpg?ts=1722327870754"
+  },
+  {
+    "name": "21 Savage American Dream T-shirt",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/78f2/a074/cc3642b5a961/398823a1606d/03243919922-A20M/03243919922-A20M.jpg?ts=1720535277746"
+  },
+  {
+    "name": "Basic denim jacket",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/04fc/bdf4/14aa4cde8c81/b2be95b70880/0771051342701-a7m/0771051342701-a7m.jpg?ts=1722869954008"
+  },
+  {
+    "name": "Skater jeans",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ac9b/638a/141f4bafb22b/c1f4d656d715/07685517426-A1M/07685517426-A1M.jpg?ts=1718895844945"
+  },
+  {
+    "name": "Hokusai ‘Shichirigahama’ T-shirt",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/37c1/b450/d5c643d99eb5/75ff37a3d924/0724992280002-A7M/0724992280002-A7M.jpg?ts=1721745743424"
+  },
+  {
+    "name": "Washed boxy fit STWD T-shirt",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0b7a/d8d9/87c34f9f8d87/76ba0c22ae06/0324358671701-A7M/0324358671701-A7M.jpg?ts=1720523320287"
+  },
+  {
+    "name": "Standard jeans",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/b7e1/0ae8/a058437797f7/72029824d016/0768650040302-a7m/0768650040302-a7m.jpg?ts=1721052071261"
+  },
+  {
+    "name": "Faded short sleeve T-shirt",
+    "price": "899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/2fbb/9c53/2af94537977c/95703d53a105/0724951180201-a7m/0724951180201-a7m.jpg?ts=1722325941633"
+  },
+  {
+    "name": "Skater jeans",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ac9b/638a/141f4bafb22b/c1f4d656d715/07685517426-A1M/07685517426-A1M.jpg?ts=1718895844945"
+  },
+  {
+    "name": "Oversized short sleeve shirt",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d820/0e3f/37b64fccb510/8cd647ab985e/0747150043401-a7m/0747150043401-a7m.jpg?ts=1722327889770"
+  },
+  {
+    "name": "Skater jeans",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ac9b/638a/141f4bafb22b/c1f4d656d715/07685517426-A1M/07685517426-A1M.jpg?ts=1718895844945"
+  },
+  {
+    "name": "Lightweight hooded jacket",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/7159/53e5/3a4941acb910/d9663ab4f380/07710541800-A6M/07710541800-A6M.jpg?ts=1719505435617"
+  },
+  {
+    "name": "21 Savage short sleeve T-shirt",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/1d57/cffa/a82b404193af/6fb7621cfaa7/03243920922-A7M/03243920922-A7M.jpg?ts=1721049996364"
+  },
+  {
+    "name": "Rustic short sleeve open knit shirt",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/1a12/191f/f91c4d528f11/ae46b08ca483/03470560800-A6M/03470560800-A6M.jpg?ts=1716557342897"
   }
 ]
