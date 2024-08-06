@@ -36,7 +36,7 @@ async function combineJsonFiles(fileNames: string[], outputFileName: string) {
         let combinedData: Product[] = [];
 
         for (const fileName of fileNames) {
-            const filePath = path.join(__dirname, `../products/pab/women/${fileName}.json`);
+            const filePath = path.join(__dirname, `../products/pab/men/${fileName}.json`);
             const fileData = await fs.readFile(filePath, 'utf8');
             const jsonData = JSON.parse(fileData);
             combinedData = combinedData.concat(jsonData);
@@ -52,22 +52,16 @@ async function combineJsonFiles(fileNames: string[], outputFileName: string) {
 
 const fileNames = [
     "t-shirts",
-    "dresses",
-    "tops",
-    "pants",
-    "jeans",
-    "yubka",
     "shorts",
+    "bryuki",
+    "jeans",
+    "shirts",
     "hoodie",
     "kurtki",
-    "trikotasz",
-    "shirts",
-    "zhileti",
-    "kombinezoni",
-    "blazer"
+    "trikotazh",
 ]
 
-const outputFileName = '../products/pab/women/all.json';
+const outputFileName = '../products/pab/men/all.json';
 
 combineJsonFiles(fileNames, outputFileName);
 // some();

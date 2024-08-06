@@ -25,14 +25,35 @@ class PullAndBearController{
         //     "kombinezoni": "1030204628",
         //    "blazer": "1030441307"
           };
+        const forMen: {[key: string]: string} = {
+            "t-shirts":"1030204791",
+            "shorts":"1030204712",
+            "bryuki":"1030204719",
+            "jeans":"1030204731",
+            "shirts":"1030204766",
+            "hoodie":"1030204822",
+            "kurtki":"1030559196",
+            "trikotazh":"1030204756"
+        }
           
-          for (const key in forWomen) {
-            if (Object.prototype.hasOwnProperty.call(forWomen, key)) {
-              const value = forWomen[key as keyof typeof forWomen];
+        //   for (const key in forWomen) {
+        //     if (Object.prototype.hasOwnProperty.call(forWomen, key)) {
+        //       const value = forWomen[key as keyof typeof forWomen];
+        //       const product = await pab.GetClothes(value)
+        //       const shuffledProducts = shuffleArray(product)
+        //       products.push(...shuffledProducts)
+        //       await fs.writeFile(`./products/pab/women/${key}.json`, JSON.stringify(shuffledProducts, null, 2));
+        //       const randomDelay = Math.floor(Math.random() * (1000 - 200 + 1)) + 200;
+        //       await sleep(randomDelay)
+        //     }
+        //   }
+        for (const key in forMen) {
+            if (Object.prototype.hasOwnProperty.call(forMen, key)) {
+              const value = forMen[key as keyof typeof forMen];
               const product = await pab.GetClothes(value)
               const shuffledProducts = shuffleArray(product)
               products.push(...shuffledProducts)
-              await fs.writeFile(`./products/pab/women/${key}.json`, JSON.stringify(shuffledProducts, null, 2));
+              await fs.writeFile(`./products/pab/men/${key}.json`, JSON.stringify(shuffledProducts, null, 2));
               const randomDelay = Math.floor(Math.random() * (1000 - 200 + 1)) + 200;
               await sleep(randomDelay)
             }

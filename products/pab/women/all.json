@@ -1,699 +1,9 @@
 [
   {
-    "name": "Denim dungarees",
-    "price": "2599000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/43c5/ca35/2d4949a9907d/d34125f1f816/07640428802-A6M/07640428802-A6M.jpg?ts=1719840281745"
-  },
-  {
-    "name": "Polyamide halter bodysuit",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/1288/3acc/ec244839832d/d5f41b1cf38c/07248466819-A6M/07248466819-A6M.jpg?ts=1720456622087"
-  },
-  {
-    "name": "Short camisole dress",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/214a/22d1/4fad4e8f939e/801b4e3a144d/07390374401-A6M/07390374401-A6M.jpg?ts=1720693555388"
-  },
-  {
-    "name": "Short sleeve floral lace shirt",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/561d/d343/d15c4d5f804d/2aaec5ed32a9/07470333805-A6M/07470333805-A6M.jpg?ts=1718184410199"
-  },
-  {
-    "name": "Tropic Haven graphic T-shirt",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d9e1/fbda/e11b4f819621/036c380ee28d/0724935671202-a7m/0724935671202-a7m.jpg?ts=1721222106669"
-  },
-  {
-    "name": "Wide-leg jeans with bows",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9b78/491d/3af9401f9410/cdb0258f4e3d/07685325406-A6M/07685325406-A6M.jpg?ts=1719306371247"
-  },
-  {
-    "name": "Asymmetric rustic top",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8b8e/adf6/23a64ed89b11/eaa645de16fe/0724938870001-A7M/0724938870001-A7M.jpg?ts=1718805587919"
-  },
-  {
-    "name": "Textured shorts with lace",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/17e8/aee4/0297403da284/64d0aaa2bb8b/07693415717-A6M/07693415717-A6M.jpg?ts=1719840392275"
-  },
-  {
-    "name": "Short halter dress",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/b411/f55c/0ae6417e85e6/5434a5324887/03390344800-A7M/03390344800-A7M.jpg?ts=1721724852263"
-  },
-  {
-    "name": "Cropped linen jacket",
-    "price": "2599000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/6c2b/abcb/aa914ee5bd64/9b9d5504f9fa/0771030271101-C/0771030271101-C.jpg?ts=1720083345678"
-  },
-  {
-    "name": "Short mesh dress",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/c284/a541/46664f3482c2/2041f6a3f45b/07390484700-C/07390484700-C.jpg?ts=1720705032808"
-  },
-  {
-    "name": "Rustic surplice blouse",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/1980/2621/da384d50ad23/f540eeeeaa53/03470353527-A7M/03470353527-A7M.jpg?ts=1719475526478"
-  },
-  {
-    "name": "Long open knit skirt",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/847e/2e59/8371420fb8f1/dc66634c1fa6/07396341406-A1M/07396341406-A1M.jpg?ts=1720695521136"
-  },
-  {
-    "name": "Linen blend cargo shorts",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2bba/c46a/2c014e42abc1/f8a410c6b969/07693316406-A4M/07693316406-A4M.jpg?ts=1718717228020"
-  },
-  {
-    "name": "Flowing printed trousers",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/6883/3902/6e214277b609/35cb415235a3/07678347700-C/07678347700-C.jpg?ts=1720693594797"
-  },
-  {
-    "name": "Overshirt with frayed hem",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/1e57/d53d/083245b08a98/0af490d84a3f/0771032171201-A7M/0771032171201-A7M.jpg?ts=1720079880906"
-  },
-  {
-    "name": "Polyamide mini skirt with trims",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d625/d1ea/a4df49b0a52a/f424a8d66139/07396431700-C/07396431700-C.jpg?ts=1720626375456"
-  },
-  {
-    "name": "Striped boxer shorts",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/4d51/83fe/57eb42b2baea/daf90d80c918/0769335041001-a7m/0769335041001-a7m.jpg?ts=1722524563858"
-  },
-  {
-    "name": "Smart trousers with side dart",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/21dd/c2e4/1792488aa560/b869245ff4ac/07678360800-A6M/07678360800-A6M.jpg?ts=1720693601341"
-  },
-  {
-    "name": "High-waist wide-leg jeans",
-    "price": "1999000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/241b/9ea8/9b9f4f0088e8/a5fae36c5959/07684315800-A7M/07684315800-A7M.jpg?ts=1722522967439"
-  },
-  {
-    "name": "Relaxed fit balloon jeans with front buttons",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/efdc/17c8/d776422ab030/d9cf42f0c208/07684320407-A7M/07684320407-A7M.jpg?ts=1721995305053"
-  },
-  {
-    "name": "Rustic white top",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9c22/19b7/92c145b09f45/92f6214f7224/07470327250-A6M/07470327250-A6M.jpg?ts=1718640397895"
-  },
-  {
-    "name": "Short balloon dress",
-    "price": "1159000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/669b/da1b/b8c2495faaf6/d8fbd5dac75d/07390420711-A7M/07390420711-A7M.jpg?ts=1718788309664"
-  },
-  {
-    "name": "Striped pyjama bottoms",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/b965/15a1/f64747fb90c7/1d0d554416a4/07678321400-C/07678321400-C.jpg?ts=1720626439319"
-  },
-  {
-    "name": "Short sleeve fish T-shirt",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8c21/80cc/797e48bb92f6/719226261e66/07252323805-A6M/07252323805-A6M.jpg?ts=1719333374579"
-  },
-  {
-    "name": "Bow graphic hoodie",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5cc9/80bd/25f04e01a7e7/751c241be9ba/0759033282701-A7M/0759033282701-A7M.jpg?ts=1722502265909"
-  },
-  {
-    "name": "Short halter dress",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/b411/f55c/0ae6417e85e6/5434a5324887/03390344800-A7M/03390344800-A7M.jpg?ts=1721724852263"
-  },
-  {
-    "name": "Strapless short dress",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/09a7/55f0/4b0d47b39ca4/ff186e096890/07390450401-A6M/07390450401-A6M.jpg?ts=1721816690277"
-  },
-  {
-    "name": "Wide-leg comfort fit jeans",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d379/9e7d/26c2424c97f8/f7c983c7d231/07685318427-A6M/07685318427-A6M.jpg?ts=1719494251380"
-  },
-  {
-    "name": "Purl knit vest",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
-  },
-  {
-    "name": "Love Yourself Team graphic hoodie",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e619/193b/df6842c3a73d/4aed5a59a73e/0759033171201-A7M/0759033171201-A7M.jpg?ts=1722502281413"
-  },
-  {
-    "name": "Basic short sleeve shirt",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5055/3c49/d2334db9a50d/5d3d4e34f3fa/0747036725001-a7m/0747036725001-a7m.jpg?ts=1721229648910"
-  },
-  {
-    "name": "Sun mini skirt with gathering",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/b25f/d019/3fd04c64b679/fe330a09ba47/0739637368701-A7M/0739637368701-A7M.jpg?ts=1721222081106"
-  },
-  {
-    "name": "Smart trousers with seam detail",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ed7e/ebd0/2cc44f1194b7/40b3b1a7c3e9/0767843171201-A7M/0767843171201-A7M.jpg?ts=1721825804679"
-  },
-  {
-    "name": "Rustic top with bows",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/47f8/57cf/73194e8f9029/d15bd7fd09cd/0747036250001-A7M/0747036250001-A7M.jpg?ts=1722431423267"
-  },
-  {
-    "name": "White cowboy boot vest top",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e8ec/8037/9c1c41509a2c/05a466572435/07244338805-A6M/07244338805-A6M.jpg?ts=1720534996627"
-  },
-  {
-    "name": "Short floral dress with open back",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/4287/d7c0/b0044af28bec/6093c529c4d8/07391402400-C/07391402400-C.jpg?ts=1721312694774"
-  },
-  {
-    "name": "Striped flared midi skirt",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ba19/049f/0fc84ca5b546/483541feeab4/07396428104-C/07396428104-C.jpg?ts=1720705053458"
-  },
-  {
-    "name": "Crochet bolero jumper",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/f734/79d5/0bb1457b93d9/b203c799e93a/07580338420-a7m/07580338420-a7m.jpg?ts=1719415211960"
-  },
-  {
-    "name": "Stretch knit shorts",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8229/ff30/bcd64631a62b/9aefcda02979/07693411112-a7m/07693411112-a7m.jpg?ts=1719415104185"
-  },
-  {
-    "name": "Open knit short sleeve shirt",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5675/beb4/23d34f0b83c5/598e18954a0b/07470408746-A6M/07470408746-A6M.jpg?ts=1719494138024"
-  },
-  {
-    "name": "Linen-blend blouse with ties",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5d51/8689/40b24832b379/b309e269a6b7/0347036762001-A7M/0347036762001-A7M.jpg?ts=1721829861684"
-  },
-  {
-    "name": "Rustic skort with ruffles",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/271b/5c75/76794983b126/8e0b6d2f2ecd/0769333880001-A7M/0769333880001-A7M.jpg?ts=1722502291988"
-  },
-  {
-    "name": "Openwork cropped cardigan",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/a283/6d04/51334a2f9683/519e4f21f818/07580334712-A6M/07580334712-A6M.jpg?ts=1719216476864"
-  },
-  {
-    "name": "Tulle tie-dye midi skirt",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/a702/237f/f258472baeb5/4e3493ead2e7/07396415090-A6M/07396415090-A6M.jpg?ts=1717670339717"
-  },
-  {
-    "name": "Short striped dress",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/deab/2d32/411e42969d9e/e2c685b65a61/07390496300-A6M/07390496300-A6M.jpg?ts=1717760014658"
-  },
-  {
-    "name": "High waisted skinny jeans",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0a98/fd06/5d714a54b214/af9f9b963a89/07685322400-A6M/07685322400-A6M.jpg?ts=1719494278680"
-  },
-  {
-    "name": "Striped open knit jumper",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/781f/0e4e/ab3e412da19f/17fb22fe331d/07590326500-A6M/07590326500-A6M.jpg?ts=1720693578126"
-  },
-  {
-    "name": "Lace mini skirt with lace trim and bow",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5682/baf7/77cc4deca7b6/732a7a40028e/07396416250-A7M/07396416250-A7M.jpg?ts=1719408220465"
-  },
-  {
-    "name": "Short sleeve T-shirt with landscape graphic",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/4d4f/11bc/1051472286fa/d8194f37e023/0724436480501-A7M/0724436480501-A7M.jpg?ts=1722431410364"
-  },
-  {
-    "name": "Smocked white mini skirt",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/b226/c92a/46b2494eaea2/caa6a23cfec3/07396376805-C/07396376805-C.jpg?ts=1721312735582"
-  },
-  {
-    "name": "Mid-rise flared jeans",
-    "price": "1999000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/fb9f/3eb2/81034fa3bd00/422b102e7ebf/0767930150501-A7M/0767930150501-A7M.jpg?ts=1722522091079"
-  },
-  {
-    "name": "White hibiscus flower T-shirt",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/453c/28dd/f38b43d5bc24/a7126820cbad/0725233480501-a7m/0725233480501-a7m.jpg?ts=1721227852013"
-  },
-  {
-    "name": "Rustic skort with ruffles",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/271b/5c75/76794983b126/8e0b6d2f2ecd/0769333880001-A7M/0769333880001-A7M.jpg?ts=1722502291988"
-  },
-  {
-    "name": "Floral tulle lace-trimmed top",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e978/379e/0e014f6aaa92/016f99e340ad/0724437502001-A7M/0724437502001-A7M.jpg?ts=1722500329304"
-  },
-  {
-    "name": "Short crepe dress",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/449a/b09a/73694c1db2b8/83ad5311388d/07390338021-A6M/07390338021-A6M.jpg?ts=1717597472283"
-  },
-  {
-    "name": "Cropped short sleeve T-shirt",
-    "price": "579000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5a4f/f735/da11402da321/518f3e396366/0724436525001-A7M/0724436525001-A7M.jpg?ts=1722502276198"
-  },
-  {
-    "name": "Flowing rustic sequinned trousers",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0aa3/be8f/775c48b68c08/4d5fb7c39530/07678419712-C/07678419712-C.jpg?ts=1718811517344"
-  },
-  {
-    "name": "Short fitted strappy dress",
-    "price": "429000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/60d6/96b4/027d461585af/b5b39de47f2a/0339037380001-a7m/0339037380001-a7m.jpg?ts=1720701994179"
-  },
-  {
-    "name": "Mid-rise flared jeans",
-    "price": "1999000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/fb9f/3eb2/81034fa3bd00/422b102e7ebf/0767930150501-A7M/0767930150501-A7M.jpg?ts=1722522091079"
-  },
-  {
-    "name": "Crochet halter top with knot",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/425b/e7df/f3c6461e921c/fb8326b86c7a/0724939471201-a7m/0724939471201-a7m.jpg?ts=1721300262150"
-  },
-  {
-    "name": "Mid-waist straight-leg jeans",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/4d5f/93d4/38f84346a626/8c407489e47e/07685314427-A19M/07685314427-A19M.jpg?ts=1721839444563"
-  },
-  {
-    "name": "Flowing rustic trousers",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8a87/e8bc/4d2943639d59/304105a6ec14/0767834280001-a7m/0767834280001-a7m.jpg?ts=1720701999987"
-  },
-  {
-    "name": "Rustic skort with ruffles",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/271b/5c75/76794983b126/8e0b6d2f2ecd/0769333880001-A7M/0769333880001-A7M.jpg?ts=1722502291988"
-  },
-  {
-    "name": "Crepe midi skirt with bow",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/aa30/8baf/879f415f91fa/5a06779dad06/0739636173601-A7M/0739636173601-A7M.jpg?ts=1720709735800"
-  },
-  {
-    "name": "Purl knit vest",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
-  },
-  {
-    "name": "Cropped polyamide T-shirt",
-    "price": "579000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e401/9e0c/84ce42759c5f/87071f208825/07244386250-C/07244386250-C.jpg?ts=1720456867861"
-  },
-  {
-    "name": "Striped pyjama bottoms",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/b965/15a1/f64747fb90c7/1d0d554416a4/07678321400-C/07678321400-C.jpg?ts=1720626439319"
-  },
-  {
-    "name": "Striped boxer shorts",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/4d51/83fe/57eb42b2baea/daf90d80c918/0769335041001-a7m/0769335041001-a7m.jpg?ts=1722524563858"
-  },
-  {
-    "name": "Embroidered NYC tank top",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/aeaa/b0aa/d8424327b59f/6ae774c2f3e6/07244342805-A6M/07244342805-A6M.jpg?ts=1720456785153"
-  },
-  {
-    "name": "Cropped polyamide T-shirt",
-    "price": "579000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e401/9e0c/84ce42759c5f/87071f208825/07244386250-C/07244386250-C.jpg?ts=1720456867861"
-  },
-  {
-    "name": "Flowing, satin trousers",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0f8a/2cf2/8a3a496a94db/4d3c9201bf0b/07678340800-A7M/07678340800-A7M.jpg?ts=1718192014582"
-  },
-  {
-    "name": "Cropped linen jacket",
-    "price": "2599000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/6c2b/abcb/aa914ee5bd64/9b9d5504f9fa/0771030271101-C/0771030271101-C.jpg?ts=1720083345678"
-  },
-  {
-    "name": "Tie-dye halter top",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/06f7/8f0c/04be49b29e41/0e54e9db6aa9/07470326500-A6M/07470326500-A6M.jpg?ts=1720012934375"
-  },
-  {
-    "name": "Strapless short dress",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/09a7/55f0/4b0d47b39ca4/ff186e096890/07390450401-A6M/07390450401-A6M.jpg?ts=1721816690277"
-  },
-  {
-    "name": "Denim mini skirt with box pleats",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d914/fc59/1604485b939b/1aab068c6088/0739630670501-D2/0739630670501-D2.jpg?ts=1718294345423"
-  },
-  {
-    "name": "Neoprene-effect zip hoodie",
-    "price": "699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/229a/9200/88664fa1b8ec/e7c824f781ad/0371031680001-A6M/0371031680001-A6M.jpg?ts=1721674140953"
-  },
-  {
-    "name": "Polyamide mini skirt",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/df5f/ee5c/c58240df9555/9bec0498395d/07396349711-A6M/07396349711-A6M.jpg?ts=1717683955721"
-  },
-  {
-    "name": "Denim waistcoat top",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/938e/5001/b42841d6ac5b/8309261b72f2/07771305427-A20M/07771305427-A20M.jpg?ts=1721843983972"
-  },
-  {
-    "name": "Short striped dress",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/7dfa/5a99/2dcf4ec58b91/4c4a502f3f5e/07390469707-A7M/07390469707-A7M.jpg?ts=1718811582949"
-  },
-  {
-    "name": "Purl knit vest",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
-  },
-  {
-    "name": "Crepe halter top",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d2fd/fd5a/843748fe9d59/cb5e1b78a374/07248438520-A6M/07248438520-A6M.jpg?ts=1718811357745"
-  },
-  {
-    "name": "USA hoodie",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0515/b4a9/09fc46b3a301/1aa6f7f4a504/0759032481201-a7m/0759032481201-a7m.jpg?ts=1721315363660"
-  },
-  {
-    "name": "High-waist jeggings",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/954b/80c5/3072495ab3e1/4868906bc009/07685407250-C/07685407250-C.jpg?ts=1720103987668"
-  },
-  {
-    "name": "Balloon mini skirt with fold-over waist",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/cf5a/d223/bb3e4c008b88/3f2bdf5a30bd/0739635406401-a7m/0739635406401-a7m.jpg?ts=1718872842001"
-  },
-  {
-    "name": "Oversize knit T-shirt",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/832b/f891/420e43e89c86/72d363dab89c/0759040370001-a7m/0759040370001-a7m.jpg?ts=1721306885561"
-  },
-  {
-    "name": "Smart trousers with seam detail",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ed7e/ebd0/2cc44f1194b7/40b3b1a7c3e9/0767843171201-A7M/0767843171201-A7M.jpg?ts=1721825804679"
-  },
-  {
-    "name": "Short mesh dress",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/c284/a541/46664f3482c2/2041f6a3f45b/07390484700-C/07390484700-C.jpg?ts=1720705032808"
-  },
-  {
-    "name": "Waistcoat with tied bow and mother-of-pearl detail",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d56f/8866/a43543f0ad90/16051d48cbe2/07771300701-A6M/07771300701-A6M.jpg?ts=1717000349646"
-  },
-  {
-    "name": "Short sleeve T-shirt with landscape graphic",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/4d4f/11bc/1051472286fa/d8194f37e023/0724436480501-A7M/0724436480501-A7M.jpg?ts=1722431410364"
-  },
-  {
-    "name": "Loose-fitting rustic trousers",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/510d/2842/cae443b0b01d/30de56de7dc9/0367836245001-E/0367836245001-E.jpg?ts=1721870564700"
-  },
-  {
-    "name": "Short sleeve T-shirt with bow",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/6c5a/5971/29e644388bfb/426f73cfc95e/07244372250-A6M/07244372250-A6M.jpg?ts=1721379924616"
-  },
-  {
-    "name": "Rustic blouse with tie",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/6652/85e3/a7f34866aa72/8c3fdfa0beb9/0347036625002-A7M/0347036625002-A7M.jpg?ts=1719407464986"
-  },
-  {
-    "name": "Printed playsuit",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/152d/570c/b20d4547a40a/75e18317143f/07390331500-A6M/07390331500-A6M.jpg?ts=1719938225484"
-  },
-  {
-    "name": "Leopard print boxer shorts",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5071/af03/eacf4d72b7fe/9ae972538215/07693337051-A6M/07693337051-A6M.jpg?ts=1721814535896"
-  },
-  {
-    "name": "Beach graphic T-shirt",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9b59/bfd3/5f424a2da4e3/e80e096305dc/07252331712-A6M/07252331712-A6M.jpg?ts=1719931320388"
-  },
-  {
-    "name": "Pointelle strappy top",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/f8e4/ce3b/a4c24f6ebcb1/96844df0ed74/07244330431-A6M/07244330431-A6M.jpg?ts=1718640514673"
-  },
-  {
-    "name": "Long denim dungarees",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0567/1129/dae34630b031/9913b8b4edb3/07640352250-A6M/07640352250-A6M.jpg?ts=1717597627258"
-  },
-  {
-    "name": "Flowing rustic shorts",
-    "price": "699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0674/38ba/26114975b924/a2c686b5c802/07693417620-A6M/07693417620-A6M.jpg?ts=1719494439614"
-  },
-  {
-    "name": "Short sleeve floral T-shirt",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/bb98/92bf/2ea94881a7ea/7518b7a7cebf/07249340805-A7M/07249340805-A7M.jpg?ts=1720710894609"
-  },
-  {
-    "name": "Flowing printed trousers",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/881e/1bd2/22f14d8ba904/8669f71ac664/07678414712-A7M/07678414712-A7M.jpg?ts=1718788270386"
-  },
-  {
-    "name": "Beaded macramé dress",
-    "price": "3299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/c930/b8ec/a0f8405d8381/965acd4d53b9/07390304712-A6M/07390304712-A6M.jpg?ts=1718722240318"
-  },
-  {
-    "name": "Floral halter neck top",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e9ae/b2e5/a5c14bee8441/5c90dc1657ed/07252306020-C/07252306020-C.jpg?ts=1721827293244"
-  },
-  {
-    "name": "Short camisole dress",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/214a/22d1/4fad4e8f939e/801b4e3a144d/07390374401-A6M/07390374401-A6M.jpg?ts=1720693555388"
-  },
-  {
-    "name": "Crepe midi skirt with bow",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/aa30/8baf/879f415f91fa/5a06779dad06/0739636173601-A7M/0739636173601-A7M.jpg?ts=1720709735800"
-  },
-  {
-    "name": "Neoprene-effect zip hoodie",
-    "price": "699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/229a/9200/88664fa1b8ec/e7c824f781ad/0371031680001-A6M/0371031680001-A6M.jpg?ts=1721674140953"
-  },
-  {
-    "name": "Lace camisole top",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/29b1/ffec/5c9147c6ba39/fc3f4619e1f6/0724437325001-A7M/0724437325001-A7M.jpg?ts=1722502306997"
-  },
-  {
-    "name": "Sweatshirt with embroidered sun",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2c34/3b39/055441999d35/88ad744aaf80/07590320433-A6M/07590320433-A6M.jpg?ts=1717670383984"
-  },
-  {
-    "name": "Short strappy denim dress",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d47a/7fab/90374db097be/2c1b4c8770e0/07390307427-02-a7m/07390307427-02-a7m.jpg?ts=1721994352679"
-  },
-  {
-    "name": "Basic short sleeve shirt",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5055/3c49/d2334db9a50d/5d3d4e34f3fa/0747036725001-a7m/0747036725001-a7m.jpg?ts=1721229648910"
-  },
-  {
-    "name": "Denim mini skirt with box pleats",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d914/fc59/1604485b939b/1aab068c6088/0739630670501-D2/0739630670501-D2.jpg?ts=1718294345423"
-  },
-  {
-    "name": "Short strappy playsuit dress",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/a628/f3e1/863e45c9a895/4e8c6e1f4621/07390342250-A6M/07390342250-A6M.jpg?ts=1716461147437"
-  },
-  {
-    "name": "Sun hoodie",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0f6f/39f5/5e69493d871d/beee81954022/07690414821-C/07690414821-C.jpg?ts=1720167358652"
-  },
-  {
-    "name": "Long sleeve cropped cape",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/b9bf/8a2e/53fd4651b151/0aa7b42687f4/03470369800-A6M/03470369800-A6M.jpg?ts=1718811299252"
-  },
-  {
     "name": "Panelled midi skirt",
     "price": "1899000",
     "label": "",
     "image": "https://static.pullandbear.net/assets/public/012c/89e3/bea24530aaf2/6f5754eb75cc/0739637525001-a7m/0739637525001-a7m.jpg?ts=1722524538723"
-  },
-  {
-    "name": "Tennessee graphic T-shirt",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9125/fdb0/7d25453a94e1/8460eff81baa/07244366821-C/07244366821-C.jpg?ts=1721740756829"
   },
   {
     "name": "Bardot neckline top with ring detail",
@@ -702,292 +12,16 @@
     "image": "https://static.pullandbear.net/assets/public/dc57/7350/ca844cf08a90/41629f85a407/07554330737-A6M/07554330737-A6M.jpg?ts=1719504395938"
   },
   {
-    "name": "Long open knit skirt",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/847e/2e59/8371420fb8f1/dc66634c1fa6/07396341406-A1M/07396341406-A1M.jpg?ts=1720695521136"
-  },
-  {
-    "name": "Rustic blouse with tie",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/6652/85e3/a7f34866aa72/8c3fdfa0beb9/0347036625002-A7M/0347036625002-A7M.jpg?ts=1719407464986"
-  },
-  {
-    "name": "Satiny floral mini skirt",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/dd1e/3e7d/a26e427e90a2/17616bca2608/0739646040001-A7M/0739646040001-A7M.jpg?ts=1721817245496"
-  },
-  {
-    "name": "Denim bandeau top",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5a97/f410/b5f64e268225/73ed1a8db632/07470330406-C/07470330406-C.jpg?ts=1718722353889"
-  },
-  {
-    "name": "Linen cargo Bermuda shorts",
-    "price": "899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/558c/88ad/21584dbda324/9eae921d0c05/07693427802-A15M/07693427802-A15M.jpg?ts=1721683409775"
-  },
-  {
-    "name": "Lightweight zip-up jacket",
-    "price": "2899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e8b5/1df8/5cbe44138d24/cdcc044ea112/0771032480701-A7M/0771032480701-A7M.jpg?ts=1722500323875"
-  },
-  {
-    "name": "Short striped dress",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/7dfa/5a99/2dcf4ec58b91/4c4a502f3f5e/07390469707-A7M/07390469707-A7M.jpg?ts=1718811582949"
-  },
-  {
-    "name": "Relaxed fit balloon jeans with front buttons",
+    "name": "Long denim dungarees",
     "price": "2199000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/efdc/17c8/d776422ab030/d9cf42f0c208/07684320407-A7M/07684320407-A7M.jpg?ts=1721995305053"
+    "image": "https://static.pullandbear.net/assets/public/0567/1129/dae34630b031/9913b8b4edb3/07640352250-A6M/07640352250-A6M.jpg?ts=1717597627258"
   },
   {
-    "name": "Cropped short sleeve polo shirt",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/eff7/0cd1/baa1400baafd/4c599c8e76a3/0725233625001-A7M/0725233625001-A7M.jpg?ts=1722502299222"
-  },
-  {
-    "name": "Flowing rustic trousers",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8a87/e8bc/4d2943639d59/304105a6ec14/0767834280001-a7m/0767834280001-a7m.jpg?ts=1720701999987"
-  },
-  {
-    "name": "Cropped short sleeve T-shirt",
-    "price": "579000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5a4f/f735/da11402da321/518f3e396366/0724436525001-A7M/0724436525001-A7M.jpg?ts=1722502276198"
-  },
-  {
-    "name": "Printed tulle halter top",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9f9c/9b08/29034008871b/13a06910c02c/0724437402001-A7M/0724437402001-A7M.jpg?ts=1722431428486"
-  },
-  {
-    "name": "Off-the-shoulder tulle top",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/a867/fb30/1f4c46f9b487/ebb410b261b4/07248442112-A6M/07248442112-A6M.jpg?ts=1720104163109"
-  },
-  {
-    "name": "Crepe midi skirt with bow",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/aa30/8baf/879f415f91fa/5a06779dad06/0739636173601-A7M/0739636173601-A7M.jpg?ts=1720709735800"
-  },
-  {
-    "name": "Oversize jeans with belt",
-    "price": "2599000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5f1e/cb5b/3b474fce98df/88308c051d9c/07685411427-A7M/07685411427-A7M.jpg?ts=1721995328784"
-  },
-  {
-    "name": "Denim dungarees",
-    "price": "2599000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/43c5/ca35/2d4949a9907d/d34125f1f816/07640428802-A6M/07640428802-A6M.jpg?ts=1719840281745"
-  },
-  {
-    "name": "Stretch knit shorts",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8229/ff30/bcd64631a62b/9aefcda02979/07693411112-a7m/07693411112-a7m.jpg?ts=1719415104185"
-  },
-  {
-    "name": "Short strapless sun dress",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/eb61/035c/20e943078baa/a818835c9e73/07390382687-A2M/07390382687-A2M.jpg?ts=1720511323788"
-  },
-  {
-    "name": "Rustic white top",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9c22/19b7/92c145b09f45/92f6214f7224/07470327250-A6M/07470327250-A6M.jpg?ts=1718640397895"
-  },
-  {
-    "name": "Short sleeve STWD T-shirt",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2e8a/e7f6/13584ad581f0/f165c6168f30/07244371500-A6M/07244371500-A6M.jpg?ts=1720104144843"
-  },
-  {
-    "name": "Leopard print midi skirt",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/de19/b510/e6284b1191d9/cdc1fd703f81/0739637805101-A7M/0739637805101-A7M.jpg?ts=1720611589768"
-  },
-  {
-    "name": "Flowing rustic trousers",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8a87/e8bc/4d2943639d59/304105a6ec14/0767834280001-a7m/0767834280001-a7m.jpg?ts=1720701999987"
-  },
-  {
-    "name": "Flowing midi skirt",
-    "price": "1999000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/c37d/9619/e13d4682b1d8/ea6840703c33/07396365800-A6M/07396365800-A6M.jpg?ts=1721312691435"
-  },
-  {
-    "name": "Purl knit vest",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
-  },
-  {
-    "name": "Short sleeve rodeo T-shirt",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/dd5e/4fb6/95eb43f2922d/18a1ff09fd61/07244319712-A6M/07244319712-A6M.jpg?ts=1719493829112"
-  },
-  {
-    "name": "The Met T-shirt",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/4072/5a27/6efa41d39e59/99e0b589a2c1/0725234042801-a7m/0725234042801-a7m.jpg?ts=1722524638809"
-  },
-  {
-    "name": "Striped balloon mini skirt",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e78a/1941/e6924775abe9/c60ed9954bba/07396338400-A6M/07396338400-A6M.jpg?ts=1716461170805"
-  },
-  {
-    "name": "Cropped openwork jumper with stripes",
+    "name": "Linen-blend blouse with ties",
     "price": "1899000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8c92/8c1e/f2aa425ca888/7eef5fd0303e/07554319712-A6M/07554319712-A6M.jpg?ts=1717065622983"
-  },
-  {
-    "name": "Wide-leg comfort fit jeans",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d379/9e7d/26c2424c97f8/f7c983c7d231/07685318427-A6M/07685318427-A6M.jpg?ts=1719494251380"
-  },
-  {
-    "name": "Flowing rustic shorts",
-    "price": "699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0674/38ba/26114975b924/a2c686b5c802/07693417620-A6M/07693417620-A6M.jpg?ts=1719494439614"
-  },
-  {
-    "name": "Striped long sleeve shirt",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/87f7/0fde/71c94eeaa113/df7e6938535b/07470348320-C/07470348320-C.jpg?ts=1720021311518"
-  },
-  {
-    "name": "Denim mini skirt with box pleats",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d914/fc59/1604485b939b/1aab068c6088/0739630670501-D2/0739630670501-D2.jpg?ts=1718294345423"
-  },
-  {
-    "name": "Rustic blouse with tie",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/6652/85e3/a7f34866aa72/8c3fdfa0beb9/0347036625002-A7M/0347036625002-A7M.jpg?ts=1719407464986"
-  },
-  {
-    "name": "Short crepe dress",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/449a/b09a/73694c1db2b8/83ad5311388d/07390338021-A6M/07390338021-A6M.jpg?ts=1717597472283"
-  },
-  {
-    "name": "Flowing midi skirt",
-    "price": "1999000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/c37d/9619/e13d4682b1d8/ea6840703c33/07396365800-A6M/07396365800-A6M.jpg?ts=1721312691435"
-  },
-  {
-    "name": "Lightweight jacket with pockets",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9a1a/5ff6/476b4502aba8/38c9019303c2/07710320711-A6M/07710320711-A6M.jpg?ts=1719306385223"
-  },
-  {
-    "name": "Floral halter neck top",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/f3e7/7c10/2dd14496b9c6/6c6bca19e52a/07252302020-A6M/07252302020-A6M.jpg?ts=1720712950895"
-  },
-  {
-    "name": "Short sleeve Houston T-shirt",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/232a/86ad/a81e4110b899/bc69cf3c8765/07244336406-01-a7m/07244336406-01-a7m.jpg?ts=1721996506779"
-  },
-  {
-    "name": "Short fitted strappy dress",
-    "price": "429000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/60d6/96b4/027d461585af/b5b39de47f2a/0339037380001-a7m/0339037380001-a7m.jpg?ts=1720701994179"
-  },
-  {
-    "name": "Bias cut Bermuda shorts",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d208/d102/f5244944b425/b4c8c8bf5c4d/07693419700-C/07693419700-C.jpg?ts=1720712956794"
-  },
-  {
-    "name": "High-waist wide-leg jeans",
-    "price": "1999000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/241b/9ea8/9b9f4f0088e8/a5fae36c5959/07684315800-A7M/07684315800-A7M.jpg?ts=1722522967439"
-  },
-  {
-    "name": "Striped rustic trousers",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/aa22/9aea/0b154f21952a/5909a6e91e3c/07678349687-C/07678349687-C.jpg?ts=1719504434247"
-  },
-  {
-    "name": "Purl knit vest",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
-  },
-  {
-    "name": "Waistcoat with tied bow and mother-of-pearl detail",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d56f/8866/a43543f0ad90/16051d48cbe2/07771300701-A6M/07771300701-A6M.jpg?ts=1717000349646"
-  },
-  {
-    "name": "Ripped baggy jeans",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e7d9/7261/0add467899f4/bcd53e8488d8/07685355406-A6M/07685355406-A6M.jpg?ts=1718105359890"
-  },
-  {
-    "name": "Purl knit vest",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
-  },
-  {
-    "name": "Graphic print hoodie",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9269/0730/a2c44ebdbce6/1accc06e1a16/0759032840601-a7m/0759032840601-a7m.jpg?ts=1721996023269"
-  },
-  {
-    "name": "Oversize jeans",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2413/ab3c/9a38466b8ba6/d033ce0bc517/07684370427-A20M/07684370427-A20M.jpg?ts=1721312849204"
+    "image": "https://static.pullandbear.net/assets/public/5d51/8689/40b24832b379/b309e269a6b7/0347036762001-A7M/0347036762001-A7M.jpg?ts=1721829861684"
   },
   {
     "name": "Striped open knit jumper",
@@ -996,46 +30,34 @@
     "image": "https://static.pullandbear.net/assets/public/781f/0e4e/ab3e412da19f/17fb22fe331d/07590326500-A6M/07590326500-A6M.jpg?ts=1720693578126"
   },
   {
-    "name": "Short sleeve linen blend blouse",
-    "price": "1299000",
+    "name": "Tropic Haven graphic T-shirt",
+    "price": "959000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/512e/34e3/00544f97a1e6/3899f0c3cd3f/07470309406-A8M/07470309406-A8M.jpg?ts=1718209803865"
+    "image": "https://static.pullandbear.net/assets/public/d9e1/fbda/e11b4f819621/036c380ee28d/0724935671202-a7m/0724935671202-a7m.jpg?ts=1721222106669"
   },
   {
-    "name": "Polyamide strappy body",
-    "price": "729000",
+    "name": "Short fitted strappy dress",
+    "price": "429000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/7786/df5a/832143929971/784ce60307a8/07248310250-A6M/07248310250-A6M.jpg?ts=1721853069537"
+    "image": "https://static.pullandbear.net/assets/public/60d6/96b4/027d461585af/b5b39de47f2a/0339037380001-a7m/0339037380001-a7m.jpg?ts=1720701994179"
   },
   {
-    "name": "Faux leather biker jacket",
-    "price": "2199000",
+    "name": "Washed hoodie",
+    "price": "699000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8d46/34aa/97d24a14abf6/6eb671554208/07710323800-A6M/07710323800-A6M.jpg?ts=1720530794305"
+    "image": "https://static.pullandbear.net/assets/public/1c16/2acf/795e45958be9/96e76b9f8c0e/03590341802-A6M/03590341802-A6M.jpg?ts=1721772659406"
   },
   {
-    "name": "Short strappy playsuit dress",
-    "price": "1899000",
+    "name": "Short crepe dress",
+    "price": "1499000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/a628/f3e1/863e45c9a895/4e8c6e1f4621/07390342250-A6M/07390342250-A6M.jpg?ts=1716461147437"
+    "image": "https://static.pullandbear.net/assets/public/449a/b09a/73694c1db2b8/83ad5311388d/07390338021-A6M/07390338021-A6M.jpg?ts=1717597472283"
   },
   {
-    "name": "Cropped polyamide T-shirt",
-    "price": "579000",
+    "name": "High waisted skinny jeans",
+    "price": "1499000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e401/9e0c/84ce42759c5f/87071f208825/07244386250-C/07244386250-C.jpg?ts=1720456867861"
-  },
-  {
-    "name": "Short sleeve T-shirt with bow",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/6c5a/5971/29e644388bfb/426f73cfc95e/07244372250-A6M/07244372250-A6M.jpg?ts=1721379924616"
-  },
-  {
-    "name": "Denim dungarees",
-    "price": "2599000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/43c5/ca35/2d4949a9907d/d34125f1f816/07640428802-A6M/07640428802-A6M.jpg?ts=1719840281745"
+    "image": "https://static.pullandbear.net/assets/public/0a98/fd06/5d714a54b214/af9f9b963a89/07685322400-A6M/07685322400-A6M.jpg?ts=1719494278680"
   },
   {
     "name": "Short sleeve STWD T-shirt",
@@ -1044,58 +66,88 @@
     "image": "https://static.pullandbear.net/assets/public/2e8a/e7f6/13584ad581f0/f165c6168f30/07244371500-A6M/07244371500-A6M.jpg?ts=1720104144843"
   },
   {
-    "name": "Mid-rise flared jeans",
-    "price": "1999000",
+    "name": "Crochet halter top",
+    "price": "1499000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/fb9f/3eb2/81034fa3bd00/422b102e7ebf/0767930150501-A7M/0767930150501-A7M.jpg?ts=1722522091079"
+    "image": "https://static.pullandbear.net/assets/public/42f5/2aa6/2c37486f928b/cf54de093ee0/07554338420-a7m/07554338420-a7m.jpg?ts=1719415085666"
   },
   {
-    "name": "Flowing rustic trousers",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8a87/e8bc/4d2943639d59/304105a6ec14/0767834280001-a7m/0767834280001-a7m.jpg?ts=1720701999987"
-  },
-  {
-    "name": "Short sleeve floral T-shirt",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/258f/cf5b/a8044a6a800d/746ddbd62013/0724830080501-a7m/0724830080501-a7m.jpg?ts=1720098821850"
-  },
-  {
-    "name": "Polyamide strappy body",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/7786/df5a/832143929971/784ce60307a8/07248310250-A6M/07248310250-A6M.jpg?ts=1721853069537"
-  },
-  {
-    "name": "Flower hoodie",
+    "name": "Leopard print mini skirt",
     "price": "1899000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/6589/7117/eb724cf3ad9e/cb53f79c012b/0759031371201-a7m/0759031371201-a7m.jpg?ts=1721222119303"
+    "image": "https://static.pullandbear.net/assets/public/2755/adf1/b3db45b29c0e/d7f89baf3866/07396395041-A6M/07396395041-A6M.jpg?ts=1721312741189"
   },
   {
-    "name": "Boarding Pass graphic T-shirt",
-    "price": "1199000",
+    "name": "Rustic blouse with tie",
+    "price": "1499000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/19fc/36ef/eb874f63abee/138175e81422/07252324805-A8M/07252324805-A8M.jpg?ts=1720022246982"
+    "image": "https://static.pullandbear.net/assets/public/6652/85e3/a7f34866aa72/8c3fdfa0beb9/0347036625002-A7M/0347036625002-A7M.jpg?ts=1719407464986"
   },
   {
-    "name": "Short halter dress",
+    "name": "Rustic crossover top",
     "price": "1299000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/b411/f55c/0ae6417e85e6/5434a5324887/03390344800-A7M/03390344800-A7M.jpg?ts=1721724852263"
+    "image": "https://static.pullandbear.net/assets/public/563f/3654/482845a38b10/e7404ff2acba/07554335500-C/07554335500-C.jpg?ts=1718722390729"
   },
   {
-    "name": "Strappy halter top with gathered detail",
-    "price": "959000",
+    "name": "Stretch knit shorts",
+    "price": "1299000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/436e/640e/deb34566a71f/b9315cc452de/07252309809-A6M/07252309809-A6M.jpg?ts=1721814285238"
+    "image": "https://static.pullandbear.net/assets/public/8229/ff30/bcd64631a62b/9aefcda02979/07693411112-a7m/07693411112-a7m.jpg?ts=1719415104185"
+  },
+  {
+    "name": "Midi skirt with lace trim",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/7515/69c3/efed47cda73d/2c704a0fd243/07396358250-A6M/07396358250-A6M.jpg?ts=1720626339944"
+  },
+  {
+    "name": "Openwork cropped cardigan",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/a283/6d04/51334a2f9683/519e4f21f818/07580334712-A6M/07580334712-A6M.jpg?ts=1719216476864"
   },
   {
     "name": "Flowing printed trousers",
-    "price": "1699000",
+    "price": "1899000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/93f8/a398/1fde4aa08a5d/02f64b4b8b86/07678334037-A7M/07678334037-A7M.jpg?ts=1718191660999"
+    "image": "https://static.pullandbear.net/assets/public/881e/1bd2/22f14d8ba904/8669f71ac664/07678414712-A7M/07678414712-A7M.jpg?ts=1718788270386"
+  },
+  {
+    "name": "Purl knit vest",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
+  },
+  {
+    "name": "Denim dungarees",
+    "price": "2599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/43c5/ca35/2d4949a9907d/d34125f1f816/07640428802-A6M/07640428802-A6M.jpg?ts=1719840281745"
+  },
+  {
+    "name": "Cropped short sleeve T-shirt",
+    "price": "579000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5a4f/f735/da11402da321/518f3e396366/0724436525001-A7M/0724436525001-A7M.jpg?ts=1722502276198"
+  },
+  {
+    "name": "Wide-leg comfort fit jeans",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d379/9e7d/26c2424c97f8/f7c983c7d231/07685318427-A6M/07685318427-A6M.jpg?ts=1719494251380"
+  },
+  {
+    "name": "Loose-fitting rustic trousers",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/510d/2842/cae443b0b01d/30de56de7dc9/0367836245001-E/0367836245001-E.jpg?ts=1721870564700"
+  },
+  {
+    "name": "Purl knit vest",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
   },
   {
     "name": "Ripped baggy jeans",
@@ -1104,16 +156,1258 @@
     "image": "https://static.pullandbear.net/assets/public/e7d9/7261/0add467899f4/bcd53e8488d8/07685355406-A6M/07685355406-A6M.jpg?ts=1718105359890"
   },
   {
-    "name": "Lightweight zip-up jacket",
-    "price": "2899000",
+    "name": "Purl knit vest",
+    "price": "1499000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e8b5/1df8/5cbe44138d24/cdcc044ea112/0771032480701-A7M/0771032480701-A7M.jpg?ts=1722500323875"
+    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
+  },
+  {
+    "name": "Striped rustic trousers",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/aa22/9aea/0b154f21952a/5909a6e91e3c/07678349687-C/07678349687-C.jpg?ts=1719504434247"
+  },
+  {
+    "name": "Beaded macramé dress",
+    "price": "3299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/c930/b8ec/a0f8405d8381/965acd4d53b9/07390304712-A6M/07390304712-A6M.jpg?ts=1718722240318"
+  },
+  {
+    "name": "Basic cropped T-shirt",
+    "price": "499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/b7a9/e3aa/7a7545caa0ea/4a8e665a3590/07248371411-A6M/07248371411-A6M.jpg?ts=1717509143260"
+  },
+  {
+    "name": "Short gathered polyamide dress",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/57a9/437e/8fb743fcb3dc/9138fc6b10c4/03390327800-A7M/03390327800-A7M.jpg?ts=1717586803927"
+  },
+  {
+    "name": "Striped pyjama bottoms",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/b965/15a1/f64747fb90c7/1d0d554416a4/07678321400-C/07678321400-C.jpg?ts=1720626439319"
+  },
+  {
+    "name": "Midi skirt with lace trim",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0f88/7579/5b7e42a886ad/aa083cdeed2b/07396324712-A6M/07396324712-A6M.jpg?ts=1718891249218"
+  },
+  {
+    "name": "Short camisole dress",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/214a/22d1/4fad4e8f939e/801b4e3a144d/07390374401-A6M/07390374401-A6M.jpg?ts=1720693555388"
+  },
+  {
+    "name": "Short strappy denim dress",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d47a/7fab/90374db097be/2c1b4c8770e0/07390307427-02-a7m/07390307427-02-a7m.jpg?ts=1721994352679"
+  },
+  {
+    "name": "Short sleeve bear T-shirt",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/dfb3/bc01/eb99430c9696/9169b131660b/0724432180501-A7M/0724432180501-A7M.jpg?ts=1722434157436"
+  },
+  {
+    "name": "Tie-dye halter top",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/06f7/8f0c/04be49b29e41/0e54e9db6aa9/07470326500-A6M/07470326500-A6M.jpg?ts=1720012934375"
+  },
+  {
+    "name": "Short striped dress",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/7dfa/5a99/2dcf4ec58b91/4c4a502f3f5e/07390469707-A7M/07390469707-A7M.jpg?ts=1718811582949"
+  },
+  {
+    "name": "Long open knit skirt",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/847e/2e59/8371420fb8f1/dc66634c1fa6/07396341406-A1M/07396341406-A1M.jpg?ts=1720695521136"
+  },
+  {
+    "name": "Embroidered USA tank top",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/35c7/f246/54e942d79768/8239ee644052/07244341812-A6M/07244341812-A6M.jpg?ts=1719840100950"
+  },
+  {
+    "name": "Short striped dress",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/deab/2d32/411e42969d9e/e2c685b65a61/07390496300-A6M/07390496300-A6M.jpg?ts=1717760014658"
+  },
+  {
+    "name": "Long linen blend A-line skirt",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/07c0/d26d/c82a402e82d3/21b50c531ad7/07396445701-A1M/07396445701-A1M.jpg?ts=1721741194266"
+  },
+  {
+    "name": "Crepe midi skirt with bow",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/aa30/8baf/879f415f91fa/5a06779dad06/0739636173601-A7M/0739636173601-A7M.jpg?ts=1720709735800"
+  },
+  {
+    "name": "Beach graphic T-shirt",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9b59/bfd3/5f424a2da4e3/e80e096305dc/07252331712-A6M/07252331712-A6M.jpg?ts=1719931320388"
+  },
+  {
+    "name": "Mid-rise flared jeans",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/fb9f/3eb2/81034fa3bd00/422b102e7ebf/0767930150501-A7M/0767930150501-A7M.jpg?ts=1722522091079"
+  },
+  {
+    "name": "Short sleeve T-shirt with bow",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/6c5a/5971/29e644388bfb/426f73cfc95e/07244372250-A6M/07244372250-A6M.jpg?ts=1721379924616"
+  },
+  {
+    "name": "Short sleeve floral lace shirt",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/561d/d343/d15c4d5f804d/2aaec5ed32a9/07470333805-A6M/07470333805-A6M.jpg?ts=1718184410199"
   },
   {
     "name": "Cowboy Culture hoodie",
     "price": "1899000",
     "label": "",
     "image": "https://static.pullandbear.net/assets/public/c662/08af/e7854285b7b2/6ccbdcdcca2b/0759032180901-a7m/0759032180901-a7m.jpg?ts=1721996021790"
+  },
+  {
+    "name": "White cowboy boot vest top",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e8ec/8037/9c1c41509a2c/05a466572435/07244338805-A6M/07244338805-A6M.jpg?ts=1720534996627"
+  },
+  {
+    "name": "Flowing rustic sequinned trousers",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0aa3/be8f/775c48b68c08/4d5fb7c39530/07678419712-C/07678419712-C.jpg?ts=1718811517344"
+  },
+  {
+    "name": "Mid-waist straight-leg jeans",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/4d5f/93d4/38f84346a626/8c407489e47e/07685314427-A19M/07685314427-A19M.jpg?ts=1721839444563"
+  },
+  {
+    "name": "Denim dungarees",
+    "price": "2599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/43c5/ca35/2d4949a9907d/d34125f1f816/07640428802-A6M/07640428802-A6M.jpg?ts=1719840281745"
+  },
+  {
+    "name": "Neoprene-effect zip hoodie",
+    "price": "699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/229a/9200/88664fa1b8ec/e7c824f781ad/0371031680001-A6M/0371031680001-A6M.jpg?ts=1721674140953"
+  },
+  {
+    "name": "Crepe midi skirt with bow",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/aa30/8baf/879f415f91fa/5a06779dad06/0739636173601-A7M/0739636173601-A7M.jpg?ts=1720709735800"
+  },
+  {
+    "name": "Baggy jeans with belt",
+    "price": "2599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/18a4/a126/5b3d4d429047/671b6631600d/0768535040601-a7m/0768535040601-a7m.jpg?ts=1721309224389"
+  },
+  {
+    "name": "Lace camisole top",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/29b1/ffec/5c9147c6ba39/fc3f4619e1f6/0724437325001-A7M/0724437325001-A7M.jpg?ts=1722502306997"
+  },
+  {
+    "name": "Loose-fitting rustic trousers",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/510d/2842/cae443b0b01d/30de56de7dc9/0367836245001-E/0367836245001-E.jpg?ts=1721870564700"
+  },
+  {
+    "name": "High waisted skinny jeans",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0a98/fd06/5d714a54b214/af9f9b963a89/07685322400-A6M/07685322400-A6M.jpg?ts=1719494278680"
+  },
+  {
+    "name": "Waistcoat with tied bow and mother-of-pearl detail",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d56f/8866/a43543f0ad90/16051d48cbe2/07771300701-A6M/07771300701-A6M.jpg?ts=1717000349646"
+  },
+  {
+    "name": "Relaxed fit balloon jeans with front buttons",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/efdc/17c8/d776422ab030/d9cf42f0c208/07684320407-A7M/07684320407-A7M.jpg?ts=1721995305053"
+  },
+  {
+    "name": "Relaxed fit balloon jeans with buttons",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/b0dc/3f1e/4e124bcb9a70/ab82ab4145e0/0767846180201-A7M/0767846180201-A7M.jpg?ts=1721830727529"
+  },
+  {
+    "name": "Sequin fishnet trousers",
+    "price": "1599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0bc7/e640/3a4f4cb6bb1e/8b385ca2e41b/07678400805-A7M/07678400805-A7M.jpg?ts=1718796285776"
+  },
+  {
+    "name": "Gathered check halter top",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/2e64/e64d/25ba4cc8902b/1ecf1e8c3897/07470366914-C/07470366914-C.jpg?ts=1722260919679"
+  },
+  {
+    "name": "Overshirt with frayed hem",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/1e57/d53d/083245b08a98/0af490d84a3f/0771032171201-A7M/0771032171201-A7M.jpg?ts=1720079880906"
+  },
+  {
+    "name": "Open knit short sleeve shirt",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5675/beb4/23d34f0b83c5/598e18954a0b/07470408746-A6M/07470408746-A6M.jpg?ts=1719494138024"
+  },
+  {
+    "name": "Cropped polyamide T-shirt",
+    "price": "579000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e401/9e0c/84ce42759c5f/87071f208825/07244386250-C/07244386250-C.jpg?ts=1720456867861"
+  },
+  {
+    "name": "Purl knit vest",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
+  },
+  {
+    "name": "Flowing rustic trousers",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8a87/e8bc/4d2943639d59/304105a6ec14/0767834280001-a7m/0767834280001-a7m.jpg?ts=1720701999987"
+  },
+  {
+    "name": "Cropped short sleeve shirt",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/c556/2d25/8fd54687a1f0/9585c9d6b056/07470343150-C/07470343150-C.jpg?ts=1717760056046"
+  },
+  {
+    "name": "Short fitted strappy dress",
+    "price": "429000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/60d6/96b4/027d461585af/b5b39de47f2a/0339037380001-a7m/0339037380001-a7m.jpg?ts=1720701994179"
+  },
+  {
+    "name": "Boarding Pass graphic T-shirt",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/19fc/36ef/eb874f63abee/138175e81422/07252324805-A8M/07252324805-A8M.jpg?ts=1720022246982"
+  },
+  {
+    "name": "Floral halter neck top",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/f3e7/7c10/2dd14496b9c6/6c6bca19e52a/07252302020-A6M/07252302020-A6M.jpg?ts=1720712950895"
+  },
+  {
+    "name": "Graphic print hoodie",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9269/0730/a2c44ebdbce6/1accc06e1a16/0759032840601-a7m/0759032840601-a7m.jpg?ts=1721996023269"
+  },
+  {
+    "name": "Denim mini skirt with box pleats",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d914/fc59/1604485b939b/1aab068c6088/0739630670501-D2/0739630670501-D2.jpg?ts=1718294345423"
+  },
+  {
+    "name": "Smart trousers with seam detail",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ed7e/ebd0/2cc44f1194b7/40b3b1a7c3e9/0767843171201-A7M/0767843171201-A7M.jpg?ts=1721825804679"
+  },
+  {
+    "name": "Short balloon dress",
+    "price": "1159000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/669b/da1b/b8c2495faaf6/d8fbd5dac75d/07390420711-A7M/07390420711-A7M.jpg?ts=1718788309664"
+  },
+  {
+    "name": "Polyamide halter bodysuit",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/1288/3acc/ec244839832d/d5f41b1cf38c/07248466819-A6M/07248466819-A6M.jpg?ts=1720456622087"
+  },
+  {
+    "name": "Panelled midi skirt",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/012c/89e3/bea24530aaf2/6f5754eb75cc/0739637525001-a7m/0739637525001-a7m.jpg?ts=1722524538723"
+  },
+  {
+    "name": "Mid-rise flared jeans",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/fb9f/3eb2/81034fa3bd00/422b102e7ebf/0767930150501-A7M/0767930150501-A7M.jpg?ts=1722522091079"
+  },
+  {
+    "name": "Short printed tulle dress",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8557/77b3/cc0242b89ab2/b9a815ccfd1d/0739039201501-A7M/0739039201501-A7M.jpg?ts=1722431452597"
+  },
+  {
+    "name": "Rustic linen blend shorts",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ef80/319c/3b2d412699e6/56624e97d6c3/07693302611-A6M/07693302611-A6M.jpg?ts=1718099760762"
+  },
+  {
+    "name": "Balloon mini skirt with fold-over waist",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/cf5a/d223/bb3e4c008b88/3f2bdf5a30bd/0739635406401-a7m/0739635406401-a7m.jpg?ts=1718872842001"
+  },
+  {
+    "name": "Striped boxer shorts",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/debe/49ed/dbb648fa8fbc/dc5d65c6fef9/07693357427-C/07693357427-C.jpg?ts=1717686990758"
+  },
+  {
+    "name": "Short sleeve bear T-shirt",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/dfb3/bc01/eb99430c9696/9169b131660b/0724432180501-A7M/0724432180501-A7M.jpg?ts=1722434157436"
+  },
+  {
+    "name": "High-waist jeggings",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/954b/80c5/3072495ab3e1/4868906bc009/07685407250-C/07685407250-C.jpg?ts=1720103987668"
+  },
+  {
+    "name": "Cropped openwork jumper with stripes",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8c92/8c1e/f2aa425ca888/7eef5fd0303e/07554319712-A6M/07554319712-A6M.jpg?ts=1717065622983"
+  },
+  {
+    "name": "USA hoodie",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0515/b4a9/09fc46b3a301/1aa6f7f4a504/0759032481201-a7m/0759032481201-a7m.jpg?ts=1721315363660"
+  },
+  {
+    "name": "Neoprene-effect zip hoodie",
+    "price": "699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/229a/9200/88664fa1b8ec/e7c824f781ad/0371031680001-A6M/0371031680001-A6M.jpg?ts=1721674140953"
+  },
+  {
+    "name": "Tulle tie-dye midi skirt",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/a702/237f/f258472baeb5/4e3493ead2e7/07396415090-A6M/07396415090-A6M.jpg?ts=1717670339717"
+  },
+  {
+    "name": "Cropped polyamide T-shirt",
+    "price": "579000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e401/9e0c/84ce42759c5f/87071f208825/07244386250-C/07244386250-C.jpg?ts=1720456867861"
+  },
+  {
+    "name": "Short halter dress",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/b411/f55c/0ae6417e85e6/5434a5324887/03390344800-A7M/03390344800-A7M.jpg?ts=1721724852263"
+  },
+  {
+    "name": "Short crepe dress",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/449a/b09a/73694c1db2b8/83ad5311388d/07390338021-A6M/07390338021-A6M.jpg?ts=1717597472283"
+  },
+  {
+    "name": "Printed playsuit",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/152d/570c/b20d4547a40a/75e18317143f/07390331500-A6M/07390331500-A6M.jpg?ts=1719938225484"
+  },
+  {
+    "name": "Purl knit vest",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
+  },
+  {
+    "name": "Polyamide strappy body",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/7786/df5a/832143929971/784ce60307a8/07248310250-A6M/07248310250-A6M.jpg?ts=1721853069537"
+  },
+  {
+    "name": "Floral midi skirt",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e0fc/34a5/a1794ad79a8c/bbc9b20e218c/07396363020-A6M/07396363020-A6M.jpg?ts=1718722325084"
+  },
+  {
+    "name": "High-waist wide-leg jeans",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/241b/9ea8/9b9f4f0088e8/a5fae36c5959/07684315800-A7M/07684315800-A7M.jpg?ts=1722522967439"
+  },
+  {
+    "name": "White top with embroidery",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e580/0d98/ff82467ab86d/7287a20690b6/0347045625002-A2M/0347045625002-A2M.jpg?ts=1717669174478"
+  },
+  {
+    "name": "Denim mini skirt with box pleats",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d914/fc59/1604485b939b/1aab068c6088/0739630670501-D2/0739630670501-D2.jpg?ts=1718294345423"
+  },
+  {
+    "name": "Striped flowing trousers",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9cad/c116/168c41bfa4dd/da0958077c6c/0767835471201-A7M/0767835471201-A7M.jpg?ts=1721818758648"
+  },
+  {
+    "name": "Short sleeve floral lace shirt",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/561d/d343/d15c4d5f804d/2aaec5ed32a9/07470333805-A6M/07470333805-A6M.jpg?ts=1718184410199"
+  },
+  {
+    "name": "Striped open knit jumper",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/781f/0e4e/ab3e412da19f/17fb22fe331d/07590326500-A6M/07590326500-A6M.jpg?ts=1720693578126"
+  },
+  {
+    "name": "Strappy halter top with gathered detail",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/436e/640e/deb34566a71f/b9315cc452de/07252309809-A6M/07252309809-A6M.jpg?ts=1721814285238"
+  },
+  {
+    "name": "Long sleeve cropped cape",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/b9bf/8a2e/53fd4651b151/0aa7b42687f4/03470369800-A6M/03470369800-A6M.jpg?ts=1718811299252"
+  },
+  {
+    "name": "Knit cardigan with zipped hood",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d60d/7655/0bc94e76be47/f215be50a7d9/07580303251-C/07580303251-C.jpg?ts=1719216474138"
+  },
+  {
+    "name": "Short sleeve floral T-shirt",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/bb98/92bf/2ea94881a7ea/7518b7a7cebf/07249340805-A7M/07249340805-A7M.jpg?ts=1720710894609"
+  },
+  {
+    "name": "Textured fabric check shorts",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d581/7388/67194b388049/e84485ac0922/07693335914-C/07693335914-C.jpg?ts=1722243086438"
+  },
+  {
+    "name": "Striped cropped poplin shirt",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/1e80/31bb/0d2d4ae4a696/3624c325942c/07470338620-A6M/07470338620-A6M.jpg?ts=1716478123991"
+  },
+  {
+    "name": "Wide-leg comfort fit jeans",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d379/9e7d/26c2424c97f8/f7c983c7d231/07685318427-A6M/07685318427-A6M.jpg?ts=1719494251380"
+  },
+  {
+    "name": "Short sleeve rodeo T-shirt",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/dd5e/4fb6/95eb43f2922d/18a1ff09fd61/07244319712-A6M/07244319712-A6M.jpg?ts=1719493829112"
+  },
+  {
+    "name": "Striped balloon mini skirt",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e78a/1941/e6924775abe9/c60ed9954bba/07396338400-A6M/07396338400-A6M.jpg?ts=1716461170805"
+  },
+  {
+    "name": "White hibiscus flower T-shirt",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/453c/28dd/f38b43d5bc24/a7126820cbad/0725233480501-a7m/0725233480501-a7m.jpg?ts=1721227852013"
+  },
+  {
+    "name": "Wide-leg cargo jeans",
+    "price": "2899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/f464/4e4d/0e314b34b782/d464ecc7ff66/07685354406-A7M/07685354406-A7M.jpg?ts=1722601878605"
+  },
+  {
+    "name": "High-waist jeggings",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/954b/80c5/3072495ab3e1/4868906bc009/07685407250-C/07685407250-C.jpg?ts=1720103987668"
+  },
+  {
+    "name": "Wide-leg comfort fit jeans",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d379/9e7d/26c2424c97f8/f7c983c7d231/07685318427-A6M/07685318427-A6M.jpg?ts=1719494251380"
+  },
+  {
+    "name": "Polyamide mini skirt",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/df5f/ee5c/c58240df9555/9bec0498395d/07396349711-A6M/07396349711-A6M.jpg?ts=1717683955721"
+  },
+  {
+    "name": "Crochet halter top with knot",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/425b/e7df/f3c6461e921c/fb8326b86c7a/0724939471201-a7m/0724939471201-a7m.jpg?ts=1721300262150"
+  },
+  {
+    "name": "Striped boxer shorts",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/4d51/83fe/57eb42b2baea/daf90d80c918/0769335041001-a7m/0769335041001-a7m.jpg?ts=1722524563858"
+  },
+  {
+    "name": "Off-the-shoulder tulle top",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/a867/fb30/1f4c46f9b487/ebb410b261b4/07248442112-A6M/07248442112-A6M.jpg?ts=1720104163109"
+  },
+  {
+    "name": "Short ruffle dress",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/56b4/67f5/b41e42889846/2810fa813d65/07390346600-A7M/07390346600-A7M.jpg?ts=1718278423893"
+  },
+  {
+    "name": "Flowing, satin trousers",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0f8a/2cf2/8a3a496a94db/4d3c9201bf0b/07678340800-A7M/07678340800-A7M.jpg?ts=1718192014582"
+  },
+  {
+    "name": "Short mesh dress",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/c284/a541/46664f3482c2/2041f6a3f45b/07390484700-C/07390484700-C.jpg?ts=1720705032808"
+  },
+  {
+    "name": "Tennessee graphic T-shirt",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9125/fdb0/7d25453a94e1/8460eff81baa/07244366821-C/07244366821-C.jpg?ts=1721740756829"
+  },
+  {
+    "name": "Rustic surplice blouse",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/1980/2621/da384d50ad23/f540eeeeaa53/03470353527-A7M/03470353527-A7M.jpg?ts=1719475526478"
+  },
+  {
+    "name": "Long denim dungarees",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0567/1129/dae34630b031/9913b8b4edb3/07640352250-A6M/07640352250-A6M.jpg?ts=1717597627258"
+  },
+  {
+    "name": "Flowing rustic trousers",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8a87/e8bc/4d2943639d59/304105a6ec14/0767834280001-a7m/0767834280001-a7m.jpg?ts=1720701999987"
+  },
+  {
+    "name": "Short floral dress with open back",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/4287/d7c0/b0044af28bec/6093c529c4d8/07391402400-C/07391402400-C.jpg?ts=1721312694774"
+  },
+  {
+    "name": "Long crochet skirt with tied bows",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9f59/8c76/c6bd4cc6b05c/3012f67e82cf/0739631171101-A7M/0739631171101-A7M.jpg?ts=1718810783054"
+  },
+  {
+    "name": "Printed tulle halter top",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9f9c/9b08/29034008871b/13a06910c02c/0724437402001-A7M/0724437402001-A7M.jpg?ts=1722431428486"
+  },
+  {
+    "name": "Flowing printed trousers",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/6883/3902/6e214277b609/35cb415235a3/07678347700-C/07678347700-C.jpg?ts=1720693594797"
+  },
+  {
+    "name": "Zipped high neck sweatshirt",
+    "price": "699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/14fd/25d0/b0d54f84baa5/7c0bf4e12bbe/0359033880201-A1M/0359033880201-A1M.jpg?ts=1721862732147"
+  },
+  {
+    "name": "Midi skirt with lace trim",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/7515/69c3/efed47cda73d/2c704a0fd243/07396358250-A6M/07396358250-A6M.jpg?ts=1720626339944"
+  },
+  {
+    "name": "Short tulle dress",
+    "price": "899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/187d/0c1a/bc6545f4ae95/1e475632f8cb/07390340020-A6M/07390340020-A6M.jpg?ts=1721663040030"
+  },
+  {
+    "name": "Denim mini skirt with bows",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/b784/7f80/347045da8979/40e961af3de2/0739634740601-A7M/0739634740601-A7M.jpg?ts=1720709647412"
+  },
+  {
+    "name": "Rustic skort with ruffles",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/271b/5c75/76794983b126/8e0b6d2f2ecd/0769333880001-A7M/0769333880001-A7M.jpg?ts=1722502291988"
+  },
+  {
+    "name": "Rustic skort with ruffles",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/271b/5c75/76794983b126/8e0b6d2f2ecd/0769333880001-A7M/0769333880001-A7M.jpg?ts=1722502291988"
+  },
+  {
+    "name": "Long crochet skirt with tied bows",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9f59/8c76/c6bd4cc6b05c/3012f67e82cf/0739631171101-A7M/0739631171101-A7M.jpg?ts=1718810783054"
+  },
+  {
+    "name": "High-waist jeggings",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/954b/80c5/3072495ab3e1/4868906bc009/07685407250-C/07685407250-C.jpg?ts=1720103987668"
+  },
+  {
+    "name": "Short creased dress",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/3cff/aa84/47fd4c449d0f/22c71e97c7ef/07390318400-A6M/07390318400-A6M.jpg?ts=1721838068390"
+  },
+  {
+    "name": "Overshirt with frayed hem",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/1e57/d53d/083245b08a98/0af490d84a3f/0771032171201-A7M/0771032171201-A7M.jpg?ts=1720079880906"
+  },
+  {
+    "name": "Floral tulle lace-trimmed top",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e978/379e/0e014f6aaa92/016f99e340ad/0724437502001-A7M/0724437502001-A7M.jpg?ts=1722500329304"
+  },
+  {
+    "name": "Strapless short dress",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/09a7/55f0/4b0d47b39ca4/ff186e096890/07390450401-A6M/07390450401-A6M.jpg?ts=1721816690277"
+  },
+  {
+    "name": "Dolphin graphic T-shirt",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/59a1/4874/ec394c668fd8/bf8571628ca7/07244360805-A6M/07244360805-A6M.jpg?ts=1718722142111"
+  },
+  {
+    "name": "Mid-rise flared jeans",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/fb9f/3eb2/81034fa3bd00/422b102e7ebf/0767930150501-A7M/0767930150501-A7M.jpg?ts=1722522091079"
+  },
+  {
+    "name": "Purl knit vest",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
+  },
+  {
+    "name": "High-waist jeggings",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/954b/80c5/3072495ab3e1/4868906bc009/07685407250-C/07685407250-C.jpg?ts=1720103987668"
+  },
+  {
+    "name": "Bow graphic hoodie",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5cc9/80bd/25f04e01a7e7/751c241be9ba/0759033282701-A7M/0759033282701-A7M.jpg?ts=1722502265909"
+  },
+  {
+    "name": "Satiny floral mini skirt",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/dd1e/3e7d/a26e427e90a2/17616bca2608/0739646040001-A7M/0739646040001-A7M.jpg?ts=1721817245496"
+  },
+  {
+    "name": "Cropped short sleeve polo shirt",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/eff7/0cd1/baa1400baafd/4c599c8e76a3/0725233625001-A7M/0725233625001-A7M.jpg?ts=1722502299222"
+  },
+  {
+    "name": "Love Yourself Team graphic hoodie",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e619/193b/df6842c3a73d/4aed5a59a73e/0759033171201-A7M/0759033171201-A7M.jpg?ts=1722502281413"
+  },
+  {
+    "name": "Mid-rise flared jeans",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/fb9f/3eb2/81034fa3bd00/422b102e7ebf/0767930150501-A7M/0767930150501-A7M.jpg?ts=1722522091079"
+  },
+  {
+    "name": "Cropped linen jacket",
+    "price": "2599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/6c2b/abcb/aa914ee5bd64/9b9d5504f9fa/0771030271101-C/0771030271101-C.jpg?ts=1720083345678"
+  },
+  {
+    "name": "Polyamide strappy body",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/7786/df5a/832143929971/784ce60307a8/07248310250-A6M/07248310250-A6M.jpg?ts=1721853069537"
+  },
+  {
+    "name": "Cropped linen jacket",
+    "price": "2599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/6c2b/abcb/aa914ee5bd64/9b9d5504f9fa/0771030271101-C/0771030271101-C.jpg?ts=1720083345678"
+  },
+  {
+    "name": "Striped boxer shorts",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/4d51/83fe/57eb42b2baea/daf90d80c918/0769335041001-a7m/0769335041001-a7m.jpg?ts=1722524563858"
+  },
+  {
+    "name": "Striped flowing trousers",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9cad/c116/168c41bfa4dd/da0958077c6c/0767835471201-A7M/0767835471201-A7M.jpg?ts=1721818758648"
+  },
+  {
+    "name": "Denim bandeau top",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5a97/f410/b5f64e268225/73ed1a8db632/07470330406-C/07470330406-C.jpg?ts=1718722353889"
+  },
+  {
+    "name": "High-waist wide-leg jeans",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/241b/9ea8/9b9f4f0088e8/a5fae36c5959/07684315800-A7M/07684315800-A7M.jpg?ts=1722522967439"
+  },
+  {
+    "name": "Primavera Sound slogan sweatshirt",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5a23/d6ed/a55440a188bd/7774a1b2d224/07012304500-A20M/07012304500-A20M.jpg?ts=1716302904843"
+  },
+  {
+    "name": "Denim waistcoat top",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/938e/5001/b42841d6ac5b/8309261b72f2/07771305427-A20M/07771305427-A20M.jpg?ts=1721843983972"
+  },
+  {
+    "name": "Floral midi skirt",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/a650/21ee/773b485b9eac/49dba40945a7/0739637225001-A7M/0739637225001-A7M.jpg?ts=1720084411551"
+  },
+  {
+    "name": "Short halter dress",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/b411/f55c/0ae6417e85e6/5434a5324887/03390344800-A7M/03390344800-A7M.jpg?ts=1721724852263"
+  },
+  {
+    "name": "Rustic top with bows",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/47f8/57cf/73194e8f9029/d15bd7fd09cd/0747036250001-A7M/0747036250001-A7M.jpg?ts=1722431423267"
+  },
+  {
+    "name": "Polyamide mini skirt with trims",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d625/d1ea/a4df49b0a52a/f424a8d66139/07396431700-C/07396431700-C.jpg?ts=1720626375456"
+  },
+  {
+    "name": "Purl knit vest",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
+  },
+  {
+    "name": "Basic short sleeve shirt",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5055/3c49/d2334db9a50d/5d3d4e34f3fa/0747036725001-a7m/0747036725001-a7m.jpg?ts=1721229648910"
+  },
+  {
+    "name": "Printed tulle halter top",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9f9c/9b08/29034008871b/13a06910c02c/0724437402001-A7M/0724437402001-A7M.jpg?ts=1722431428486"
+  },
+  {
+    "name": "Strapless short dress",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/09a7/55f0/4b0d47b39ca4/ff186e096890/07390450401-A6M/07390450401-A6M.jpg?ts=1721816690277"
+  },
+  {
+    "name": "NYC hoodie",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5127/478f/d3f740bd9dda/60568a2fdc10/0759432580501-a7m/0759432580501-a7m.jpg?ts=1721315373466"
+  },
+  {
+    "name": "Short sleeve Houston T-shirt",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/232a/86ad/a81e4110b899/bc69cf3c8765/07244336406-01-a7m/07244336406-01-a7m.jpg?ts=1721996506779"
+  },
+  {
+    "name": "Striped flared midi skirt",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ba19/049f/0fc84ca5b546/483541feeab4/07396428104-C/07396428104-C.jpg?ts=1720705053458"
+  },
+  {
+    "name": "Striped jacket with front pockets",
+    "price": "699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5e3f/3a94/77f74ac6bb76/935498a2831c/03710326401-e/03710326401-e.jpg?ts=1720755720814"
+  },
+  {
+    "name": "Short strappy playsuit dress",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/a628/f3e1/863e45c9a895/4e8c6e1f4621/07390342250-A6M/07390342250-A6M.jpg?ts=1716461147437"
+  },
+  {
+    "name": "The Met T-shirt",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/4072/5a27/6efa41d39e59/99e0b589a2c1/0725234042801-a7m/0725234042801-a7m.jpg?ts=1722524638809"
+  },
+  {
+    "name": "Washed-effect tracksuit shorts",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ad15/dcd2/d1d4454e9f87/6dec6ab7fbde/07693341809-C/07693341809-C.jpg?ts=1721312833442"
+  },
+  {
+    "name": "Short crochet jumpsuit",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/fe02/c710/1b02423ea909/7d35f873c34c/07640311711-A7M/07640311711-A7M.jpg?ts=1718811520729"
+  },
+  {
+    "name": "Flowing rustic shorts",
+    "price": "699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0674/38ba/26114975b924/a2c686b5c802/07693417620-A6M/07693417620-A6M.jpg?ts=1719494439614"
+  },
+  {
+    "name": "Embroidered NYC tank top",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/aeaa/b0aa/d8424327b59f/6ae774c2f3e6/07244342805-A6M/07244342805-A6M.jpg?ts=1720456785153"
+  },
+  {
+    "name": "Striped halter top",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ab73/3720/21fe4d3880f8/712bf92d9c8c/0747041010401-a7m/0747041010401-a7m.jpg?ts=1721300267736"
+  },
+  {
+    "name": "Short strappy playsuit dress",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/a628/f3e1/863e45c9a895/4e8c6e1f4621/07390342250-A6M/07390342250-A6M.jpg?ts=1716461147437"
+  },
+  {
+    "name": "Polyamide mini skirt",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/df5f/ee5c/c58240df9555/9bec0498395d/07396349711-A6M/07396349711-A6M.jpg?ts=1717683955721"
+  },
+  {
+    "name": "NYC tracksuit shorts",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/6f47/4ca0/32cb40f1bc61/e71a20f5664e/0769334080501-a7m/0769334080501-a7m.jpg?ts=1721315342911"
+  },
+  {
+    "name": "Linen-blend blouse with ties",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5d51/8689/40b24832b379/b309e269a6b7/0347036762001-A7M/0347036762001-A7M.jpg?ts=1721829861684"
+  },
+  {
+    "name": "Striped rustic trousers",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8942/54bf/32fc4541bceb/50a886c0a7f2/0767849045001-A7M/0767849045001-A7M.jpg?ts=1721818760025"
+  },
+  {
+    "name": "Stretch knit shorts",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8229/ff30/bcd64631a62b/9aefcda02979/07693411112-a7m/07693411112-a7m.jpg?ts=1719415104185"
+  },
+  {
+    "name": "Asymmetric rustic top",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8b8e/adf6/23a64ed89b11/eaa645de16fe/0724938870001-A7M/0724938870001-A7M.jpg?ts=1718805587919"
+  },
+  {
+    "name": "Rustic linen shirt with bow",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5fc9/1f59/b886435cbf43/04e47fc2c8b0/03470349450-A1M/03470349450-A1M.jpg?ts=1718288336020"
+  },
+  {
+    "name": "Rustic blouse with tie",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/6652/85e3/a7f34866aa72/8c3fdfa0beb9/0347036625002-A7M/0347036625002-A7M.jpg?ts=1719407464986"
+  },
+  {
+    "name": "Rustic skort with ruffles",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/271b/5c75/76794983b126/8e0b6d2f2ecd/0769333880001-A7M/0769333880001-A7M.jpg?ts=1722502291988"
+  },
+  {
+    "name": "Crepe halter top",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d2fd/fd5a/843748fe9d59/cb5e1b78a374/07248438520-A6M/07248438520-A6M.jpg?ts=1718811357745"
+  },
+  {
+    "name": "Flowing rustic shorts",
+    "price": "699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0674/38ba/26114975b924/a2c686b5c802/07693417620-A6M/07693417620-A6M.jpg?ts=1719494439614"
+  },
+  {
+    "name": "Pointelle strappy top",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/f8e4/ce3b/a4c24f6ebcb1/96844df0ed74/07244330431-A6M/07244330431-A6M.jpg?ts=1718640514673"
+  },
+  {
+    "name": "Short striped dress",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8cfd/8f4f/ccea4e8dada4/fc86790ecb44/07390470104-A6M/07390470104-A6M.jpg?ts=1721312660875"
+  },
+  {
+    "name": "Short camisole dress",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/214a/22d1/4fad4e8f939e/801b4e3a144d/07390374401-A6M/07390374401-A6M.jpg?ts=1720693555388"
+  },
+  {
+    "name": "Flowing rustic trousers",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8a87/e8bc/4d2943639d59/304105a6ec14/0767834280001-a7m/0767834280001-a7m.jpg?ts=1720701999987"
+  },
+  {
+    "name": "Short sleeve fish T-shirt",
+    "price": "959000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8c21/80cc/797e48bb92f6/719226261e66/07252323805-A6M/07252323805-A6M.jpg?ts=1719333374579"
+  },
+  {
+    "name": "Mid-waist straight-leg jeans",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/4d5f/93d4/38f84346a626/8c407489e47e/07685314427-A19M/07685314427-A19M.jpg?ts=1721839444563"
+  },
+  {
+    "name": "Smart trousers with side dart",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/21dd/c2e4/1792488aa560/b869245ff4ac/07678360800-A6M/07678360800-A6M.jpg?ts=1720693601341"
+  },
+  {
+    "name": "Striped knit cardigan",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d0e3/5b43/52b945dca798/35861fede685/07580320506-A8M/07580320506-A8M.jpg?ts=1721827319854"
+  },
+  {
+    "name": "Smocked white mini skirt",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/b226/c92a/46b2494eaea2/caa6a23cfec3/07396376805-C/07396376805-C.jpg?ts=1721312735582"
+  },
+  {
+    "name": "Oversize knit T-shirt",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/832b/f891/420e43e89c86/72d363dab89c/0759040370001-a7m/0759040370001-a7m.jpg?ts=1721306885561"
+  },
+  {
+    "name": "Relaxed fit balloon jeans with front buttons",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/efdc/17c8/d776422ab030/d9cf42f0c208/07684320407-A7M/07684320407-A7M.jpg?ts=1721995305053"
+  },
+  {
+    "name": "Denim dungarees",
+    "price": "2599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/43c5/ca35/2d4949a9907d/d34125f1f816/07640428802-A6M/07640428802-A6M.jpg?ts=1719840281745"
+  },
+  {
+    "name": "Cropped denim jacket",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/f38f/7be1/c22d444ea1d8/15c2fda6954c/0771035671201-A7M/0771035671201-A7M.jpg?ts=1718891625498"
+  },
+  {
+    "name": "Rustic white top",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9c22/19b7/92c145b09f45/92f6214f7224/07470327250-A6M/07470327250-A6M.jpg?ts=1718640397895"
+  },
+  {
+    "name": "Flowing midi skirt",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/c37d/9619/e13d4682b1d8/ea6840703c33/07396365800-A6M/07396365800-A6M.jpg?ts=1721312691435"
+  },
+  {
+    "name": "Flowing midi skirt",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/c37d/9619/e13d4682b1d8/ea6840703c33/07396365800-A6M/07396365800-A6M.jpg?ts=1721312691435"
+  },
+  {
+    "name": "Smart trousers with seam detail",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ed7e/ebd0/2cc44f1194b7/40b3b1a7c3e9/0767843171201-A7M/0767843171201-A7M.jpg?ts=1721825804679"
+  },
+  {
+    "name": "Short linen-blend balloon dress",
+    "price": "1159000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/7366/5a0b/7ffe4344b3fc/cb01a3fcf9b1/07390300250-A6M/07390300250-A6M.jpg?ts=1718722228454"
+  },
+  {
+    "name": "Oversize jeans",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/2413/ab3c/9a38466b8ba6/d033ce0bc517/07684370427-A20M/07684370427-A20M.jpg?ts=1721312849204"
+  },
+  {
+    "name": "Short sleeve T-shirt with landscape graphic",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/4d4f/11bc/1051472286fa/d8194f37e023/0724436480501-A7M/0724436480501-A7M.jpg?ts=1722431410364"
+  },
+  {
+    "name": "Neoprene-effect zip hoodie",
+    "price": "699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/229a/9200/88664fa1b8ec/e7c824f781ad/0371031680001-A6M/0371031680001-A6M.jpg?ts=1721674140953"
+  },
+  {
+    "name": "Oversize jeans with belt",
+    "price": "2599000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5f1e/cb5b/3b474fce98df/88308c051d9c/07685411427-A7M/07685411427-A7M.jpg?ts=1721995328784"
+  },
+  {
+    "name": "Textured shorts with lace",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/17e8/aee4/0297403da284/64d0aaa2bb8b/07693415717-A6M/07693415717-A6M.jpg?ts=1719840392275"
+  },
+  {
+    "name": "Cropped polyamide T-shirt",
+    "price": "579000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e401/9e0c/84ce42759c5f/87071f208825/07244386250-C/07244386250-C.jpg?ts=1720456867861"
+  },
+  {
+    "name": "Smart trousers with seam detail",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ed7e/ebd0/2cc44f1194b7/40b3b1a7c3e9/0767843171201-A7M/0767843171201-A7M.jpg?ts=1721825804679"
+  },
+  {
+    "name": "Short sleeve STWD T-shirt",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/2e8a/e7f6/13584ad581f0/f165c6168f30/07244371500-A6M/07244371500-A6M.jpg?ts=1720104144843"
+  },
+  {
+    "name": "Rustic white top",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9c22/19b7/92c145b09f45/92f6214f7224/07470327250-A6M/07470327250-A6M.jpg?ts=1718640397895"
+  },
+  {
+    "name": "Wide-leg jeans with bows",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9b78/491d/3af9401f9410/cdb0258f4e3d/07685325406-A6M/07685325406-A6M.jpg?ts=1719306371247"
+  },
+  {
+    "name": "Flowing printed trousers",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/93f8/a398/1fde4aa08a5d/02f64b4b8b86/07678334037-A7M/07678334037-A7M.jpg?ts=1718191660999"
+  },
+  {
+    "name": "Striped blouse with bows",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/4a68/995c/382943768960/10e9dda69f40/07470324400-A2M/07470324400-A2M.jpg?ts=1716285399511"
+  },
+  {
+    "name": "Short halter dress",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/b411/f55c/0ae6417e85e6/5434a5324887/03390344800-A7M/03390344800-A7M.jpg?ts=1721724852263"
+  },
+  {
+    "name": "Leopard print midi skirt",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/de19/b510/e6284b1191d9/cdc1fd703f81/0739637805101-A7M/0739637805101-A7M.jpg?ts=1720611589768"
+  },
+  {
+    "name": "Lace midi skirt",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0927/7ae1/f62c4f79850a/91843f4356ae/0739638167101-A7M/0739638167101-A7M.jpg?ts=1722434141036"
+  },
+  {
+    "name": "Lightweight zip-up jacket",
+    "price": "2899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e8b5/1df8/5cbe44138d24/cdcc044ea112/0771032480701-A7M/0771032480701-A7M.jpg?ts=1722500323875"
+  },
+  {
+    "name": "Nirvana T-shirt",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/2944/bb7a/d7e94cf5a18a/a53309ec70c9/0725235080701-A7M/0725235080701-A7M.jpg?ts=1722519349177"
+  },
+  {
+    "name": "Flowing, satin trousers",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0f8a/2cf2/8a3a496a94db/4d3c9201bf0b/07678340800-A7M/07678340800-A7M.jpg?ts=1718192014582"
+  },
+  {
+    "name": "Floral midi skirt",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/a650/21ee/773b485b9eac/49dba40945a7/0739637225001-A7M/0739637225001-A7M.jpg?ts=1720084411551"
+  },
+  {
+    "name": "Short sleeve linen blend blouse",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/512e/34e3/00544f97a1e6/3899f0c3cd3f/07470309406-A8M/07470309406-A8M.jpg?ts=1718209803865"
+  },
+  {
+    "name": "Striped long sleeve shirt",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/87f7/0fde/71c94eeaa113/df7e6938535b/07470348320-C/07470348320-C.jpg?ts=1720021311518"
+  },
+  {
+    "name": "Polyamide top with tie",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/8fde/3870/e07f413598e8/3fcc19973ebb/07248440607-C/07248440607-C.jpg?ts=1720626270831"
+  },
+  {
+    "name": "Linen blend cargo shorts",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/2bba/c46a/2c014e42abc1/f8a410c6b969/07693316406-A4M/07693316406-A4M.jpg?ts=1718717228020"
+  },
+  {
+    "name": "Short fitted strappy dress",
+    "price": "429000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/60d6/96b4/027d461585af/b5b39de47f2a/0339037380001-a7m/0339037380001-a7m.jpg?ts=1720701994179"
+  },
+  {
+    "name": "Lightweight jacket with pockets",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/9a1a/5ff6/476b4502aba8/38c9019303c2/07710320711-A6M/07710320711-A6M.jpg?ts=1719306385223"
+  },
+  {
+    "name": "Ripped baggy jeans",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e7d9/7261/0add467899f4/bcd53e8488d8/07685355406-A6M/07685355406-A6M.jpg?ts=1718105359890"
   },
   {
     "name": "Strappy bodysuit with contrast trims",
@@ -1128,76 +1422,16 @@
     "image": "https://static.pullandbear.net/assets/public/d03e/00ff/762b42e4ab30/36c3b5dfff02/0767830540001-A7M/0767830540001-A7M.jpg?ts=1720708070890"
   },
   {
-    "name": "Cropped short sleeve shirt",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/c556/2d25/8fd54687a1f0/9585c9d6b056/07470343150-C/07470343150-C.jpg?ts=1717760056046"
-  },
-  {
-    "name": "Rustic skort with ruffles",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/271b/5c75/76794983b126/8e0b6d2f2ecd/0769333880001-A7M/0769333880001-A7M.jpg?ts=1722502291988"
-  },
-  {
-    "name": "Mid-rise flared jeans",
-    "price": "1999000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/fb9f/3eb2/81034fa3bd00/422b102e7ebf/0767930150501-A7M/0767930150501-A7M.jpg?ts=1722522091079"
-  },
-  {
-    "name": "2-pack of cropped polyamide T-shirts",
-    "price": "899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ecf8/f0ca/b29e4fe8b8f4/917d14209976/07248464064-C/07248464064-C.jpg?ts=1720712932749"
-  },
-  {
-    "name": "Primavera Sound grey hoodie",
-    "price": "2599000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5b75/65de/70964f419f8c/1a181aada1fa/07012305802-A20M/07012305802-A20M.jpg?ts=1716302907336"
-  },
-  {
-    "name": "Short fitted strappy dress",
-    "price": "429000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/60d6/96b4/027d461585af/b5b39de47f2a/0339037380001-a7m/0339037380001-a7m.jpg?ts=1720701994179"
-  },
-  {
     "name": "Long linen blend A-line skirt",
     "price": "1899000",
     "label": "",
     "image": "https://static.pullandbear.net/assets/public/07c0/d26d/c82a402e82d3/21b50c531ad7/07396445701-A1M/07396445701-A1M.jpg?ts=1721741194266"
   },
   {
-    "name": "Short sleeve STWD T-shirt",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2e8a/e7f6/13584ad581f0/f165c6168f30/07244371500-A6M/07244371500-A6M.jpg?ts=1720104144843"
-  },
-  {
-    "name": "Short camisole dress",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/214a/22d1/4fad4e8f939e/801b4e3a144d/07390374401-A6M/07390374401-A6M.jpg?ts=1720693555388"
-  },
-  {
-    "name": "Striped halter top",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ab73/3720/21fe4d3880f8/712bf92d9c8c/0747041010401-a7m/0747041010401-a7m.jpg?ts=1721300267736"
-  },
-  {
     "name": "Short fitted strappy dress",
     "price": "429000",
     "label": "",
     "image": "https://static.pullandbear.net/assets/public/60d6/96b4/027d461585af/b5b39de47f2a/0339037380001-a7m/0339037380001-a7m.jpg?ts=1720701994179"
-  },
-  {
-    "name": "Long crochet skirt with tied bows",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9f59/8c76/c6bd4cc6b05c/3012f67e82cf/0739631171101-A7M/0739631171101-A7M.jpg?ts=1718810783054"
   },
   {
     "name": "Short floral lace dress",
@@ -1206,334 +1440,22 @@
     "image": "https://static.pullandbear.net/assets/public/e0d0/bb52/97c04a4bb6ac/0304ed4816a9/07390394020-01-A7M/07390394020-01-A7M.jpg?ts=1721983404954"
   },
   {
-    "name": "Striped cropped poplin shirt",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/1e80/31bb/0d2d4ae4a696/3624c325942c/07470338620-A6M/07470338620-A6M.jpg?ts=1716478123991"
-  },
-  {
-    "name": "Loose-fitting rustic trousers",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/510d/2842/cae443b0b01d/30de56de7dc9/0367836245001-E/0367836245001-E.jpg?ts=1721870564700"
-  },
-  {
-    "name": "Rustic linen blend shorts",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ef80/319c/3b2d412699e6/56624e97d6c3/07693302611-A6M/07693302611-A6M.jpg?ts=1718099760762"
-  },
-  {
-    "name": "White top with embroidery",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e580/0d98/ff82467ab86d/7287a20690b6/0347045625002-A2M/0347045625002-A2M.jpg?ts=1717669174478"
-  },
-  {
-    "name": "Relaxed fit balloon jeans with buttons",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/b0dc/3f1e/4e124bcb9a70/ab82ab4145e0/0767846180201-A7M/0767846180201-A7M.jpg?ts=1721830727529"
-  },
-  {
-    "name": "Washed-effect tracksuit shorts",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ad15/dcd2/d1d4454e9f87/6dec6ab7fbde/07693341809-C/07693341809-C.jpg?ts=1721312833442"
-  },
-  {
-    "name": "High-waist jeggings",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/954b/80c5/3072495ab3e1/4868906bc009/07685407250-C/07685407250-C.jpg?ts=1720103987668"
-  },
-  {
-    "name": "Mid-rise flared jeans",
-    "price": "1999000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/fb9f/3eb2/81034fa3bd00/422b102e7ebf/0767930150501-A7M/0767930150501-A7M.jpg?ts=1722522091079"
-  },
-  {
-    "name": "Rustic linen shirt with bow",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5fc9/1f59/b886435cbf43/04e47fc2c8b0/03470349450-A1M/03470349450-A1M.jpg?ts=1718288336020"
-  },
-  {
-    "name": "Cropped denim jacket",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/f38f/7be1/c22d444ea1d8/15c2fda6954c/0771035671201-A7M/0771035671201-A7M.jpg?ts=1718891625498"
-  },
-  {
     "name": "Purl knit vest",
     "price": "1499000",
     "label": "",
     "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
   },
   {
-    "name": "Short linen-blend balloon dress",
-    "price": "1159000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/7366/5a0b/7ffe4344b3fc/cb01a3fcf9b1/07390300250-A6M/07390300250-A6M.jpg?ts=1718722228454"
-  },
-  {
-    "name": "Short tulle dress",
-    "price": "899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/187d/0c1a/bc6545f4ae95/1e475632f8cb/07390340020-A6M/07390340020-A6M.jpg?ts=1721663040030"
-  },
-  {
-    "name": "Rustic crossover top",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/563f/3654/482845a38b10/e7404ff2acba/07554335500-C/07554335500-C.jpg?ts=1718722390729"
-  },
-  {
-    "name": "Midi skirt with lace trim",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/7515/69c3/efed47cda73d/2c704a0fd243/07396358250-A6M/07396358250-A6M.jpg?ts=1720626339944"
-  },
-  {
-    "name": "Striped flowing trousers",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9cad/c116/168c41bfa4dd/da0958077c6c/0767835471201-A7M/0767835471201-A7M.jpg?ts=1721818758648"
-  },
-  {
-    "name": "Midi skirt with lace trim",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0f88/7579/5b7e42a886ad/aa083cdeed2b/07396324712-A6M/07396324712-A6M.jpg?ts=1718891249218"
-  },
-  {
-    "name": "Short ruffle dress",
-    "price": "1999000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/56b4/67f5/b41e42889846/2810fa813d65/07390346600-A7M/07390346600-A7M.jpg?ts=1718278423893"
-  },
-  {
-    "name": "High waisted skinny jeans",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0a98/fd06/5d714a54b214/af9f9b963a89/07685322400-A6M/07685322400-A6M.jpg?ts=1719494278680"
-  },
-  {
-    "name": "Sequin fishnet trousers",
-    "price": "1599000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0bc7/e640/3a4f4cb6bb1e/8b385ca2e41b/07678400805-A7M/07678400805-A7M.jpg?ts=1718796285776"
-  },
-  {
-    "name": "Zipped high neck sweatshirt",
-    "price": "699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/14fd/25d0/b0d54f84baa5/7c0bf4e12bbe/0359033880201-A1M/0359033880201-A1M.jpg?ts=1721862732147"
-  },
-  {
-    "name": "Cropped short sleeve polo shirt",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/eff7/0cd1/baa1400baafd/4c599c8e76a3/0725233625001-A7M/0725233625001-A7M.jpg?ts=1722502299222"
-  },
-  {
-    "name": "Rustic textured trousers",
+    "name": "Long open knit skirt",
     "price": "1699000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2860/ec91/7f9446899ad8/e9090d9cae9a/0767835225001-A7M/0767835225001-A7M.jpg?ts=1721819475064"
+    "image": "https://static.pullandbear.net/assets/public/847e/2e59/8371420fb8f1/dc66634c1fa6/07396341406-A1M/07396341406-A1M.jpg?ts=1720695521136"
   },
   {
-    "name": "Leopard print mini skirt",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2755/adf1/b3db45b29c0e/d7f89baf3866/07396395041-A6M/07396395041-A6M.jpg?ts=1721312741189"
-  },
-  {
-    "name": "Polyamide mini skirt",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/df5f/ee5c/c58240df9555/9bec0498395d/07396349711-A6M/07396349711-A6M.jpg?ts=1717683955721"
-  },
-  {
-    "name": "Floral midi skirt",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/a650/21ee/773b485b9eac/49dba40945a7/0739637225001-A7M/0739637225001-A7M.jpg?ts=1720084411551"
-  },
-  {
-    "name": "NYC hoodie",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5127/478f/d3f740bd9dda/60568a2fdc10/0759432580501-a7m/0759432580501-a7m.jpg?ts=1721315373466"
-  },
-  {
-    "name": "Dolphin graphic T-shirt",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/59a1/4874/ec394c668fd8/bf8571628ca7/07244360805-A6M/07244360805-A6M.jpg?ts=1718722142111"
-  },
-  {
-    "name": "Polyamide top with tie",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8fde/3870/e07f413598e8/3fcc19973ebb/07248440607-C/07248440607-C.jpg?ts=1720626270831"
-  },
-  {
-    "name": "Short gathered polyamide dress",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/57a9/437e/8fb743fcb3dc/9138fc6b10c4/03390327800-A7M/03390327800-A7M.jpg?ts=1717586803927"
-  },
-  {
-    "name": "Striped boxer shorts",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/debe/49ed/dbb648fa8fbc/dc5d65c6fef9/07693357427-C/07693357427-C.jpg?ts=1717686990758"
-  },
-  {
-    "name": "Midi skirt with lace trim",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/7515/69c3/efed47cda73d/2c704a0fd243/07396358250-A6M/07396358250-A6M.jpg?ts=1720626339944"
-  },
-  {
-    "name": "Striped blouse with bows",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/4a68/995c/382943768960/10e9dda69f40/07470324400-A2M/07470324400-A2M.jpg?ts=1716285399511"
-  },
-  {
-    "name": "Short striped dress",
+    "name": "Flowing rustic trousers",
     "price": "1699000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8cfd/8f4f/ccea4e8dada4/fc86790ecb44/07390470104-A6M/07390470104-A6M.jpg?ts=1721312660875"
-  },
-  {
-    "name": "Nirvana T-shirt",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2944/bb7a/d7e94cf5a18a/a53309ec70c9/0725235080701-A7M/0725235080701-A7M.jpg?ts=1722519349177"
-  },
-  {
-    "name": "Primavera Sound slogan sweatshirt",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5a23/d6ed/a55440a188bd/7774a1b2d224/07012304500-A20M/07012304500-A20M.jpg?ts=1716302904843"
-  },
-  {
-    "name": "High waisted skinny jeans",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0a98/fd06/5d714a54b214/af9f9b963a89/07685322400-A6M/07685322400-A6M.jpg?ts=1719494278680"
-  },
-  {
-    "name": "Purl knit vest",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
-  },
-  {
-    "name": "Wide-leg comfort fit jeans",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d379/9e7d/26c2424c97f8/f7c983c7d231/07685318427-A6M/07685318427-A6M.jpg?ts=1719494251380"
-  },
-  {
-    "name": "Short sleeve bear T-shirt",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/dfb3/bc01/eb99430c9696/9169b131660b/0724432180501-A7M/0724432180501-A7M.jpg?ts=1722434157436"
-  },
-  {
-    "name": "Neoprene-effect zip hoodie",
-    "price": "699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/229a/9200/88664fa1b8ec/e7c824f781ad/0371031680001-A6M/0371031680001-A6M.jpg?ts=1721674140953"
-  },
-  {
-    "name": "Short crochet jumpsuit",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/fe02/c710/1b02423ea909/7d35f873c34c/07640311711-A7M/07640311711-A7M.jpg?ts=1718811520729"
-  },
-  {
-    "name": "Embroidered USA tank top",
-    "price": "729000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/35c7/f246/54e942d79768/8239ee644052/07244341812-A6M/07244341812-A6M.jpg?ts=1719840100950"
-  },
-  {
-    "name": "NYC tracksuit shorts",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/6f47/4ca0/32cb40f1bc61/e71a20f5664e/0769334080501-a7m/0769334080501-a7m.jpg?ts=1721315342911"
-  },
-  {
-    "name": "Floral midi skirt",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/a650/21ee/773b485b9eac/49dba40945a7/0739637225001-A7M/0739637225001-A7M.jpg?ts=1720084411551"
-  },
-  {
-    "name": "Floral midi skirt",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/e0fc/34a5/a1794ad79a8c/bbc9b20e218c/07396363020-A6M/07396363020-A6M.jpg?ts=1718722325084"
-  },
-  {
-    "name": "Short sleeve floral lace shirt",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/561d/d343/d15c4d5f804d/2aaec5ed32a9/07470333805-A6M/07470333805-A6M.jpg?ts=1718184410199"
-  },
-  {
-    "name": "Short sleeve bear T-shirt",
-    "price": "959000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/dfb3/bc01/eb99430c9696/9169b131660b/0724432180501-A7M/0724432180501-A7M.jpg?ts=1722434157436"
-  },
-  {
-    "name": "Striped flowing trousers",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9cad/c116/168c41bfa4dd/da0958077c6c/0767835471201-A7M/0767835471201-A7M.jpg?ts=1721818758648"
-  },
-  {
-    "name": "High-waist jeggings",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/954b/80c5/3072495ab3e1/4868906bc009/07685407250-C/07685407250-C.jpg?ts=1720103987668"
-  },
-  {
-    "name": "Wide-leg cargo jeans",
-    "price": "2899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/f464/4e4d/0e314b34b782/d464ecc7ff66/07685354406-A7M/07685354406-A7M.jpg?ts=1722601878605"
-  },
-  {
-    "name": "Striped knit cardigan",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d0e3/5b43/52b945dca798/35861fede685/07580320506-A8M/07580320506-A8M.jpg?ts=1721827319854"
-  },
-  {
-    "name": "Purl knit vest",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
-  },
-  {
-    "name": "Long linen blend A-line skirt",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/07c0/d26d/c82a402e82d3/21b50c531ad7/07396445701-A1M/07396445701-A1M.jpg?ts=1721741194266"
-  },
-  {
-    "name": "Short printed tulle dress",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8557/77b3/cc0242b89ab2/b9a815ccfd1d/0739039201501-A7M/0739039201501-A7M.jpg?ts=1722431452597"
+    "image": "https://static.pullandbear.net/assets/public/8a87/e8bc/4d2943639d59/304105a6ec14/0767834280001-a7m/0767834280001-a7m.jpg?ts=1720701999987"
   },
   {
     "name": "Short fitted strappy dress",
@@ -1542,112 +1464,10 @@
     "image": "https://static.pullandbear.net/assets/public/60d6/96b4/027d461585af/b5b39de47f2a/0339037380001-a7m/0339037380001-a7m.jpg?ts=1720701994179"
   },
   {
-    "name": "Baggy jeans with belt",
+    "name": "Primavera Sound grey hoodie",
     "price": "2599000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/18a4/a126/5b3d4d429047/671b6631600d/0768535040601-a7m/0768535040601-a7m.jpg?ts=1721309224389"
-  },
-  {
-    "name": "Linen-blend blouse with ties",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5d51/8689/40b24832b379/b309e269a6b7/0347036762001-A7M/0347036762001-A7M.jpg?ts=1721829861684"
-  },
-  {
-    "name": "Looney Tunes x Olympic Collection sweatshirt",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/80c9/dc85/098248669165/b5af4d39f21a/07591300805-A8M/07591300805-A8M.jpg?ts=1719494189816"
-  },
-  {
-    "name": "Washed hoodie",
-    "price": "699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/1c16/2acf/795e45958be9/96e76b9f8c0e/03590341802-A6M/03590341802-A6M.jpg?ts=1721772659406"
-  },
-  {
-    "name": "Striped boxer shorts with lace trim",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0f34/8248/8b1744e9a1b1/da123b1e8907/07693325406-C/07693325406-C.jpg?ts=1718722482614"
-  },
-  {
-    "name": "Short creased dress",
-    "price": "1199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/3cff/aa84/47fd4c449d0f/22c71e97c7ef/07390318400-A6M/07390318400-A6M.jpg?ts=1721838068390"
-  },
-  {
-    "name": "Short floral lace-trimmed dress",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/f171/8809/3385408e9a77/eabb43dea287/07390387712-C/07390387712-C.jpg?ts=1719938227879"
-  },
-  {
-    "name": "Gathered check halter top",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/2e64/e64d/25ba4cc8902b/1ecf1e8c3897/07470366914-C/07470366914-C.jpg?ts=1722260919679"
-  },
-  {
-    "name": "Crochet halter top",
-    "price": "1499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/42f5/2aa6/2c37486f928b/cf54de093ee0/07554338420-a7m/07554338420-a7m.jpg?ts=1719415085666"
-  },
-  {
-    "name": "Denim mini skirt with bows",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/b784/7f80/347045da8979/40e961af3de2/0739634740601-A7M/0739634740601-A7M.jpg?ts=1720709647412"
-  },
-  {
-    "name": "Smart trousers with seam detail",
-    "price": "1699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/ed7e/ebd0/2cc44f1194b7/40b3b1a7c3e9/0767843171201-A7M/0767843171201-A7M.jpg?ts=1721825804679"
-  },
-  {
-    "name": "Knit cardigan with zipped hood",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d60d/7655/0bc94e76be47/f215be50a7d9/07580303251-C/07580303251-C.jpg?ts=1719216474138"
-  },
-  {
-    "name": "Textured fabric check shorts",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d581/7388/67194b388049/e84485ac0922/07693335914-C/07693335914-C.jpg?ts=1722243086438"
-  },
-  {
-    "name": "Overshirt with frayed hem",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/1e57/d53d/083245b08a98/0af490d84a3f/0771032171201-A7M/0771032171201-A7M.jpg?ts=1720079880906"
-  },
-  {
-    "name": "Mid-waist straight-leg jeans",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/4d5f/93d4/38f84346a626/8c407489e47e/07685314427-A19M/07685314427-A19M.jpg?ts=1721839444563"
-  },
-  {
-    "name": "Striped jacket with front pockets",
-    "price": "699000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/5e3f/3a94/77f74ac6bb76/935498a2831c/03710326401-e/03710326401-e.jpg?ts=1720755720814"
-  },
-  {
-    "name": "Striped knit cardigan",
-    "price": "2199000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/d0e3/5b43/52b945dca798/35861fede685/07580320506-A8M/07580320506-A8M.jpg?ts=1721827319854"
-  },
-  {
-    "name": "Panelled midi skirt",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/012c/89e3/bea24530aaf2/6f5754eb75cc/0739637525001-a7m/0739637525001-a7m.jpg?ts=1722524538723"
+    "image": "https://static.pullandbear.net/assets/public/5b75/65de/70964f419f8c/1a181aada1fa/07012305802-A20M/07012305802-A20M.jpg?ts=1716302907336"
   },
   {
     "name": "Mid-rise flared jeans",
@@ -1656,10 +1476,94 @@
     "image": "https://static.pullandbear.net/assets/public/fb9f/3eb2/81034fa3bd00/422b102e7ebf/0767930150501-A7M/0767930150501-A7M.jpg?ts=1722522091079"
   },
   {
-    "name": "Striped rustic trousers",
+    "name": "Striped boxer shorts with lace trim",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0f34/8248/8b1744e9a1b1/da123b1e8907/07693325406-C/07693325406-C.jpg?ts=1718722482614"
+  },
+  {
+    "name": "Bias cut Bermuda shorts",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d208/d102/f5244944b425/b4c8c8bf5c4d/07693419700-C/07693419700-C.jpg?ts=1720712956794"
+  },
+  {
+    "name": "Cropped short sleeve T-shirt",
+    "price": "579000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5a4f/f735/da11402da321/518f3e396366/0724436525001-A7M/0724436525001-A7M.jpg?ts=1722502276198"
+  },
+  {
+    "name": "Rustic textured trousers",
     "price": "1699000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/8942/54bf/32fc4541bceb/50a886c0a7f2/0767849045001-A7M/0767849045001-A7M.jpg?ts=1721818760025"
+    "image": "https://static.pullandbear.net/assets/public/2860/ec91/7f9446899ad8/e9090d9cae9a/0767835225001-A7M/0767835225001-A7M.jpg?ts=1721819475064"
+  },
+  {
+    "name": "Mid-rise flared jeans",
+    "price": "1999000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/fb9f/3eb2/81034fa3bd00/422b102e7ebf/0767930150501-A7M/0767930150501-A7M.jpg?ts=1722522091079"
+  },
+  {
+    "name": "Linen cargo Bermuda shorts",
+    "price": "899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/558c/88ad/21584dbda324/9eae921d0c05/07693427802-A15M/07693427802-A15M.jpg?ts=1721683409775"
+  },
+  {
+    "name": "Rustic blouse with tie",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/6652/85e3/a7f34866aa72/8c3fdfa0beb9/0347036625002-A7M/0347036625002-A7M.jpg?ts=1719407464986"
+  },
+  {
+    "name": "Crochet bolero jumper",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/f734/79d5/0bb1457b93d9/b203c799e93a/07580338420-a7m/07580338420-a7m.jpg?ts=1719415211960"
+  },
+  {
+    "name": "Sun hoodie",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0f6f/39f5/5e69493d871d/beee81954022/07690414821-C/07690414821-C.jpg?ts=1720167358652"
+  },
+  {
+    "name": "Purl knit vest",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/42df/7c95/49b24bee9f10/de962d2acc20/07570302600-A6M/07570302600-A6M.jpg?ts=1721127783048"
+  },
+  {
+    "name": "Short strapless sun dress",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/eb61/035c/20e943078baa/a818835c9e73/07390382687-A2M/07390382687-A2M.jpg?ts=1720511323788"
+  },
+  {
+    "name": "Floral halter neck top",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e9ae/b2e5/a5c14bee8441/5c90dc1657ed/07252306020-C/07252306020-C.jpg?ts=1721827293244"
+  },
+  {
+    "name": "Waistcoat with tied bow and mother-of-pearl detail",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d56f/8866/a43543f0ad90/16051d48cbe2/07771300701-A6M/07771300701-A6M.jpg?ts=1717000349646"
+  },
+  {
+    "name": "Short sleeve floral T-shirt",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/258f/cf5b/a8044a6a800d/746ddbd62013/0724830080501-a7m/0724830080501-a7m.jpg?ts=1720098821850"
+  },
+  {
+    "name": "Short sleeve T-shirt with landscape graphic",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/4d4f/11bc/1051472286fa/d8194f37e023/0724436480501-A7M/0724436480501-A7M.jpg?ts=1722431410364"
   },
   {
     "name": "Long sleeve cropped cape",
@@ -1668,51 +1572,147 @@
     "image": "https://static.pullandbear.net/assets/public/b9bf/8a2e/53fd4651b151/0aa7b42687f4/03470369800-A6M/03470369800-A6M.jpg?ts=1718811299252"
   },
   {
-    "name": "Lace midi skirt",
+    "name": "Sweatshirt with embroidered sun",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/2c34/3b39/055441999d35/88ad744aaf80/07590320433-A6M/07590320433-A6M.jpg?ts=1717670383984"
+  },
+  {
+    "name": "Striped pyjama bottoms",
     "price": "1699000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0927/7ae1/f62c4f79850a/91843f4356ae/0739638167101-A7M/0739638167101-A7M.jpg?ts=1722434141036"
+    "image": "https://static.pullandbear.net/assets/public/b965/15a1/f64747fb90c7/1d0d554416a4/07678321400-C/07678321400-C.jpg?ts=1720626439319"
   },
   {
-    "name": "Long crochet skirt with tied bows",
-    "price": "1899000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9f59/8c76/c6bd4cc6b05c/3012f67e82cf/0739631171101-A7M/0739631171101-A7M.jpg?ts=1718810783054"
-  },
-  {
-    "name": "Basic cropped T-shirt",
-    "price": "499000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/b7a9/e3aa/7a7545caa0ea/4a8e665a3590/07248371411-A6M/07248371411-A6M.jpg?ts=1717509143260"
-  },
-  {
-    "name": "Printed tulle halter top",
-    "price": "1299000",
-    "label": "",
-    "image": "https://static.pullandbear.net/assets/public/9f9c/9b08/29034008871b/13a06910c02c/0724437402001-A7M/0724437402001-A7M.jpg?ts=1722431428486"
-  },
-  {
-    "name": "Long denim dungarees",
+    "name": "Faux leather biker jacket",
     "price": "2199000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0567/1129/dae34630b031/9913b8b4edb3/07640352250-A6M/07640352250-A6M.jpg?ts=1717597627258"
+    "image": "https://static.pullandbear.net/assets/public/8d46/34aa/97d24a14abf6/6eb671554208/07710323800-A6M/07710323800-A6M.jpg?ts=1720530794305"
   },
   {
-    "name": "Flowing, satin trousers",
+    "name": "Short floral lace-trimmed dress",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/f171/8809/3385408e9a77/eabb43dea287/07390387712-C/07390387712-C.jpg?ts=1719938227879"
+  },
+  {
+    "name": "Flower hoodie",
     "price": "1899000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/0f8a/2cf2/8a3a496a94db/4d3c9201bf0b/07678340800-A7M/07678340800-A7M.jpg?ts=1718192014582"
+    "image": "https://static.pullandbear.net/assets/public/6589/7117/eb724cf3ad9e/cb53f79c012b/0759031371201-a7m/0759031371201-a7m.jpg?ts=1721222119303"
   },
   {
-    "name": "High-waist jeggings",
+    "name": "Short striped dress",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/7dfa/5a99/2dcf4ec58b91/4c4a502f3f5e/07390469707-A7M/07390469707-A7M.jpg?ts=1718811582949"
+  },
+  {
+    "name": "Striped knit cardigan",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d0e3/5b43/52b945dca798/35861fede685/07580320506-A8M/07580320506-A8M.jpg?ts=1721827319854"
+  },
+  {
+    "name": "Short mesh dress",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/c284/a541/46664f3482c2/2041f6a3f45b/07390484700-C/07390484700-C.jpg?ts=1720705032808"
+  },
+  {
+    "name": "Looney Tunes x Olympic Collection sweatshirt",
+    "price": "2199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/80c9/dc85/098248669165/b5af4d39f21a/07591300805-A8M/07591300805-A8M.jpg?ts=1719494189816"
+  },
+  {
+    "name": "Cropped short sleeve polo shirt",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/eff7/0cd1/baa1400baafd/4c599c8e76a3/0725233625001-A7M/0725233625001-A7M.jpg?ts=1722502299222"
+  },
+  {
+    "name": "Denim mini skirt with box pleats",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/d914/fc59/1604485b939b/1aab068c6088/0739630670501-D2/0739630670501-D2.jpg?ts=1718294345423"
+  },
+  {
+    "name": "High waisted skinny jeans",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/0a98/fd06/5d714a54b214/af9f9b963a89/07685322400-A6M/07685322400-A6M.jpg?ts=1719494278680"
+  },
+  {
+    "name": "Crepe midi skirt with bow",
     "price": "1299000",
     "label": "",
-    "image": "https://static.pullandbear.net/assets/public/954b/80c5/3072495ab3e1/4868906bc009/07685407250-C/07685407250-C.jpg?ts=1720103987668"
+    "image": "https://static.pullandbear.net/assets/public/aa30/8baf/879f415f91fa/5a06779dad06/0739636173601-A7M/0739636173601-A7M.jpg?ts=1720709735800"
   },
   {
     "name": "Polyamide strappy body",
     "price": "729000",
     "label": "",
     "image": "https://static.pullandbear.net/assets/public/7786/df5a/832143929971/784ce60307a8/07248310250-A6M/07248310250-A6M.jpg?ts=1721853069537"
+  },
+  {
+    "name": "Basic short sleeve shirt",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5055/3c49/d2334db9a50d/5d3d4e34f3fa/0747036725001-a7m/0747036725001-a7m.jpg?ts=1721229648910"
+  },
+  {
+    "name": "Lightweight zip-up jacket",
+    "price": "2899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/e8b5/1df8/5cbe44138d24/cdcc044ea112/0771032480701-A7M/0771032480701-A7M.jpg?ts=1722500323875"
+  },
+  {
+    "name": "Sun mini skirt with gathering",
+    "price": "1699000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/b25f/d019/3fd04c64b679/fe330a09ba47/0739637368701-A7M/0739637368701-A7M.jpg?ts=1721222081106"
+  },
+  {
+    "name": "2-pack of cropped polyamide T-shirts",
+    "price": "899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/ecf8/f0ca/b29e4fe8b8f4/917d14209976/07248464064-C/07248464064-C.jpg?ts=1720712932749"
+  },
+  {
+    "name": "Rustic skort with ruffles",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/271b/5c75/76794983b126/8e0b6d2f2ecd/0769333880001-A7M/0769333880001-A7M.jpg?ts=1722502291988"
+  },
+  {
+    "name": "Short camisole dress",
+    "price": "1899000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/214a/22d1/4fad4e8f939e/801b4e3a144d/07390374401-A6M/07390374401-A6M.jpg?ts=1720693555388"
+  },
+  {
+    "name": "Leopard print boxer shorts",
+    "price": "1499000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5071/af03/eacf4d72b7fe/9ae972538215/07693337051-A6M/07693337051-A6M.jpg?ts=1721814535896"
+  },
+  {
+    "name": "Lace mini skirt with lace trim and bow",
+    "price": "1299000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/5682/baf7/77cc4deca7b6/732a7a40028e/07396416250-A7M/07396416250-A7M.jpg?ts=1719408220465"
+  },
+  {
+    "name": "Short sleeve T-shirt with bow",
+    "price": "729000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/6c5a/5971/29e644388bfb/426f73cfc95e/07244372250-A6M/07244372250-A6M.jpg?ts=1721379924616"
+  },
+  {
+    "name": "Short sleeve STWD T-shirt",
+    "price": "1199000",
+    "label": "",
+    "image": "https://static.pullandbear.net/assets/public/2e8a/e7f6/13584ad581f0/f165c6168f30/07244371500-A6M/07244371500-A6M.jpg?ts=1720104144843"
   }
 ]
