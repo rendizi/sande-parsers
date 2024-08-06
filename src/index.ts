@@ -10,25 +10,13 @@ import farfetchmen from "../products/farfetch/men/all.json"
 import farfetchwomen from "../products/farfetch/women/all.json"
 import pabmen from "../products/pab/men/all.json"
 import pabwomen from "../products/pab/women/all.json"
+import shopRouter from "./router/magaz/router";
 
 export const app = express()
 
 const PORT = process.env.PORT || 4000;
 
-app.get('/magaz', (req: Request, res: Response) => {
-    const queries = req.query as { [key: string]: string };
-    const name = queries.name;
-    if (!name){
-        res.status(400).send({message: "something went wrong"})
-    }
-    if (name === "farfetch"){
-        res.status(200).send({men: farfetchmen, women: farfetchwomen})
-    }else if (name === "pab"){
-        res.status(200).send({men: pabmen, women: pabwomen})
-    }else{
-        res.status(400).send({message: "shop not found"})
-    }
-});
+app.use('/magaz',shopRouter)
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
@@ -51,13 +39,13 @@ app.listen(PORT, () => {
 //     await fs.writeFile('./pab.json', JSON.stringify(shuffledProducts, null, 2));
 //     console.log('Shuffled products have been saved to ./pab.json');}
 
-// const bershkaParser = async() => {
-//     const bershka = new BershkaController()
-//     const products: Product[] = await bershka.GetClothes()
-//     const shuffledProducts = shuffleArray(products);
+const bershkaParser = async() => {
+    const bershka = new BershkaController()
+    const products: Product[] = await bershka.GetClothes()
+    const shuffledProducts = shuffleArray(products);
 
-//     await fs.writeFile('./bershka.json', JSON.stringify(shuffledProducts, null, 2));
-//     console.log('Shuffled products have been saved to ./bershka.json');}
+    await fs.writeFile('./bershka.json', JSON.stringify(shuffledProducts, null, 2));
+    console.log('Shuffled products have been saved to ./bershka.json');}
 
 
 export const shuffleArray = (array: Product[]): Product[] => {
@@ -68,39 +56,42 @@ export const shuffleArray = (array: Product[]): Product[] => {
     return array;
 };
 
-// async function combineJsonFiles(fileNames: string[], outputFileName: string) {
-//     try {
-//         let combinedData: Product[] = [];
+async function combineJsonFiles(fileNames: string[], outputFileName: string) {
+    try {
+        let combinedData: Product[] = [];
 
-//         for (const fileName of fileNames) {
-//             const filePath = path.join(__dirname, `../products/pab/men/${fileName}.json`);
-//             const fileData = await fs.readFile(filePath, 'utf8');
-//             const jsonData = JSON.parse(fileData);
-//             combinedData = combinedData.concat(jsonData);
-//         }
+        for (const fileName of fileNames) {
+            const filePath = path.join(__dirname, `../products/bershka/women/${fileName}.json`);
+            const fileData = await fs.readFile(filePath, 'utf8');
+            const jsonData = JSON.parse(fileData);
+            combinedData = combinedData.concat(jsonData);
+        }
 
-//         const shuffled = shuffleArray(combinedData)
-//         await fs.writeFile(path.join(__dirname, outputFileName), JSON.stringify(shuffled, null, 2));
-//         console.log(`Combined data saved to ${outputFileName}`);
-//     } catch (error) {
-//         console.error('Error combining JSON files:', error);
-//     }
-// }
+        const shuffled = shuffleArray(combinedData)
+        await fs.writeFile(path.join(__dirname, outputFileName), JSON.stringify(shuffled, null, 2));
+        console.log(`Combined data saved to ${outputFileName}`);
+    } catch (error) {
+        console.error('Error combining JSON files:', error);
+    }
+}
 
-// const fileNames = [
-//     "t-shirts",
-//     "shorts",
-//     "bryuki",
-//     "jeans",
-//     "shirts",
-//     "hoodie",
-//     "kurtki",
-//     "trikotazh",
-// ]
+const fileNames = [
+    "dresses",
+            "jeans",
+            "bryuki",
+            "shorts",
+            "yubki",
+            "tshirts",
+            "tops",
+            "shirts",
+            "kurtki",
+            "hoodie",
+            "trikotazh"
+]
 
-// const outputFileName = '../products/pab/men/all.json';
+const outputFileName = '../products/bershka/women/all.json';
 
-// // combineJsonFiles(fileNames, outputFileName);
+// combineJsonFiles(fileNames, outputFileName);
 // // some();
 // // another()
 // const lol = async () => {

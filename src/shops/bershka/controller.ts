@@ -10,43 +10,40 @@ class BershkaController{
     async GetClothes():Promise<Product[]>{
         const products: Product[] = []
         const forWomen: { [key: string]: string } = {
-        //     "t-shirts": "1030204631",
-        //     "dresses": "1030204618",
-        //     "tops": "1030207187",
-        //     "pants": "1030207189",
-        //     "jeans": "1030204693",
-        //     "yubka": "1030204678",
-        //     "shorts": "1030204685",
-        //     "hoodie": "1030204660",
-        //     "kurtki": "1030471395",
-        //     "trikotasz": "1030204669",
-        //     "shirts": "1030204645",
-        //     "zhileti": "1030319538",
-        //     "kombinezoni": "1030204628",
-        //    "blazer": "1030441307"
+            "dresses": "1010193213",
+            "jeans": "1010276029",
+            "bryuki":"1010193216",
+            "shorts":"1010194517",
+            "yubki":"1010280023",
+            "tshirts":"1010193217",
+            "tops":"1010193220",
+            "shirts":"1010193221",
+            "kurtki":"1010193212",
+            "hoodie":"1010726850",
+            "trikotazh":"1010582169"
           };
         const forMen: {[key: string]: string} = {
-            // "tshirts":"1010193239",
-            // "shirts":"1010193240",
-            // "pants":"1010193241",
-            // "jeans":"1010193238",
-            // "hoodie":"1010193244",
+            "tshirts":"1010193239",
+            "shirts":"1010193240",
+            "pants":"1010193241",
+            "jeans":"1010193238",
+            "hoodie":"1010193244",
             "outwear":"1010193546",
             "knitwear":"1010630253",
             "shorts":"1010193242"
         }
           
-        //   for (const key in forWomen) {
-        //     if (Object.prototype.hasOwnProperty.call(forWomen, key)) {
-        //       const value = forWomen[key as keyof typeof forWomen];
-        //       const product = await pab.GetClothes(value)
-        //       const shuffledProducts = shuffleArray(product)
-        //       products.push(...shuffledProducts)
-        //       await fs.writeFile(`./products/pab/women/${key}.json`, JSON.stringify(shuffledProducts, null, 2));
-        //       const randomDelay = Math.floor(Math.random() * (1000 - 200 + 1)) + 200;
-        //       await sleep(randomDelay)
-        //     }
-        //   }
+          for (const key in forWomen) {
+            if (Object.prototype.hasOwnProperty.call(forWomen, key)) {
+              const value = forWomen[key as keyof typeof forWomen];
+              const product = await pab.GetClothes(value)
+              const shuffledProducts = shuffleArray(product)
+              products.push(...shuffledProducts)
+              await fs.writeFile(`./products/bershka/women/${key}.json`, JSON.stringify(shuffledProducts, null, 2));
+              const randomDelay = Math.floor(Math.random() * (1000 - 200 + 1)) + 200;
+              await sleep(randomDelay)
+            }
+          }
         for (const key in forMen) {
             if (Object.prototype.hasOwnProperty.call(forMen, key)) {
               const value = forMen[key as keyof typeof forMen];
@@ -59,7 +56,6 @@ class BershkaController{
             }
           }
           
-
         return products
     }
 }

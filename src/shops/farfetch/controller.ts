@@ -7,10 +7,10 @@ const farfetch = new FarfetchParserService()
 
 class FarfetchParserController{
     async GetClothing(): Promise<Product[]> {
-        //const womenClothing = await this.GetWomenClothing();
+        const womenClothing = await this.GetWomenClothing();
         const menClothing = await this.GetMenClothing();
         return menClothing
-        //return [...womenClothing, ...menClothing];
+        return [...womenClothing, ...menClothing];
     }
     
     async GetMenClothing():Promise<Product[]>{

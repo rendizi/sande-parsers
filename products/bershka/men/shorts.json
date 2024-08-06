@@ -1,27 +1,21 @@
 [
   {
-    "name": "Wide-leg Bermuda shorts",
-    "price": "3590",
-    "label": "",
-    "image": "https://static.bershka.net/assets/public/6376/8021/08c842aeba91/ad3cd65d2551/03346044711-r/03346044711-r.jpg?ts=1719396466207"
-  },
-  {
     "name": "Jacquard terrycloth Bermuda shorts",
     "price": "3990",
     "label": "",
     "image": "https://static.bershka.net/assets/public/9549/4748/f3c14dd9b4ff/3882bffcec29/03393296251-r/03393296251-r.jpg?ts=1720434006852"
   },
   {
-    "name": "Animal print baggy Bermuda jorts",
-    "price": "3493",
-    "label": "",
-    "image": "https://static.bershka.net/assets/public/dcb5/c0de/ed014ab2b2b1/cb02baf11944/08416220746-r/08416220746-r.jpg?ts=1719470340400"
-  },
-  {
     "name": "Striped jogger Bermuda shorts",
     "price": "3990",
     "label": "",
     "image": "https://static.bershka.net/assets/public/8272/3979/b5474beb93f5/abdedfe5948d/0843670340313-a1t/0843670340313-a1t.jpg?ts=1718876459898"
+  },
+  {
+    "name": "Animal print baggy Bermuda jorts",
+    "price": "3493",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/dcb5/c0de/ed014ab2b2b1/cb02baf11944/08416220746-r/08416220746-r.jpg?ts=1719470340400"
   },
   {
     "name": "Wide-leg Bermuda shorts",

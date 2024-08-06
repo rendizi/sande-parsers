@@ -1,0 +1,944 @@
+[
+  {
+    "name": "Slim-fit short sleeve printed T-shirt",
+    "price": "1145",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/2290/5e96/4d2a414682f6/86ba73997841/07992443800-14-a4o/07992443800-14-a4o.jpg?ts=1718264683250"
+  },
+  {
+    "name": "Boxy fit cropped short sleeve T-shirt",
+    "price": "1990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a322/da42/1de247098606/aa5b76c1d317/0802048070709-a1t/0802048070709-a1t.jpg?ts=1717784423203"
+  },
+  {
+    "name": "BERSHKA x NO FEAR super baggy jeans",
+    "price": "6990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/2944/37b6/845c450fa015/3ea8609460c7/00405335400-r/00405335400-r.jpg?ts=1721640404911"
+  },
+  {
+    "name": "Geometric crochet short sleeve shirt",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/931d/8400/13014c1585cd/25f8daded34e/0637449430013-p/0637449430013-p.jpg?ts=1720087486133"
+  },
+  {
+    "name": "Cropped crochet vest",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1415/b7e0/c5fc4dd299f7/087233f5ab2f/08627686251-a4o/08627686251-a4o.jpg?ts=1718030409082"
+  },
+  {
+    "name": "Short sleeve crochet shirt",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ccc2/0864/0985473a8a64/a3b3a03ba147/06373494711-r/06373494711-r.jpg?ts=1721054433841"
+  },
+  {
+    "name": "Pleated short sleeve shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a853/2124/1e8d4cf885da/676ffd3fe759/06381044800-a4o/06381044800-a4o.jpg?ts=1721636011712"
+  },
+  {
+    "name": "Short sleeve shirt with pockets and embroidery",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/49dd/24e5/49fe4890a956/f56a72228c3e/06380665802-b/06380665802-b.jpg?ts=1716986580926"
+  },
+  {
+    "name": "Faded-effect long sleeve sweatshirt",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/e546/f320/7c484f768b74/55d3eee64d35/07369732800-r/07369732800-r.jpg?ts=1721826894704"
+  },
+  {
+    "name": "Straight fit plaid pants",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a1c7/bb72/fda84252bd98/c3685060347a/0511020750013-p/0511020750013-p.jpg?ts=1720701628694"
+  },
+  {
+    "name": "Baggy jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/0159/24e7/1a6545ab8ee8/b4ce96c32954/05341335426-a4o/05341335426-a4o.jpg?ts=1716979662073"
+  },
+  {
+    "name": "Loose-fit baggy jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/aa3b/8d26/504845b19260/93d871936b46/05343534428-r/05343534428-r.jpg?ts=1720435967208"
+  },
+  {
+    "name": "Jacquard terrycloth Bermuda shorts",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/9549/4748/f3c14dd9b4ff/3882bffcec29/03393296251-r/03393296251-r.jpg?ts=1720434006852"
+  },
+  {
+    "name": "Short sleeve tailored boxy fit shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/51c0/091b/3cc94899aa3b/19b46beba787/06377228700-r/06377228700-r.jpg?ts=1718619271889"
+  },
+  {
+    "name": "Super baggy jeans",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/cffc/0f78/fde3454596a5/44c6a46a2707/05340352775-r/05340352775-r.jpg?ts=1717490571985"
+  },
+  {
+    "name": "Boxy-fit short sleeve T-shirt",
+    "price": "2290",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/2078/47c6/39564302ac06/053d691ae17d/08003155250-r/08003155250-r.jpg?ts=1719404676037"
+  },
+  {
+    "name": "Printed boxy fit short sleeve T-shirt",
+    "price": "2290",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/21f3/e184/02924181b3fa/1cac9ac35af6/08031443250-r/08031443250-r.jpg?ts=1720434571230"
+  },
+  {
+    "name": "BERSHKA x NO FEAR boxy fit sweatshirt with zipper",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ba77/bd4e/855443608ffc/f949f939f132/01817127800-b/01817127800-b.jpg?ts=1721638232836"
+  },
+  {
+    "name": "Short sleeve linen blend shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/67f1/7183/a52941b597b1/e024f006239e/06389019800-a4o/06389019800-a4o.jpg?ts=1721661224882"
+  },
+  {
+    "name": "Geometric crochet short sleeve shirt",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/931d/8400/13014c1585cd/25f8daded34e/0637449430013-p/0637449430013-p.jpg?ts=1720087486133"
+  },
+  {
+    "name": "Crew neck sweatshirt",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/9e44/0953/e83d4013bbb8/fdf2a745e3db/07370732818-a4o/07370732818-a4o.jpg?ts=1721125524485"
+  },
+  {
+    "name": "Straight fit jeans",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/4692/798e/9c2a40f8aed6/6ce7bdc56b3a/05338534400-r/05338534400-r.jpg?ts=1719388348743"
+  },
+  {
+    "name": "Faded-effect long sleeve sweatshirt",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/e546/f320/7c484f768b74/55d3eee64d35/07369732800-r/07369732800-r.jpg?ts=1721826894704"
+  },
+  {
+    "name": "Hoodie",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/0995/d78d/967e45939e2a/0991eeb46640/07371498800-p/07371498800-p.jpg?ts=1720538076479"
+  },
+  {
+    "name": "Boxy fit cropped short sleeve T-shirt",
+    "price": "1990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a322/da42/1de247098606/aa5b76c1d317/0802048070709-a1t/0802048070709-a1t.jpg?ts=1717784423203"
+  },
+  {
+    "name": "Printed short sleeve plush T-shirt",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/72e7/1f1b/e15e4fe29490/b4d6519c496b/08049538250-a4o/08049538250-a4o.jpg?ts=1719831424768"
+  },
+  {
+    "name": "Striped boxy-fit short sleeve shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/eaae/2b11/a88d43159781/b01afe932899/06407703403-r/06407703403-r.jpg?ts=1719842337997"
+  },
+  {
+    "name": "Hoodie",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1759/de40/7ae2456fbacf/14c4f91aacec/07368498818-r/07368498818-r.jpg?ts=1719323692584"
+  },
+  {
+    "name": "Varsity bomber jacket",
+    "price": "6990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/23fe/a8f4/47bb4bdba0a5/cf4a3229d88f/06772564200-a4o/06772564200-a4o.jpg?ts=1721661164359"
+  },
+  {
+    "name": "Super baggy jeans",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/cffc/0f78/fde3454596a5/44c6a46a2707/05340352775-r/05340352775-r.jpg?ts=1717490571985"
+  },
+  {
+    "name": "Short sleeve mesh printed T-shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/6c08/13b4/0b4646308ae0/59f901fce791/07976623800-a4o/07976623800-a4o.jpg?ts=1721047105438"
+  },
+  {
+    "name": "Loose-fit jeans",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/7ecb/bd48/13e74783a8e9/ba66020122f3/05339352428-r/05339352428-r.jpg?ts=1720078254871"
+  },
+  {
+    "name": "Zip-up sweatshirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/b736/c72e/210d4f9bbaf3/174be5f0ebdd/07042732737-r/07042732737-r.jpg?ts=1720434850100"
+  },
+  {
+    "name": "Short sleeve tailored boxy fit shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/51c0/091b/3cc94899aa3b/19b46beba787/06377228700-r/06377228700-r.jpg?ts=1718619271889"
+  },
+  {
+    "name": "Boxy fit cropped short sleeve T-shirt",
+    "price": "1990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a322/da42/1de247098606/aa5b76c1d317/0802048070709-a1t/0802048070709-a1t.jpg?ts=1717784423203"
+  },
+  {
+    "name": "Wide-leg pleated pants",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/b717/79bb/597f468ea140/9be675857f77/05427054800-a4o/05427054800-a4o.jpg?ts=1718032668796"
+  },
+  {
+    "name": "Printed short sleeve oversize T-shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/37ac/794a/b829464fa43b/90330b3f3942/08014492250-a4o/08014492250-a4o.jpg?ts=1718177513271"
+  },
+  {
+    "name": "Baggy jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/0159/24e7/1a6545ab8ee8/b4ce96c32954/05341335426-a4o/05341335426-a4o.jpg?ts=1716979662073"
+  },
+  {
+    "name": "Striped textured short sleeve shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/23b4/d3b8/b2c44f89ab5d/38d45ffcdfd5/06508645060-r/06508645060-r.jpg?ts=1719999143539"
+  },
+  {
+    "name": "Striped textured short sleeve shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/23b4/d3b8/b2c44f89ab5d/38d45ffcdfd5/06508645060-r/06508645060-r.jpg?ts=1719999143539"
+  },
+  {
+    "name": "Striped jogger Bermuda shorts",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/8272/3979/b5474beb93f5/abdedfe5948d/0843670340313-a1t/0843670340313-a1t.jpg?ts=1718876459898"
+  },
+  {
+    "name": "Baggy jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/0159/24e7/1a6545ab8ee8/b4ce96c32954/05341335426-a4o/05341335426-a4o.jpg?ts=1716979662073"
+  },
+  {
+    "name": "Printed hoodie",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/acf4/a59a/faee44cc977e/8576e5fcd397/07372190442-r/07372190442-r.jpg?ts=1720436047768"
+  },
+  {
+    "name": "Straight fit jeans",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/4692/798e/9c2a40f8aed6/6ce7bdc56b3a/05338534400-r/05338534400-r.jpg?ts=1719388348743"
+  },
+  {
+    "name": "Skater jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ca47/5d24/7d324bd7a5d0/75dce26767b7/05342171433-r/05342171433-r.jpg?ts=1720623094971"
+  },
+  {
+    "name": "Baggy jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/0159/24e7/1a6545ab8ee8/b4ce96c32954/05341335426-a4o/05341335426-a4o.jpg?ts=1716979662073"
+  },
+  {
+    "name": "Straight fit plaid pants",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a1c7/bb72/fda84252bd98/c3685060347a/0511020750013-p/0511020750013-p.jpg?ts=1720701628694"
+  },
+  {
+    "name": "Short sleeve linen blend shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/67f1/7183/a52941b597b1/e024f006239e/06389019800-a4o/06389019800-a4o.jpg?ts=1721661224882"
+  },
+  {
+    "name": "Hoodie",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1759/de40/7ae2456fbacf/14c4f91aacec/07368498818-r/07368498818-r.jpg?ts=1719323692584"
+  },
+  {
+    "name": "Textured open knit short sleeve shirt",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ab71/54fd/b58c4eefb628/807fab2dade9/06505218251-a4o/06505218251-a4o.jpg?ts=1719921230640"
+  },
+  {
+    "name": "Wide-leg Bermuda shorts",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/6376/8021/08c842aeba91/ad3cd65d2551/03346044711-r/03346044711-r.jpg?ts=1719396466207"
+  },
+  {
+    "name": "Zip-up sweatshirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/b736/c72e/210d4f9bbaf3/174be5f0ebdd/07042732737-r/07042732737-r.jpg?ts=1720434850100"
+  },
+  {
+    "name": "BERSHKA x NO FEAR relaxed cropped T-shirt",
+    "price": "2790",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/b992/faea/650143ed8ed3/827ea06a27fa/02969538250-a4o/02969538250-a4o.jpg?ts=1721638416459"
+  },
+  {
+    "name": "Super baggy jeans",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/cffc/0f78/fde3454596a5/44c6a46a2707/05340352775-r/05340352775-r.jpg?ts=1717490571985"
+  },
+  {
+    "name": "Short sleeve plush T-shirt",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/0656/93cc/279f4235ad5a/8013913273bd/08025003800-a4o/08025003800-a4o.jpg?ts=1721228818923"
+  },
+  {
+    "name": "Hoodie",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1759/de40/7ae2456fbacf/14c4f91aacec/07368498818-r/07368498818-r.jpg?ts=1719323692584"
+  },
+  {
+    "name": "Boxy fit cropped short sleeve T-shirt",
+    "price": "1990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a322/da42/1de247098606/aa5b76c1d317/0802048070709-a1t/0802048070709-a1t.jpg?ts=1717784423203"
+  },
+  {
+    "name": "Short sleeve plush T-shirt",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/0656/93cc/279f4235ad5a/8013913273bd/08025003800-a4o/08025003800-a4o.jpg?ts=1721228818923"
+  },
+  {
+    "name": "Hoodie",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1759/de40/7ae2456fbacf/14c4f91aacec/07368498818-r/07368498818-r.jpg?ts=1719323692584"
+  },
+  {
+    "name": "Hoodie",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1759/de40/7ae2456fbacf/14c4f91aacec/07368498818-r/07368498818-r.jpg?ts=1719323692584"
+  },
+  {
+    "name": "Striped jogger baggy pants",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/229c/c410/926d44fcb6f4/ffe77b10775c/05434703406-a4o/05434703406-a4o.jpg?ts=1718724102372"
+  },
+  {
+    "name": "Wide-leg pleated pants",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/b717/79bb/597f468ea140/9be675857f77/05427054800-a4o/05427054800-a4o.jpg?ts=1718032668796"
+  },
+  {
+    "name": "Baggy jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/0159/24e7/1a6545ab8ee8/b4ce96c32954/05341335426-a4o/05341335426-a4o.jpg?ts=1716979662073"
+  },
+  {
+    "name": "Plush sweatpants",
+    "price": "2990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/beb8/c131/ca0d4e2e90e4/d685346fa316/05488498800-r/05488498800-r.jpg?ts=1718118350647"
+  },
+  {
+    "name": "Straight fit plaid pants",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a1c7/bb72/fda84252bd98/c3685060347a/0511020750013-p/0511020750013-p.jpg?ts=1720701628694"
+  },
+  {
+    "name": "Short sleeve shirt with embroidery and ribbed neck",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/f851/1abd/93e14a24aaa8/d8cc63b6150b/06386228251-b/06386228251-b.jpg?ts=1722599672700"
+  },
+  {
+    "name": "Animal print baggy Bermuda jorts",
+    "price": "3493",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/dcb5/c0de/ed014ab2b2b1/cb02baf11944/08416220746-r/08416220746-r.jpg?ts=1719470340400"
+  },
+  {
+    "name": "Short sleeve mesh printed T-shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/6c08/13b4/0b4646308ae0/59f901fce791/07976623800-a4o/07976623800-a4o.jpg?ts=1721047105438"
+  },
+  {
+    "name": "Super baggy jeans",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/cffc/0f78/fde3454596a5/44c6a46a2707/05340352775-r/05340352775-r.jpg?ts=1717490571985"
+  },
+  {
+    "name": "Plush sweatpants",
+    "price": "2990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/beb8/c131/ca0d4e2e90e4/d685346fa316/05488498800-r/05488498800-r.jpg?ts=1718118350647"
+  },
+  {
+    "name": "Baggy jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/0159/24e7/1a6545ab8ee8/b4ce96c32954/05341335426-a4o/05341335426-a4o.jpg?ts=1716979662073"
+  },
+  {
+    "name": "Loose-fit jeans",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/7ecb/bd48/13e74783a8e9/ba66020122f3/05339352428-r/05339352428-r.jpg?ts=1720078254871"
+  },
+  {
+    "name": "Faded interlock pants",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ae97/39cb/49d640b388bc/029cc4769355/05490732710-a3f/05490732710-a3f.jpg?ts=1720077738578"
+  },
+  {
+    "name": "Mega baggy jeans",
+    "price": "6990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/27be/14f0/f8124444b9b6/8b153dac3bb5/05333352800-a3f/05333352800-a3f.jpg?ts=1718030008331"
+  },
+  {
+    "name": "Textured vest",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/cbc9/d8f0/3af14c5a84cc/a8525a8ddd58/08629623305-r/08629623305-r.jpg?ts=1718030413638"
+  },
+  {
+    "name": "Faded-effect long sleeve sweatshirt",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/e546/f320/7c484f768b74/55d3eee64d35/07369732800-r/07369732800-r.jpg?ts=1721826894704"
+  },
+  {
+    "name": "Oversize sports mesh short sleeve T-shirt",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/2e08/8b13/6ffc442d906e/98334a9d1e6c/08045169800-a4o/08045169800-a4o.jpg?ts=1721228845932"
+  },
+  {
+    "name": "Mega baggy jeans",
+    "price": "6990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/27be/14f0/f8124444b9b6/8b153dac3bb5/05333352800-a3f/05333352800-a3f.jpg?ts=1718030008331"
+  },
+  {
+    "name": "Hoodie",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/0995/d78d/967e45939e2a/0991eeb46640/07371498800-p/07371498800-p.jpg?ts=1720538076479"
+  },
+  {
+    "name": "Short sleeve tailored boxy fit shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/51c0/091b/3cc94899aa3b/19b46beba787/06377228700-r/06377228700-r.jpg?ts=1718619271889"
+  },
+  {
+    "name": "Skater jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ca47/5d24/7d324bd7a5d0/75dce26767b7/05342171433-r/05342171433-r.jpg?ts=1720623094971"
+  },
+  {
+    "name": "Zip-up sweatshirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/b736/c72e/210d4f9bbaf3/174be5f0ebdd/07042732737-r/07042732737-r.jpg?ts=1720434850100"
+  },
+  {
+    "name": "Cotton jacket with print",
+    "price": "6990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/241e/0a82/b0224939a816/0dcd40b88016/06773730712-b/06773730712-b.jpg?ts=1721635824751"
+  },
+  {
+    "name": "Printed short sleeve plush T-shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a7b1/2c15/c27f45b289e8/ffd29a886147/07379127401-r/07379127401-r.jpg?ts=1719386996898"
+  },
+  {
+    "name": "Pleated short sleeve shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1ce0/1b9e/bce84588b0a2/989a109b0730/06396557800-r/06396557800-r.jpg?ts=1718638147964"
+  },
+  {
+    "name": "Hoodie",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/0995/d78d/967e45939e2a/0991eeb46640/07371498800-p/07371498800-p.jpg?ts=1720538076479"
+  },
+  {
+    "name": "Printed hoodie",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/7427/c6f8/3f2847e1b99f/3a8990881d9d/07373190710-r/07373190710-r.jpg?ts=1719386959172"
+  },
+  {
+    "name": "Short sleeve mesh printed T-shirt",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/2ea8/28f9/c3414c9e9312/4a5d02bae6ce/07999443800-a4o/07999443800-a4o.jpg?ts=1718118500424"
+  },
+  {
+    "name": "Relaxed fit embroidered short sleeve shirt",
+    "price": "6990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/7591/5a0c/22f54bb090dd/79e26f2b7d3a/0640955725013-a4o/0640955725013-a4o.jpg?ts=1722430384556"
+  },
+  {
+    "name": "Textured open knit short sleeve shirt",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ab71/54fd/b58c4eefb628/807fab2dade9/06505218251-a4o/06505218251-a4o.jpg?ts=1719921230640"
+  },
+  {
+    "name": "Textured open knit vest",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/3f57/8301/03a44eafbeb5/a61bad9e8b75/08630645250-a4o/08630645250-a4o.jpg?ts=1719834837789"
+  },
+  {
+    "name": "Wide-leg Bermuda shorts",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/6376/8021/08c842aeba91/ad3cd65d2551/03346044711-r/03346044711-r.jpg?ts=1719396466207"
+  },
+  {
+    "name": "Printed boxy fit short sleeve T-shirt",
+    "price": "2290",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/21f3/e184/02924181b3fa/1cac9ac35af6/08031443250-r/08031443250-r.jpg?ts=1720434571230"
+  },
+  {
+    "name": "Short sleeve shirt with embroidery and ribbed neck",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/f851/1abd/93e14a24aaa8/d8cc63b6150b/06386228251-b/06386228251-b.jpg?ts=1722599672700"
+  },
+  {
+    "name": "Skater jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ca47/5d24/7d324bd7a5d0/75dce26767b7/05342171433-r/05342171433-r.jpg?ts=1720623094971"
+  },
+  {
+    "name": "Wide-leg plush pants",
+    "price": "2990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a957/5323/18ff4c9ba687/e5d08be65d2e/05489190737-r/05489190737-r.jpg?ts=1719389033455"
+  },
+  {
+    "name": "Boxy-fit short sleeve T-shirt",
+    "price": "2290",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/2078/47c6/39564302ac06/053d691ae17d/08003155250-r/08003155250-r.jpg?ts=1719404676037"
+  },
+  {
+    "name": "Skater jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ca47/5d24/7d324bd7a5d0/75dce26767b7/05342171433-r/05342171433-r.jpg?ts=1720623094971"
+  },
+  {
+    "name": "Straight fit plaid pants",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/9379/a554/ed0742dc8ccb/5c758d3861dc/0520116880013-a4o/0520116880013-a4o.jpg?ts=1720701367720"
+  },
+  {
+    "name": "Embroidered plush short sleeve T-shirt",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1b42/a384/9d444a43b903/b539af36d847/08070538400-r/08070538400-r.jpg?ts=1722341021770"
+  },
+  {
+    "name": "Printed hoodie",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/7427/c6f8/3f2847e1b99f/3a8990881d9d/07373190710-r/07373190710-r.jpg?ts=1719386959172"
+  },
+  {
+    "name": "Faded interlock pants",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ae97/39cb/49d640b388bc/029cc4769355/05490732710-a3f/05490732710-a3f.jpg?ts=1720077738578"
+  },
+  {
+    "name": "Crew neck sweatshirt",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/9e44/0953/e83d4013bbb8/fdf2a745e3db/07370732818-a4o/07370732818-a4o.jpg?ts=1721125524485"
+  },
+  {
+    "name": "BERSHKA x NO FEAR strappy T-shirt",
+    "price": "2290",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/def0/512c/7c7342fc93ca/f170a9698fea/02968589250-b/02968589250-b.jpg?ts=1721638354804"
+  },
+  {
+    "name": "Loose-fit jeans",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/7ecb/bd48/13e74783a8e9/ba66020122f3/05339352428-r/05339352428-r.jpg?ts=1720078254871"
+  },
+  {
+    "name": "Wide-leg plush pants",
+    "price": "2990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a957/5323/18ff4c9ba687/e5d08be65d2e/05489190737-r/05489190737-r.jpg?ts=1719389033455"
+  },
+  {
+    "name": "Short sleeve T-shirt with embroidered print",
+    "price": "2790",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/dcb6/4671/076b40b88c1c/e6d0f35fc35d/0805113025113-a4o/0805113025113-a4o.jpg?ts=1720680090990"
+  },
+  {
+    "name": "Super baggy jeans",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/cffc/0f78/fde3454596a5/44c6a46a2707/05340352775-r/05340352775-r.jpg?ts=1717490571985"
+  },
+  {
+    "name": "Striped jogger baggy pants",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/229c/c410/926d44fcb6f4/ffe77b10775c/05434703406-a4o/05434703406-a4o.jpg?ts=1718724102372"
+  },
+  {
+    "name": "Straight fit plaid pants",
+    "price": "3990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a1c7/bb72/fda84252bd98/c3685060347a/0511020750013-p/0511020750013-p.jpg?ts=1720701628694"
+  },
+  {
+    "name": "Baggy jeans with fringing",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/67a7/6be5/cb8f40dcbcc6/1204c8bc0443/05327352432-a4o/05327352432-a4o.jpg?ts=1721635124097"
+  },
+  {
+    "name": "Printed short sleeve textured shirt",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1120/941a/e43147b18c1d/82f3ea4bcbac/06506218251-a4o/06506218251-a4o.jpg?ts=1717429101899"
+  },
+  {
+    "name": "Embroidered short sleeve boxy fit shirt",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a112/b2ad/6d3048448ec2/ad0240b4244d/06366044250-a4o/06366044250-a4o.jpg?ts=1721125896562"
+  },
+  {
+    "name": "Hoodie",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1759/de40/7ae2456fbacf/14c4f91aacec/07368498818-r/07368498818-r.jpg?ts=1719323692584"
+  },
+  {
+    "name": "Wide-leg plush pants",
+    "price": "2990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a957/5323/18ff4c9ba687/e5d08be65d2e/05489190737-r/05489190737-r.jpg?ts=1719389033455"
+  },
+  {
+    "name": "Straight fit jeans",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/4692/798e/9c2a40f8aed6/6ce7bdc56b3a/05338534400-r/05338534400-r.jpg?ts=1719388348743"
+  },
+  {
+    "name": "Baggy jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/0159/24e7/1a6545ab8ee8/b4ce96c32954/05341335426-a4o/05341335426-a4o.jpg?ts=1716979662073"
+  },
+  {
+    "name": "Pleated short sleeve shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1ce0/1b9e/bce84588b0a2/989a109b0730/06396557800-r/06396557800-r.jpg?ts=1718638147964"
+  },
+  {
+    "name": "Striped boxy-fit short sleeve shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/eaae/2b11/a88d43159781/b01afe932899/06407703403-r/06407703403-r.jpg?ts=1719842337997"
+  },
+  {
+    "name": "Embroidered plush short sleeve T-shirt",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1b42/a384/9d444a43b903/b539af36d847/08070538400-r/08070538400-r.jpg?ts=1722341021770"
+  },
+  {
+    "name": "Short sleeve faded-effect T-shirt with a print",
+    "price": "2290",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a64c/046a/bce2481fbe3c/ce880d77e2b3/08041492403-b/08041492403-b.jpg?ts=1721037787989"
+  },
+  {
+    "name": "Printed short sleeve plush T-shirt",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/72e7/1f1b/e15e4fe29490/b4d6519c496b/08049538250-a4o/08049538250-a4o.jpg?ts=1719831424768"
+  },
+  {
+    "name": "Hoodie",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1759/de40/7ae2456fbacf/14c4f91aacec/07368498818-r/07368498818-r.jpg?ts=1719323692584"
+  },
+  {
+    "name": "Tailored sweatpants",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/72d1/d7b5/87ae4f589778/f475524c9cde/05419228700-r/05419228700-r.jpg?ts=1718615598222"
+  },
+  {
+    "name": "Varsity bomber jacket",
+    "price": "6990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/23fe/a8f4/47bb4bdba0a5/cf4a3229d88f/06772564200-a4o/06772564200-a4o.jpg?ts=1721661164359"
+  },
+  {
+    "name": "BERSHKA x NO FEAR relaxed fit short sleeve T-shirt",
+    "price": "2790",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/91a2/7ceb/ee1e406f8666/0de31d422e77/02964538800-b/02964538800-b.jpg?ts=1721638272623"
+  },
+  {
+    "name": "Short sleeve crochet shirt",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ccc2/0864/0985473a8a64/a3b3a03ba147/06373494711-r/06373494711-r.jpg?ts=1721054433841"
+  },
+  {
+    "name": "Hoodie",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1759/de40/7ae2456fbacf/14c4f91aacec/07368498818-r/07368498818-r.jpg?ts=1719323692584"
+  },
+  {
+    "name": "Embroidered striped short sleeve shirt",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/9ca4/f3e2/b52d40cea0b8/c4c22639e630/06388557403-r/06388557403-r.jpg?ts=1720535722814"
+  },
+  {
+    "name": "Tailored sweatpants",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/72d1/d7b5/87ae4f589778/f475524c9cde/05419228700-r/05419228700-r.jpg?ts=1718615598222"
+  },
+  {
+    "name": "Relaxed fit short sleeve T-shirt",
+    "price": "2290",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a1a1/c0ea/690445bb8fe2/ab7aaf646456/08071538251-r/08071538251-r.jpg?ts=1722341053202"
+  },
+  {
+    "name": "Embroidered short sleeve shirt",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/32e8/42d7/f0034bf08bd5/4760dd4838be/0637249471213-a4o/0637249471213-a4o.jpg?ts=1720008910573"
+  },
+  {
+    "name": "BERSHKA x NO FEAR relaxed cropped T-shirt",
+    "price": "2790",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/b992/faea/650143ed8ed3/827ea06a27fa/02969538250-a4o/02969538250-a4o.jpg?ts=1721638416459"
+  },
+  {
+    "name": "Varsity bomber jacket",
+    "price": "6990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/23fe/a8f4/47bb4bdba0a5/cf4a3229d88f/06772564200-a4o/06772564200-a4o.jpg?ts=1721661164359"
+  },
+  {
+    "name": "Wide-leg Bermuda shorts",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/6376/8021/08c842aeba91/ad3cd65d2551/03346044711-r/03346044711-r.jpg?ts=1719396466207"
+  },
+  {
+    "name": "Skater jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ca47/5d24/7d324bd7a5d0/75dce26767b7/05342171433-r/05342171433-r.jpg?ts=1720623094971"
+  },
+  {
+    "name": "Tailored sweatpants",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/72d1/d7b5/87ae4f589778/f475524c9cde/05419228700-r/05419228700-r.jpg?ts=1718615598222"
+  },
+  {
+    "name": "Wide-leg plush pants",
+    "price": "2990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a957/5323/18ff4c9ba687/e5d08be65d2e/05489190737-r/05489190737-r.jpg?ts=1719389033455"
+  },
+  {
+    "name": "Printed boxy fit short sleeve T-shirt",
+    "price": "1395",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/6f7f/150d/debf49bfb9b1/0cb8795ac035/08060130701-r/08060130701-r.jpg?ts=1719831435295"
+  },
+  {
+    "name": "Cotton jacket with print",
+    "price": "6990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/241e/0a82/b0224939a816/0dcd40b88016/06773730712-b/06773730712-b.jpg?ts=1721635824751"
+  },
+  {
+    "name": "Straight fit jeans",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/4692/798e/9c2a40f8aed6/6ce7bdc56b3a/05338534400-r/05338534400-r.jpg?ts=1719388348743"
+  },
+  {
+    "name": "Loose-fit baggy jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/aa3b/8d26/504845b19260/93d871936b46/05343534428-r/05343534428-r.jpg?ts=1720435967208"
+  },
+  {
+    "name": "Short sleeve linen blend shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/67f1/7183/a52941b597b1/e024f006239e/06389019800-a4o/06389019800-a4o.jpg?ts=1721661224882"
+  },
+  {
+    "name": "Loose-fit jeans",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/7ecb/bd48/13e74783a8e9/ba66020122f3/05339352428-r/05339352428-r.jpg?ts=1720078254871"
+  },
+  {
+    "name": "Embroidered short sleeve shirt",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/b1bb/3f34/248b46f0be1c/5f4722ed51e7/06378494711-a4o/06378494711-a4o.jpg?ts=1721635957544"
+  },
+  {
+    "name": "Straight fit plaid pants",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/9379/a554/ed0742dc8ccb/5c758d3861dc/0520116880013-a4o/0520116880013-a4o.jpg?ts=1720701367720"
+  },
+  {
+    "name": "Embroidered striped short sleeve shirt",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/e9e0/13e1/a3324977bff8/d71d983c4d02/06383055712-a4o/06383055712-a4o.jpg?ts=1721228858530"
+  },
+  {
+    "name": "Straight fit jeans",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/4692/798e/9c2a40f8aed6/6ce7bdc56b3a/05338534400-r/05338534400-r.jpg?ts=1719388348743"
+  },
+  {
+    "name": "Striped jogger baggy pants",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/229c/c410/926d44fcb6f4/ffe77b10775c/05434703406-a4o/05434703406-a4o.jpg?ts=1718724102372"
+  },
+  {
+    "name": "Skater jeans",
+    "price": "4990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/ca47/5d24/7d324bd7a5d0/75dce26767b7/05342171433-r/05342171433-r.jpg?ts=1720623094971"
+  },
+  {
+    "name": "Boxy-fit short sleeve T-shirt",
+    "price": "2290",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/2078/47c6/39564302ac06/053d691ae17d/08003155250-r/08003155250-r.jpg?ts=1719404676037"
+  },
+  {
+    "name": "Printed short sleeve textured shirt",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/1120/941a/e43147b18c1d/82f3ea4bcbac/06506218251-a4o/06506218251-a4o.jpg?ts=1717429101899"
+  },
+  {
+    "name": "Printed short sleeve plush T-shirt",
+    "price": "4590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/a7b1/2c15/c27f45b289e8/ffd29a886147/07379127401-r/07379127401-r.jpg?ts=1719386996898"
+  },
+  {
+    "name": "Super baggy jeans",
+    "price": "5990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/cffc/0f78/fde3454596a5/44c6a46a2707/05340352775-r/05340352775-r.jpg?ts=1717490571985"
+  },
+  {
+    "name": "Relaxed fit embroidered short sleeve shirt",
+    "price": "6990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/7591/5a0c/22f54bb090dd/79e26f2b7d3a/0640955725013-a4o/0640955725013-a4o.jpg?ts=1722430384556"
+  },
+  {
+    "name": "Plush sweatpants",
+    "price": "2990",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/beb8/c131/ca0d4e2e90e4/d685346fa316/05488498800-r/05488498800-r.jpg?ts=1718118350647"
+  },
+  {
+    "name": "Short sleeve tie-dye T-shirt",
+    "price": "3590",
+    "label": "",
+    "image": "https://static.bershka.net/assets/public/8290/3cc3/8353462fa239/c679802cc8ad/08020732714-a4o/08020732714-a4o.jpg?ts=1721635250962"
+  }
+]
