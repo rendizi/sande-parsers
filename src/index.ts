@@ -13,7 +13,7 @@ import pabwomen from "../products/pab/women/all.json"
 
 export const app = express()
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 4000;
 
 app.get('/magaz', (req: Request, res: Response) => {
     const queries = req.query as { [key: string]: string };
