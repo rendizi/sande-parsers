@@ -22,6 +22,7 @@ WORKDIR /app
 
 
 COPY --from=build /app/dist ./dist
+
 COPY --from=build /app/package*.json ./
 
 
