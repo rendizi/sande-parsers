@@ -20,7 +20,7 @@ app.use('/magaz',shopRouter)
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
-  });
+});
 // const some = async (): Promise<void> => {
 //     const farfetch = new FarfetchParserController();
 //     const products: Product[] = await farfetch.GetClothing();
@@ -41,12 +41,23 @@ app.listen(PORT, () => {
 
 const bershkaParser = async() => {
     const bershka = new BershkaController()
-    const products: Product[] = await bershka.GetClothes()
-    const shuffledProducts = shuffleArray(products);
+    await bershka.getClothes()
+}
 
-    await fs.writeFile('./bershka.json', JSON.stringify(shuffledProducts, null, 2));
-    console.log('Shuffled products have been saved to ./bershka.json');}
+const pabParser = async() => {
+    const pab = new PullAndBearController()
+    await pab.getClothes()
+}
 
+const ferfetchParser = async() => {
+    const farfetch = new FarfetchParserController()
+    await farfetch.init()
+    await farfetch.GetClothing()
+}
+
+// ferfetchParser()
+
+// pabParser()
 
 export const shuffleArray = (array: Product[]): Product[] => {
     for (let i = array.length - 1; i > 0; i--) {

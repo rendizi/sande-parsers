@@ -1,218 +1,674 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/84/96/92/22849692_52994670_480.jpg",
-    "label": "DSQUARED2",
-    "name": "джинсы Skater кроя слим",
-    "price": "$368"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/51/41/16/19514116_53118132_480.jpg",
-    "label": "Gucci",
-    "name": "stonewashed baggy cotton jeans",
-    "price": "$805"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/08/88/47/23088847_53259655_480.jpg",
-    "label": "Rick Owens DRKSHDW",
-    "name": "широкие джинсы Double Cargo Jumbo Belas",
-    "price": "$1,439"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/48/21/60/19482160_43632400_480.jpg",
-    "label": "Dolce & Gabbana",
-    "name": "logo plaque straight-leg jeans",
-    "price": "$825"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/68/40/18/21684018_52274943_480.jpg",
-    "label": "Acne Studios",
-    "name": "широкие джинсы средней посадки",
-    "price": "$352"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/18/44/84/65/18448465_41163493_480.jpg",
-    "label": "DSQUARED2",
-    "name": "faded skinny-fit jeans",
-    "price": "$372"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/13/68/69/32/13686932_26967291_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/26/65/38/23266538_54138088_480.jpg",
     "label": "AMIRI",
-    "name": "джинсы с нашивкой-логотипом",
-    "price": "$1,130"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/34/75/62/19347562_42542943_480.jpg",
-    "label": "Alexander McQueen",
-    "name": "turn-up cuff straight-leg jeans",
-    "price": "$533"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/54/20/72/21542072_52490610_480.jpg",
-    "label": "Karl Lagerfeld Jeans",
-    "name": "широкие джинсы Utility",
-    "price": "$93"
+    "name": "джинсы скинни MX1 Suede",
+    "price": "$1,115",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-mx1-suede-item-23266538.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/23/49/20/77/23492077_53624394_480.jpg",
     "label": "Versace",
     "name": "прямые джинсы с бахромой",
-    "price": "$706"
+    "price": "$706",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace--item-23492077.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/29/79/51/23297951_53480194_480.jpg",
-    "label": "OUR LEGACY",
-    "name": "широкие джинсы Vast Cut",
-    "price": "$304"
+    "image": "https://cdn-images.farfetch-contents.com/23/06/91/87/23069187_53486675_480.jpg",
+    "label": "Represent",
+    "name": "джинсы карго",
+    "price": "$242",
+    "url": "https://www.farfetch.com/kz/shopping/men/represent--item-23069187.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/78/74/16/20787416_54452331_480.jpg",
-    "label": "Balenciaga",
-    "name": "прямые джинсы с эффектом потертости",
-    "price": "$931"
+    "image": "https://cdn-images.farfetch-contents.com/22/73/67/69/22736769_52814653_480.jpg",
+    "label": "Haikure",
+    "name": "джинсы прямого кроя",
+    "price": "$145",
+    "url": "https://www.farfetch.com/kz/shopping/men/haikure--item-22736769.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/41/37/09/22413709_52388719_480.jpg",
-    "label": "DSQUARED2",
-    "name": "джинсы Cool Guy с эффектом потертости",
-    "price": "$334"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/80/00/71/19800071_44423251_480.jpg",
-    "label": "Studio Nicholson",
-    "name": "wide-leg denim trousers",
-    "price": "$302"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/70/69/36/19706936_44473120_480.jpg",
-    "label": "MARANT",
-    "name": "mid-wash straight-leg jeans",
-    "price": "$320"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/35/50/65/24355065_54396594_480.jpg",
-    "label": "DSQUARED2",
-    "name": "джинсы Bro",
-    "price": "$491"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/79/81/74/19798174_44424255_480.jpg",
-    "label": "Jacob Cohën",
-    "name": "прямые джинсы с нашивкой-логотипом",
-    "price": "$868"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/15/50/17/77/15501777_27889450_480.jpg",
-    "label": "Acne Studios",
-    "name": "джинсы North Stay кроя слим",
-    "price": "$181"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/31/58/69/24315869_54381642_480.jpg",
-    "label": "Balenciaga",
-    "name": "джинсовые шорты-бермуды",
-    "price": "$1,125"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/15/45/75/08/15457508_30169915_480.jpg",
-    "label": "OUR LEGACY",
-    "name": "джинсы Third Cut свободного кроя",
-    "price": "$436"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/23/97/55/23239755_53413726_480.jpg",
-    "label": "Y/Project",
-    "name": "джинсы с вырезами",
-    "price": "$590"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/29/91/44/23299144_53352659_480.jpg",
-    "label": "Junya Watanabe MAN",
-    "name": "джинсы с эффектом потертости",
-    "price": "$679"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/18/81/54/25/18815425_42112923_480.jpg",
-    "label": "Palm Angels",
-    "name": "letter-embellished skinny jeans",
-    "price": "$494"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/18/73/96/19187396_43423353_480.jpg",
-    "label": "Karl Lagerfeld Jeans",
-    "name": "ripped straight-leg jeans",
-    "price": "$80"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/60/36/82/19603682_44112775_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/20/26/48/84/20264884_50579137_480.jpg",
     "label": "Diesel",
-    "name": "straight-leg jeans",
-    "price": "$364"
+    "name": "зауженные джинсы 2023 D-Finitive",
+    "price": "$159",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-2023-d-finitive-item-20264884.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/91/18/21/22911821_53054730_480.jpg",
-    "label": "Y/Project",
-    "name": "джинсы асимметричного кроя из органического хлопка",
-    "price": "$404"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/82/58/70/21825870_49101623_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/21/82/58/68/21825868_53101842_480.jpg",
     "label": "AMI Paris",
-    "name": "прямые джинсы",
-    "price": "$215"
+    "name": "прямые джинсы средней посадки",
+    "price": "$157",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21825868.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/19/02/12/33/19021233_44464355_480.jpg",
-    "label": "Diesel",
-    "name": "straight-leg 1995 jeans",
-    "price": "$159"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/78/71/23/20787123_54385641_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/13/67/69/22136769_51902981_480.jpg",
     "label": "Balenciaga",
-    "name": "широкие джинсы Baggy",
-    "price": "$1,195"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/11/00/00/23110000_53174172_480.jpg",
-    "label": "Levi's",
-    "name": "зауженные джинсы 512 Slim",
-    "price": "$106"
+    "name": "широкие джинсы средней посадки",
+    "price": "$3,402",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-22136769.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/23/26/83/17/23268317_54137938_480.jpg",
     "label": "AMIRI",
     "name": "джинсы Carpenter прямого кроя",
-    "price": "$1,020"
+    "price": "$1,020",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-carpenter-item-23268317.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/19/45/13/98/19451398_43343118_480.jpg",
-    "label": "Versace",
-    "name": "Medusa Head-motif jeans",
-    "price": "$582"
+    "image": "https://cdn-images.farfetch-contents.com/19/03/53/07/19035307_41544380_480.jpg",
+    "label": "Rick Owens DRKSHDW",
+    "name": "узкие джинсы с эффектом потертости",
+    "price": "$683",
+    "url": "https://www.farfetch.com/kz/shopping/men/rick-owens-drkshdw--item-19035307.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/00/62/44/23006244_53181758_480.jpg",
-    "label": "OUR LEGACY",
-    "name": "широкие джинсы Vast Cut",
-    "price": "$412"
+    "image": "https://cdn-images.farfetch-contents.com/17/15/22/02/17152202_34919899_480.jpg",
+    "label": "AMI Paris",
+    "name": "джинсы Alex",
+    "price": "$165",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-alex-item-17152202.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/19/67/34/12/19673412_44055568_480.jpg",
-    "label": "DSQUARED2",
-    "name": "distressed skinny jeans",
-    "price": "$298"
+    "image": "https://cdn-images.farfetch-contents.com/22/85/27/24/22852724_52971145_480.jpg",
+    "label": "Jacob Cohën",
+    "name": "узкие джинсы Nick",
+    "price": "$213",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacob-cohen-nick-item-22852724.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/93/30/42/22933042_53134794_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/64/36/15/23643615_53615394_480.jpg",
+    "label": "Y/Project",
+    "name": "широкие джинсы Evargreen Banana",
+    "price": "$574",
+    "url": "https://www.farfetch.com/kz/shopping/men/yproject-evargreen-banana-item-23643615.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/26/26/91/20262691_50296283_480.jpg",
     "label": "Carhartt WIP",
-    "name": "прямые джинсы Brandon средней посадки",
-    "price": "$103"
+    "name": "зауженные джинсы с нашивкой-логотипом",
+    "price": "$134",
+    "url": "https://www.farfetch.com/kz/shopping/men/carhartt-wip--item-20262691.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/63/79/84/22637984_53075582_480.jpg",
+    "label": "CamperLab",
+    "name": "прямые джинсы средней посадки",
+    "price": "$241",
+    "url": "https://www.farfetch.com/kz/shopping/men/camperlab--item-22637984.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/34/65/66/24346566_54303422_480.jpg",
+    "label": "Diesel",
+    "name": "джинсы 1979 Sleenker",
+    "price": "$341",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-1979-sleenker-item-24346566.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/34/55/20253455_50520721_480.jpg",
+    "label": "AMI Paris",
+    "name": "прямые джинсы с нашивкой-логотипом",
+    "price": "$210",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-20253455.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/17/58/89/62/17588962_38880774_480.jpg",
     "label": "OUR LEGACY",
-    "name": "Third Cut straight-leg jeans",
-    "price": "$285"
+    "name": "прямые джинсы Third Cut",
+    "price": "$285",
+    "url": "https://www.farfetch.com/kz/shopping/men/our-legacy-third-cut-item-17588962.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/31/15/21/18311521_42683741_480.jpg",
+    "label": "Etudes",
+    "name": "прямые джинсы с эффектом разбрызганной краски",
+    "price": "$236",
+    "url": "https://www.farfetch.com/kz/shopping/men/etudes--item-18311521.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/24/18/71/23241871_53420577_480.jpg",
+    "label": "Y/Project",
+    "name": "джинсы Evergreen свободного кроя",
+    "price": "$634",
+    "url": "https://www.farfetch.com/kz/shopping/men/yproject-evergreen-item-23241871.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/98/99/54/17989954_38016933_480.jpg",
+    "label": "AMIRI",
+    "name": "джинсы скинни с прорезями",
+    "price": "$1,170",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri--item-17989954.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/96/03/72/22960372_53230699_480.jpg",
+    "label": "Emporio Armani",
+    "name": "узкие джинсы с логотипом",
+    "price": "$163",
+    "url": "https://www.farfetch.com/kz/shopping/men/emporio-armani--item-22960372.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/60/10/23746010_53732200_480.jpg",
+    "label": "Diesel",
+    "name": "джинсы 1985 Larkee 09j90",
+    "price": "$224",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-1985-larkee-09j90-item-23746010.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/94/22/49/22942249_53136292_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсы скинни Tidy Biker",
+    "price": "$385",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-tidy-biker-item-22942249.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/04/86/03/20048603_45273347_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "джинсы с вышитым логотипом",
+    "price": "$472",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-20048603.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/04/68/57/22046857_51975727_480.jpg",
+    "label": "FIVE CM",
+    "name": "широкие джинсы с завышенной талией",
+    "price": "$89",
+    "url": "https://www.farfetch.com/kz/shopping/men/five-cm--item-22046857.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/21/37/32/22213732_52554838_480.jpg",
+    "label": "Diesel",
+    "name": "широкие джинсы D-Fish-Cargo",
+    "price": "$197",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-d-fish-cargo-item-22213732.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/50/17/77/15501777_27889450_480.jpg",
+    "label": "Acne Studios",
+    "name": "джинсы North Stay кроя слим",
+    "price": "$181",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios-north-stay-item-15501777.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/34/65/57/24346557_54305537_480.jpg",
+    "label": "Diesel",
+    "name": "джинсы D-Macs (2010 год)",
+    "price": "$500",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-d-macs-2010-item-24346557.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/94/81/34/22948134_53458425_480.jpg",
+    "label": "Boris Bidjan Saberi",
+    "name": "джинсы асимметричного кроя с низким шаговым швом",
+    "price": "$1,515",
+    "url": "https://www.farfetch.com/kz/shopping/men/boris-bidjan-saberi--item-22948134.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/59/82/89/23598289_53546943_480.jpg",
+    "label": "Who Decides War",
+    "name": "джинсы Sangre в технике пэчворк",
+    "price": "$1,253",
+    "url": "https://www.farfetch.com/kz/shopping/men/who-decides-war-sangre-item-23598289.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/94/45/69/22944569_53138432_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсы скинни с эффектом потертости",
+    "price": "$362",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-22944569.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/98/13/51/22981351_53670377_480.jpg",
+    "label": "Purple Brand",
+    "name": "джинсы скинни P001",
+    "price": "$208",
+    "url": "https://www.farfetch.com/kz/shopping/men/purple-brand-p001-item-22981351.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/81/28/01/17812801_37686504_480.jpg",
+    "label": "DSQUARED2",
+    "name": "прямые джинсы с логотипом",
+    "price": "$292",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-17812801.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/42/53/29/22425329_52517198_480.jpg",
+    "label": "AMIRI",
+    "name": "узкие джинсы с эффектом потертости",
+    "price": "$604",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri--item-22425329.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/35/50/65/24355065_54396594_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсы Bro",
+    "price": "$491",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-bro-item-24355065.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/04/17/26/14041726_19050619_480.jpg",
+    "label": "Michael Kors",
+    "name": "джинсы прямого кроя",
+    "price": "$55",
+    "url": "https://www.farfetch.com/kz/shopping/men/michael-kors--item-14041726.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/15/50/20251550_50995572_480.jpg",
+    "label": "Purple Brand",
+    "name": "джинсы скинни с логотипом",
+    "price": "$246",
+    "url": "https://www.farfetch.com/kz/shopping/men/purple-brand--item-20251550.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/41/37/09/22413709_52388719_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсы Cool Guy с эффектом потертости",
+    "price": "$334",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-cool-guy-item-22413709.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/83/06/88/21830688_52673823_480.jpg",
+    "label": "AMI Paris",
+    "name": "прямые джинсы свободного кроя",
+    "price": "$179",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21830688.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/62/40/60/17624060_36755009_480.jpg",
+    "label": "Purple Brand",
+    "name": "узкие джинсы с заниженной талией",
+    "price": "$203",
+    "url": "https://www.farfetch.com/kz/shopping/men/purple-brand--item-17624060.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/55/27/34/23552734_53633503_480.jpg",
+    "label": "Jacob Cohën",
+    "name": "узкие брюки Nick средней посадки",
+    "price": "$369",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacob-cohen-nick-item-23552734.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/23/97/82/23239782_53415819_480.jpg",
+    "label": "Y/Project",
+    "name": "джинсы Evergreen прямого кроя",
+    "price": "$562",
+    "url": "https://www.farfetch.com/kz/shopping/men/yproject-evergreen-item-23239782.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/01/19/12/24011912_54146396_480.jpg",
+    "label": "AMIRI",
+    "name": "джинсы Paint прямого кроя",
+    "price": "$1,099",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-paint-item-24011912.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/31/72/76/24317276_54862207_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "джинсы свободного кроя с логотипом",
+    "price": "$1,111",
+    "url": "https://www.farfetch.com/kz/shopping/men/valentino-garavani--item-24317276.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/38/68/26/23386826_53466702_480.jpg",
+    "label": "Y/Project",
+    "name": "джинсы Evergreen прямого кроя",
+    "price": "$381",
+    "url": "https://www.farfetch.com/kz/shopping/men/yproject-evergreen-item-23386826.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/94/28/20/18942820_41719658_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсы скинни с прорезями",
+    "price": "$286",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-18942820.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/27/92/64/23279264_53648927_480.jpg",
+    "label": "EVISU",
+    "name": "зауженные джинсы с вышитым логотипом",
+    "price": "$354",
+    "url": "https://www.farfetch.com/kz/shopping/men/evisu--item-23279264.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/89/11/38/21891138_51716390_480.jpg",
+    "label": "Rick Owens",
+    "name": "узкие джинсы с эффектом потертости",
+    "price": "$1,774",
+    "url": "https://www.farfetch.com/kz/shopping/men/rick-owens--item-21891138.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/29/79/51/23297951_53480194_480.jpg",
+    "label": "OUR LEGACY",
+    "name": "широкие джинсы Vast Cut",
+    "price": "$304",
+    "url": "https://www.farfetch.com/kz/shopping/men/our-legacy-vast-cut-item-23297951.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/21/37/73/22213773_52063800_480.jpg",
+    "label": "Diesel",
+    "name": "джинсы скинни 1979 Sleenker",
+    "price": "$124",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-1979-sleenker-item-22213773.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/48/01/51/22480151_52453166_480.jpg",
+    "label": "VETEMENTS",
+    "name": "широкие джинсы Destroyed",
+    "price": "$890",
+    "url": "https://www.farfetch.com/kz/shopping/men/vetements-destroyed-item-22480151.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/21/43/11/22214311_52050631_480.jpg",
+    "label": "Diesel",
+    "name": "прямые джинсы D-Finitive",
+    "price": "$106",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-d-finitive-item-22214311.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/20/55/21542055_52491599_480.jpg",
+    "label": "Karl Lagerfeld Jeans",
+    "name": "зауженные джинсы с эффектом потертости",
+    "price": "$77",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld-jeans--item-21542055.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/80/95/21718095_51940242_480.jpg",
+    "label": "Diesel",
+    "name": "прямые джинсы 2001 D-Macro",
+    "price": "$177",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-2001-d-macro-item-21718095.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/14/43/17961443_41612445_480.jpg",
+    "label": "AMI Paris",
+    "name": "прямые джинсы с заниженной талией",
+    "price": "$132",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-17961443.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/15/07/40/17150740_34832342_480.jpg",
+    "label": "AMI Paris",
+    "name": "джинсы широкого кроя",
+    "price": "$142",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-17150740.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/28/79/24/21287924_51989398_480.jpg",
+    "label": "JW Anderson",
+    "name": "джинсы Twisted прямого кроя",
+    "price": "$572",
+    "url": "https://www.farfetch.com/kz/shopping/men/jw-anderson-twisted-item-21287924.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/79/84/83/22798483_52894042_480.jpg",
+    "label": "Diesel",
+    "name": "узкие джинсы 2019 D-Strukt",
+    "price": "$200",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-2019-d-strukt-item-22798483.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/82/15/75/22821575_52909604_480.jpg",
+    "label": "Jacob Cohën",
+    "name": "узкие джинсы Nick с заниженной талией",
+    "price": "$198",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacob-cohen-nick-item-22821575.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/85/80/23608580_54860248_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "зауженные джинсы с эффектом потертости",
+    "price": "$813",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-23608580.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/38/99/60/19389960_42641865_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "прямые джинсы с эффектом потертости",
+    "price": "$509",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-19389960.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/53/17/20/22531720_52519477_480.jpg",
+    "label": "VETEMENTS",
+    "name": "широкие брюки с наружным швом",
+    "price": "$792",
+    "url": "https://www.farfetch.com/kz/shopping/men/vetements--item-22531720.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/93/51/16/17935116_38231365_480.jpg",
+    "label": "Purple Brand",
+    "name": "джинсы с эффектом потертости",
+    "price": "$286",
+    "url": "https://www.farfetch.com/kz/shopping/men/purple-brand--item-17935116.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/34/57/20253457_51452501_480.jpg",
+    "label": "AMI Paris",
+    "name": "джинсы из органического хлопка с нашивкой-логотипом",
+    "price": "$182",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-20253457.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/67/80/77/22678077_52702710_480.jpg",
+    "label": "DSQUARED2",
+    "name": "узкие джинсы с прорезями",
+    "price": "$278",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-22678077.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/92/44/98/22924498_53003049_480.jpg",
+    "label": "Purple Brand",
+    "name": "джинсы с монограммой",
+    "price": "$309",
+    "url": "https://www.farfetch.com/kz/shopping/men/purple-brand--item-22924498.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/94/89/21499489_51762442_480.jpg",
+    "label": "DSQUARED2",
+    "name": "узкие джинсы с эффектом потертости",
+    "price": "$624",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21499489.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/79/81/74/19798174_44424255_480.jpg",
+    "label": "Jacob Cohën",
+    "name": "прямые джинсы с нашивкой-логотипом",
+    "price": "$868",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacob-cohen--item-19798174.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/13/68/69/32/13686932_26967291_480.jpg",
+    "label": "AMIRI",
+    "name": "джинсы с нашивкой-логотипом",
+    "price": "$1,130",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri--item-13686932.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/35/64/69/19356469_44765071_480.jpg",
+    "label": "Acne Studios",
+    "name": "джинсы прямого кроя",
+    "price": "$352",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-19356469.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/08/20/86/20082086_51273365_480.jpg",
+    "label": "Karl Lagerfeld Jeans",
+    "name": "mid-rise straight-leg jeans",
+    "price": "$67",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld-jeans-mid-rise-straight-leg-jeans-item-20082086.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/05/09/64/24050964_54154621_480.jpg",
+    "label": "Marni",
+    "name": "широкие джинсы с эффектом потертости",
+    "price": "$660",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni--item-24050964.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/38/80/96/17388096_37116842_480.jpg",
+    "label": "Diesel",
+    "name": "джинсы скинни 1979 Sleenker 09C01",
+    "price": "$118",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-1979-sleenker-09c01-item-17388096.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/04/77/64/20047764_50413942_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "узкие джинсы с эффектом потертости",
+    "price": "$730",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-20047764.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/49/67/57/18496757_41433810_480.jpg",
+    "label": "Philipp Plein",
+    "name": "джинсы скинни средней посадки",
+    "price": "$225",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-18496757.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/79/21/26/22792126_53495499_480.jpg",
+    "label": "Maison Kitsuné",
+    "name": "широкие джинсы с заниженной талией",
+    "price": "$233",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-kitsune--item-22792126.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/58/69/21825869_49110603_480.jpg",
+    "label": "AMI Paris",
+    "name": "прямые джинсы с заниженной талией",
+    "price": "$366",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21825869.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/30/83/21543083_52490341_480.jpg",
+    "label": "Karl Lagerfeld Jeans",
+    "name": "джинсы скинни с логотипом",
+    "price": "$67",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld-jeans--item-21543083.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/44/68/94/19446894_45113569_480.jpg",
+    "label": "AMIRI",
+    "name": "джинсы скинни Thrasher с прорезями",
+    "price": "$1,530",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-thrasher-item-19446894.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/68/68/07/22686807_52916272_480.jpg",
+    "label": "Diesel",
+    "name": "джинсы скинни 1979 Sleenker 0pfax",
+    "price": "$144",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-1979-sleenker-0pfax-item-22686807.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/92/66/62/22926662_53025886_480.jpg",
+    "label": "AMIRI",
+    "name": "джинсы скинни Shotgun средней посадки",
+    "price": "$841",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-shotgun-item-22926662.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/50/04/91/21500491_51764767_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсы с прорезями и эффектом разбрызганной краски",
+    "price": "$667",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21500491.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/26/25/90/23262590_53562190_480.jpg",
+    "label": "Jacob Cohën",
+    "name": "джинсы Scott узкого кроя",
+    "price": "$237",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacob-cohen-scott-item-23262590.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/94/28/07/18942807_41718305_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсы скинни с эффектом потертости",
+    "price": "$388",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-18942807.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/31/58/69/24315869_54381642_480.jpg",
+    "label": "Balenciaga",
+    "name": "джинсовые шорты-бермуды",
+    "price": "$1,125",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-24315869.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/08/30/10/20083010_51078606_480.jpg",
+    "label": "Karl Lagerfeld Jeans",
+    "name": "джинсы из органического хлопка с нашивкой-логотипом",
+    "price": "$88",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld-jeans--item-20083010.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/94/06/55/22940655_53150747_480.jpg",
+    "label": "Jacob Cohën",
+    "name": "узкие джинсы Nick",
+    "price": "$261",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacob-cohen-nick-item-22940655.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/23/97/55/23239755_53413726_480.jpg",
+    "label": "Y/Project",
+    "name": "джинсы с вырезами",
+    "price": "$590",
+    "url": "https://www.farfetch.com/kz/shopping/men/yproject--item-23239755.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/78/71/23/20787123_54385641_480.jpg",
+    "label": "Balenciaga",
+    "name": "широкие джинсы Baggy",
+    "price": "$1,195",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga-baggy-item-20787123.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/82/16/55/22821655_53008033_480.jpg",
+    "label": "DSQUARED2",
+    "name": "прямые джинсы Dark Ripped Cast Wash Bro",
+    "price": "$460",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-dark-ripped-cast-wash-bro-item-22821655.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/78/74/28/20787428_54797340_480.jpg",
+    "label": "Balenciaga",
+    "name": "джинсы средней посадки",
+    "price": "$1,375",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-20787428.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/38/77/74/17387774_37122644_480.jpg",
+    "label": "Diesel",
+    "name": "прямые джинсы 2020 D-Viker",
+    "price": "$118",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-2020-d-viker-item-17387774.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/23/12/60/22231260_52096432_480.jpg",
+    "label": "Carhartt WIP",
+    "name": "прямые джинсы средней посадки",
+    "price": "$93",
+    "url": "https://www.farfetch.com/kz/shopping/men/carhartt-wip--item-22231260.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/40/18/21684018_52274943_480.jpg",
+    "label": "Acne Studios",
+    "name": "широкие джинсы средней посадки",
+    "price": "$352",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-21684018.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/93/61/22619361_52667878_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсы скинни Cool Guy",
+    "price": "$255",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-cool-guy-item-22619361.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/41/87/22/21418722_51619748_480.jpg",
+    "label": "Lacoste",
+    "name": "узкие джинсы",
+    "price": "$121",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-21418722.aspx"
   }
 ]

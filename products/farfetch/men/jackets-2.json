@@ -1,218 +1,674 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/60/83/95/23608395_53790586_480.jpg",
-    "label": "Dolce & Gabbana",
-    "name": "Leather-detailing jacket",
-    "price": "$1,925"
+    "image": "https://cdn-images.farfetch-contents.com/24/70/79/98/24707998_54912186_480.jpg",
+    "label": "Balenciaga",
+    "name": "бомбер с логотипом",
+    "price": "$3,382",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-24707998.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/93/50/46/20935046_51439946_480.jpg",
-    "label": "Versace",
-    "name": "zip-detail puffer jacket",
-    "price": "$1,221"
+    "image": "https://cdn-images.farfetch-contents.com/24/29/36/73/24293673_54309059_480.jpg",
+    "label": "DRIES VAN NOTEN",
+    "name": "шерстяной пиджак",
+    "price": "$1,323",
+    "url": "https://www.farfetch.com/kz/shopping/men/dries-van-noten--item-24293673.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/24/28/98/72/24289872_54413885_480.jpg",
     "label": "Gucci",
-    "name": "reversible zipped jacket",
-    "price": "$2,325"
+    "name": "двусторонняя куртка на молнии",
+    "price": "$2,325",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci--item-24289872.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/25/55/48/23255548_53443060_480.jpg",
-    "label": "Balenciaga",
-    "name": "logo-print reversible puffer jacket",
-    "price": "$2,641"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/13/34/90/03/13349003_15080747_480.jpg",
-    "label": "Alpha Industries",
-    "name": "loose bomber jacket",
-    "price": "$230"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/24/86/38/21248638_51255833_480.jpg",
-    "label": "Diesel",
-    "name": "L-Met logo-print leather jacket",
-    "price": "$795"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/41/57/48/20415748_50517771_480.jpg",
-    "label": "Thom Browne",
-    "name": "4-Bar stripe blazer",
-    "price": "$1,366"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/18/66/49/94/18664994_40526102_480.jpg",
-    "label": "Dolce & Gabbana",
-    "name": "logo-tag leather jacket",
-    "price": "$2,182"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/17/36/23/23173623_53522137_480.jpg",
-    "label": "HUGO",
-    "name": "Drochomber cotton track jacket",
-    "price": "$115"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/60/34/52/22603452_52613464_480.jpg",
-    "label": "AMIRI",
-    "name": "Eagle Varsity leather-panelled bomber jacket",
-    "price": "$1,938"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/16/42/20/86/16422086_31712071_480.jpg",
-    "label": "Armani Exchange",
-    "name": "logo-embroidered drawstring hoodie",
-    "price": "$130"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/43/61/25/22436125_52425797_480.jpg",
-    "label": "Stone Island",
-    "name": "Loom Woven Chambers jacket",
-    "price": "$614"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/35/85/16/22358516_52334726_480.jpg",
-    "label": "FURSAC",
-    "name": "long-sleeve suede jacket",
-    "price": "$809"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/57/65/55/17576555_36595263_480.jpg",
-    "label": "The North Face",
-    "name": "1996 Retro Nuptse vest",
-    "price": "$248"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/82/08/45/21820845_52618939_480.jpg",
-    "label": "AMI Paris",
-    "name": "front-pocket hooded jacket",
-    "price": "$393"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/89/38/69/22893869_53013743_480.jpg",
-    "label": "Jacquemus",
-    "name": "La Veste Titolo blazer",
-    "price": "$709"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/58/88/56/22588856_52626968_480.jpg",
-    "label": "DSQUARED2",
-    "name": "panelled hooded jacket",
-    "price": "$523"
+    "image": "https://cdn-images.farfetch-contents.com/23/88/65/22/23886522_54153901_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "куртка-рубашка с логотипом Polo Pony",
+    "price": "$331",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-23886522.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/20/26/48/38/20264838_50524451_480.jpg",
     "label": "Diesel",
-    "name": "L-Pritts zip-up padded leather jacket",
-    "price": "$869"
+    "name": "кожаный пуховик L-Pritts на молнии",
+    "price": "$500",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-l-pritts-item-20264838.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/18/03/71/62/18037162_f7646a17-d76c-41b4-8877-fc3423bbf18d_480.jpg",
-    "label": "Philipp Plein",
-    "name": "painterly-print sherpa denim jacket",
-    "price": "$1,424"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/65/48/99/22654899_52662615_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/83/79/35/23837935_54090212_480.jpg",
     "label": "TOM FORD",
-    "name": "zip-up canvas bomber jacket",
-    "price": "$3,120"
+    "name": "шерстяной однобортный пиджак",
+    "price": "$4,523",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-23837935.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/18/75/25/58/18752558_42259466_480.jpg",
-    "label": "Philipp Plein",
-    "name": "logo-patch padded gilet",
-    "price": "$605"
+    "image": "https://cdn-images.farfetch-contents.com/23/99/19/33/23991933_54134513_480.jpg",
+    "label": "AMI Paris",
+    "name": "куртка на молнии из смеси шерсти и кашемира",
+    "price": "$780",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-23991933.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/72/93/06/22729306_52718889_480.jpg",
-    "label": "BOSS",
-    "name": "diamond-quilted bomber jacket",
-    "price": "$254"
+    "image": "https://cdn-images.farfetch-contents.com/18/78/52/45/18785245_40747612_480.jpg",
+    "label": "Moncler",
+    "name": "глянцевый пуховик",
+    "price": "$1,330",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-18785245.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/93/98/42/23939842_54084425_480.jpg",
-    "label": "Brioni",
-    "name": "embossed-leather jacket",
-    "price": "$33,785"
+    "image": "https://cdn-images.farfetch-contents.com/23/83/19/37/23831937_54167435_480.jpg",
+    "label": "Acne Studios",
+    "name": "джинсовая куртка с накладными карманами",
+    "price": "$503",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-23831937.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/20/73/67/20207367_51378378_480.jpg",
-    "label": "SANDRO",
-    "name": "rib-trimmed leather bomber jacket",
-    "price": "$833"
+    "image": "https://cdn-images.farfetch-contents.com/22/82/25/14/22822514_54713206_480.jpg",
+    "label": "Gucci",
+    "name": "двусторонняя джинсовая куртка",
+    "price": "$3,625",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci--item-22822514.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/50/45/46/22504546_52516619_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/79/03/54/23790354_53820754_480.jpg",
+    "label": "Acne Studios",
+    "name": "куртка из органического хлопка",
+    "price": "$523",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-23790354.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/43/61/25/22436125_52425797_480.jpg",
     "label": "Stone Island",
-    "name": "Compass-badge lightweight jacket",
-    "price": "$581"
+    "name": "пуховик Loom Woven Chambers",
+    "price": "$614",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-loom-woven-chambers-item-22436125.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/18/26/69/88/18266988_39026168_480.jpg",
-    "label": "Jeff Hamilton",
-    "name": "x Chicago Bulls bomber jacket",
-    "price": "$964"
+    "image": "https://cdn-images.farfetch-contents.com/21/71/73/32/21717332_51941807_480.jpg",
+    "label": "Diesel",
+    "name": "кожаная куртка L-Cobbe",
+    "price": "$500",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-l-cobbe-item-21717332.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/54/65/72/23546572_53454086_480.jpg",
-    "label": "Yohji Yamamoto",
-    "name": "artistic-print epaulette-detail long jacket",
-    "price": "$3,945"
+    "image": "https://cdn-images.farfetch-contents.com/22/26/44/72/22264472_53209942_480.jpg",
+    "label": "TOM FORD",
+    "name": "двубортный пиджак строгого кроя",
+    "price": "$4,859",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-22264472.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/04/73/84/22047384_52125547_480.jpg",
+    "label": "Philipp Plein",
+    "name": "пуховик с логотипом Hexagon",
+    "price": "$558",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein-hexagon-item-22047384.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/35/29/23743529_53730964_480.jpg",
+    "label": "Diesel",
+    "name": "куртка L-Cordier со вставками",
+    "price": "$1,127",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-l-cordier-item-23743529.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/67/81/18/22678118_52704613_480.jpg",
+    "label": "Stone Island",
+    "name": "пуховик Loom Woven Chambers",
+    "price": "$624",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-loom-woven-chambers-item-22678118.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/73/15/17/22731517_52766920_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "куртка Aviator с капюшоном",
+    "price": "$300",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-aviator-item-22731517.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/84/81/23498481_53590780_480.jpg",
+    "label": "Versace",
+    "name": "однобортный пиджак Barocco Sea",
+    "price": "$2,201",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-barocco-sea-item-23498481.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/05/84/17960584_38412207_480.jpg",
+    "label": "AMI Paris",
+    "name": "пуховик с монограммой Ami de Coeur",
+    "price": "$616",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-17960584.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/93/50/46/20935046_51439946_480.jpg",
+    "label": "Versace",
+    "name": "пуховик с молниями",
+    "price": "$1,221",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace--item-20935046.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/88/63/84/23886384_54106676_480.jpg",
+    "label": "Rick Owens",
+    "name": "кожаный бомбер Classic Flight",
+    "price": "$2,170",
+    "url": "https://www.farfetch.com/kz/shopping/men/rick-owens-classic-flight-item-23886384.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/22/70/90/55/22709055_52723214_480.jpg",
     "label": "LEMAIRE",
-    "name": "cotton shirt jacket",
-    "price": "$595"
+    "name": "куртка-рубашка",
+    "price": "$595",
+    "url": "https://www.farfetch.com/kz/shopping/men/lemaire--item-22709055.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/04/73/85/22047385_52850297_480.jpg",
-    "label": "Philipp Plein",
-    "name": "Hexagon logo-plaque padded jacket",
-    "price": "$558"
+    "image": "https://cdn-images.farfetch-contents.com/14/66/42/83/14664283_23236000_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "куртка на молнии с вышитым логотипом",
+    "price": "$235",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-14664283.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/95/97/76/22959776_53258156_480.jpg",
-    "label": "Lacoste",
-    "name": "logo-patch panelled zip-up sweatshirt",
-    "price": "$254"
+    "image": "https://cdn-images.farfetch-contents.com/19/77/95/93/19779593_52340728_480.jpg",
+    "label": "Courrèges",
+    "name": "байкерская куртка Scuba",
+    "price": "$2,695",
+    "url": "https://www.farfetch.com/kz/shopping/men/courreges-scuba-item-19779593.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/05/09/96/24050996_54154578_480.jpg",
+    "label": "Marni",
+    "name": "куртка в технике пэчворк",
+    "price": "$4,212",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni--item-24050996.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/09/85/31/23098531_53421788_480.jpg",
+    "label": "RHUDE",
+    "name": "бомбер с логотипом",
+    "price": "$730",
+    "url": "https://www.farfetch.com/kz/shopping/men/rhude--item-23098531.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/68/89/13/24688913_54859723_480.jpg",
+    "label": "DSQUARED2",
+    "name": "куртка-рубашка с тисненым логотипом",
+    "price": "$803",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-24688913.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/29/69/63/16296963_32567349_480.jpg",
+    "label": "3.1 Phillip Lim",
+    "name": "дутый жилет The Journey",
+    "price": "$149",
+    "url": "https://www.farfetch.com/kz/shopping/men/31-phillip-lim-the-journey-item-16296963.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/51/62/73/23516273_53492136_480.jpg",
+    "label": "Burberry",
+    "name": "шерстяной пиджак с заостренными лацканами",
+    "price": "$2,595",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-23516273.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/59/03/78/23590378_54014709_480.jpg",
+    "label": "Moncler",
+    "name": "куртка Kona с капюшоном",
+    "price": "$1,000",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler-kona-item-23590378.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/39/11/26/24391126_54697948_480.jpg",
+    "label": "Balenciaga",
+    "name": "куртка Pierced",
+    "price": "$5,718",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga-pierced-item-24391126.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/79/41/87/21794187_53761845_480.jpg",
+    "label": "AMIRI",
+    "name": "бомбер MA Angel",
+    "price": "$2,746",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-ma-angel-item-21794187.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/09/64/80/24096480_54196269_480.jpg",
+    "label": "Gucci",
+    "name": "куртка-рубашка из канваса с логотипом GG",
+    "price": "$2,505",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci-gg-item-24096480.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/48/55/49/21485549_53327282_480.jpg",
+    "label": "OUR LEGACY",
+    "name": "однобортный пиджак Vienna",
+    "price": "$610",
+    "url": "https://www.farfetch.com/kz/shopping/men/our-legacy-vienna-item-21485549.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/93/18/81/18931881_41264917_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "худи Pony на молнии с логотипом",
+    "price": "$205",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-pony-item-18931881.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/82/06/77/24820677_54995648_480.jpg",
+    "label": "Gucci",
+    "name": "шерстяная куртка GG Shadow",
+    "price": "$3,317",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci-gg-shadow-item-24820677.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/80/02/37/23800237_53772640_480.jpg",
+    "label": "Burberry",
+    "name": "бомбер в клетку Vintage Check",
+    "price": "$2,223",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-vintage-check-item-23800237.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/07/43/74/23074374_54065838_480.jpg",
+    "label": "Palm Angels",
+    "name": "куртка на молнии с вышитым логотипом",
+    "price": "$527",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-23074374.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/65/48/99/22654899_52662615_480.jpg",
+    "label": "TOM FORD",
+    "name": "бомбер на молнии",
+    "price": "$3,900",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-22654899.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/50/34/59/21503459_51501009_480.jpg",
+    "label": "The North Face",
+    "name": "двусторонний пуховик 1992 Nuptse",
+    "price": "$328",
+    "url": "https://www.farfetch.com/kz/shopping/men/the-north-face-1992-nuptse-item-21503459.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/29/27/51/24292751_54309217_480.jpg",
+    "label": "DRIES VAN NOTEN",
+    "name": "двубортный шерстяной пиджак",
+    "price": "$1,626",
+    "url": "https://www.farfetch.com/kz/shopping/men/dries-van-noten--item-24292751.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/48/29/06/24482906_54611356_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "кашемировая куртка-рубашка",
+    "price": "$7,015",
+    "url": "https://www.farfetch.com/kz/shopping/men/brunello-cucinelli--item-24482906.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/29/18/41/22291841_52526732_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "куртка на молнии с капюшоном",
+    "price": "$2,547",
+    "url": "https://www.farfetch.com/kz/shopping/men/brunello-cucinelli--item-22291841.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/99/16/56/22991656_53199711_480.jpg",
+    "label": "The North Face",
+    "name": "пуховик 1996 Retro Nuptse",
+    "price": "$356",
+    "url": "https://www.farfetch.com/kz/shopping/men/the-north-face-1996-retro-nuptse-item-22991656.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/76/81/23497681_54728097_480.jpg",
+    "label": "Versace",
+    "name": "куртка с принтом Barocco",
+    "price": "$1,871",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-barocco-item-23497681.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/20/90/37/77/20903777_50929134_480.jpg",
     "label": "Moncler",
-    "name": "Maya zip-up padded hooded jacket",
-    "price": "$1,480"
+    "name": "пуховик Maya с капюшоном",
+    "price": "$1,435",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler-maya-item-20903777.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/15/74/27/98/15742798_40211589_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/16/95/75/86/16957586_36926521_480.jpg",
+    "label": "Moncler",
+    "name": "дутый жилет Tibb с нашивкой-логотипом",
+    "price": "$810",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler-tibb-item-16957586.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/37/78/18/24377818_54717659_480.jpg",
+    "label": "Eleventy",
+    "name": "однобортный пиджак",
+    "price": "$655",
+    "url": "https://www.farfetch.com/kz/shopping/men/eleventy--item-24377818.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/36/63/92/24366392_54738043_480.jpg",
+    "label": "AMI Paris",
+    "name": "куртка с логотипом",
+    "price": "$1,554",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-24366392.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/75/65/01/23756501_54691368_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "пиджак с эффектом металлик",
+    "price": "$2,355",
+    "url": "https://www.farfetch.com/kz/shopping/men/alexander-mcqueen--item-23756501.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/04/75/05/23047505_53125685_480.jpg",
+    "label": "Burberry",
+    "name": "куртка-рубашка Harrington",
+    "price": "$2,471",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-harrington-item-23047505.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/60/29/33/24602933_54671140_480.jpg",
+    "label": "Lanvin",
+    "name": "шерстяной пиджак",
+    "price": "$2,505",
+    "url": "https://www.farfetch.com/kz/shopping/men/lanvin--item-24602933.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/66/12/47/24661247_54669144_480.jpg",
+    "label": "Shanghai Tang",
+    "name": "пиджак с воротником-стойкой",
+    "price": "$1,176",
+    "url": "https://www.farfetch.com/kz/shopping/men/shanghai-tang--item-24661247.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/82/61/28/23826128_53922993_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "кашемировая куртка-рубашка",
+    "price": "$7,015",
+    "url": "https://www.farfetch.com/kz/shopping/men/brunello-cucinelli--item-23826128.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/95/98/95/17959895_38413356_480.jpg",
+    "label": "AMI Paris",
+    "name": "пуховик с монограммой Ami de Coeur",
+    "price": "$616",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-17959895.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/28/98/12/24289812_54382158_480.jpg",
+    "label": "Balenciaga",
+    "name": "спортивная куртка Tape Type",
+    "price": "$2,183",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga-tape-type-item-24289812.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/89/13/76/23891376_54070527_480.jpg",
+    "label": "Lardini",
+    "name": "однобортный пиджак",
+    "price": "$1,112",
+    "url": "https://www.farfetch.com/kz/shopping/men/lardini--item-23891376.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/25/55/48/23255548_53443060_480.jpg",
+    "label": "Balenciaga",
+    "name": "двусторонний пуховик с логотипом",
+    "price": "$2,201",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-23255548.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/07/70/21820770_49109809_480.jpg",
+    "label": "AMI Paris",
+    "name": "ветровка с капюшоном и логотипом",
+    "price": "$509",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820770.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/69/72/87/24697287_54811161_480.jpg",
+    "label": "Moncler",
+    "name": "куртка Diounes",
+    "price": "$1,744",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler-diounes-item-24697287.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/26/57/44/20265744_50538336_480.jpg",
+    "label": "Diesel",
+    "name": "куртка J-Beck с вышитым логотипом",
+    "price": "$382",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-j-beck-item-20265744.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/37/03/35/22370335_52390747_480.jpg",
+    "label": "Thom Browne",
+    "name": "легкая куртка из рипстопа с нашивкой-логотипом",
+    "price": "$1,698",
+    "url": "https://www.farfetch.com/kz/shopping/men/thom-browne--item-22370335.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/73/25/20257325_50715873_480.jpg",
     "label": "Polo Ralph Lauren",
-    "name": "Herringbone field jacket",
-    "price": "$430"
+    "name": "куртка с капюшоном и карманами",
+    "price": "$784",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-20257325.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/86/04/60/22860460_52971978_480.jpg",
-    "label": "Stone Island",
-    "name": "Compass-badge shell jacket",
-    "price": "$622"
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/46/21820846_52629032_480.jpg",
+    "label": "AMI Paris",
+    "name": "джинсовая куртка-рубашка с вышитым логотипом",
+    "price": "$225",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820846.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/83/95/23608395_53790586_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "куртка с кожаной отделкой",
+    "price": "$1,925",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-23608395.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/13/00/92/09/13009209_13770618_480.jpg",
     "label": "Thom Browne",
-    "name": "4-Bar Ribbed Knit Blouson Jacket",
-    "price": "$1,726"
+    "name": "бомбер с полосками 4-Bar",
+    "price": "$1,726",
+    "url": "https://www.farfetch.com/kz/shopping/men/thom-browne-4-bar-item-13009209.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/18/90/99/06/18909906_42531501_480.jpg",
-    "label": "Ralph Lauren RRL",
-    "name": "Ideford shearling-lined leather jacket",
-    "price": "$4,187"
+    "image": "https://cdn-images.farfetch-contents.com/23/83/85/77/23838577_54859482_480.jpg",
+    "label": "TOM FORD",
+    "name": "однобортный пиджак",
+    "price": "$6,212",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-23838577.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/09/03/48/23090348_53762225_480.jpg",
-    "label": "VETEMENTS",
-    "name": "Blackout Racing bomber jacket",
-    "price": "$2,742"
+    "image": "https://cdn-images.farfetch-contents.com/24/30/33/15/24303315_54383811_480.jpg",
+    "label": "Gucci",
+    "name": "куртка с капюшоном и отделкой Web",
+    "price": "$2,505",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci-web-item-24303315.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/55/90/87/22559087_52549864_480.jpg",
+    "label": "Stone Island",
+    "name": "куртка Shell-R с капюшоном",
+    "price": "$428",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-shell-r-item-22559087.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/37/18/23973718_54176232_480.jpg",
+    "label": "AMI Paris",
+    "name": "двубортный шерстяной пиджак",
+    "price": "$837",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-23973718.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/29/18/05/22291805_52103016_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "джинсовая куртка узкого кроя",
+    "price": "$2,232",
+    "url": "https://www.farfetch.com/kz/shopping/men/brunello-cucinelli--item-22291805.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/75/94/23497594_53925504_480.jpg",
+    "label": "Versace",
+    "name": "куртка на молнии с декором Medusa",
+    "price": "$1,559",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-medusa-item-23497594.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/17/52/22871752_52939005_480.jpg",
+    "label": "Moncler",
+    "name": "куртка со стеганой вставкой",
+    "price": "$925",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-22871752.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/74/27/98/15742798_40211589_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "куртка с карманами",
+    "price": "$430",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-15742798.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/60/34/52/22603452_52613464_480.jpg",
+    "label": "AMIRI",
+    "name": "бомбер Eagle Varsity со вставками",
+    "price": "$1,938",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-eagle-varsity-item-22603452.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/48/49/09/21484909_53891602_480.jpg",
+    "label": "OUR LEGACY",
+    "name": "куртка Retrospec с капюшоном",
+    "price": "$665",
+    "url": "https://www.farfetch.com/kz/shopping/men/our-legacy-retrospec-item-21484909.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/58/88/56/22588856_52626968_480.jpg",
+    "label": "DSQUARED2",
+    "name": "куртка с капюшоном и вставками",
+    "price": "$523",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-22588856.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/58/76/40/24587640_54793409_480.jpg",
+    "label": "Balenciaga",
+    "name": "бомбер с эффектом потертости",
+    "price": "$2,705",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-24587640.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/00/74/96/24007496_54103494_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "куртка на молнии",
+    "price": "$3,515",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-24007496.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/84/85/23498485_53590234_480.jpg",
+    "label": "Versace",
+    "name": "кожаная куртка",
+    "price": "$3,260",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace--item-23498485.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/72/33/23607233_54235160_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "однобортный бархатный пиджак",
+    "price": "$2,812",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-23607233.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/04/83/25/22048325_51753517_480.jpg",
+    "label": "Philipp Plein",
+    "name": "дутый жилет Hexagon с логотипом",
+    "price": "$444",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein-hexagon-item-22048325.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/44/62/27/24446227_54602331_480.jpg",
+    "label": "Stone Island",
+    "name": "куртка с нашивкой Compass",
+    "price": "$668",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-24446227.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/28/61/41/24286141_54431116_480.jpg",
+    "label": "Thom Browne",
+    "name": "пиджак с полосками 4-Bar",
+    "price": "$2,646",
+    "url": "https://www.farfetch.com/kz/shopping/men/thom-browne-4-bar-item-24286141.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/00/84/44/20008444_50758795_480.jpg",
+    "label": "Lanvin",
+    "name": "однобортный пиджак",
+    "price": "$616",
+    "url": "https://www.farfetch.com/kz/shopping/men/lanvin--item-20008444.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/60/47/05/24604705_54599208_480.jpg",
+    "label": "Stone Island",
+    "name": "куртка с нашивкой Compass",
+    "price": "$359",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-24604705.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/65/21/42/23652142_53878253_480.jpg",
+    "label": "DSQUARED2",
+    "name": "куртка на молнии",
+    "price": "$1,445",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-23652142.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/68/96/22/23689622_54039291_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "однобортный кожаный пиджак",
+    "price": "$8,045",
+    "url": "https://www.farfetch.com/kz/shopping/men/brunello-cucinelli--item-23689622.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/03/22/23/24032223_54154615_480.jpg",
+    "label": "Marni",
+    "name": "полосатый пиджак с эффектом потертости",
+    "price": "$1,672",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni--item-24032223.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/75/67/33/23756733_53710289_480.jpg",
+    "label": "ETRO",
+    "name": "шерстяной пиджак в полоску",
+    "price": "$3,423",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro--item-23756733.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/95/35/15/17953515_37953207_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "куртка с капюшоном из коллаборации с K-Way Leon",
+    "price": "$181",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-play-k-way-leon-item-17953515.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/42/01/21464201_52694488_480.jpg",
+    "label": "Philipp Plein",
+    "name": "бомбер с капюшоном",
+    "price": "$1,029",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-21464201.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/57/61/39/22576139_53404514_480.jpg",
+    "label": "Burberry",
+    "name": "куртка с капюшоном и вышитым логотипом",
+    "price": "$1,478",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-22576139.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/04/73/83/22047383_51752184_480.jpg",
+    "label": "Philipp Plein",
+    "name": "пуховик Hexagon с логотипом",
+    "price": "$558",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein-hexagon-item-22047383.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/86/62/85/22866285_52980540_480.jpg",
+    "label": "Moncler",
+    "name": "куртка Chaberton с логотипом",
+    "price": "$1,205",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler-chaberton-item-22866285.aspx"
   }
 ]

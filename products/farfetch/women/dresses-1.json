@@ -1,74 +1,1346 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/44/37/09/23443709_54318695_480.jpg",
-    "label": "Valentino Garavani",
-    "name": "striped dress",
-    "price": "$3,963"
+    "image": "https://cdn-images.farfetch-contents.com/23/92/93/61/23929361_53946921_480.jpg",
+    "label": "DRIES VAN NOTEN",
+    "name": "платье с оборками и принтом",
+    "price": "$1,503",
+    "url": "https://www.farfetch.com/kz/shopping/women/dries-van-noten--item-23929361.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/98/16/20/23981620_54269922_480.jpg",
-    "label": "Sachin & Babi",
-    "name": "Bonnie gown",
-    "price": "$920"
+    "image": "https://cdn-images.farfetch-contents.com/21/55/21/17/21552117_51557414_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "бархатное платье Sensory с вышивкой",
+    "price": "$3,570",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-sensory-item-21552117.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/30/83/53/24308353_54340967_480.jpg",
-    "label": "Alexander McQueen",
-    "name": "Thorn Branches midi dres",
-    "price": "$2,315"
+    "image": "https://cdn-images.farfetch-contents.com/23/91/45/22/23914522_54153668_480.jpg",
+    "label": "Reformation",
+    "name": "платье миди Sariah со сборками",
+    "price": "$300",
+    "url": "https://www.farfetch.com/kz/shopping/women/reformation-sariah-item-23914522.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/01/62/07/22016207_52837854_480.jpg",
+    "label": "Zadig&Voltaire",
+    "name": "атласное платье макси Rarys",
+    "price": "$316",
+    "url": "https://www.farfetch.com/kz/shopping/women/zadigvoltaire-rarys-item-22016207.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/26/77/63/24267763_54249641_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "коктейльное платье Jaguar Faille",
+    "price": "$4,633",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta-jaguar-faille-item-24267763.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/49/10/94/24491094_54868472_480.jpg",
+    "label": "Burberry",
+    "name": "шелковое платье Bus",
+    "price": "$1,974",
+    "url": "https://www.farfetch.com/kz/shopping/women/burberry-bus-item-24491094.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/05/41/20/23054120_53725683_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "платье макси Ottie с цветочным принтом",
+    "price": "$860",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-ottie-item-23054120.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/22/40/23602240_54231682_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "кружевное платье-трапеция длины мини",
+    "price": "$2,020",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23602240.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/04/16/94/23041694_53226593_480.jpg",
+    "label": "Jenny Packham",
+    "name": "платье миди Honeybee с баской",
+    "price": "$2,030",
+    "url": "https://www.farfetch.com/kz/shopping/women/jenny-packham-honeybee-item-23041694.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/86/86/00/20868600_52304280_480.jpg",
+    "label": "Proenza Schouler White Label",
+    "name": "платье миди Barre Bustier",
+    "price": "$193",
+    "url": "https://www.farfetch.com/kz/shopping/women/proenza-schouler-white-label-barre-bustier-item-20868600.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/45/81/23734581_53679370_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "платье миди Fern с пайетками",
+    "price": "$8,629",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta-fern-item-23734581.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/22/88/16/64/22881664_53374569_480.jpg",
     "label": "Sachin & Babi",
-    "name": "Florence panelled gown",
-    "price": "$1,075"
+    "name": "платье Florence со вставками",
+    "price": "$1,075",
+    "url": "https://www.farfetch.com/kz/shopping/women/sachin-babi-florence-item-22881664.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/01/88/51/24018851_54436385_480.jpg",
-    "label": "Marni",
-    "name": "floral-appliqué crepon dress",
-    "price": "$2,621"
+    "image": "https://cdn-images.farfetch-contents.com/23/05/94/87/23059487_54242227_480.jpg",
+    "label": "Saint Laurent",
+    "name": "твиловое платье миди с поясом",
+    "price": "$2,949",
+    "url": "https://www.farfetch.com/kz/shopping/women/saint-laurent--item-23059487.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/74/45/23607445_53584183_480.jpg",
+    "label": "Retrofete",
+    "name": "облегающее платье Brooke",
+    "price": "$408",
+    "url": "https://www.farfetch.com/kz/shopping/women/retrofete-brooke-item-23607445.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/04/36/09/22043609_53426378_480.jpg",
+    "label": "Claudie Pierlot",
+    "name": "платье мини со складками",
+    "price": "$620",
+    "url": "https://www.farfetch.com/kz/shopping/women/claudie-pierlot--item-22043609.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/82/90/21/22829021_53469130_480.jpg",
+    "label": "Patrizia Pepe",
+    "name": "платье миди Essential с пайетками",
+    "price": "$404",
+    "url": "https://www.farfetch.com/kz/shopping/women/patrizia-pepe-essential-item-22829021.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/04/16/96/23041696_53226012_480.jpg",
+    "label": "Jenny Packham",
+    "name": "платье макси Highball Queen с кристаллами",
+    "price": "$2,154",
+    "url": "https://www.farfetch.com/kz/shopping/women/jenny-packham-highball-queen-item-23041696.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/83/44/99/23834499_53826806_480.jpg",
+    "label": "Jil Sander",
+    "name": "шерстяное платье миди",
+    "price": "$2,430",
+    "url": "https://www.farfetch.com/kz/shopping/women/jil-sander--item-23834499.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/45/96/58/24459658_54596508_480.jpg",
+    "label": "Jacquemus",
+    "name": "платье макси Nodo",
+    "price": "$717",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-nodo-item-24459658.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/36/51/87/22365187_52640386_480.jpg",
+    "label": "Elie Saab",
+    "name": "платье из тюля с цветочной вышивкой",
+    "price": "$3,414",
+    "url": "https://www.farfetch.com/kz/shopping/women/elie-saab--item-22365187.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/84/67/22878467_53112206_480.jpg",
+    "label": "David Koma",
+    "name": "платье миди Crystal Ball одно плечо",
+    "price": "$1,718",
+    "url": "https://www.farfetch.com/kz/shopping/women/david-koma-crystal-ball-item-22878467.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/32/55/51/22325551_52557188_480.jpg",
+    "label": "Maje",
+    "name": "платье миди с V-образным вырезом и люрексом",
+    "price": "$710",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje-v-item-22325551.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/56/38/26/24563826_54674692_480.jpg",
+    "label": "Jacquemus",
+    "name": "La Robe de-Nîmes Spoglio maxi dress",
+    "price": "$828",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-robe-de-nimes-spoglio-maxi-dress-item-24563826.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/24/86/23972486_54399880_480.jpg",
+    "label": "Elisabetta Franchi",
+    "name": "платье макси Red Carpet",
+    "price": "$921",
+    "url": "https://www.farfetch.com/kz/shopping/women/elisabetta-franchi-red-carpet-item-23972486.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/20/18/23492018_53590473_480.jpg",
+    "label": "Versace",
+    "name": "платье мини с воротником-хомутом",
+    "price": "$3,682",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace--item-23492018.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/26/69/12/24266912_54249169_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "платье с бантами и разрезом",
+    "price": "$2,689",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-24266912.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/54/04/22/22540422_52539340_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "платье мини Lexi Billow",
+    "price": "$741",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-lexi-billow-item-22540422.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/58/45/09/24584509_54766907_480.jpg",
+    "label": "Self-Portrait",
+    "name": "джинсовое платье мини",
+    "price": "$348",
+    "url": "https://www.farfetch.com/kz/shopping/women/self-portrait--item-24584509.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/84/88/21608488_51865535_480.jpg",
+    "label": "PINKO",
+    "name": "расклешенное платье ампирного силуэта",
+    "price": "$371",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21608488.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/91/77/22119177_52542307_480.jpg",
+    "label": "Maje",
+    "name": "платье-рубашка в полоску",
+    "price": "$520",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22119177.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/80/79/07/20807907_50761066_480.jpg",
+    "label": "Jenny Packham",
+    "name": "вечернее платье Ingrid с кристаллами",
+    "price": "$2,907",
+    "url": "https://www.farfetch.com/kz/shopping/women/jenny-packham-ingrid-item-20807907.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/23/44/70/36/23447036_53833090_480.jpg",
     "label": "Valentino Garavani",
-    "name": "feather-trim denim dress",
-    "price": "$2,075"
+    "name": "джинсовое платье с перьями",
+    "price": "$2,075",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani--item-23447036.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/37/64/13/24376413_54608689_480.jpg",
-    "label": "Jacquemus",
-    "name": "La Mini Robe dress",
-    "price": "$686"
+    "image": "https://cdn-images.farfetch-contents.com/22/11/91/85/22119185_52539617_480.jpg",
+    "label": "Maje",
+    "name": "платье миди в рубчик с вырезами",
+    "price": "$560",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22119185.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/73/33/77/23733377_54574794_480.jpg",
-    "label": "ERDEM",
-    "name": "flared denim midi dress",
-    "price": "$910"
+    "image": "https://cdn-images.farfetch-contents.com/21/25/53/60/21255360_51480769_480.jpg",
+    "label": "Jenny Packham",
+    "name": "декорированное платье Kuda",
+    "price": "$2,424",
+    "url": "https://www.farfetch.com/kz/shopping/women/jenny-packham-kuda-item-21255360.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/24/26/77/97/24267797_54249913_480.jpg",
     "label": "Oscar de la Renta",
-    "name": "Chrysanthemum dress",
-    "price": "$2,149"
+    "name": "платье Chrysanthemum",
+    "price": "$2,149",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta-chrysanthemum-item-24267797.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/90/45/67/19904567_45311757_480.jpg",
+    "label": "Philipp Plein",
+    "name": "платье с глубоким V-образным вырезом",
+    "price": "$1,381",
+    "url": "https://www.farfetch.com/kz/shopping/women/philipp-plein-v-item-19904567.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/92/60/23749260_54055024_480.jpg",
+    "label": "SANDRO",
+    "name": "платье макси в рубчик",
+    "price": "$500",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-23749260.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/05/62/87/23056287_53870001_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "льняное платье мини Waverly",
+    "price": "$775",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-waverly-item-23056287.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/41/64/21614164_51865531_480.jpg",
+    "label": "PINKO",
+    "name": "платье миди со сборками и эффектом металлик",
+    "price": "$251",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21614164.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/36/88/99/19368899_42792733_480.jpg",
+    "label": "Solace London",
+    "name": "вечернее платье Arden с открытыми плечами",
+    "price": "$586",
+    "url": "https://www.farfetch.com/kz/shopping/women/solace-london-arden-item-19368899.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/78/70/72/23787072_53851798_480.jpg",
+    "label": "Marchesa",
+    "name": "платье с цветочной аппликацией",
+    "price": "$6,886",
+    "url": "https://www.farfetch.com/kz/shopping/women/marchesa--item-23787072.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/96/00/12/23960012_54088805_480.jpg",
+    "label": "Self-Portrait",
+    "name": "платье миди из тафты",
+    "price": "$468",
+    "url": "https://www.farfetch.com/kz/shopping/women/self-portrait--item-23960012.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/05/32/13/23053213_54257421_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "платье мини Pop",
+    "price": "$950",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-pop-item-23053213.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/97/69/86/22976986_48941000_480.jpg",
+    "label": "TOTEME",
+    "name": "приталенное платье миди",
+    "price": "$133",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-22976986.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/26/68/92/24266892_54249128_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "платье с бантами и разрезом",
+    "price": "$2,689",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-24266892.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/71/97/43/22719743_52673860_480.jpg",
+    "label": "Silvia Tcherassi",
+    "name": "платье мини Ballerina из органического хлопка",
+    "price": "$577",
+    "url": "https://www.farfetch.com/kz/shopping/women/silvia-tcherassi-ballerina-item-22719743.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/88/50/98/22885098_53984419_480.jpg",
+    "label": "Rachel Gilbert",
+    "name": "платье миди Everett с вырезами",
+    "price": "$2,351",
+    "url": "https://www.farfetch.com/kz/shopping/women/rachel-gilbert-everett-item-22885098.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/26/77/73/24267773_54249737_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "платье миди с анималистичным принтом и складками",
+    "price": "$3,985",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-24267773.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/41/69/21614169_51988461_480.jpg",
+    "label": "PINKO",
+    "name": "платье с квадратным вырезом и бантом",
+    "price": "$221",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21614169.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/87/93/04/23879304_54046504_480.jpg",
+    "label": "Sachin & Babi",
+    "name": "платье Zefira с вышивкой",
+    "price": "$621",
+    "url": "https://www.farfetch.com/kz/shopping/women/sachin-babi-zefira-item-23879304.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/26/78/04/24267804_54250934_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "коктейльное платье с эффектом омбре",
+    "price": "$17,431",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-24267804.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/22/56/23602256_53683204_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "платье миди в горох",
+    "price": "$1,687",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23602256.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/32/55/78/22325578_53028266_480.jpg",
+    "label": "Maje",
+    "name": "атласное платье с узлом",
+    "price": "$670",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22325578.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/04/06/33/23040633_53225937_480.jpg",
+    "label": "Jenny Packham",
+    "name": "платье макси Firefly с кристаллами",
+    "price": "$2,254",
+    "url": "https://www.farfetch.com/kz/shopping/women/jenny-packham-firefly-item-23040633.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/02/02/21540202_52478048_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "жаккардовое платье макси с монограммой",
+    "price": "$168",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld--item-21540202.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/23/90/23/84/23902384_54486986_480.jpg",
     "label": "Maje",
-    "name": "tweed dress set",
-    "price": "$393"
+    "name": "твидовый комплект из платья и жакета",
+    "price": "$393",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23902384.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/24/10/36/22241036_53436231_480.jpg",
+    "label": "Jacquemus",
+    "name": "трикотажное платье макси La Robe Yauco",
+    "price": "$770",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-robe-yauco-item-22241036.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/20/63/38/20206338_51179872_480.jpg",
+    "label": "SANDRO",
+    "name": "твидовое платье мини Nava с короткими рукавами",
+    "price": "$309",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro-nava-item-20206338.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/94/59/23799459_54991990_480.jpg",
+    "label": "Proenza Schouler",
+    "name": "платье макси Dani",
+    "price": "$2,135",
+    "url": "https://www.farfetch.com/kz/shopping/women/proenza-schouler-dani-item-23799459.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/14/74/14/23147414_53345922_480.jpg",
+    "label": "Self-Portrait",
+    "name": "платье мини с кристаллами",
+    "price": "$407",
+    "url": "https://www.farfetch.com/kz/shopping/women/self-portrait--item-23147414.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/94/93/39/24949339_55022605_480.jpg",
+    "label": "Altuzarra",
+    "name": "Mila dress",
+    "price": "$2,155",
+    "url": "https://www.farfetch.com/kz/shopping/women/altuzarra-mila-dress-item-24949339.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/84/98/21608498_51977433_480.jpg",
+    "label": "PINKO",
+    "name": "платье миди со вставками в рубчик",
+    "price": "$271",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21608498.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/26/13/61/20261361_52357903_480.jpg",
+    "label": "Solace London",
+    "name": "платье макси Dakota с открытыми плечами",
+    "price": "$251",
+    "url": "https://www.farfetch.com/kz/shopping/women/solace-london-dakota-item-20261361.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/07/42/08/19074208_44330938_480.jpg",
+    "label": "Zuhair Murad",
+    "name": "вечернее платье с цепочным декором",
+    "price": "$12,814",
+    "url": "https://www.farfetch.com/kz/shopping/women/zuhair-murad--item-19074208.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/78/57/15/24785715_54932758_480.jpg",
+    "label": "Burberry",
+    "name": "платье миди с пайетками",
+    "price": "$5,451",
+    "url": "https://www.farfetch.com/kz/shopping/women/burberry--item-24785715.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/89/89/16/22898916_53819905_480.jpg",
+    "label": "Saiid Kobeisy",
+    "name": "атласное вечернее платье с открытыми плечами и бусинами",
+    "price": "$3,590",
+    "url": "https://www.farfetch.com/kz/shopping/women/saiid-kobeisy--item-22898916.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/57/48/22025748_52251972_480.jpg",
+    "label": "SANDRO",
+    "name": "платье мини с V-образным вырезом и жатым эффектом",
+    "price": "$315",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro-v-item-22025748.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/84/24/15/23842415_54600057_480.jpg",
+    "label": "Stella McCartney",
+    "name": "джинсовое платье-рубашка",
+    "price": "$1,562",
+    "url": "https://www.farfetch.com/kz/shopping/women/stella-mccartney--item-23842415.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/39/45/78/22394578_52441420_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "расклешенное платье мини с принтом",
+    "price": "$1,237",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann--item-22394578.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/08/32/08/22083208_52127623_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "платье мини с цветочным принтом Hibiscus",
+    "price": "$1,068",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-hibiscus-item-22083208.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/85/06/21608506_51884846_480.jpg",
+    "label": "PINKO",
+    "name": "платье с U-образным вырезом",
+    "price": "$278",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko-u-item-21608506.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/98/90/62/21989062_52430773_480.jpg",
+    "label": "Marchesa",
+    "name": "расклешенное платье с перьями",
+    "price": "$14,818",
+    "url": "https://www.farfetch.com/kz/shopping/women/marchesa--item-21989062.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/44/86/67/22448667_53582005_480.jpg",
+    "label": "KHAITE",
+    "name": "комплект Esmeray из платья макси и топа",
+    "price": "$3,456",
+    "url": "https://www.farfetch.com/kz/shopping/women/khaite-esmeray-item-22448667.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/45/65/23734565_53679629_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "платье миди с вышивкой Poppy",
+    "price": "$19,920",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta-poppy-item-23734565.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/08/21/00/20082100_51273639_480.jpg",
+    "label": "Karl Lagerfeld Jeans",
+    "name": "logo-print belted minidress",
+    "price": "$51",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld-jeans-logo-print-belted-minidress-item-20082100.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/05/62/88/23056288_53714656_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "платье макси Halliday с цветочным принтом",
+    "price": "$1,025",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-halliday-item-23056288.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/22/34/63/22223463_52930878_480.jpg",
+    "label": "Philipp Plein",
+    "name": "платье мини с эффектом омбре",
+    "price": "$1,965",
+    "url": "https://www.farfetch.com/kz/shopping/women/philipp-plein--item-22223463.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/39/03/56/19390356_43839125_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "платье мини KIM DOLCE&GABBANA",
+    "price": "$11,988",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana-kim-dolcegabbana-item-19390356.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/10/03/75/22100375_52011348_480.jpg",
+    "label": "Maria Lucia Hohan",
+    "name": "платье Azoray с оборками",
+    "price": "$1,855",
+    "url": "https://www.farfetch.com/kz/shopping/women/maria-lucia-hohan-azoray-item-22100375.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/31/21/86/22312186_52538221_480.jpg",
+    "label": "Adam Lippes",
+    "name": "платье-рубашка Dejeuner с цветочной вышивкой",
+    "price": "$1,777",
+    "url": "https://www.farfetch.com/kz/shopping/women/adam-lippes-dejeuner-item-22312186.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/88/92/71/22889271_53115698_480.jpg",
+    "label": "ETRO",
+    "name": "платье из тюля с узором пейсли",
+    "price": "$1,097",
+    "url": "https://www.farfetch.com/kz/shopping/women/etro--item-22889271.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/22/53/23602253_53630378_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "шелковое платье миди с принтом Majolica",
+    "price": "$2,568",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana-majolica-item-23602253.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/37/64/13/24376413_54608689_480.jpg",
+    "label": "Jacquemus",
+    "name": "платье La Mini Robe",
+    "price": "$686",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-mini-robe-item-24376413.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/78/86/70/23788670_54307044_480.jpg",
+    "label": "Taller Marmo",
+    "name": "платье La Luna",
+    "price": "$1,309",
+    "url": "https://www.farfetch.com/kz/shopping/women/taller-marmo-la-luna-item-23788670.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/82/40/22118240_52690610_480.jpg",
+    "label": "Maje",
+    "name": "платье мини со вставками в технике кроше",
+    "price": "$670",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22118240.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/05/95/13/23059513_54394231_480.jpg",
+    "label": "Saint Laurent",
+    "name": "платье Saharienne с поясом",
+    "price": "$3,569",
+    "url": "https://www.farfetch.com/kz/shopping/women/saint-laurent-saharienne-item-23059513.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/55/72/32/21557232_52340573_480.jpg",
+    "label": "Elie Saab",
+    "name": "платье маски с кружевной вставкой",
+    "price": "$1,841",
+    "url": "https://www.farfetch.com/kz/shopping/women/elie-saab--item-21557232.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/32/55/53/22325553_52861953_480.jpg",
+    "label": "Maje",
+    "name": "платье в полоску со вставками",
+    "price": "$560",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22325553.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/45/76/23734576_53680087_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "платье миди с абстрактным принтом",
+    "price": "$3,310",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-23734576.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/70/14/23797014_53769247_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "льняное платье мини Halliday Plunge",
+    "price": "$700",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-halliday-plunge-item-23797014.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/19/17/22/24191722_54245806_480.jpg",
+    "label": "Versace",
+    "name": "платье миди с открытой спиной",
+    "price": "$3,058",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace--item-24191722.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/82/88/23748288_53760607_480.jpg",
+    "label": "SANDRO",
+    "name": "платье мини с баской",
+    "price": "$560",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-23748288.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/98/16/20/23981620_54269922_480.jpg",
+    "label": "Sachin & Babi",
+    "name": "платье Bonnie",
+    "price": "$920",
+    "url": "https://www.farfetch.com/kz/shopping/women/sachin-babi-bonnie-item-23981620.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/23/53/83/22235383_52289155_480.jpg",
+    "label": "ROTATE BIRGER CHRISTENSEN",
+    "name": "платье миди с пайетками и вырезом халтер",
+    "price": "$389",
+    "url": "https://www.farfetch.com/kz/shopping/women/rotate-birger-christensen--item-22235383.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/86/61/55/23866155_53925326_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "платье миди Halliday с запахом",
+    "price": "$846",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-halliday-item-23866155.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/05/72/23730572_53756948_480.jpg",
+    "label": "Maje",
+    "name": "платье макси с поясом",
+    "price": "$351",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23730572.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/62/50/39/24625039_54795496_480.jpg",
+    "label": "Jacquemus",
+    "name": "La Robe Vela maxi dress",
+    "price": "$1,653",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-robe-vela-maxi-dress-item-24625039.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/66/75/23496675_53771795_480.jpg",
+    "label": "Maje",
+    "name": "платье мини",
+    "price": "$750",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23496675.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/54/16/85/22541685_52520469_480.jpg",
+    "label": "L'IDÉE",
+    "name": "плиссированное платье макси с открытой спиной",
+    "price": "$535",
+    "url": "https://www.farfetch.com/kz/shopping/women/lidee--item-22541685.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/52/64/70/21526470_51552954_480.jpg",
+    "label": "Jenny Packham",
+    "name": "свадебное платье Kabla с пайетками",
+    "price": "$3,224",
+    "url": "https://www.farfetch.com/kz/shopping/women/jenny-packham-kabla-item-21526470.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/21/53/07/22215307_52051216_480.jpg",
+    "label": "Solace London",
+    "name": "платье миди Lenna",
+    "price": "$561",
+    "url": "https://www.farfetch.com/kz/shopping/women/solace-london-lenna-item-22215307.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/12/66/23771266_54278487_480.jpg",
+    "label": "Solace London",
+    "name": "платье макси The Adami",
+    "price": "$829",
+    "url": "https://www.farfetch.com/kz/shopping/women/solace-london-the-adami-item-23771266.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/22/71/23602271_53683255_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "платье миди в горох",
+    "price": "$1,994",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23602271.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/48/70/22154870_51910068_480.jpg",
+    "label": "ETRO",
+    "name": "платье макси с цветочным принтом",
+    "price": "$1,719",
+    "url": "https://www.farfetch.com/kz/shopping/women/etro--item-22154870.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/01/88/51/24018851_54436385_480.jpg",
+    "label": "Marni",
+    "name": "креповое платье с цветочной аппликацией",
+    "price": "$2,621",
+    "url": "https://www.farfetch.com/kz/shopping/women/marni--item-24018851.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/83/37/22118337_53042688_480.jpg",
+    "label": "Maje",
+    "name": "платье мини с баской и вышивкой Clover",
+    "price": "$670",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje-clover-item-22118337.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/05/17/23600517_53629979_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "платье-рубашка с принтом Majolica",
+    "price": "$2,295",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana-majolica-item-23600517.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/35/47/21613547_52355566_480.jpg",
+    "label": "PINKO",
+    "name": "платье макси без рукавов",
+    "price": "$305",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21613547.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/57/05/22025705_52824799_480.jpg",
+    "label": "SANDRO",
+    "name": "платье Danie с английской вышивкой",
+    "price": "$350",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro-danie-item-22025705.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/96/21/82/23962182_54027982_480.jpg",
+    "label": "Self-Portrait",
+    "name": "платье мини в рубчик с декоративными пуговицами",
+    "price": "$503",
+    "url": "https://www.farfetch.com/kz/shopping/women/self-portrait--item-23962182.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/35/75/91/22357591_52296048_480.jpg",
+    "label": "Self-Portrait",
+    "name": "платье мини со стразами",
+    "price": "$476",
+    "url": "https://www.farfetch.com/kz/shopping/women/self-portrait--item-22357591.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/30/18/81/22301881_52181885_480.jpg",
+    "label": "Self-Portrait",
+    "name": "платье мини с цветочным кружевом",
+    "price": "$454",
+    "url": "https://www.farfetch.com/kz/shopping/women/self-portrait--item-22301881.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/40/76/36/20407636_50598584_480.jpg",
+    "label": "Atu Body Couture",
+    "name": "атласное платье макси",
+    "price": "$923",
+    "url": "https://www.farfetch.com/kz/shopping/women/atu-body-couture--item-20407636.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/45/68/23734568_53679470_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "платье мини без бретелей с цветочной вышивкой",
+    "price": "$9,709",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-23734568.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/51/98/93/23519893_53654260_480.jpg",
+    "label": "DVF Diane von Furstenberg",
+    "name": "платье макси Lauren со сборками",
+    "price": "$342",
+    "url": "https://www.farfetch.com/kz/shopping/women/dvf-diane-von-furstenberg-lauren-item-23519893.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/36/51/95/22365195_52651494_480.jpg",
+    "label": "Elie Saab",
+    "name": "вечернее платье из тюля с цветочной аппликацией",
+    "price": "$3,249",
+    "url": "https://www.farfetch.com/kz/shopping/women/elie-saab--item-22365195.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/65/11/94/23651194_53821466_480.jpg",
+    "label": "Ferragamo",
+    "name": "атласное платье мини",
+    "price": "$1,336",
+    "url": "https://www.farfetch.com/kz/shopping/women/ferragamo--item-23651194.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/37/10/72/22371072_52230635_480.jpg",
+    "label": "Giambattista Valli",
+    "name": "шелковое платье макси Saint-Rémy",
+    "price": "$4,193",
+    "url": "https://www.farfetch.com/kz/shopping/women/giambattista-valli-saint-remy-item-22371072.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/81/67/52/18816752_41105462_480.jpg",
+    "label": "Reformation",
+    "name": "платье миди Twilight с цветочным принтом",
+    "price": "$300",
+    "url": "https://www.farfetch.com/kz/shopping/women/reformation-twilight-item-18816752.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/25/34/05/22253405_52132504_480.jpg",
+    "label": "Solace London",
+    "name": "атласное платье-рубашка длины мини Pia со складками",
+    "price": "$577",
+    "url": "https://www.farfetch.com/kz/shopping/women/solace-london-pia-item-22253405.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/26/45/94/23264594_54645916_480.jpg",
+    "label": "KHAITE",
+    "name": "платье Hencil",
+    "price": "$2,592",
+    "url": "https://www.farfetch.com/kz/shopping/women/khaite-hencil-item-23264594.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/32/16/22613216_52840298_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "платье макси с поясом",
+    "price": "$3,526",
+    "url": "https://www.farfetch.com/kz/shopping/women/brunello-cucinelli--item-22613216.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/57/40/82/24574082_54916686_480.jpg",
+    "label": "Jacquemus",
+    "name": "платье мини La mini robe Sierra",
+    "price": "$613",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-mini-robe-sierra-item-24574082.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/76/58/23497658_53590448_480.jpg",
+    "label": "Versace",
+    "name": "атласное платье с вышивкой",
+    "price": "$7,841",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace--item-23497658.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/99/66/23729966_53749211_480.jpg",
+    "label": "Maje",
+    "name": "платье макси рыхлой вязки",
+    "price": "$414",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23729966.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/20/02/23492002_53899115_480.jpg",
+    "label": "Versace",
+    "name": "платье Medusa с короткими рукавами",
+    "price": "$1,923",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-medusa-item-23492002.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/06/65/87/23066587_54060821_480.jpg",
+    "label": "Zuhair Murad",
+    "name": "платье с корсетом и вышивкой бисером",
+    "price": "$12,714",
+    "url": "https://www.farfetch.com/kz/shopping/women/zuhair-murad--item-23066587.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/27/46/86/20274686_50699288_480.jpg",
+    "label": "Maje",
+    "name": "платье с драпировкой и люрексом",
+    "price": "$560",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-20274686.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/96/32/59/23963259_54060847_480.jpg",
+    "label": "Jenny Packham",
+    "name": "платье Lux с кристаллами и пайетками",
+    "price": "$3,824",
+    "url": "https://www.farfetch.com/kz/shopping/women/jenny-packham-lux-item-23963259.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/22/67/21612267_52182440_480.jpg",
+    "label": "Diesel",
+    "name": "платье D-Malory из джерси с эффектом потертости",
+    "price": "$132",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-d-malory-item-21612267.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/71/68/03/23716803_53969135_480.jpg",
+    "label": "Alessandra Rich",
+    "name": "платье миди в горох",
+    "price": "$2,099",
+    "url": "https://www.farfetch.com/kz/shopping/women/alessandra-rich--item-23716803.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/45/15/22704515_53366597_480.jpg",
+    "label": "Gucci",
+    "name": "платье с жаккардовым логотипом GG",
+    "price": "$2,615",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci-gg-item-22704515.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/47/47/88/21474788_51469234_480.jpg",
+    "label": "Jacquemus",
+    "name": "платье макси La Saudade Longue Brod?e",
+    "price": "$793",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-saudade-longue-brode-item-21474788.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/69/71/58/23697158_53646123_480.jpg",
+    "label": "Proenza Schouler",
+    "name": "полосатое платье макси Naomi в технике кроше",
+    "price": "$1,933",
+    "url": "https://www.farfetch.com/kz/shopping/women/proenza-schouler-naomi-item-23697158.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/51/67/05/19516705_50091299_480.jpg",
+    "label": "Courrèges",
+    "name": "платье Bumpy асимметричного кроя",
+    "price": "$161",
+    "url": "https://www.farfetch.com/kz/shopping/women/courreges-bumpy-item-19516705.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/30/95/16/23309516_53391147_480.jpg",
+    "label": "Elisabetta Franchi",
+    "name": "платье макси с вырезом халтер",
+    "price": "$489",
+    "url": "https://www.farfetch.com/kz/shopping/women/elisabetta-franchi--item-23309516.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/67/57/22026757_52944938_480.jpg",
+    "label": "SANDRO",
+    "name": "расклешенное платье макси в технике кроше",
+    "price": "$335",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-22026757.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/76/99/72/23769972_54411906_480.jpg",
+    "label": "Jacquemus",
+    "name": "платье La Robe Maille Sculta",
+    "price": "$785",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-robe-maille-sculta-item-23769972.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/67/77/22026777_52916532_480.jpg",
+    "label": "SANDRO",
+    "name": "платье-рубашка в полоску",
+    "price": "$350",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-22026777.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/57/99/23725799_53843229_480.jpg",
+    "label": "Norma Kamali",
+    "name": "платье Diana на одно плечо",
+    "price": "$271",
+    "url": "https://www.farfetch.com/kz/shopping/women/norma-kamali-diana-item-23725799.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/45/39/23734539_53678949_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "платье макси с бахромой и принтом",
+    "price": "$11,869",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-23734539.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/20/75/55/24207555_54245307_480.jpg",
+    "label": "Gucci",
+    "name": "джинсовое платье мини с декором Horsebit",
+    "price": "$1,790",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci-horsebit-item-24207555.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/90/41/12/23904112_54022989_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "платье макси Waverly Billow",
+    "price": "$1,305",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-waverly-billow-item-23904112.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/74/53/21687453_52859447_480.jpg",
+    "label": "Diesel",
+    "name": "платье D-Sizen-N2",
+    "price": "$250",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-d-sizen-n2-item-21687453.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/79/31/22027931_52814971_480.jpg",
+    "label": "SANDRO",
+    "name": "платье Danie с английской вышивкой",
+    "price": "$405",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro-danie-item-22027931.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/96/30/47/22963047_53103064_480.jpg",
+    "label": "Jenny Packham",
+    "name": "платье Bright Gem с пайетками",
+    "price": "$3,650",
+    "url": "https://www.farfetch.com/kz/shopping/women/jenny-packham-bright-gem-item-22963047.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/61/36/90/17613690_37205256_480.jpg",
+    "label": "Sachin & Babi",
+    "name": "платье Mila с оборками",
+    "price": "$702",
+    "url": "https://www.farfetch.com/kz/shopping/women/sachin-babi-mila-item-17613690.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/78/91/44/23789144_53928575_480.jpg",
+    "label": "Johanna Ortiz",
+    "name": "льняное платье мини River Ritual",
+    "price": "$698",
+    "url": "https://www.farfetch.com/kz/shopping/women/johanna-ortiz-river-ritual-item-23789144.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/05/41/44/23054144_54405198_480.jpg",
+    "label": "Christopher Esber",
+    "name": "платье Lucent с пайетками",
+    "price": "$1,348",
+    "url": "https://www.farfetch.com/kz/shopping/women/christopher-esber-lucent-item-23054144.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/13/29/81/23132981_53236852_480.jpg",
+    "label": "Jacquemus",
+    "name": "платье макси Aro с драпировкой",
+    "price": "$459",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-aro-item-23132981.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/78/31/60/14783160_8f3303a2-36d6-4bd6-b5af-32d7a8fdfaa3_480.jpg",
+    "label": "SANDRO",
+    "name": "твидовое платье мини",
+    "price": "$309",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-14783160.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/88/71/48/18887148_42203134_480.jpg",
+    "label": "Maria Lucia Hohan",
+    "name": "плиссированное платье Jolene на одно плечо",
+    "price": "$3,097",
+    "url": "https://www.farfetch.com/kz/shopping/women/maria-lucia-hohan-jolene-item-18887148.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/32/55/50/22325550_53027789_480.jpg",
+    "label": "Maje",
+    "name": "платье мини с вышивкой Clover",
+    "price": "$560",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje-clover-item-22325550.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/80/03/22158003_52423995_480.jpg",
+    "label": "PINKO",
+    "name": "платье-рубашка Assente в полоску",
+    "price": "$208",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko-assente-item-22158003.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/23/96/03/80/23960380_54091381_480.jpg",
     "label": "Self-Portrait",
-    "name": "gem-embellished pleated mini dress",
-    "price": "$446"
+    "name": "декорированное платье мини",
+    "price": "$446",
+    "url": "https://www.farfetch.com/kz/shopping/women/self-portrait--item-23960380.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/78/88/21467888_52271756_480.jpg",
+    "label": "Maje",
+    "name": "платье макси с пайетками",
+    "price": "$710",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21467888.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/35/19/88/23351988_53464934_480.jpg",
+    "label": "Jenny Packham",
+    "name": "платье Aster с кристаллами",
+    "price": "$4,501",
+    "url": "https://www.farfetch.com/kz/shopping/women/jenny-packham-aster-item-23351988.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/21/53/20/22215320_52050776_480.jpg",
+    "label": "Solace London",
+    "name": "вечернее платье Alexis с открытыми плечами",
+    "price": "$683",
+    "url": "https://www.farfetch.com/kz/shopping/women/solace-london-alexis-item-22215320.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/76/92/73/23769273_54280685_480.jpg",
+    "label": "Solace London",
+    "name": "платье макси The Priya",
+    "price": "$979",
+    "url": "https://www.farfetch.com/kz/shopping/women/solace-london-the-priya-item-23769273.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/23/73/62/20237362_50259927_480.jpg",
+    "label": "Saiid Kobeisy",
+    "name": "платье с бисером",
+    "price": "$4,114",
+    "url": "https://www.farfetch.com/kz/shopping/women/saiid-kobeisy--item-20237362.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/54/56/23445456_53576795_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "твидовое платье мини с короткими рукавами",
+    "price": "$3,375",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani--item-23445456.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/74/81/11/21748111_51730510_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "платье с цветочной вышивкой",
+    "price": "$4,077",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-21748111.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/89/99/66/23899966_54339198_480.jpg",
+    "label": "Johanna Ortiz",
+    "name": "платье Calm Wind с аппликацией",
+    "price": "$1,724",
+    "url": "https://www.farfetch.com/kz/shopping/women/johanna-ortiz-calm-wind-item-23899966.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/79/13/22027913_52679455_480.jpg",
+    "label": "SANDRO",
+    "name": "трикотажное платье мини с бахромой",
+    "price": "$335",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-22027913.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/57/95/23725795_53778517_480.jpg",
+    "label": "Norma Kamali",
+    "name": "платье миди Diana с драпировкой",
+    "price": "$271",
+    "url": "https://www.farfetch.com/kz/shopping/women/norma-kamali-diana-item-23725795.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/70/37/23447037_54024148_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "джинсовое платье с баской",
+    "price": "$1,963",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani--item-23447037.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/30/83/53/24308353_54340967_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "платье миди Thorn Branches",
+    "price": "$2,315",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-mcqueen-thorn-branches-item-24308353.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/85/53/92/23855392_53964002_480.jpg",
+    "label": "Saiid Kobeisy",
+    "name": "платье без рукавов со вставками",
+    "price": "$2,057",
+    "url": "https://www.farfetch.com/kz/shopping/women/saiid-kobeisy--item-23855392.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/10/79/77/20107977_45288937_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "платье мини Spliced с цветочным принтом",
+    "price": "$1,834",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-spliced-item-20107977.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/03/53/67/23035367_53193401_480.jpg",
+    "label": "Alaïa",
+    "name": "поплиновое платье миди",
+    "price": "$2,035",
+    "url": "https://www.farfetch.com/kz/shopping/women/alaia--item-23035367.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/85/02/21468502_52335637_480.jpg",
+    "label": "Maje",
+    "name": "атласное платье мини",
+    "price": "$410",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21468502.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/98/50/52/21985052_51714631_480.jpg",
+    "label": "Marchesa",
+    "name": "платье с пайетками и бантом",
+    "price": "$8,635",
+    "url": "https://www.farfetch.com/kz/shopping/women/marchesa--item-21985052.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/94/16/31/22941631_53798529_480.jpg",
+    "label": "Proenza Schouler",
+    "name": "платье миди Simone с принтом тай-дай",
+    "price": "$1,049",
+    "url": "https://www.farfetch.com/kz/shopping/women/proenza-schouler-simone-item-22941631.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/14/37/65/23143765_53300654_480.jpg",
+    "label": "Solace London",
+    "name": "креповое платье макси Jodi",
+    "price": "$857",
+    "url": "https://www.farfetch.com/kz/shopping/women/solace-london-jodi-item-23143765.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/04/06/35/23040635_53225959_480.jpg",
+    "label": "Jenny Packham",
+    "name": "платье миди Firefly с кристаллами",
+    "price": "$2,167",
+    "url": "https://www.farfetch.com/kz/shopping/women/jenny-packham-firefly-item-23040635.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/96/98/26/23969826_54123673_480.jpg",
+    "label": "Self-Portrait",
+    "name": "платье миди с кристаллами",
+    "price": "$498",
+    "url": "https://www.farfetch.com/kz/shopping/women/self-portrait--item-23969826.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/45/71/23734571_53680049_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "платье Fern с кристаллами",
+    "price": "$15,109",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta-fern-item-23734571.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/68/10/23746810_54351304_480.jpg",
+    "label": "ERDEM",
+    "name": "платье макси с завязками",
+    "price": "$3,595",
+    "url": "https://www.farfetch.com/kz/shopping/women/erdem--item-23746810.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/31/52/23973152_54122337_480.jpg",
+    "label": "Elisabetta Franchi",
+    "name": "вечернее платье с объемным бантом",
+    "price": "$714",
+    "url": "https://www.farfetch.com/kz/shopping/women/elisabetta-franchi--item-23973152.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/86/31/38/23863138_54282985_480.jpg",
+    "label": "Elie Saab",
+    "name": "платье Thalassa",
+    "price": "$6,554",
+    "url": "https://www.farfetch.com/kz/shopping/women/elie-saab-thalassa-item-23863138.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/05/41/27/23054127_53870365_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "льняное платье мини Ottie Swing",
+    "price": "$685",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-ottie-swing-item-23054127.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/03/13/08/23031308_53819187_480.jpg",
+    "label": "Maria Lucia Hohan",
+    "name": "плиссированное платье Manon из шелка",
+    "price": "$2,900",
+    "url": "https://www.farfetch.com/kz/shopping/women/maria-lucia-hohan-manon-item-23031308.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/91/61/08/22916108_53035889_480.jpg",
+    "label": "Diesel",
+    "name": "поплиновое платье-рубашка D-Sizen-N1",
+    "price": "$465",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-d-sizen-n1-item-22916108.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/85/63/91/23856391_53963197_480.jpg",
+    "label": "Saiid Kobeisy",
+    "name": "креповое платье макси с бисером",
+    "price": "$1,882",
+    "url": "https://www.farfetch.com/kz/shopping/women/saiid-kobeisy--item-23856391.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/15/52/23601552_54230581_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "платье миди с монограммой",
+    "price": "$5,245",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23601552.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/80/05/22158005_52417072_480.jpg",
+    "label": "PINKO",
+    "name": "расклешенное платье мини с кружевом",
+    "price": "$173",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-22158005.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/84/54/21608454_51977283_480.jpg",
+    "label": "PINKO",
+    "name": "платье с круглым вырезом",
+    "price": "$425",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21608454.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/76/14/57/23761457_54303547_480.jpg",
+    "label": "Jacquemus",
+    "name": "платье Le robe chemise Casaco",
+    "price": "$767",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-le-robe-chemise-casaco-item-23761457.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/48/28/60/24482860_54600300_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "драпированное платье миди асимметричного кроя",
+    "price": "$1,445",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-mcqueen--item-24482860.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/02/86/91/23028691_53181918_480.jpg",
+    "label": "Elisabetta Franchi",
+    "name": "платье с V-образным вырезом и пайетками",
+    "price": "$1,614",
+    "url": "https://www.farfetch.com/kz/shopping/women/elisabetta-franchi-v-item-23028691.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/23/73/37/47/23733747_53678321_480.jpg",
     "label": "Oscar de la Renta",
-    "name": "cut-out long-sleeve midi dress",
-    "price": "$6,469"
+    "name": "платье миди с длинными рукавами",
+    "price": "$6,469",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-23733747.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/36/01/97/22360197_52277124_480.jpg",
+    "label": "Ana Radu",
+    "name": "бархатное платье мини",
+    "price": "$1,734",
+    "url": "https://www.farfetch.com/kz/shopping/women/ana-radu--item-22360197.aspx"
   }
 ]

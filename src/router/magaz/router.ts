@@ -30,7 +30,7 @@ const shopData: { [key: string]: { men: any, women: any } } = {
 //           ]
 //    }
 shopRouter.get('/', (req: Request, res: Response) => {
-    const { name } = req.query;
+    const { name, gender } = req.query;
 
     if (!name || typeof name !== 'string') {
         return res.status(400).send({ message: "Invalid query parameter" });
@@ -40,6 +40,16 @@ shopRouter.get('/', (req: Request, res: Response) => {
 
     if (!data) {
         return res.status(404).send({ message: "Shop not found" });
+    }
+
+    if (gender){
+        if (gender === "men"){
+            res.status(200).send(data.men)
+            return 
+        }else if (gender === "women"){
+            res.status(200).send(data.women)
+            return 
+        }
     }
 
     res.status(200).send(data);

@@ -1,146 +1,1346 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/18/77/79/23187779_53351830_480.jpg",
-    "label": "Polo Ralph Lauren",
-    "name": "Polo-Pony linen shirt",
-    "price": "$162"
+    "image": "https://cdn-images.farfetch-contents.com/22/90/99/40/22909940_53018686_480.jpg",
+    "label": "Jacquemus",
+    "name": "рубашка La Chemise Jean",
+    "price": "$262",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-la-chemise-jean-item-22909940.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/19/59/40/04/19594004_45112523_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/83/86/20/23838620_54858733_480.jpg",
+    "label": "TOM FORD",
+    "name": "рубашка с манишкой",
+    "price": "$896",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-23838620.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/45/39/03/21453903_51429507_480.jpg",
+    "label": "Casablanca",
+    "name": "шелковая рубашка Tennis Club Icon",
+    "price": "$894",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-tennis-club-icon-item-21453903.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/40/76/92/19407692_42811331_480.jpg",
+    "label": "Kenzo",
+    "name": "рубашка с вышивкой Boke Flower",
+    "price": "$214",
+    "url": "https://www.farfetch.com/kz/shopping/men/kenzo-boke-flower-item-19407692.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/33/21819833_52438085_480.jpg",
     "label": "AMI Paris",
-    "name": "embroidered-logo poplin shirt",
-    "price": "$204"
+    "name": "рубашка с вышитым логотипом",
+    "price": "$161",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819833.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/44/07/66/24440766_54653421_480.jpg",
-    "label": "AMIRI",
-    "name": "Resort Club embroidered shirt",
-    "price": "$1,069"
+    "image": "https://cdn-images.farfetch-contents.com/23/74/93/46/23749346_54184628_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка в технике кроше с цветочной аппликацией",
+    "price": "$470",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-23749346.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/02/96/50/22029650_52640946_480.jpg",
-    "label": "Palm Angels",
-    "name": "Sunset-print linen-blend shirt",
-    "price": "$370"
+    "image": "https://cdn-images.farfetch-contents.com/24/41/59/00/24415900_54667875_480.jpg",
+    "label": "Balenciaga",
+    "name": "рубашка Paris Liberty",
+    "price": "$1,455",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga-paris-liberty-item-24415900.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/76/12/12/23761212_53816057_480.jpg",
-    "label": "Nanushka",
-    "name": "crochet-detaling denim shirt jacket",
-    "price": "$673"
+    "image": "https://cdn-images.farfetch-contents.com/18/04/74/51/18047451_40108435_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "поплиновая рубашка на пуговицах",
+    "price": "$71",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-18047451.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/03/07/40/22030740_51896370_480.jpg",
-    "label": "Versace Jeans Couture",
-    "name": "Barocco-print short-sleeve shirt",
-    "price": "$356"
+    "image": "https://cdn-images.farfetch-contents.com/24/83/01/97/24830197_55005647_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка на пуговицах",
+    "price": "$239",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-24830197.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/27/28/21822728_49101599_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с монограммой Ami de Coeur",
+    "price": "$224",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21822728.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/17/21819817_49104118_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с вышитой монограммой Ami de Coeur",
+    "price": "$182",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819817.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/78/78/27/22787827_52966978_480.jpg",
+    "label": "Thom Browne",
+    "name": "фланелевая рубашка в клетку тартан",
+    "price": "$853",
+    "url": "https://www.farfetch.com/kz/shopping/men/thom-browne--item-22787827.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/09/39/21820939_53101052_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с длинными рукавами",
+    "price": "$182",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820939.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/22/29/92/81/22299281_52146645_480.jpg",
     "label": "Brunello Cucinelli",
-    "name": "spread-collar cotton shirt",
-    "price": "$605"
+    "name": "рубашка с отложным воротником",
+    "price": "$605",
+    "url": "https://www.farfetch.com/kz/shopping/men/brunello-cucinelli--item-22299281.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/97/37/92/23973792_54134670_480.jpg",
-    "label": "AMI Paris",
-    "name": "Ami de Coeur cotton shirt",
-    "price": "$215"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/86/46/63/22864663_54030410_480.jpg",
-    "label": "Jacquemus",
-    "name": "asymmetric fastening striped shirt",
-    "price": "$540"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/26/57/78/23265778_54137333_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/24/82/76/85/24827685_54908215_480.jpg",
     "label": "AMIRI",
-    "name": "Twisted Palms silk shirt",
-    "price": "$1,182"
+    "name": "рубашка с цветочным принтом",
+    "price": "$1,198",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri--item-24827685.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/40/53/45/22405345_52695411_480.jpg",
-    "label": "Marni",
-    "name": "striped long-sleeve shirt",
-    "price": "$893"
+    "image": "https://cdn-images.farfetch-contents.com/23/60/24/99/23602499_53738417_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "шелковая рубашка с принтом Tulip",
+    "price": "$1,278",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana-tulip-item-23602499.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/31/42/96/24314296_54415394_480.jpg",
-    "label": "Givenchy",
-    "name": "4G cotton shirt",
-    "price": "$1,164"
+    "image": "https://cdn-images.farfetch-contents.com/22/55/44/81/22554481_53136592_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "льняная рубашка с логотипом Polo Pony",
+    "price": "$154",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22554481.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/80/02/64/23800264_53773117_480.jpg",
-    "label": "Burberry",
-    "name": "Vintage Check wool shirt",
-    "price": "$857"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/17/83/79/24178379_54216812_480.jpg",
-    "label": "Jacquemus",
-    "name": "La Chemise Simon shirt",
-    "price": "$440"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/97/38/37/23973837_54137260_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/21/82/26/98/21822698_53446708_480.jpg",
     "label": "AMI Paris",
-    "name": "striped Ami de Coeur cotton shirt",
-    "price": "$249"
+    "name": "полосатая рубашка с вышитым логотипом",
+    "price": "$176",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21822698.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/49/09/94/23490994_53576935_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/97/42/48/23974248_54133830_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка свободного кроя с короткими рукавами",
+    "price": "$262",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-23974248.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/20/13/23492013_53590213_480.jpg",
     "label": "Versace",
-    "name": "Barocco Sea silk shirt",
-    "price": "$1,381"
+    "name": "шелковая рубашка La Coupe des Dieux",
+    "price": "$1,200",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-la-coupe-des-dieux-item-23492013.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/35/51/03/24355103_54396629_480.jpg",
-    "label": "Helmut Lang",
-    "name": "painted denim shirt",
-    "price": "$670"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/86/61/33/23866133_53915492_480.jpg",
-    "label": "Casablanca",
-    "name": "Vase-print linen shirt",
-    "price": "$875"
+    "image": "https://cdn-images.farfetch-contents.com/20/96/21/49/20962149_53663456_480.jpg",
+    "label": "BODE",
+    "name": "шелковая рубашка Garden Sampler",
+    "price": "$745",
+    "url": "https://www.farfetch.com/kz/shopping/men/bode-garden-sampler-item-20962149.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/22/37/03/25/22370325_52387077_480.jpg",
     "label": "Thom Browne",
-    "name": "tattersall-checked cotton shirt",
-    "price": "$855"
+    "name": "рубашка в клетку",
+    "price": "$855",
+    "url": "https://www.farfetch.com/kz/shopping/men/thom-browne--item-22370325.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/41/40/55/22414055_52375773_480.jpg",
-    "label": "Y-3",
-    "name": "logo-print shirt",
-    "price": "$251"
+    "image": "https://cdn-images.farfetch-contents.com/23/69/18/60/23691860_54903616_480.jpg",
+    "label": "Burberry",
+    "name": "leather shirt",
+    "price": "$2,719",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-leather-shirt-item-23691860.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/86/61/33/23866133_53915492_480.jpg",
+    "label": "Casablanca",
+    "name": "льняная рубашка с принтом Vase",
+    "price": "$875",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-vase-item-23866133.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/34/67/16/23346716_49198633_480.jpg",
+    "label": "Off-White",
+    "name": "поплиновая рубашка Gothic Arrow",
+    "price": "$705",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white-gothic-arrow-item-23346716.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/17/81/32/24178132_54272395_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "поплиновая рубашка с принтом Majolica",
+    "price": "$1,093",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana-majolica-item-24178132.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/96/50/22029650_52640946_480.jpg",
+    "label": "Palm Angels",
+    "name": "рубашка с принтом Sunset",
+    "price": "$331",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels-sunset-item-22029650.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/90/25/58/22902558_52993309_480.jpg",
+    "label": "Jacquemus",
+    "name": "рубашка в полоску с логотипом",
+    "price": "$690",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus--item-22902558.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/97/52/23739752_54804631_480.jpg",
+    "label": "Casablanca",
+    "name": "шелковая рубашка",
+    "price": "$820",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca--item-23739752.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/68/97/74/24689774_54859878_480.jpg",
+    "label": "DSQUARED2",
+    "name": "рубашка с карманами карго",
+    "price": "$652",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-24689774.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/26/57/78/23265778_54137333_480.jpg",
+    "label": "AMIRI",
+    "name": "шелковая рубашка Twisted Palms",
+    "price": "$1,182",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-twisted-palms-item-23265778.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/41/63/23974163_54134432_480.jpg",
+    "label": "AMI Paris",
+    "name": "полосатая рубашка с монограммой Ami De Coeur",
+    "price": "$235",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23974163.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/01/83/85/24018385_54413372_480.jpg",
+    "label": "Gucci",
+    "name": "рубашка из канваса с узором GG",
+    "price": "$1,100",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci-gg-item-24018385.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/43/57/82/22435782_52379407_480.jpg",
+    "label": "Kenzo",
+    "name": "рубашка с логотипом",
+    "price": "$311",
+    "url": "https://www.farfetch.com/kz/shopping/men/kenzo--item-22435782.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/30/21819830_52614167_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с вышитой монограммой Ami de Coeur",
+    "price": "$164",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819830.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/31/42/96/24314296_54415394_480.jpg",
+    "label": "Givenchy",
+    "name": "рубашка с логотипом 4G",
+    "price": "$1,164",
+    "url": "https://www.farfetch.com/kz/shopping/men/givenchy-4g-item-24314296.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/65/01/32/23650132_53642527_480.jpg",
+    "label": "Lanvin",
+    "name": "рубашка с абстрактным принтом",
+    "price": "$523",
+    "url": "https://www.farfetch.com/kz/shopping/men/lanvin--item-23650132.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/66/29/93/24662993_54868793_480.jpg",
+    "label": "Givenchy",
+    "name": "шелковая рубашка с принтом",
+    "price": "$1,455",
+    "url": "https://www.farfetch.com/kz/shopping/men/givenchy--item-24662993.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/05/52/19/22055219_52758407_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "поплиновая рубашка с логотипом",
+    "price": "$1,478",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-22055219.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/84/79/23/21847923_54598938_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "рубашка с принтом Dragonfly",
+    "price": "$942",
+    "url": "https://www.farfetch.com/kz/shopping/men/alexander-mcqueen-dragonfly-item-21847923.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/30/58/89/24305889_54788777_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с монограммой Ami de Coeur",
+    "price": "$260",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-24305889.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/35/54/37/22355437_53039557_480.jpg",
+    "label": "Jacquemus",
+    "name": "рубашка La Chemise Jean",
+    "price": "$355",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-la-chemise-jean-item-22355437.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/82/25/02/17822502_37523424_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка с вышивкой Polo Pony",
+    "price": "$150",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-17822502.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/81/09/39/22810939_54129400_480.jpg",
+    "label": "Jacquemus",
+    "name": "рубашка с короткими рукавами и принтом",
+    "price": "$455",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus--item-22810939.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/85/45/37/23854537_53945035_480.jpg",
+    "label": "Diesel",
+    "name": "рубашка с принтом из коллаборации с ToFF",
+    "price": "$307",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-toff-item-23854537.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/93/03/07/21930307_51736781_480.jpg",
+    "label": "Comme Des Garçons Shirt",
+    "name": "рубашка с принтом из коллаборации с Lacoste",
+    "price": "$484",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-shirt-lacoste-item-21930307.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/93/22/21499322_51765768_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсовая рубашка с эффектом потертости",
+    "price": "$321",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21499322.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/32/31/90/22323190_52214949_480.jpg",
+    "label": "Moschino",
+    "name": "шелковая рубашка с принтом",
+    "price": "$782",
+    "url": "https://www.farfetch.com/kz/shopping/men/moschino--item-22323190.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/93/29/21499329_51766108_480.jpg",
+    "label": "DSQUARED2",
+    "name": "рубашка с логотипом",
+    "price": "$347",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21499329.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/75/44/05/24754405_54966506_480.jpg",
+    "label": "RHUDE",
+    "name": "рубашка Chamonix Alpine",
+    "price": "$1,470",
+    "url": "https://www.farfetch.com/kz/shopping/men/rhude-chamonix-alpine-item-24754405.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/35/51/03/24355103_54396629_480.jpg",
+    "label": "Helmut Lang",
+    "name": "джинсовая рубашка с принтом",
+    "price": "$670",
+    "url": "https://www.farfetch.com/kz/shopping/men/helmut-lang--item-24355103.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/78/72/22027872_51997481_480.jpg",
+    "label": "SANDRO",
+    "name": "фактурная рубашка",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-22027872.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/16/35/23601635_53783164_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "шелковая рубашка с принтом Majolica",
+    "price": "$1,795",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana-majolica-item-23601635.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/35/84/70/22358470_52919192_480.jpg",
+    "label": "FURSAC",
+    "name": "полосатая рубашка",
+    "price": "$179",
+    "url": "https://www.farfetch.com/kz/shopping/men/fursac--item-22358470.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/28/37/31/22283731_53055968_480.jpg",
+    "label": "Missoni",
+    "name": "рубашка с короткими рукавами и узором зигзаг",
+    "price": "$421",
+    "url": "https://www.farfetch.com/kz/shopping/men/missoni--item-22283731.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/90/81/31/19908131_51291275_480.jpg",
+    "label": "Jil Sander",
+    "name": "рубашка в полоску с вышитым логотипом",
+    "price": "$757",
+    "url": "https://www.farfetch.com/kz/shopping/men/jil-sander--item-19908131.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/82/84/01/23828401_53855644_480.jpg",
+    "label": "Balenciaga",
+    "name": "рубашка с короткими рукавами",
+    "price": "$1,125",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-23828401.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/18/77/79/23187779_53351830_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "льняная рубашка с логотипом Polo Pony",
+    "price": "$173",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-23187779.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/07/62/46/22076246_51914225_480.jpg",
+    "label": "Comme Des Garçons Shirt",
+    "name": "рубашка с логотипом из коллаборации с Lacoste",
+    "price": "$377",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-shirt-lacoste-item-22076246.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/21/21819821_52629722_480.jpg",
+    "label": "AMI Paris",
+    "name": "полосатая рубашка с длинными рукавами",
+    "price": "$189",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819821.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/55/65/84/23556584_53898267_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "джинсовая рубашка с V-образной пряжкой",
+    "price": "$1,595",
+    "url": "https://www.farfetch.com/kz/shopping/men/valentino-garavani-v-item-23556584.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/24/91/23602491_54236261_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "рубашка с принтом",
+    "price": "$2,095",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-23602491.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/63/02/80/15630280_28250307_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "рубашка с длинными рукавами",
+    "price": "$545",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-15630280.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/56/95/31/22569531_52481718_480.jpg",
+    "label": "ETRO",
+    "name": "меланжевая рубашка с вышивкой Pegaso",
+    "price": "$233",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro-pegaso-item-22569531.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/75/64/67/23756467_53742252_480.jpg",
+    "label": "Carhartt WIP",
+    "name": "рубашка с принтом Photo Strip",
+    "price": "$100",
+    "url": "https://www.farfetch.com/kz/shopping/men/carhartt-wip-photo-strip-item-23756467.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/58/48/42/22584842_52589639_480.jpg",
+    "label": "Jacquemus",
+    "name": "рубашка в полоску",
+    "price": "$402",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus--item-22584842.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/45/49/98/22454998_53156934_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка Ralph & Ricky Bear",
+    "price": "$215",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-ralph-ricky-bear-item-22454998.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/37/03/90/23370390_53468221_480.jpg",
+    "label": "MSGM",
+    "name": "рубашка с вышитым логотипом",
+    "price": "$278",
+    "url": "https://www.farfetch.com/kz/shopping/men/msgm--item-23370390.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/88/42/22708842_52788235_480.jpg",
+    "label": "Alexander Wang",
+    "name": "рубашка с длинными рукавами и принтом",
+    "price": "$322",
+    "url": "https://www.farfetch.com/kz/shopping/men/alexander-wang--item-22708842.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/86/45/28/21864528_51997933_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка с заостренным воротником",
+    "price": "$265",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-21864528.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/01/90/35/24019035_54041950_480.jpg",
+    "label": "Marni",
+    "name": "рубашка с вышивкой",
+    "price": "$639",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni--item-24019035.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/55/32/41/22553241_53132142_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "льняная рубашка с логотипом Polo Pony",
+    "price": "$130",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22553241.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/13/36/01/75/13360175_52250210_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка с длинными рукавами",
+    "price": "$167",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-13360175.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/12/21819812_53101909_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка из смесовой вирджинской шерсти",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819812.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/72/52/77/22725277_52770460_480.jpg",
+    "label": "Casablanca",
+    "name": "рубашка Unity Is Power",
+    "price": "$1,024",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-unity-is-power-item-22725277.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/04/69/40/20046940_51572914_480.jpg",
+    "label": "Casablanca",
+    "name": "Heart Monogram silk shirt",
+    "price": "$1,068",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-heart-monogram-silk-shirt-item-20046940.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/26/97/21822697_52629215_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с вышитым логотипом",
+    "price": "$231",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21822697.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/03/27/41/24032741_54336461_480.jpg",
+    "label": "HUGO",
+    "name": "рубашка оверсайз с принтом",
+    "price": "$123",
+    "url": "https://www.farfetch.com/kz/shopping/men/hugo--item-24032741.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/70/56/61/23705661_53738217_480.jpg",
+    "label": "Thom Browne",
+    "name": "рубашка с полосками 4-Bar",
+    "price": "$670",
+    "url": "https://www.farfetch.com/kz/shopping/men/thom-browne-4-bar-item-23705661.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/09/36/21820936_52629011_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с кулиской",
+    "price": "$217",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820936.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/11/11/37/14111137_52479857_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "рубашка из ткани шамбре",
+    "price": "$455",
+    "url": "https://www.farfetch.com/kz/shopping/men/brunello-cucinelli--item-14111137.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/34/79/75/22347975_52246545_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка в полоску",
+    "price": "$170",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-22347975.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/34/72/28/19347228_43858921_480.jpg",
+    "label": "AMI Paris",
+    "name": "джинсовая рубашка с косым воротником",
+    "price": "$201",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-19347228.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/90/01/70/22900170_52946272_480.jpg",
+    "label": "Burberry",
+    "name": "шелковая рубашка B-line",
+    "price": "$1,478",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-b-line-item-22900170.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/58/87/23725887_54231043_480.jpg",
+    "label": "LỰU ĐẠN",
+    "name": "рубашка Hustler с вышивкой",
+    "price": "$443",
+    "url": "https://www.farfetch.com/kz/shopping/men/luu-an-hustler-item-23725887.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/83/30/67/18833067_40864593_480.jpg",
+    "label": "FENDI",
+    "name": "шелковая рубашка с логотипом FF",
+    "price": "$1,381",
+    "url": "https://www.farfetch.com/kz/shopping/men/fendi-ff-item-18833067.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/89/93/09/22899309_52945140_480.jpg",
+    "label": "Burberry",
+    "name": "рубашка с принтом Knight Hardware",
+    "price": "$1,602",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-knight-hardware-item-22899309.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/60/23/05/24602305_54811646_480.jpg",
+    "label": "LOEWE",
+    "name": "рубашка на пуговицах",
+    "price": "$972",
+    "url": "https://www.farfetch.com/kz/shopping/men/loewe--item-24602305.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/42/80/04/23428004_53828825_480.jpg",
+    "label": "Vilebrequin",
+    "name": "льняная рубашка",
+    "price": "$166",
+    "url": "https://www.farfetch.com/kz/shopping/men/vilebrequin--item-23428004.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/83/54/53/18835453_42165327_480.jpg",
+    "label": "Versace",
+    "name": "рубашка с вышитым логотипом",
+    "price": "$326",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace--item-18835453.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/05/47/23/22054723_52048390_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "шелковая рубашка с принтом Marina",
+    "price": "$1,285",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana-marina-item-22054723.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/09/63/21820963_49111125_480.jpg",
+    "label": "AMI Paris",
+    "name": "креповая рубашка с прямым воротником",
+    "price": "$142",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820963.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/02/91/36/18029136_40990713_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка с логотипом",
+    "price": "$126",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-18029136.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/78/57/24/22785724_53425585_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "рубашка с классическим воротником",
+    "price": "$50",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-22785724.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/31/21819831_53101212_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с монограммой Ami-de-Coeur",
+    "price": "$142",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819831.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/70/32/85/21703285_51643513_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "рубашка с длинными рукавами",
+    "price": "$426",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-21703285.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/73/09/45/24730945_54999299_480.jpg",
+    "label": "Givenchy",
+    "name": "рубашка с вышитым логотипом",
+    "price": "$1,038",
+    "url": "https://www.farfetch.com/kz/shopping/men/givenchy--item-24730945.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/86/46/63/22864663_54030410_480.jpg",
+    "label": "Jacquemus",
+    "name": "полосатая рубашка асимметричного кроя",
+    "price": "$754",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus--item-22864663.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/21/41/17/24214117_54437166_480.jpg",
+    "label": "Marni",
+    "name": "striped shirt",
+    "price": "$1,010",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni-striped-shirt-item-24214117.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/46/39/94/24463994_54564988_480.jpg",
+    "label": "Marni",
+    "name": "рубашка с принтом Landscapes",
+    "price": "$598",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni-landscapes-item-24463994.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/47/82/01/24478201_54558047_480.jpg",
+    "label": "Casablanca",
+    "name": "рубашка с монограммой",
+    "price": "$955",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca--item-24478201.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/57/13/48/22571348_48418696_480.jpg",
+    "label": "Lanvin",
+    "name": "полосатая рубашка с вышитым логотипом",
+    "price": "$580",
+    "url": "https://www.farfetch.com/kz/shopping/men/lanvin--item-22571348.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/07/42/89/23074289_53847657_480.jpg",
+    "label": "Palm Angels",
+    "name": "рубашка Gothic Logo",
+    "price": "$442",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels-gothic-logo-item-23074289.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/18/63/35/22186335_52862741_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка с короткими рукавами",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-22186335.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/20/17/91/22201791_52520833_480.jpg",
+    "label": "Jil Sander",
+    "name": "рубашка с короткими рукавами с застежкой-молнией",
+    "price": "$904",
+    "url": "https://www.farfetch.com/kz/shopping/men/jil-sander--item-22201791.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/96/43/33/23964333_54215103_480.jpg",
+    "label": "Casablanca",
+    "name": "льняная рубашка Vase",
+    "price": "$933",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-vase-item-23964333.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/90/29/42/22902942_52996731_480.jpg",
+    "label": "Jacquemus",
+    "name": "рубашка La Chemise Simon",
+    "price": "$301",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-la-chemise-simon-item-22902942.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/73/30/28/22733028_52753655_480.jpg",
+    "label": "Jacquemus",
+    "name": "льняная рубашка La chemise Jean",
+    "price": "$215",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-la-chemise-jean-item-22733028.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/72/43/42/22724342_52767472_480.jpg",
+    "label": "Casablanca",
+    "name": "шелковая рубашка Joyaux D'Afrique",
+    "price": "$832",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-joyaux-dafrique-item-22724342.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/04/88/93/24048893_54207930_480.jpg",
+    "label": "Versace",
+    "name": "рубашка поло с логотипом",
+    "price": "$1,278",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace--item-24048893.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/57/20/78/22572078_52668096_480.jpg",
+    "label": "Casablanca",
+    "name": "шелковая рубашка La Boite a Bijoux",
+    "price": "$840",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-la-boite-a-bijoux-item-22572078.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/56/87/39/22568739_52483673_480.jpg",
+    "label": "ETRO",
+    "name": "меланжевая рубашка с вышивкой Pegaso",
+    "price": "$358",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro-pegaso-item-22568739.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/58/92/46/22589246_52522753_480.jpg",
+    "label": "Maison Margiela",
+    "name": "рубашка с короткими рукавами",
+    "price": "$784",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela--item-22589246.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/26/83/25/23268325_53909167_480.jpg",
+    "label": "AMIRI",
+    "name": "рубашка Repeat Palm Camp",
+    "price": "$973",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-repeat-palm-camp-item-23268325.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/71/87/91/22718791_53283025_480.jpg",
+    "label": "Vilebrequin",
+    "name": "рубашка Caracal с вышивкой Turtle",
+    "price": "$172",
+    "url": "https://www.farfetch.com/kz/shopping/men/vilebrequin-caracal-turtle-item-22718791.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/51/71/71/18517171_39837876_480.jpg",
+    "label": "DSQUARED2",
+    "name": "поплиновая рубашка с классическим воротником",
+    "price": "$232",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-18517171.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/83/19/19/23831919_54235336_480.jpg",
+    "label": "Versace",
+    "name": "рубашка Barocco Sea с длинными рукавами",
+    "price": "$1,012",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-barocco-sea-item-23831919.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/64/27/88/22642788_52651207_480.jpg",
+    "label": "Drôle De Monsieur",
+    "name": "рубашка Jeu de Cartes",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/men/drole-de-monsieur-jeu-de-cartes-item-22642788.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/04/55/15/18045515_40375306_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "поплиновая рубашка на пуговицах",
+    "price": "$71",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-18045515.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/96/85/21819685_49105027_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с вышитой монограммой Ami de Coeur",
+    "price": "$179",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819685.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/92/37/92/17923792_38302917_480.jpg",
+    "label": "Ferrari",
+    "name": "рубашка в стиле колор-блок с логотипом",
+    "price": "$391",
+    "url": "https://www.farfetch.com/kz/shopping/men/ferrari--item-17923792.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/37/03/31/22370331_52399876_480.jpg",
+    "label": "Thom Browne",
+    "name": "рубашка с полосками 4-Bar",
+    "price": "$710",
+    "url": "https://www.farfetch.com/kz/shopping/men/thom-browne-4-bar-item-22370331.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/80/51/23778051_53756342_480.jpg",
+    "label": "Casablanca",
+    "name": "шелковая рубашка Diamond с монограммой",
+    "price": "$1,199",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-diamond-item-23778051.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/26/83/28/23268328_54137400_480.jpg",
+    "label": "AMIRI",
+    "name": "шелковая рубашка с цветочным принтом",
+    "price": "$1,020",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri--item-23268328.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/55/44/41/22554441_53136395_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "льняная рубашка с вышивкой Polo Pony",
+    "price": "$130",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22554441.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/43/60/82/22436082_52428549_480.jpg",
+    "label": "Casablanca",
+    "name": "шелковая рубашка Tennis Club Icon",
+    "price": "$796",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-tennis-club-icon-item-22436082.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/73/33/21717333_51942549_480.jpg",
+    "label": "Diesel",
+    "name": "поплиновая рубашка S-Stuck с вышитым логотипом",
+    "price": "$115",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-s-stuck-item-21717333.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/09/94/23490994_53576935_480.jpg",
+    "label": "Versace",
+    "name": "шелковая рубашка Barocco Sea",
+    "price": "$1,381",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-barocco-sea-item-23490994.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/84/10/66/22841066_52857390_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "льняная рубашка с логотипом Polo Pony",
+    "price": "$164",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22841066.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/05/47/36/22054736_52216637_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "джинсовая рубашка с заостренным воротником",
+    "price": "$1,026",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-22054736.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/18/63/29/22186329_52111700_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка с графичным принтом",
+    "price": "$235",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-22186329.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/78/63/11/22786311_53145445_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "поплиновая рубашка с логотипом",
+    "price": "$76",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-22786311.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/87/66/55/20876655_50767597_480.jpg",
+    "label": "Burberry",
+    "name": "клетчатая рубашка",
+    "price": "$646",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-20876655.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/00/07/06/23000706_53164020_480.jpg",
+    "label": "Jacquemus",
+    "name": "рубашка La Chemise Simon",
+    "price": "$298",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-la-chemise-simon-item-23000706.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/58/81/36/18588136_40145626_480.jpg",
+    "label": "Marni",
+    "name": "поплиновая рубашка с логотипом",
+    "price": "$346",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni--item-18588136.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/41/22/19/20412219_52971631_480.jpg",
+    "label": "Thom Browne",
+    "name": "рубашка с длинными рукавами и полосками 4-Bar",
+    "price": "$412",
+    "url": "https://www.farfetch.com/kz/shopping/men/thom-browne-4-bar-item-20412219.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/00/90/35/24009035_54026499_480.jpg",
+    "label": "Maison Margiela",
+    "name": "рубашка с заостренным воротником",
+    "price": "$706",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela--item-24009035.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/28/86/37/21288637_48217520_480.jpg",
+    "label": "JW Anderson",
+    "name": "рубашка с принтом",
+    "price": "$280",
+    "url": "https://www.farfetch.com/kz/shopping/men/jw-anderson--item-21288637.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/00/66/48/15006648_25233767_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка с вышитым логотипом",
+    "price": "$178",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-15006648.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/09/97/74/22099774_52379252_480.jpg",
+    "label": "Versace",
+    "name": "шелковая рубашка с принтом Barocco",
+    "price": "$922",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-barocco-item-22099774.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/12/59/23491259_53614313_480.jpg",
+    "label": "Versace",
+    "name": "шелковая рубашка Barocco Sea",
+    "price": "$1,250",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-barocco-sea-item-23491259.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/80/43/02/23804302_54805099_480.jpg",
+    "label": "TOM FORD",
+    "name": "саржевая рубашка",
+    "price": "$2,081",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-23804302.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/80/02/64/23800264_53773117_480.jpg",
+    "label": "Burberry",
+    "name": "шерстяная рубашка в клетку Vintage Check",
+    "price": "$857",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-vintage-check-item-23800264.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/58/17/47/22581747_52634098_480.jpg",
+    "label": "Casablanca",
+    "name": "льняная рубашка Trophy Orange",
+    "price": "$523",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-trophy-orange-item-22581747.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/14/89/21541489_52490557_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "трикотажная рубашка с контрастной отделкой",
+    "price": "$223",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-21541489.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/00/72/93/22007293_52046320_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "рубашка с логотипом",
+    "price": "$67",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-22007293.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/24/40/55/31/24405531_54587127_480.jpg",
     "label": "Marni",
-    "name": "embroidered-logo shirt",
-    "price": "$660"
+    "name": "рубашка с вышитым логотипом",
+    "price": "$660",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni--item-24405531.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/82/09/41/21820941_49112388_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/25/63/60/23256360_53485259_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка с декором Polo Pony",
+    "price": "$154",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-23256360.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/09/53/21820953_52629735_480.jpg",
     "label": "AMI Paris",
-    "name": "Ami de Coeur cotton shirt",
-    "price": "$154"
+    "name": "рубашка с вышитым логотипом",
+    "price": "$164",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820953.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/11/91/20251191_50740358_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с вышитым логотипом",
+    "price": "$241",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-20251191.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/86/70/87/23867087_54001020_480.jpg",
+    "label": "Casablanca",
+    "name": "шелковая рубашка Le Plongeon",
+    "price": "$936",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-le-plongeon-item-23867087.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/94/34/83/18943483_41717032_480.jpg",
+    "label": "DSQUARED2",
+    "name": "рубашка с логотипом",
+    "price": "$420",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-18943483.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/31/07/74/19310774_45239933_480.jpg",
+    "label": "Casablanca",
+    "name": "шелковая рубашка Souvenir",
+    "price": "$1,064",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-souvenir-item-19310774.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/17/61/50/23176150_53469745_480.jpg",
+    "label": "Axel Arigato",
+    "name": "джинсовая рубашка Miles",
+    "price": "$333",
+    "url": "https://www.farfetch.com/kz/shopping/men/axel-arigato-miles-item-23176150.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/40/43/89/22404389_52695540_480.jpg",
+    "label": "Marni",
+    "name": "рубашка в полоску",
+    "price": "$502",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni--item-22404389.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/88/78/01/23887801_54967522_480.jpg",
+    "label": "sacai",
+    "name": "поплиновая рубашка",
+    "price": "$552",
+    "url": "https://www.farfetch.com/kz/shopping/men/sacai--item-23887801.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/74/85/38/17748538_37304105_480.jpg",
+    "label": "Diesel",
+    "name": "рубашка S-Ben-CL",
+    "price": "$101",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-s-ben-cl-item-17748538.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/31/01/09/20310109_50394237_480.jpg",
+    "label": "Versace Jeans Couture",
+    "name": "рубашка с длинными рукавами и узором Baroque",
+    "price": "$415",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-jeans-couture-baroque-item-20310109.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/38/52/40/24385240_54438114_480.jpg",
+    "label": "AMIRI",
+    "name": "рубашка Arts District",
+    "price": "$1,087",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-arts-district-item-24385240.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/00/59/97/24005997_54029807_480.jpg",
+    "label": "Jacquemus",
+    "name": "рубашка Chemise Simon на пуговицах",
+    "price": "$437",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-chemise-simon-item-24005997.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/22/88/43/21228843_51842906_480.jpg",
+    "label": "SONGZIO",
+    "name": "рубашка Drape",
+    "price": "$398",
+    "url": "https://www.farfetch.com/kz/shopping/men/songzio-drape-item-21228843.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/40/46/23974046_54176060_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с монограммой Ami de Coeur",
+    "price": "$215",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23974046.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/71/33/41/23713341_53708352_480.jpg",
+    "label": "AMIRI",
+    "name": "джинсовая рубашка с узором",
+    "price": "$1,185",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri--item-23713341.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/04/43/57/20044357_45267438_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "рубашка с графичным принтом",
+    "price": "$1,275",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-20044357.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/15/21819815_53101764_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка из смесовой вирджинской шерсти",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819815.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/28/25/92/22282592_52869713_480.jpg",
+    "label": "MSGM",
+    "name": "атласная рубашка с графичным принтом",
+    "price": "$176",
+    "url": "https://www.farfetch.com/kz/shopping/men/msgm--item-22282592.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/66/66/86/24666686_54856275_480.jpg",
+    "label": "FENDI",
+    "name": "шелковая рубашка с логотипом FF",
+    "price": "$1,351",
+    "url": "https://www.farfetch.com/kz/shopping/men/fendi-ff-item-24666686.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/92/54/21469254_51923499_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка Square Cross с короткими рукавами",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro-square-cross-item-21469254.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/32/21819832_53545808_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с вышитой монограммой Ami de Coeur",
+    "price": "$172",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819832.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/37/92/23973792_54134670_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с монограммой Ami de Coeur",
+    "price": "$215",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23973792.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/66/84/13/24668413_54970315_480.jpg",
+    "label": "Versace",
+    "name": "рубашка из ткани пике с кристаллами",
+    "price": "$1,258",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace--item-24668413.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/76/12/12/23761212_53816057_480.jpg",
+    "label": "Nanushka",
+    "name": "джинсовая куртка-рубашка с ажурной отделкой",
+    "price": "$673",
+    "url": "https://www.farfetch.com/kz/shopping/men/nanushka--item-23761212.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/77/14/23737714_54039146_480.jpg",
+    "label": "ETRO",
+    "name": "рубашка с абстрактным принтом",
+    "price": "$1,506",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro--item-23737714.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/26/95/21822695_52613567_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с вышивкой Ami de Coeur",
+    "price": "$145",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21822695.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/62/28/93/23622893_53678439_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "льняная рубашка с логотипом Polo Pony",
+    "price": "$163",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-23622893.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/58/17/86/22581786_52634206_480.jpg",
+    "label": "Casablanca",
+    "name": "рубашка Le Jardin Ideal",
+    "price": "$604",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-le-jardin-ideal-item-22581786.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/85/45/40/23854540_53944885_480.jpg",
+    "label": "Diesel",
+    "name": "рубашка с графичным принтом из коллаборации с ToFF",
+    "price": "$204",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-toff-item-23854540.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/38/37/23973837_54137260_480.jpg",
+    "label": "AMI Paris",
+    "name": "полосатая рубашка с монограммой Ami de Coeur",
+    "price": "$245",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23973837.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/42/51/23774251_53728400_480.jpg",
+    "label": "Burberry",
+    "name": "рубашка с вышивкой EDK",
+    "price": "$931",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-edk-item-23774251.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/24/47/82/02/24478202_54558003_480.jpg",
     "label": "Casablanca",
-    "name": "La Temple shirt",
-    "price": "$930"
+    "name": "рубашка La Temple",
+    "price": "$930",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-la-temple-item-24478202.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/77/72/65/23777265_53768173_480.jpg",
-    "label": "Casablanca",
-    "name": "towelling-finish monogram shirt",
-    "price": "$585"
+    "image": "https://cdn-images.farfetch-contents.com/22/07/70/18/22077018_52184070_480.jpg",
+    "label": "Nanushka",
+    "name": "рубашка в полоску",
+    "price": "$262",
+    "url": "https://www.farfetch.com/kz/shopping/men/nanushka--item-22077018.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/10/05/35/22100535_52048416_480.jpg",
+    "label": "Versace",
+    "name": "шелковая рубашка с принтом Barroco",
+    "price": "$1,329",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-barroco-item-22100535.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/18/63/44/22186344_53341654_480.jpg",
+    "label": "SANDRO",
+    "name": "твиловая рубашка с короткими рукавами",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-22186344.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/04/53/70/20045370_50916310_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "рубашка с длинными рукавами и принтом",
+    "price": "$845",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-20045370.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/62/12/39/22621239_52651794_480.jpg",
+    "label": "ETRO",
+    "name": "рубашка с принтом пейсли",
+    "price": "$345",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro--item-22621239.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/56/35/66/24563566_54868636_480.jpg",
+    "label": "AMIRI",
+    "name": "рубашка Baja Wave",
+    "price": "$902",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-baja-wave-item-24563566.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/10/05/68/22100568_52045057_480.jpg",
+    "label": "Versace",
+    "name": "шелковая рубашка с короткими рукавами и принтом Barroco",
+    "price": "$1,195",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-barroco-item-22100568.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/83/48/21718348_53282987_480.jpg",
+    "label": "Diesel",
+    "name": "рубашка S-Simens без рукавов",
+    "price": "$103",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-s-simens-item-21718348.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/09/63/60/24096360_54164267_480.jpg",
+    "label": "Gucci",
+    "name": "рубашка с принтом GG Web",
+    "price": "$1,050",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci-gg-web-item-24096360.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/34/17/70/21341770_51898645_480.jpg",
+    "label": "CHÉ",
+    "name": "рубашка Valbonne с короткими рукавами",
+    "price": "$117",
+    "url": "https://www.farfetch.com/kz/shopping/men/che-valbonne-item-21341770.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/89/86/46/22898646_52942725_480.jpg",
+    "label": "Burberry",
+    "name": "рубашка в клетку",
+    "price": "$981",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-22898646.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/48/03/54/24480354_54917687_480.jpg",
+    "label": "ETRO",
+    "name": "рубашка поло с вышивкой Pegaso",
+    "price": "$301",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro-pegaso-item-24480354.aspx"
   }
 ]

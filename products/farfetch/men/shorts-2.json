@@ -1,146 +1,674 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/57/64/65/21576465_51648909_300.jpg",
-    "label": "Plein Sport",
-    "name": "Running camouflage-print shorts",
-    "price": "$143"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/11/40/99/20114099_54592971_300.jpg",
-    "label": "Balenciaga",
-    "name": "logo-print track shorts",
-    "price": "$999"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/79/04/27/23790427_53820608_300.jpg",
-    "label": "Acne Studios",
-    "name": "organic-cotton jersey shorts",
-    "price": "$191"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/48/47/08/17484708_40381157_300.jpg",
-    "label": "Natasha Zinko",
-    "name": "distressed drop crotch shorts",
-    "price": "$554"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/74/27/95/23742795_53712318_300.jpg",
-    "label": "Diesel",
-    "name": "D-Livery denim shorts",
-    "price": "$183"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/10/32/96/22103296_48849527_300.jpg",
-    "label": "Off-White",
-    "name": "90SLOGO DEN SHORTS",
-    "price": "$379"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/88/03/99/22880399_52978734_300.jpg",
-    "label": "Off-White",
-    "name": "embroidered-logo denim shorts",
-    "price": "$495"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/82/07/81/21820781_52673740_300.jpg",
-    "label": "AMI Paris",
-    "name": "cotton chino shorts",
-    "price": "$130"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/85/45/26/23854526_53944953_300.jpg",
-    "label": "Diesel",
-    "name": "x ToFF all-over painting shorts",
-    "price": "$204"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/98/70/90/22987090_53199855_300.jpg",
-    "label": "Diesel",
-    "name": "P-Stelt-N1 raised logo track shorts",
-    "price": "$115"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/81/98/76/21819876_52613672_300.jpg",
-    "label": "AMI Paris",
-    "name": "Ami De Coeur cotton shorts",
-    "price": "$157"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/67/99/22/23679922_53588432_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/77/20/39/23772039_53761543_480.jpg",
     "label": "Sporty & Rich",
-    "name": "California gym shorts",
-    "price": "$103"
+    "name": "спортивные шорты с логотипом",
+    "price": "$97",
+    "url": "https://www.farfetch.com/kz/shopping/men/sporty-rich--item-23772039.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/83/93/05/22839305_52863541_300.jpg",
-    "label": "Kenzo",
-    "name": "ripstop cotton cargo shorts",
-    "price": "$172"
+    "image": "https://cdn-images.farfetch-contents.com/20/67/17/35/20671735_51271169_480.jpg",
+    "label": "RHUDE",
+    "name": "шорты с логотипом",
+    "price": "$961",
+    "url": "https://www.farfetch.com/kz/shopping/men/rhude--item-20671735.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/03/05/56/22030556_52640382_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/83/10/74/23831074_53879887_480.jpg",
+    "label": "Rick Owens X Champion",
+    "name": "спортивные шорты Beveled",
+    "price": "$417",
+    "url": "https://www.farfetch.com/kz/shopping/men/rick-owens-x-champion-beveled-item-23831074.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/07/43/79/23074379_54033684_480.jpg",
     "label": "Palm Angels",
-    "name": "paisley-print cotton shorts",
-    "price": "$315"
+    "name": "спортивные шорты с логотипом",
+    "price": "$450",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-23074379.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/35/82/27/22358227_52258839_300.jpg",
-    "label": "Diesel",
-    "name": "distressed acid-wash cotton shorts",
-    "price": "$221"
+    "image": "https://cdn-images.farfetch-contents.com/21/34/66/63/21346663_51532088_480.jpg",
+    "label": "Natasha Zinko",
+    "name": "джинсовые шорты карго с вырезами",
+    "price": "$536",
+    "url": "https://www.farfetch.com/kz/shopping/men/natasha-zinko--item-21346663.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/57/88/85/22578885_52637445_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/72/43/50/22724350_52767450_480.jpg",
     "label": "Casablanca",
-    "name": "Casa Way monogram shorts",
-    "price": "$456"
+    "name": "шорты Joyaux D'Afrique",
+    "price": "$473",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-joyaux-dafrique-item-22724350.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/50/05/40/21500540_51759823_300.jpg",
-    "label": "DSQUARED2",
-    "name": "White Bull denim shorts",
-    "price": "$368"
+    "image": "https://cdn-images.farfetch-contents.com/21/41/79/23/21417923_51556786_480.jpg",
+    "label": "Lacoste",
+    "name": "шорты из джерси с вышитым логотипом",
+    "price": "$92",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-21417923.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/71/76/41/21717641_53502206_300.jpg",
-    "label": "SANDRO",
-    "name": "drawstring-waist bermuda shorts",
-    "price": "$200"
+    "image": "https://cdn-images.farfetch-contents.com/23/09/36/23/23093623_53643435_480.jpg",
+    "label": "Jacob Cohën",
+    "name": "поплиновые шорты чинос Nicolas",
+    "price": "$211",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacob-cohen-nicolas-item-23093623.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/84/20/23/22842023_52977613_300.jpg",
-    "label": "Off-White",
-    "name": "Bandana Arrows-embroidered shorts",
-    "price": "$293"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/82/27/06/21822706_49109646_300.jpg",
-    "label": "AMI Paris",
-    "name": "Ami de Couer-plaque crepe short",
-    "price": "$200"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/48/38/20/22483820_52591046_300.jpg",
-    "label": "Stone Island",
-    "name": "Compass-badge cotton track shorts",
-    "price": "$258"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/39/16/77/23391677_49062280_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/39/16/77/23391677_49062280_480.jpg",
     "label": "Fear Of God",
-    "name": "logo-patch track shorts",
-    "price": "$349"
+    "name": "спортивные шорты с нашивкой-логотипом",
+    "price": "$322",
+    "url": "https://www.farfetch.com/kz/shopping/men/fear-of-god--item-23391677.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/46/34/56/21463456_52694540_300.jpg",
-    "label": "Philipp Plein",
-    "name": "Formentera low-rise denim shorts",
-    "price": "$313"
+    "image": "https://cdn-images.farfetch-contents.com/22/63/79/97/22637997_53018425_480.jpg",
+    "label": "CamperLab",
+    "name": "джинсовые шорты с абстрактным принтом",
+    "price": "$260",
+    "url": "https://www.farfetch.com/kz/shopping/men/camperlab--item-22637997.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/46/28/18/21462818_52694553_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/24/34/65/79/24346579_54598854_480.jpg",
+    "label": "Diesel",
+    "name": "шорты карго D-Arne",
+    "price": "$442",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-d-arne-item-24346579.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/00/35/81/20003581_50076992_480.jpg",
+    "label": "Vilebrequin",
+    "name": "льняные шорты с нашивкой-логотипом",
+    "price": "$203",
+    "url": "https://www.farfetch.com/kz/shopping/men/vilebrequin--item-20003581.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/15/21/62/17152162_34841805_480.jpg",
+    "label": "AMI Paris",
+    "name": "широкие шорты из денима",
+    "price": "$176",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-17152162.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/93/44/21499344_51764258_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсовые шорты с логотипом",
+    "price": "$278",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21499344.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/59/19/21715919_52700679_480.jpg",
+    "label": "SANDRO",
+    "name": "твиловые шорты",
+    "price": "$200",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-21715919.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/09/98/21820998_49103734_480.jpg",
+    "label": "AMI Paris",
+    "name": "спортивные шорты с монограммой Ami de Coeur",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21820998.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/25/42/88/23254288_53406090_480.jpg",
+    "label": "AAPE BY *A BATHING APE®",
+    "name": "джинсовые шорты с тисненым логотипом",
+    "price": "$96",
+    "url": "https://www.farfetch.com/kz/shopping/men/aape-by-a-bathing-ape--item-23254288.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/40/98/45/20409845_50644275_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "спортивные шорты с логотипом Polo Pony",
+    "price": "$149",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-20409845.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/27/02/21822702_49103693_480.jpg",
+    "label": "AMI Paris",
+    "name": "шорты чинос с монограммой Ami de Coeur",
+    "price": "$134",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21822702.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/91/15/07/22911507_53012306_480.jpg",
+    "label": "Jacquemus",
+    "name": "шорты Le Short",
+    "price": "$360",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-le-short-item-22911507.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/83/93/28/23839328_53932695_480.jpg",
+    "label": "Acne Studios",
+    "name": "вельветовые шорты с нашивкой Face",
+    "price": "$352",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios-face-item-23839328.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/93/09/79/20930979_51038650_480.jpg",
+    "label": "Rick Owens",
+    "name": "шорты карго Stefan со вставками",
+    "price": "$954",
+    "url": "https://www.farfetch.com/kz/shopping/men/rick-owens-stefan-item-20930979.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/88/43/80/22884380_52981730_480.jpg",
+    "label": "Off-White",
+    "name": "льняные шорты 90s Logo",
+    "price": "$293",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white-90s-logo-item-22884380.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/09/96/21820996_52614012_480.jpg",
+    "label": "AMI Paris",
+    "name": "кожаные шорты",
+    "price": "$577",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820996.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/76/41/21717641_53502206_480.jpg",
+    "label": "SANDRO",
+    "name": "шорты-бермуды с кулиской",
+    "price": "$200",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-21717641.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/84/10/61/22841061_52816574_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "шорты Maritimes",
+    "price": "$148",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-maritimes-item-22841061.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/26/49/08/22264908_53603297_480.jpg",
+    "label": "SANDRO",
+    "name": "шорты-бермуды с эластичным поясом",
+    "price": "$260",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-22264908.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/22/28/94/23222894_53507637_480.jpg",
+    "label": "Axel Arigato",
+    "name": "джинсовые шорты Miles средней посадки",
+    "price": "$277",
+    "url": "https://www.farfetch.com/kz/shopping/men/axel-arigato-miles-item-23222894.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/15/74/84/19157484_45058169_480.jpg",
+    "label": "Orlebar Brown",
+    "name": "шорты с пряжкой",
+    "price": "$170",
+    "url": "https://www.farfetch.com/kz/shopping/men/orlebar-brown--item-19157484.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/36/26/23733626_53912487_480.jpg",
+    "label": "Satisfy",
+    "name": "шорты Rippy™ 3'' Trail",
+    "price": "$260",
+    "url": "https://www.farfetch.com/kz/shopping/men/satisfy-rippy-3-trail-item-23733626.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/88/24/65/19882465_44628748_480.jpg",
+    "label": "Kenzo",
+    "name": "шорты-бермуды с нашивкой-логотипом",
+    "price": "$249",
+    "url": "https://www.farfetch.com/kz/shopping/men/kenzo--item-19882465.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/31/58/69/24315869_54381642_480.jpg",
+    "label": "Balenciaga",
+    "name": "джинсовые шорты-бермуды",
+    "price": "$1,125",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-24315869.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/07/82/21820782_52674025_480.jpg",
+    "label": "AMI Paris",
+    "name": "шорты чинос",
+    "price": "$164",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820782.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/61/79/27/23617927_53667854_480.jpg",
+    "label": "AMIRI",
+    "name": "джинсовые шорты с узором",
+    "price": "$1,069",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri--item-23617927.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/01/49/84/18014984_39555579_480.jpg",
+    "label": "Rossignol",
+    "name": "шорты с логотипом",
+    "price": "$37",
+    "url": "https://www.farfetch.com/kz/shopping/men/rossignol--item-18014984.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/77/37/28/21773728_51871499_480.jpg",
+    "label": "Palm Angels",
+    "name": "спортивные шорты в полоску с вышитой монограммой",
+    "price": "$394",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-21773728.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/96/83/75/23968375_54173875_480.jpg",
+    "label": "Diesel",
+    "name": "шорты D-Fin",
+    "price": "$155",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-d-fin-item-23968375.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/92/74/61/23927461_54152815_480.jpg",
+    "label": "Stone Island",
+    "name": "шорты с нашивкой Compass",
+    "price": "$283",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-23927461.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/59/98/22705998_52837762_480.jpg",
+    "label": "Y-3",
+    "name": "шорты Sport Uniform",
+    "price": "$227",
+    "url": "https://www.farfetch.com/kz/shopping/men/y-3-sport-uniform-item-22705998.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/30/75/66/20307566_50545881_480.jpg",
+    "label": "Vilebrequin",
+    "name": "льняные шорты с нашивкой-логотипом",
+    "price": "$203",
+    "url": "https://www.farfetch.com/kz/shopping/men/vilebrequin--item-20307566.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/92/85/95/23928595_53945048_480.jpg",
+    "label": "Diesel",
+    "name": "джинсовые шорты прямого кроя",
+    "price": "$155",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel--item-23928595.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/79/72/79/22797279_52848951_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсовые шорты Sexy 70s",
+    "price": "$256",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-sexy-70s-item-22797279.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/48/38/20/22483820_52591046_480.jpg",
+    "label": "Stone Island",
+    "name": "спортивные брюки с нашивкой Compass",
+    "price": "$258",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22483820.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/04/42/68/23044268_53659148_480.jpg",
+    "label": "Kolor",
+    "name": "шорты в стиле колор-блок",
+    "price": "$637",
+    "url": "https://www.farfetch.com/kz/shopping/men/kolor--item-23044268.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/79/80/66/22798066_52850232_480.jpg",
+    "label": "DSQUARED2",
+    "name": "спортивные шорты с логотипом",
+    "price": "$164",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-22798066.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/41/87/38/21418738_51555023_480.jpg",
+    "label": "Lacoste",
+    "name": "узкие шорты чинос",
+    "price": "$87",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-21418738.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/76/89/22707689_52814586_480.jpg",
+    "label": "Versace",
+    "name": "шорты Barocco в клетку",
+    "price": "$515",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-barocco-item-22707689.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/85/89/55/23858955_53844154_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсовые шорты с эффектом потертости и логотипом",
+    "price": "$424",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-23858955.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/87/04/22028704_52456121_480.jpg",
+    "label": "Palm Angels",
+    "name": "шорты-бермуды с вышитым логотипом",
+    "price": "$445",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-22028704.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/44/37/22704437_52742773_480.jpg",
+    "label": "Stone Island",
+    "name": "шорты карго с нашивкой Compass",
+    "price": "$303",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22704437.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/04/84/89/20048489_45296968_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "шелковые шорты-бермуды с принтом Carreto",
+    "price": "$638",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana-carreto-item-20048489.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/07/24/51/23072451_53220684_480.jpg",
+    "label": "BOSS",
+    "name": "твиловые шорты",
+    "price": "$83",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-23072451.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/10/32/86/22103286_53282574_480.jpg",
+    "label": "Off-White",
+    "name": "шорты с узором Diag",
+    "price": "$676",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white-diag-item-22103286.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/04/27/23790427_53820608_480.jpg",
+    "label": "Acne Studios",
+    "name": "шорты из органического хлопка",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-23790427.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/67/99/03/23679903_53588375_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "шорты Good Health",
+    "price": "$107",
+    "url": "https://www.farfetch.com/kz/shopping/men/sporty-rich-good-health-item-23679903.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/77/74/16/21777416_52187968_480.jpg",
+    "label": "Palm Angels",
+    "name": "спортивные шорты с монограммой",
+    "price": "$242",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-21777416.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/78/18/31/19781831_50717103_480.jpg",
+    "label": "Mostly Heard Rarely Seen",
+    "name": "шорты с нашивкой-логотипом",
+    "price": "$319",
+    "url": "https://www.farfetch.com/kz/shopping/men/mostly-heard-rarely-seen--item-19781831.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/99/78/38/22997838_53260635_480.jpg",
+    "label": "Rick Owens",
+    "name": "шорты Long Boxers с эффектом потертости",
+    "price": "$511",
+    "url": "https://www.farfetch.com/kz/shopping/men/rick-owens-long-boxers-item-22997838.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/83/93/05/22839305_52863541_480.jpg",
+    "label": "Kenzo",
+    "name": "шорты карго из рипстопа",
+    "price": "$172",
+    "url": "https://www.farfetch.com/kz/shopping/men/kenzo--item-22839305.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/10/42/49/23104249_53229427_480.jpg",
+    "label": "Jil Sander",
+    "name": "поплиновые шорты-бермуды",
+    "price": "$547",
+    "url": "https://www.farfetch.com/kz/shopping/men/jil-sander--item-23104249.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/25/01/73/22250173_53319108_480.jpg",
+    "label": "SANDRO",
+    "name": "шорты строгого кроя",
+    "price": "$260",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-22250173.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/57/88/85/22578885_52637445_480.jpg",
+    "label": "Casablanca",
+    "name": "шорты Casa Way с монограммой",
+    "price": "$456",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-casa-way-item-22578885.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/61/91/48/19619148_44118614_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "спортивные шорты из органического хлопка с логотипом",
+    "price": "$112",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-19619148.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/62/27/21/22622721_52689653_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "спортивные шорты с вышитым логотипом",
+    "price": "$393",
+    "url": "https://www.farfetch.com/kz/shopping/men/alexander-mcqueen--item-22622721.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/88/08/21718808_53473754_480.jpg",
+    "label": "SANDRO",
+    "name": "шорты-бермуды с кулиской",
+    "price": "$200",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-21718808.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/04/69/09/23046909_53292672_480.jpg",
+    "label": "Y-3",
+    "name": "шорты Run с перфорацией",
+    "price": "$86",
+    "url": "https://www.farfetch.com/kz/shopping/men/y-3-run-item-23046909.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/34/88/04/22348804_52251300_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "спортивные шорты с логотипом",
+    "price": "$108",
+    "url": "https://www.farfetch.com/kz/shopping/men/sporty-rich--item-22348804.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/76/62/87/22766287_52791076_480.jpg",
+    "label": "Stone Island",
+    "name": "спортивные шорты с нашивкой Compass",
+    "price": "$282",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22766287.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/06/17/23790617_54430043_480.jpg",
+    "label": "Acne Studios",
+    "name": "шорты строгого кроя",
+    "price": "$322",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-23790617.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/65/50/23796550_54053661_480.jpg",
     "label": "Philipp Plein",
-    "name": "Formentera low-rise denim shorts",
-    "price": "$230"
+    "name": "шорты с логотипом",
+    "price": "$255",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-23796550.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/72/43/31/22724331_52843884_480.jpg",
+    "label": "Casablanca",
+    "name": "шорты Unity Is Power",
+    "price": "$533",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-unity-is-power-item-22724331.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/75/21819875_49101869_480.jpg",
+    "label": "AMI Paris",
+    "name": "спортивные шорты с тисненым логотипом",
+    "price": "$249",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819875.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/50/40/48/22504048_52445447_480.jpg",
+    "label": "Off-White",
+    "name": "шорты с полосками Diag",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white-diag-item-22504048.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/12/72/68/20127268_50104431_480.jpg",
+    "label": "FIVE CM",
+    "name": "спортивные шорты в технике пэчворк",
+    "price": "$69",
+    "url": "https://www.farfetch.com/kz/shopping/men/five-cm--item-20127268.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/90/73/53/22907353_53084642_480.jpg",
+    "label": "Diesel",
+    "name": "шорты P-Marshy",
+    "price": "$206",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-marshy-item-22907353.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/22/32/96/22223296_53225233_480.jpg",
+    "label": "Philipp Plein",
+    "name": "джинсовые шорты с вышивкой",
+    "price": "$251",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-22223296.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/70/88/14/23708814_53804019_480.jpg",
+    "label": "FEAR OF GOD ESSENTIALS",
+    "name": "спортивные шорты с логотипом",
+    "price": "$104",
+    "url": "https://www.farfetch.com/kz/shopping/men/fear-of-god-essentials--item-23708814.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/78/00/69/23780069_53808190_480.jpg",
+    "label": "A BATHING APE®",
+    "name": "спортивные шорты Abc Camo Shark",
+    "price": "$371",
+    "url": "https://www.farfetch.com/kz/shopping/men/a-bathing-ape-abc-camo-shark-item-23780069.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/60/31/96/22603196_52564015_480.jpg",
+    "label": "GALLERY DEPT.",
+    "name": "спортивные шорты Insomnia с эффектом разбрызганной краски",
+    "price": "$561",
+    "url": "https://www.farfetch.com/kz/shopping/men/gallery-dept-insomnia-item-22603196.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/11/40/99/20114099_54592971_480.jpg",
+    "label": "Balenciaga",
+    "name": "спортивные шорты с логотипом",
+    "price": "$999",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-20114099.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/15/21/63/17152163_34829302_480.jpg",
+    "label": "AMI Paris",
+    "name": "широкие шорты из денима",
+    "price": "$176",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-17152163.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/37/16/21683716_52937757_480.jpg",
+    "label": "Acne Studios",
+    "name": "джинсовые шорты с монограммой",
+    "price": "$493",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-21683716.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/98/70/90/22987090_53199855_480.jpg",
+    "label": "Diesel",
+    "name": "спортивные шорты P-Stelt-N1 с логотипом",
+    "price": "$115",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-stelt-n1-item-22987090.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/05/70/61/22057061_52250250_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "джинсовые шорты прямого кроя",
+    "price": "$725",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-22057061.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/65/10/07/23651007_53643314_480.jpg",
+    "label": "Etudes",
+    "name": "джинсовые шорты Friche с эффектом потертости",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/men/etudes-friche-item-23651007.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/67/78/74/22677874_52690875_480.jpg",
+    "label": "Stone Island",
+    "name": "шорты карго с нашивкой Compass",
+    "price": "$273",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22677874.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/96/94/25/23969425_54068607_480.jpg",
+    "label": "Casablanca",
+    "name": "шорты Le Plongeon",
+    "price": "$695",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-le-plongeon-item-23969425.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/04/29/23790429_53890240_480.jpg",
+    "label": "Acne Studios",
+    "name": "спортивные шорты с логотипом Face",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios-face-item-23790429.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/83/30/20/22833020_52863123_480.jpg",
+    "label": "Thom Krom",
+    "name": "шорты M ST 422 с низким шаговым швом",
+    "price": "$130",
+    "url": "https://www.farfetch.com/kz/shopping/men/thom-krom-m-st-422-item-22833020.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/02/21823002_49104437_480.jpg",
+    "label": "AMI Paris",
+    "name": "шорты с логотипом Ami de Coeur",
+    "price": "$238",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21823002.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/17/05/10/20170510_50609047_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсовые шорты широкого кроя",
+    "price": "$274",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-20170510.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/82/70/23728270_53687110_480.jpg",
+    "label": "Boris Bidjan Saberi",
+    "name": "шорты карго с эффектом потертости",
+    "price": "$1,954",
+    "url": "https://www.farfetch.com/kz/shopping/men/boris-bidjan-saberi--item-23728270.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/03/25/21540325_52468487_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "толстовка из органического хлопка",
+    "price": "$95",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-21540325.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/60/23/00/24602300_54795264_480.jpg",
+    "label": "RHUDE",
+    "name": "спортивные шорты с логотипом",
+    "price": "$678",
+    "url": "https://www.farfetch.com/kz/shopping/men/rhude--item-24602300.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/74/74/50/18747450_43841889_480.jpg",
+    "label": "Rossignol",
+    "name": "шорты с логотипом",
+    "price": "$47",
+    "url": "https://www.farfetch.com/kz/shopping/men/rossignol--item-18747450.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/81/05/54/22810554_52944568_480.jpg",
+    "label": "BARROW",
+    "name": "поплиновые шорты с графичным принтом",
+    "price": "$207",
+    "url": "https://www.farfetch.com/kz/shopping/men/barrow--item-22810554.aspx"
   }
 ]

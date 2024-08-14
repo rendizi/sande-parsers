@@ -1,290 +1,1346 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/90/00/88/22900088_52952251_480.jpg",
-    "label": "Burberry",
-    "name": "long garbadine trench coat",
-    "price": "$2,843"
+    "image": "https://cdn-images.farfetch-contents.com/22/76/63/21/22766321_52836863_480.jpg",
+    "label": "MM6 Maison Margiela",
+    "name": "однобортный тренч",
+    "price": "$1,769",
+    "url": "https://www.farfetch.com/kz/shopping/men/mm6-maison-margiela--item-22766321.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/14/46/28/22144628_52006196_480.jpg",
-    "label": "Lanvin",
-    "name": "double-breasted fur-collar coat",
-    "price": "$2,407"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/18/87/65/56/18876556_41317341_480.jpg",
-    "label": "Mackintosh",
-    "name": "pointed-collar single-breasted coat",
-    "price": "$174"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/63/69/60/19636960_44495707_480.jpg",
-    "label": "Comme des Garçons Homme",
-    "name": "single-breasted front-fastening coat",
-    "price": "$1,367"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/00/16/49/19001649_41462682_480.jpg",
-    "label": "Feng Chen Wang",
-    "name": "oversized colour-block hooded coat",
-    "price": "$444"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/12/92/60/93/12926093_14687409_480.jpg",
-    "label": "Burberry",
-    "name": "The Kensington Heritage trench coat",
-    "price": "$2,347"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/31/87/76/17318776_38397585_480.jpg",
-    "label": "Mackintosh",
-    "name": "Selwyn GMC-113 gabardine coat",
-    "price": "$395"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/41/41/52/22414152_52378015_480.jpg",
-    "label": "A.P.C.",
-    "name": "Lou belted trench coat",
-    "price": "$485"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/18/59/00/58/18590058_40499336_480.jpg",
-    "label": "Thom Browne",
-    "name": "hooded cotton parka",
-    "price": "$1,145"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/32/60/36/21326036_51346526_480.jpg",
-    "label": "Homme Plissé Issey Miyake",
-    "name": "buttoned pleated coat",
-    "price": "$734"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/15/41/35/24154135_54523263_480.jpg",
-    "label": "The Row",
-    "name": "Argo single-breasted coat",
-    "price": "$4,494"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/89/78/81/20897881_54255610_480.jpg",
-    "label": "Valentino Garavani",
-    "name": "double-breasted wool-cashmere blend tweed coat",
-    "price": "$2,038"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/65/30/96/23653096_53878035_480.jpg",
-    "label": "DSQUARED2",
-    "name": "single-breasted satin-trim coat",
-    "price": "$3,629"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/25/00/34/20250034_51561915_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/35/21819735_53101675_480.jpg",
     "label": "AMI Paris",
-    "name": "single-breasted wool-cashmere coat",
-    "price": "$624"
+    "name": "пальто из вирджинской шерсти с поясом",
+    "price": "$786",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819735.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/37/03/60/22370360_52391660_480.jpg",
-    "label": "Thom Browne",
-    "name": "Harris-tweed embroidered long coat",
-    "price": "$19,440"
+    "image": "https://cdn-images.farfetch-contents.com/16/58/07/71/16580771_54443435_480.jpg",
+    "label": "Balenciaga",
+    "name": "тренч асимметричного кроя",
+    "price": "$2,059",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-16580771.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/17/92/35/53/17923553_38052299_480.jpg",
-    "label": "Ports V",
-    "name": "slogan-print mid-length coat",
-    "price": "$202"
+    "image": "https://cdn-images.farfetch-contents.com/19/93/94/53/19939453_50121578_480.jpg",
+    "label": "Mackintosh",
+    "name": "габардиновый тренч на пуговицах",
+    "price": "$345",
+    "url": "https://www.farfetch.com/kz/shopping/men/mackintosh--item-19939453.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/65/44/47/16654447_33017805_480.jpg",
+    "label": "DSQUARED2",
+    "name": "пуховик с логотипом",
+    "price": "$936",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-16654447.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/71/33/76/19713376_44631031_480.jpg",
+    "label": "Maison Margiela",
+    "name": "шерстяное пальто Work-in-Progress",
+    "price": "$1,609",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela-work-in-progress-item-19713376.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/17/34/80/19173480_42904289_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "двубортный бушлат с логотипом",
+    "price": "$1,892",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-19173480.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/38/56/29/17385629_36539252_480.jpg",
+    "label": "A-COLD-WALL*",
+    "name": "парка System с логотипом",
+    "price": "$588",
+    "url": "https://www.farfetch.com/kz/shopping/men/a-cold-wall-system-item-17385629.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/25/03/14/19250314_42489964_480.jpg",
+    "label": "Martine Rose",
+    "name": "однобортное пальто с запахом",
+    "price": "$828",
+    "url": "https://www.farfetch.com/kz/shopping/men/martine-rose--item-19250314.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/44/28/23974428_54162593_480.jpg",
+    "label": "MM6 Maison Margiela",
+    "name": "двубортное пальто с контрастными лацканами",
+    "price": "$1,712",
+    "url": "https://www.farfetch.com/kz/shopping/men/mm6-maison-margiela--item-23974428.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/14/41/93/20144193_51414701_480.jpg",
+    "label": "JW Anderson",
+    "name": "двубортный тренч",
+    "price": "$1,078",
+    "url": "https://www.farfetch.com/kz/shopping/men/jw-anderson--item-20144193.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/55/67/54/19556754_50096531_480.jpg",
+    "label": "Balenciaga",
+    "name": "спортивная куртка 3B Sports Icon",
+    "price": "$6,109",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga-3b-sports-icon-item-19556754.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/12/45/98/14124598_21475868_480.jpg",
+    "label": "Herno",
+    "name": "пуховик на молнии и пуговицах",
+    "price": "$688",
+    "url": "https://www.farfetch.com/kz/shopping/men/herno--item-14124598.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/23/84/30/22238430_52954308_480.jpg",
+    "label": "Burberry",
+    "name": "пальто Warped в ломаную клетку",
+    "price": "$3,340",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-warped-item-22238430.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/27/94/49/22279449_52284382_480.jpg",
+    "label": "Yohji Yamamoto",
+    "name": "тренч с классическим воротником",
+    "price": "$1,253",
+    "url": "https://www.farfetch.com/kz/shopping/men/yohji-yamamoto--item-22279449.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/25/34/46/23253446_53400164_480.jpg",
+    "label": "Jil Sander",
+    "name": "однобортная шуба из искусственного меха",
+    "price": "$2,216",
+    "url": "https://www.farfetch.com/kz/shopping/men/jil-sander--item-23253446.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/45/12/73/21451273_51493878_480.jpg",
+    "label": "LEMAIRE",
+    "name": "однобортное пальто с поясом",
+    "price": "$1,310",
+    "url": "https://www.farfetch.com/kz/shopping/men/lemaire--item-21451273.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/54/78/16/22547816_53922757_480.jpg",
+    "label": "Michael Kors",
+    "name": "однобортный тренч",
+    "price": "$481",
+    "url": "https://www.farfetch.com/kz/shopping/men/michael-kors--item-22547816.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/15/93/68/16159368_36149053_480.jpg",
+    "label": "Canada Goose",
+    "name": "пуховик Crofton",
+    "price": "$855",
+    "url": "https://www.farfetch.com/kz/shopping/men/canada-goose-crofton-item-16159368.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/62/17/92/17621792_36776691_480.jpg",
+    "label": "The North Face",
+    "name": "пуховик с вышитым логотипом",
+    "price": "$249",
+    "url": "https://www.farfetch.com/kz/shopping/men/the-north-face--item-17621792.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/33/81/28/18338128_39273643_480.jpg",
+    "label": "Rains",
+    "name": "плащ Longer с капюшоном и кулиской",
+    "price": "$139",
+    "url": "https://www.farfetch.com/kz/shopping/men/rains-longer-item-18338128.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/65/94/81/22659481_52907810_480.jpg",
+    "label": "Walter Van Beirendonck",
+    "name": "жаккардовое пальто Khiva",
+    "price": "$2,654",
+    "url": "https://www.farfetch.com/kz/shopping/men/walter-van-beirendonck-khiva-item-22659481.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/23/39/00/45/23390045_53454978_480.jpg",
     "label": "Balenciaga",
-    "name": "belted maxi trench coat",
-    "price": "$3,638"
+    "name": "тренч с поясом",
+    "price": "$3,638",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-23390045.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/57/54/09/21575409_51663376_480.jpg",
-    "label": "The Row",
-    "name": "Tavish cotton-blend coat",
-    "price": "$3,014"
+    "image": "https://cdn-images.farfetch-contents.com/21/82/07/65/21820765_53718945_480.jpg",
+    "label": "AMI Paris",
+    "name": "двубортное шерстяное пальто",
+    "price": "$681",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820765.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/01/21/67/24012167_54043160_480.jpg",
-    "label": "DRIES VAN NOTEN",
-    "name": "animal-print mac coat",
-    "price": "$1,677"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/17/84/83/23178483_54340823_480.jpg",
-    "label": "TOM FORD",
-    "name": "zip-up hooded down coat",
-    "price": "$4,913"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/93/41/27/23934127_53963151_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/91/33/02/23913302_53927321_480.jpg",
     "label": "Maison Margiela",
-    "name": "canvas belted trench coat",
-    "price": "$3,042"
+    "name": "многослойный тренч с поясом",
+    "price": "$2,557",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela--item-23913302.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/08/61/81/22086181_52015504_480.jpg",
+    "label": "BOSS",
+    "name": "пуховик на молнии с капюшоном",
+    "price": "$329",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-22086181.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/99/61/23799961_53766291_480.jpg",
+    "label": "Burberry",
+    "name": "парка с капюшоном и искусственным мехом",
+    "price": "$2,471",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-23799961.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/95/36/52/19953652_44918240_480.jpg",
+    "label": "Rains",
+    "name": "плащ с капюшоном и поясом",
+    "price": "$116",
+    "url": "https://www.farfetch.com/kz/shopping/men/rains--item-19953652.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/68/79/93/23687993_53767387_480.jpg",
+    "label": "Burberry",
+    "name": "тренч Knight Hardware из тафты",
+    "price": "$3,712",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-knight-hardware-item-23687993.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/50/56/71/23505671_53474647_480.jpg",
+    "label": "Save The Duck",
+    "name": "двубортный тренч Zarek",
+    "price": "$337",
+    "url": "https://www.farfetch.com/kz/shopping/men/save-the-duck-zarek-item-23505671.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/77/31/60/18773160_40774935_480.jpg",
+    "label": "424",
+    "name": "двубортное шерстяное пальто",
+    "price": "$579",
+    "url": "https://www.farfetch.com/kz/shopping/men/424--item-18773160.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/92/28/32/22922832_53550719_480.jpg",
+    "label": "Comme des Garçons Homme Plus",
+    "name": "однобортный плащ с эффектом тромплей",
+    "price": "$1,432",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-homme-plus--item-22922832.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/88/17/74/18881774_41334846_480.jpg",
+    "label": "Mackintosh",
+    "name": "пальто длины миди на пуговицах",
+    "price": "$296",
+    "url": "https://www.farfetch.com/kz/shopping/men/mackintosh--item-18881774.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/08/42/45/18084245_38314780_480.jpg",
+    "label": "Maison Margiela",
+    "name": "многослойный тренч",
+    "price": "$1,636",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela--item-18084245.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/94/00/46/19940046_50139779_480.jpg",
+    "label": "Mackintosh",
+    "name": "тренч St John",
+    "price": "$345",
+    "url": "https://www.farfetch.com/kz/shopping/men/mackintosh-st-john-item-19940046.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/10/37/04/22103704_51946676_480.jpg",
+    "label": "Homme Plissé Issey Miyake",
+    "name": "двубортный плиссированный тренч",
+    "price": "$1,351",
+    "url": "https://www.farfetch.com/kz/shopping/men/homme-plisse-issey-miyake--item-22103704.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/04/95/82/20049582_45288285_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "шуба из искусственного меха с леопардовым принтом",
+    "price": "$6,345",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-20049582.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/30/61/31/22306131_52145493_480.jpg",
+    "label": "Burberry",
+    "name": "двусторонний кашемировый кейп",
+    "price": "$3,837",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-22306131.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/47/52/76/20475276_52385522_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "дафлкот с застежкой-тогл",
+    "price": "$1,793",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-20475276.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/20/08/24/14200824_20219176_480.jpg",
+    "label": "Burberry",
+    "name": "бушлат с широкими лацканами",
+    "price": "$1,602",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-14200824.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/00/80/19/19008019_41431298_480.jpg",
+    "label": "Canada Goose",
+    "name": "пуховик на молнии",
+    "price": "$1,324",
+    "url": "https://www.farfetch.com/kz/shopping/men/canada-goose--item-19008019.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/10/77/61/20107761_51181831_480.jpg",
+    "label": "Maison Margiela",
+    "name": "двустороннее пальто",
+    "price": "$1,800",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela--item-20107761.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/36/80/02/21368002_51365159_480.jpg",
+    "label": "Canada Goose",
+    "name": "пуховик Carson с капюшоном",
+    "price": "$1,591",
+    "url": "https://www.farfetch.com/kz/shopping/men/canada-goose-carson-item-21368002.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/91/07/39/16910739_35215626_480.jpg",
+    "label": "Canada Goose",
+    "name": "пуховик Crofton с нашивкой-логотипом",
+    "price": "$1,086",
+    "url": "https://www.farfetch.com/kz/shopping/men/canada-goose-crofton-item-16910739.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/58/06/88/16580688_35673977_480.jpg",
+    "label": "Balenciaga",
+    "name": "парка Transformer Gym Bag",
+    "price": "$3,273",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga-transformer-gym-bag-item-16580688.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/90/09/75/17900975_37830816_480.jpg",
+    "label": "DSQUARED2",
+    "name": "однобортное пальто с графичным принтом",
+    "price": "$1,320",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-17900975.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/92/23/79/21922379_53027166_480.jpg",
+    "label": "Yohji Yamamoto",
+    "name": "однобортное пальто с абстрактным принтом",
+    "price": "$3,152",
+    "url": "https://www.farfetch.com/kz/shopping/men/yohji-yamamoto--item-21922379.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/44/48/19594448_44233735_480.jpg",
+    "label": "AMI Paris",
+    "name": "двубортный тренч с поясом",
+    "price": "$786",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-19594448.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/43/61/30/22436130_52427329_480.jpg",
+    "label": "Stone Island",
+    "name": "плащ Membrana 3L TC с жатым эффектом",
+    "price": "$702",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-membrana-3l-tc-item-22436130.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/19/40/82/20194082_51269072_480.jpg",
+    "label": "AMBUSH",
+    "name": "парка с нашивкой-логотипом",
+    "price": "$729",
+    "url": "https://www.farfetch.com/kz/shopping/men/ambush--item-20194082.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/74/23/05/15742305_40039304_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "двубортное пальто",
+    "price": "$1,008",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-15742305.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/47/21/10/18472110_42069901_480.jpg",
+    "label": "Rick Owens",
+    "name": "парка Jumbo Gauntlet",
+    "price": "$2,106",
+    "url": "https://www.farfetch.com/kz/shopping/men/rick-owens-jumbo-gauntlet-item-18472110.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/94/86/89/18948689_41254558_480.jpg",
+    "label": "Maison Margiela",
+    "name": "двубортное пальто",
+    "price": "$1,007",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela--item-18948689.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/50/65/65/21506565_51514523_480.jpg",
+    "label": "Stone Island",
+    "name": "пуховик с капюшоном и нашивкой Compass",
+    "price": "$836",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-21506565.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/23/14/72/19231472_42154124_480.jpg",
+    "label": "Canada Goose",
+    "name": "парка Macmillan",
+    "price": "$1,018",
+    "url": "https://www.farfetch.com/kz/shopping/men/canada-goose-macmillan-item-19231472.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/17/46/13/14174613_18967354_480.jpg",
+    "label": "Burberry",
+    "name": "габардиновый тренч",
+    "price": "$2,297",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-14174613.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/78/45/43/19784543_50677650_480.jpg",
+    "label": "Maison Margiela",
+    "name": "двубортное пальто из смесовой шерсти",
+    "price": "$1,691",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela--item-19784543.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/55/55/85/22555585_52504737_480.jpg",
+    "label": "Diesel",
+    "name": "тренч CL-J-Matthew",
+    "price": "$1,645",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-cl-j-matthew-item-22555585.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/46/64/07/24466407_54586145_480.jpg",
+    "label": "Yohji Yamamoto",
+    "name": "фактурное пальто",
+    "price": "$741",
+    "url": "https://www.farfetch.com/kz/shopping/men/yohji-yamamoto--item-24466407.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/65/52/61/16655261_34041093_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "удлиненный пуховик",
+    "price": "$1,418",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-16655261.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/16/70/13/22167013_55096820_480.jpg",
+    "label": "Balenciaga",
+    "name": "дутый тренч с поясом",
+    "price": "$4,566",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-22167013.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/11/54/39/43/11543943_7606326_480.jpg",
+    "label": "Stutterheim",
+    "name": "плащ с капюшоном",
+    "price": "$175",
+    "url": "https://www.farfetch.com/kz/shopping/men/stutterheim--item-11543943.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/30/98/98/23309898_53488543_480.jpg",
+    "label": "Maison Margiela",
+    "name": "шерстяной тренч с отложным воротником",
+    "price": "$2,966",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela--item-23309898.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/74/83/80/21748380_52024085_480.jpg",
+    "label": "Moose Knuckles",
+    "name": "парка Saint Ulric 2 с логотипом",
+    "price": "$568",
+    "url": "https://www.farfetch.com/kz/shopping/men/moose-knuckles-saint-ulric-2-item-21748380.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/81/66/45/18816645_41035705_480.jpg",
+    "label": "Marni",
+    "name": "двусторонний пуховик с капюшоном",
+    "price": "$1,072",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni--item-18816645.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/43/91/48/18439148_42685858_480.jpg",
+    "label": "Maison Margiela",
+    "name": "двубортное шерстяное пальто Shetland",
+    "price": "$2,462",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela-shetland-item-18439148.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/29/83/69/23298369_53356709_480.jpg",
+    "label": "Helmut Lang",
+    "name": "блейзер со смещенной застежкой и полосками",
+    "price": "$970",
+    "url": "https://www.farfetch.com/kz/shopping/men/helmut-lang--item-23298369.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/71/25/88/16712588_33954794_480.jpg",
+    "label": "Mackintosh",
+    "name": "двубортное пальто Redford",
+    "price": "$1,111",
+    "url": "https://www.farfetch.com/kz/shopping/men/mackintosh-redford-item-16712588.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/06/32/90/21063290_51136331_480.jpg",
+    "label": "Stone Island",
+    "name": "парка с логотипом Compass",
+    "price": "$1,040",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-21063290.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/12/99/77/20129977_54380692_480.jpg",
+    "label": "Balenciaga",
+    "name": "хлопковый тренч",
+    "price": "$3,327",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-20129977.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/26/98/61/19269861_43459539_480.jpg",
+    "label": "Zegna",
+    "name": "шерстяной тренч",
+    "price": "$12,300",
+    "url": "https://www.farfetch.com/kz/shopping/men/zegna--item-19269861.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/36/59/44/22365944_52954831_480.jpg",
+    "label": "Burberry",
+    "name": "короткий плащ",
+    "price": "$2,223",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-22365944.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/98/03/86/21980386_51772703_480.jpg",
+    "label": "Auralee",
+    "name": "шерстяное пальто",
+    "price": "$1,410",
+    "url": "https://www.farfetch.com/kz/shopping/men/auralee--item-21980386.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/84/12/54/22841254_53072853_480.jpg",
+    "label": "BOSS",
+    "name": "двубортное пальто",
+    "price": "$456",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-22841254.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/18/54/75/54/18547554_42718433_480.jpg",
     "label": "Saint Laurent",
-    "name": "double-breasted silk-lapel coat",
-    "price": "$3,417"
+    "name": "двубортное пальто",
+    "price": "$3,417",
+    "url": "https://www.farfetch.com/kz/shopping/men/saint-laurent--item-18547554.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/05/20/04/22052004_51901287_480.jpg",
-    "label": "Zadig&Voltaire",
-    "name": "logo-embroidered organic cotton parka",
-    "price": "$550"
+    "image": "https://cdn-images.farfetch-contents.com/20/99/73/82/20997382_51076713_480.jpg",
+    "label": "Barbour",
+    "name": "вощеная куртка Beaufort на кнопках",
+    "price": "$289",
+    "url": "https://www.farfetch.com/kz/shopping/men/barbour-beaufort-item-20997382.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/19/93/94/97/19939497_50134348_480.jpg",
-    "label": "Mackintosh",
-    "name": "Soho Eco Dry raincoat",
-    "price": "$296"
+    "image": "https://cdn-images.farfetch-contents.com/18/59/21/61/18592161_41093019_480.jpg",
+    "label": "Balenciaga",
+    "name": "двубортное пальто с поясом",
+    "price": "$1,360",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-18592161.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/17/84/82/23178482_54697108_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/24/01/21/67/24012167_54043160_480.jpg",
+    "label": "DRIES VAN NOTEN",
+    "name": "пальто с анималистичным принтом",
+    "price": "$1,677",
+    "url": "https://www.farfetch.com/kz/shopping/men/dries-van-noten--item-24012167.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/45/74/70/15457470_30038162_480.jpg",
+    "label": "OUR LEGACY",
+    "name": "двубортное пальто с заостренными лацканами",
+    "price": "$835",
+    "url": "https://www.farfetch.com/kz/shopping/men/our-legacy--item-15457470.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/97/41/36/22974136_53912795_480.jpg",
+    "label": "Rains",
+    "name": "парка с капюшоном",
+    "price": "$130",
+    "url": "https://www.farfetch.com/kz/shopping/men/rains--item-22974136.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/35/94/35/21359435_51398481_480.jpg",
+    "label": "Moncler",
+    "name": "пуховик с нашивкой-логотипом",
+    "price": "$2,103",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-21359435.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/50/86/38/20508638_51379569_480.jpg",
+    "label": "Etudes",
+    "name": "пальто Lutece с нашивкой-логотипом",
+    "price": "$362",
+    "url": "https://www.farfetch.com/kz/shopping/men/etudes-lutece-item-20508638.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/39/24/22153924_52464199_480.jpg",
+    "label": "Versace",
+    "name": "жаккардовый тренч с цветочным узором",
+    "price": "$1,310",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace--item-22153924.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/86/87/71/20868771_51262221_480.jpg",
+    "label": "Burberry",
+    "name": "шерстяной кейп Equestrian Knight",
+    "price": "$1,180",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-equestrian-knight-item-20868771.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/29/22/92/24292292_54610531_480.jpg",
+    "label": "Stone Island",
+    "name": "пуховик Real с капюшоном",
+    "price": "$1,580",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-real-item-24292292.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/65/12/11/17651211_0eb9f32c-031f-4206-beff-5f7c15ffdf50_480.jpg",
+    "label": "Saint Laurent",
+    "name": "двубортная дубленка",
+    "price": "$6,133",
+    "url": "https://www.farfetch.com/kz/shopping/men/saint-laurent--item-17651211.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/21/68/89/24216889_54326314_480.jpg",
+    "label": "Herno",
+    "name": "многослойный пуховик",
+    "price": "$754",
+    "url": "https://www.farfetch.com/kz/shopping/men/herno--item-24216889.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/46/14/83/24461483_54725042_480.jpg",
+    "label": "Maison Margiela",
+    "name": "тренч из канваса с поясом",
+    "price": "$2,568",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela--item-24461483.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/46/05/00/24460500_54858158_480.jpg",
+    "label": "Lardini",
+    "name": "однобортное пальто из вирджинской шерсти",
+    "price": "$1,512",
+    "url": "https://www.farfetch.com/kz/shopping/men/lardini--item-24460500.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/87/24/87/18872487_41503276_480.jpg",
+    "label": "Canada Goose",
+    "name": "парка Macmillan с капюшоном",
+    "price": "$1,134",
+    "url": "https://www.farfetch.com/kz/shopping/men/canada-goose-macmillan-item-18872487.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/00/16/49/19001649_41462682_480.jpg",
+    "label": "Feng Chen Wang",
+    "name": "пальто оверсайз в стиле колор-блок",
+    "price": "$444",
+    "url": "https://www.farfetch.com/kz/shopping/men/feng-chen-wang--item-19001649.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/22/35/83/20223583_51982753_480.jpg",
+    "label": "Philipp Plein",
+    "name": "пуховик со съемным капюшоном и принтом",
+    "price": "$810",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-20223583.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/17/84/83/23178483_54340823_480.jpg",
     "label": "TOM FORD",
-    "name": "herringbone coat",
-    "price": "$5,529"
+    "name": "пуховик на молнии с капюшоном",
+    "price": "$4,913",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-23178483.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/03/29/20/23032920_53206136_480.jpg",
-    "label": "Homme Plissé Issey Miyake",
-    "name": "Tailored Pleats 1 vest",
-    "price": "$731"
+    "image": "https://cdn-images.farfetch-contents.com/24/45/72/77/24457277_54947836_480.jpg",
+    "label": "Jil Sander",
+    "name": "парка с логотипом",
+    "price": "$1,940",
+    "url": "https://www.farfetch.com/kz/shopping/men/jil-sander--item-24457277.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/56/11/97/19561197_43855858_480.jpg",
+    "label": "Michael Kors",
+    "name": "многослойный бушлат с капюшоном",
+    "price": "$239",
+    "url": "https://www.farfetch.com/kz/shopping/men/michael-kors--item-19561197.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/49/76/22154976_52377543_480.jpg",
+    "label": "Versace",
+    "name": "двубортное пальто с жаккардовым узором Barocco",
+    "price": "$2,568",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-barocco-item-22154976.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/18/30/21/20183021_51982360_480.jpg",
+    "label": "Plein Sport",
+    "name": "стеганый пуховик",
+    "price": "$558",
+    "url": "https://www.farfetch.com/kz/shopping/men/plein-sport--item-20183021.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/13/59/17961359_38415607_480.jpg",
+    "label": "AMI Paris",
+    "name": "однобортное шерстяное пальто",
+    "price": "$580",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-17961359.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/20/08/21/05/20082105_51272150_480.jpg",
     "label": "Karl Lagerfeld Jeans",
     "name": "logo-print padded parka coat",
-    "price": "$218"
+    "price": "$181",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld-jeans-logo-print-padded-parka-coat-item-20082105.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/14/77/57/93/14775793_23874841_480.jpg",
-    "label": "Thom Browne",
-    "name": "houndstooth patchwork single-breasted coat",
-    "price": "$1,339"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/76/25/94/19762594_44278618_480.jpg",
-    "label": "Barbour",
-    "name": "International Original single-breasted coat",
-    "price": "$345"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/91/61/55/20916155_50910233_480.jpg",
-    "label": "Stone Island",
-    "name": "Compass-patch single-breasted coat",
-    "price": "$1,286"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/94/01/58/19940158_50140149_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/19/93/94/97/19939497_50134348_480.jpg",
     "label": "Mackintosh",
-    "name": "Soho Eco Dry raincoat",
-    "price": "$296"
+    "name": "плащ Soho Eco Dry",
+    "price": "$296",
+    "url": "https://www.farfetch.com/kz/shopping/men/mackintosh-soho-eco-dry-item-19939497.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/27/05/43/14270543_20411095_480.jpg",
+    "label": "Herno",
+    "name": "однобортное пальто",
+    "price": "$2,027",
+    "url": "https://www.farfetch.com/kz/shopping/men/herno--item-14270543.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/65/30/96/23653096_53878035_480.jpg",
+    "label": "DSQUARED2",
+    "name": "однобортное пальто с атласной отделкой",
+    "price": "$3,629",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-23653096.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/65/32/04/22653204_54152667_480.jpg",
+    "label": "Stone Island",
+    "name": "бесшовный пуховик с капюшоном",
+    "price": "$956",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island--item-22653204.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/22/79/09/19227909_42475877_480.jpg",
+    "label": "Walter Van Beirendonck",
+    "name": "пальто оверсайз с поясом",
+    "price": "$2,959",
+    "url": "https://www.farfetch.com/kz/shopping/men/walter-van-beirendonck--item-19227909.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/87/82/76/20878276_50972072_480.jpg",
+    "label": "DSQUARED2",
+    "name": "пуховик в стиле колор-блок",
+    "price": "$1,803",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-20878276.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/29/85/71/19298571_42411568_480.jpg",
+    "label": "Balenciaga",
+    "name": "длинный тренч в клетку Prince of Wales",
+    "price": "$2,004",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga-prince-of-wales-item-19298571.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/26/83/08/23268308_53515303_480.jpg",
+    "label": "Y-3",
+    "name": "тренч Gore -Tex® из коллаборации с Yohji Yamamoto",
+    "price": "$957",
+    "url": "https://www.farfetch.com/kz/shopping/men/y-3-gore-tex-yohji-yamamoto-item-23268308.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/63/62/98/23636298_53587289_480.jpg",
+    "label": "Fear Of God",
+    "name": "шерстяное пальто с поясом",
+    "price": "$2,659",
+    "url": "https://www.farfetch.com/kz/shopping/men/fear-of-god--item-23636298.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/58/77/14/21587714_51619256_480.jpg",
+    "label": "Emporio Armani",
+    "name": "двубортное шерстяное пальто",
+    "price": "$695",
+    "url": "https://www.farfetch.com/kz/shopping/men/emporio-armani--item-21587714.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/89/92/42/18899242_41067292_480.jpg",
+    "label": "Jil Sander",
+    "name": "однобортное пальто миди",
+    "price": "$2,610",
+    "url": "https://www.farfetch.com/kz/shopping/men/jil-sander--item-18899242.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/24/86/59/22248659_52411458_480.jpg",
+    "label": "Burberry",
+    "name": "шерстяной кейп с капюшоном и узором EKD",
+    "price": "$1,850",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-ekd-item-22248659.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/06/92/17/19069217_41626185_480.jpg",
+    "label": "Canada Goose",
+    "name": "пуховик Langford с капюшоном",
+    "price": "$1,443",
+    "url": "https://www.farfetch.com/kz/shopping/men/canada-goose-langford-item-19069217.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/82/76/23608276_54235021_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "двубортное шерстяное пальто",
+    "price": "$3,835",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-23608276.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/17/33/72/18173372_39389268_480.jpg",
+    "label": "Mackintosh",
+    "name": "короткий тренч St John",
+    "price": "$345",
+    "url": "https://www.farfetch.com/kz/shopping/men/mackintosh-st-john-item-18173372.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/01/46/42/16014642_29869261_480.jpg",
+    "label": "Barbour",
+    "name": "пальто на кнопках",
+    "price": "$373",
+    "url": "https://www.farfetch.com/kz/shopping/men/barbour--item-16014642.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/89/93/32/22899332_52943231_480.jpg",
+    "label": "Burberry",
+    "name": "двусторонний кашемировый кейп с капюшоном",
+    "price": "$3,837",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-22899332.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/88/45/74/20884574_52267267_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "дафлкот с капюшоном",
+    "price": "$1,681",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-20884574.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/14/52/38/22145238_53793886_480.jpg",
+    "label": "Balenciaga",
+    "name": "тренч с поясом",
+    "price": "$1,992",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-22145238.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/87/69/73/18876973_41143290_480.jpg",
+    "label": "Rains",
+    "name": "плащ с капюшоном и кулиской",
+    "price": "$135",
+    "url": "https://www.farfetch.com/kz/shopping/men/rains--item-18876973.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/93/99/04/22939904_53149321_480.jpg",
+    "label": "Stone Island",
+    "name": "пальто с логотипом Compass",
+    "price": "$786",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22939904.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/17/21/44/18172144_39386216_480.jpg",
+    "label": "Mackintosh",
+    "name": "короткий тренч St John",
+    "price": "$345",
+    "url": "https://www.farfetch.com/kz/shopping/men/mackintosh-st-john-item-18172144.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/88/08/22708808_52717748_480.jpg",
+    "label": "LEMAIRE",
+    "name": "тренч асимметричного кроя",
+    "price": "$1,310",
+    "url": "https://www.farfetch.com/kz/shopping/men/lemaire--item-22708808.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/91/55/91/18915591_41156595_480.jpg",
+    "label": "Armani Exchange",
+    "name": "двухслойное пальто с капюшоном",
+    "price": "$305",
+    "url": "https://www.farfetch.com/kz/shopping/men/armani-exchange--item-18915591.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/62/46/94/21624694_51617344_480.jpg",
+    "label": "Canada Goose",
+    "name": "стеганый пуховик с капюшоном из коллаборации с Pyer Moss",
+    "price": "$1,172",
+    "url": "https://www.farfetch.com/kz/shopping/men/canada-goose-pyer-moss-item-21624694.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/61/14/24/20611424_51451134_480.jpg",
+    "label": "Canada Goose",
+    "name": "парка Paradigm Expedition с дутыми рукавами",
+    "price": "$1,956",
+    "url": "https://www.farfetch.com/kz/shopping/men/canada-goose-paradigm-expedition-item-20611424.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/74/83/76/21748376_52024213_480.jpg",
+    "label": "Moose Knuckles",
+    "name": "парка Saint Ulric 2 с логотипом",
+    "price": "$568",
+    "url": "https://www.farfetch.com/kz/shopping/men/moose-knuckles-saint-ulric-2-item-21748376.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/38/97/20/24389720_54442582_480.jpg",
+    "label": "Jil Sander",
+    "name": "пальто с потайной застежкой",
+    "price": "$3,669",
+    "url": "https://www.farfetch.com/kz/shopping/men/jil-sander--item-24389720.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/37/03/60/22370360_52391660_480.jpg",
+    "label": "Thom Browne",
+    "name": "длинное пальто с вышивкой",
+    "price": "$19,440",
+    "url": "https://www.farfetch.com/kz/shopping/men/thom-browne--item-22370360.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/43/01/18/18430118_42807253_480.jpg",
+    "label": "Saint Laurent",
+    "name": "двубортный тренч",
+    "price": "$3,569",
+    "url": "https://www.farfetch.com/kz/shopping/men/saint-laurent--item-18430118.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/86/28/17/16862817_36614610_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "двубортное пальто",
+    "price": "$2,803",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-16862817.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/57/54/09/21575409_51663376_480.jpg",
+    "label": "The Row",
+    "name": "пальто Tavish",
+    "price": "$3,014",
+    "url": "https://www.farfetch.com/kz/shopping/men/the-row-tavish-item-21575409.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/66/95/78/22669578_52717516_480.jpg",
+    "label": "LEMAIRE",
+    "name": "тренч асимметричного кроя",
+    "price": "$1,310",
+    "url": "https://www.farfetch.com/kz/shopping/men/lemaire--item-22669578.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/23/43/89/20234389_50148320_480.jpg",
+    "label": "Burberry",
+    "name": "парка с накладными карманами",
+    "price": "$3,549",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-20234389.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/62/87/60/15628760_32564605_480.jpg",
+    "label": "3.1 Phillip Lim",
+    "name": "парка Essential с капюшоном",
+    "price": "$155",
+    "url": "https://www.farfetch.com/kz/shopping/men/31-phillip-lim-essential-item-15628760.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/69/93/22116993_52125702_480.jpg",
+    "label": "Salomon",
+    "name": "плащ 11s Gore-Tex из коллаборации с Boris Bidjan Saberi",
+    "price": "$872",
+    "url": "https://www.farfetch.com/kz/shopping/men/salomon-11s-gore-tex-boris-bidjan-saberi-item-22116993.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/32/90/61/23329061_53473787_480.jpg",
+    "label": "Comme des Garçons Homme Plus",
+    "name": "пальто с графичным принтом и поясом",
+    "price": "$2,499",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-homme-plus--item-23329061.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/78/53/28/24785328_54944564_480.jpg",
+    "label": "Burberry",
+    "name": "пальто Camden Heritage",
+    "price": "$1,974",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-camden-heritage-item-24785328.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/56/70/02/22567002_52600275_480.jpg",
+    "label": "Stone Island",
+    "name": "однобортное пальто с нашивкой Compass",
+    "price": "$655",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22567002.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/49/21820849_53101106_480.jpg",
+    "label": "AMI Paris",
+    "name": "тренч с поясом",
+    "price": "$996",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820849.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/26/48/53/20264853_50427369_480.jpg",
+    "label": "Diesel",
+    "name": "тренч J-Matthew с капюшоном",
+    "price": "$460",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-j-matthew-item-20264853.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/71/33/41/16713341_35381384_480.jpg",
+    "label": "Mackintosh",
+    "name": "двубортный бушлат Dalton",
+    "price": "$987",
+    "url": "https://www.farfetch.com/kz/shopping/men/mackintosh-dalton-item-16713341.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/43/02/52/22430252_52677526_480.jpg",
+    "label": "A.P.C.",
+    "name": "длинная парка Anthony",
+    "price": "$409",
+    "url": "https://www.farfetch.com/kz/shopping/men/apc-anthony-item-22430252.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/18/31/34/20183134_51982298_480.jpg",
+    "label": "Plein Sport",
+    "name": "стеганое пальто с вышивкой",
+    "price": "$208",
+    "url": "https://www.farfetch.com/kz/shopping/men/plein-sport--item-20183134.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/92/63/51/22926351_53126284_480.jpg",
+    "label": "Yohji Yamamoto",
+    "name": "многослойное пальто с вырезами",
+    "price": "$2,100",
+    "url": "https://www.farfetch.com/kz/shopping/men/yohji-yamamoto--item-22926351.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/78/39/89/24783989_54868932_480.jpg",
+    "label": "Burberry",
+    "name": "тренч Kensington Heritage",
+    "price": "$2,347",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-kensington-heritage-item-24783989.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/86/75/72/19867572_44698573_480.jpg",
+    "label": "Moorer",
+    "name": "куртка с воротником-стойкой",
+    "price": "$581",
+    "url": "https://www.farfetch.com/kz/shopping/men/moorer--item-19867572.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/38/38/08/20383808_50422908_480.jpg",
+    "label": "Moncler",
+    "name": "куртка с капюшоном и графичным принтом",
+    "price": "$2,100",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-20383808.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/30/24/47/24302447_54393937_480.jpg",
+    "label": "sacai",
+    "name": "шерстяной дафлкот",
+    "price": "$2,074",
+    "url": "https://www.farfetch.com/kz/shopping/men/sacai--item-24302447.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/38/64/60/18386460_39828048_480.jpg",
+    "label": "Nanushka",
+    "name": "короткий пуховик",
+    "price": "$491",
+    "url": "https://www.farfetch.com/kz/shopping/men/nanushka--item-18386460.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/24/22/84/02/24228402_54574987_480.jpg",
     "label": "Jil Sander",
     "name": "wool coat",
-    "price": "$2,537"
+    "price": "$2,537",
+    "url": "https://www.farfetch.com/kz/shopping/men/jil-sander-wool-coat-item-24228402.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/81/95/73/23819573_53937003_480.jpg",
-    "label": "Courrèges",
-    "name": "notched-lapels single-breasted coat",
-    "price": "$1,730"
+    "image": "https://cdn-images.farfetch-contents.com/20/98/13/34/20981334_51296934_480.jpg",
+    "label": "Rains",
+    "name": "плащ на молнии с капюшоном",
+    "price": "$126",
+    "url": "https://www.farfetch.com/kz/shopping/men/rains--item-20981334.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/42/49/32/22424932_52385042_480.jpg",
-    "label": "Vivienne Westwood",
-    "name": "tartan-check virgin wool double-breasted coat",
-    "price": "$1,266"
+    "image": "https://cdn-images.farfetch-contents.com/17/31/87/76/17318776_38397585_480.jpg",
+    "label": "Mackintosh",
+    "name": "габардиновое пальто Selwyn GMC-113",
+    "price": "$345",
+    "url": "https://www.farfetch.com/kz/shopping/men/mackintosh-selwyn-gmc-113-item-17318776.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/63/84/89/22638489_52664067_480.jpg",
-    "label": "Yohji Yamamoto",
-    "name": "x Neighborhood cotton coat",
-    "price": "$878"
+    "image": "https://cdn-images.farfetch-contents.com/21/72/34/24/21723424_51648265_480.jpg",
+    "label": "DSQUARED2",
+    "name": "пуховик с нашивкой-логотипом",
+    "price": "$1,554",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21723424.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/20/36/04/20203604_52004631_480.jpg",
-    "label": "Karl Lagerfeld",
-    "name": "exposed-seam single-breasted midi coat",
-    "price": "$274"
+    "image": "https://cdn-images.farfetch-contents.com/20/24/89/99/20248999_50520634_480.jpg",
+    "label": "AMI Paris",
+    "name": "однобортное пальто",
+    "price": "$732",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-20248999.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/61/70/90/22617090_52705668_480.jpg",
-    "label": "BOSS",
-    "name": "midi trench coat",
-    "price": "$511"
+    "image": "https://cdn-images.farfetch-contents.com/16/91/14/15/16911415_43731402_480.jpg",
+    "label": "Canada Goose",
+    "name": "пуховик на молнии",
+    "price": "$988",
+    "url": "https://www.farfetch.com/kz/shopping/men/canada-goose--item-16911415.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/02/66/25/21026625_51147198_480.jpg",
+    "label": "Diesel",
+    "name": "пуховик W-Jorgy",
+    "price": "$272",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-w-jorgy-item-21026625.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/93/41/23749341_53760303_480.jpg",
+    "label": "SANDRO",
+    "name": "шерстяное пальто",
+    "price": "$1,040",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-23749341.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/87/65/56/18876556_41317341_480.jpg",
+    "label": "Mackintosh",
+    "name": "однобортное пальто с заостренным воротником",
+    "price": "$174",
+    "url": "https://www.farfetch.com/kz/shopping/men/mackintosh--item-18876556.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/15/41/35/24154135_54523263_480.jpg",
+    "label": "The Row",
+    "name": "однобортное пальто Argo",
+    "price": "$4,494",
+    "url": "https://www.farfetch.com/kz/shopping/men/the-row-argo-item-24154135.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/78/53/33/24785333_54868431_480.jpg",
+    "label": "Burberry",
+    "name": "тренч Camden Heritage",
+    "price": "$1,974",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-camden-heritage-item-24785333.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/88/17/81/18881781_42414870_480.jpg",
+    "label": "Mackintosh",
+    "name": "тренч St. Andrews с поясом",
+    "price": "$987",
+    "url": "https://www.farfetch.com/kz/shopping/men/mackintosh-st-andrews-item-18881781.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/16/78/90/19167890_42085986_480.jpg",
+    "label": "Barbour",
+    "name": "однобортное пальто с вышитым логотипом",
+    "price": "$254",
+    "url": "https://www.farfetch.com/kz/shopping/men/barbour--item-19167890.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/23/98/91/74/23989174_54152830_480.jpg",
     "label": "Stone Island",
-    "name": "crinkled puffer coat",
-    "price": "$1,196"
+    "name": "пуховик с жатым эффектом",
+    "price": "$1,196",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island--item-23989174.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/11/82/25/22118225_52457010_480.jpg",
-    "label": "Stone Island",
-    "name": "Compass-motif ripstop-texture coat",
-    "price": "$1,490"
+    "image": "https://cdn-images.farfetch-contents.com/22/25/18/39/22251839_52175905_480.jpg",
+    "label": "Emporio Armani",
+    "name": "двубортное пальто с классическим воротником",
+    "price": "$595",
+    "url": "https://www.farfetch.com/kz/shopping/men/emporio-armani--item-22251839.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/12/92/60/88/12926088_14687394_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/18/93/08/18/18930818_41432142_480.jpg",
     "label": "Burberry",
-    "name": "The Westminster Heritage Trench Coat",
-    "price": "$2,347"
+    "name": "дафлкот с капюшоном",
+    "price": "$4,085",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-18930818.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/07/66/21820766_52619248_480.jpg",
+    "label": "AMI Paris",
+    "name": "двубортное пальто из вирджинской шерсти",
+    "price": "$831",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820766.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/72/81/17/22728117_52954753_480.jpg",
+    "label": "VETEMENTS",
+    "name": "двубортный тренч",
+    "price": "$1,773",
+    "url": "https://www.farfetch.com/kz/shopping/men/vetements--item-22728117.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/91/63/21619163_51731895_480.jpg",
+    "label": "Canali",
+    "name": "двубортный тренч с заостренными лацканами",
+    "price": "$1,057",
+    "url": "https://www.farfetch.com/kz/shopping/men/canali--item-21619163.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/03/17/36/22031736_51937598_480.jpg",
+    "label": "STUDIO TOMBOY",
+    "name": "шерстяное пальто",
+    "price": "$252",
+    "url": "https://www.farfetch.com/kz/shopping/men/studio-tomboy--item-22031736.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/73/31/73/16733173_33062922_480.jpg",
+    "label": "Burberry",
+    "name": "пальто The Kensington Heritage длины миди",
+    "price": "$2,347",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-the-kensington-heritage-item-16733173.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/43/16/70/24431670_54475576_480.jpg",
+    "label": "Bally",
+    "name": "двубортный тренч",
+    "price": "$1,902",
+    "url": "https://www.farfetch.com/kz/shopping/men/bally--item-24431670.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/65/12/24/19651224_50334252_480.jpg",
+    "label": "Saint Laurent",
+    "name": "шерстяное пальто",
+    "price": "$3,078",
+    "url": "https://www.farfetch.com/kz/shopping/men/saint-laurent--item-19651224.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/93/94/55/19939455_50126887_480.jpg",
+    "label": "Mackintosh",
+    "name": "однобортное пальто Norfolk",
+    "price": "$246",
+    "url": "https://www.farfetch.com/kz/shopping/men/mackintosh-norfolk-item-19939455.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/14/44/32/19144432_42182881_480.jpg",
+    "label": "Stone Island Shadow Project",
+    "name": "парка на молнии с капюшоном",
+    "price": "$1,546",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-shadow-project--item-19144432.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/41/41/52/22414152_52378015_480.jpg",
+    "label": "A.P.C.",
+    "name": "тренч Lou с поясом",
+    "price": "$485",
+    "url": "https://www.farfetch.com/kz/shopping/men/apc-lou-item-22414152.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/03/29/20/23032920_53206136_480.jpg",
+    "label": "Homme Plissé Issey Miyake",
+    "name": "жилет Tailored Pleats 1",
+    "price": "$731",
+    "url": "https://www.farfetch.com/kz/shopping/men/homme-plisse-issey-miyake-tailored-pleats-1-item-23032920.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/21/80/88/24218088_54326431_480.jpg",
+    "label": "Herno",
+    "name": "многослойный пуховик",
+    "price": "$753",
+    "url": "https://www.farfetch.com/kz/shopping/men/herno--item-24218088.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/55/78/86/18557886_42291530_480.jpg",
+    "label": "Philipp Plein",
+    "name": "однобортное пальто с отделкой из искусственного меха",
+    "price": "$2,878",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-18557886.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/85/55/30/19855530_44580563_480.jpg",
+    "label": "Rains",
+    "name": "плащ с капюшоном",
+    "price": "$99",
+    "url": "https://www.farfetch.com/kz/shopping/men/rains--item-19855530.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/81/96/76/23819676_53938106_480.jpg",
+    "label": "Courrèges",
+    "name": "длинное пальто строгого кроя",
+    "price": "$1,730",
+    "url": "https://www.farfetch.com/kz/shopping/men/courreges--item-23819676.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/93/41/27/23934127_53963151_480.jpg",
+    "label": "Maison Margiela",
+    "name": "тренч с поясом",
+    "price": "$3,042",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela--item-23934127.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/57/17/85/18571785_41886925_480.jpg",
+    "label": "Palm Angels",
+    "name": "пальто с вышивкой",
+    "price": "$1,180",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-18571785.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/31/78/84/24317884_54321389_480.jpg",
+    "label": "Burberry",
+    "name": "пальто длины миди",
+    "price": "$2,471",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-24317884.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/38/87/73/21388773_51462815_480.jpg",
+    "label": "C.P. Company",
+    "name": "стеганая куртка D.D Shell с капюшоном",
+    "price": "$962",
+    "url": "https://www.farfetch.com/kz/shopping/men/cp-company-dd-shell-item-21388773.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/88/32/20/18883220_41083060_480.jpg",
+    "label": "Canada Goose",
+    "name": "пуховик с капюшоном и нашивкой-логотипом",
+    "price": "$1,923",
+    "url": "https://www.farfetch.com/kz/shopping/men/canada-goose--item-18883220.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/23/84/01/18/23840118_54625251_480.jpg",
     "label": "Bally",
-    "name": "double-breasted trench coat",
-    "price": "$2,596"
+    "name": "двубортный тренч",
+    "price": "$2,596",
+    "url": "https://www.farfetch.com/kz/shopping/men/bally--item-23840118.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/18/94/86/89/18948689_41254558_480.jpg",
-    "label": "Maison Margiela",
-    "name": "coated double-breasted coat",
-    "price": "$1,098"
+    "image": "https://cdn-images.farfetch-contents.com/23/17/84/82/23178482_54697108_480.jpg",
+    "label": "TOM FORD",
+    "name": "пальто с узором в елочку",
+    "price": "$4,770",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-23178482.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/14/20/08/24/14200824_20219176_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/18/30/44/56/18304456_54495712_480.jpg",
+    "label": "Balenciaga",
+    "name": "складной тренч",
+    "price": "$2,291",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-18304456.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/81/95/73/23819573_53937003_480.jpg",
+    "label": "Courrèges",
+    "name": "однобортное пальто с заостренными лацканами",
+    "price": "$1,730",
+    "url": "https://www.farfetch.com/kz/shopping/men/courreges--item-23819573.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/05/20/04/22052004_51901287_480.jpg",
+    "label": "Zadig&Voltaire",
+    "name": "парка из органического хлопка с вышитым логотипом",
+    "price": "$550",
+    "url": "https://www.farfetch.com/kz/shopping/men/zadigvoltaire--item-22052004.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/90/00/88/22900088_52952251_480.jpg",
     "label": "Burberry",
-    "name": "Wool Blend Pea Coat",
-    "price": "$1,602"
+    "name": "длинный габардиновый тренч",
+    "price": "$2,843",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-22900088.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/38/38/08/20383808_50422908_480.jpg",
-    "label": "Moncler",
-    "name": "graphic-print hooded jacket",
-    "price": "$2,100"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/87/56/79/20875679_51305568_480.jpg",
-    "label": "FURSAC",
-    "name": "notched-collar shearling coat",
-    "price": "$1,431"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/65/32/04/22653204_54152667_480.jpg",
-    "label": "Stone Island",
-    "name": "seamless hooded puffer coat",
-    "price": "$956"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/98/03/86/21980386_51772703_480.jpg",
-    "label": "Auralee",
-    "name": "double-weave wool coat",
-    "price": "$1,410"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/26/73/65/20267365_50328169_480.jpg",
-    "label": "A.P.C.",
-    "name": "hooded cotton parka",
-    "price": "$437"
+    "image": "https://cdn-images.farfetch-contents.com/20/69/74/71/20697471_51547352_480.jpg",
+    "label": "KidSuper",
+    "name": "тренч с вышитой надписью",
+    "price": "$869",
+    "url": "https://www.farfetch.com/kz/shopping/men/kidsuper--item-20697471.aspx"
   }
 ]

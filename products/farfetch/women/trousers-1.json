@@ -1,218 +1,674 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/18/23/20/22182320_52868975_480.jpg",
-    "label": "Maje",
-    "name": "floral-appliqué knitted trousers",
-    "price": "$480"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/10/31/30/20103130_51258839_480.jpg",
-    "label": "ROTATE BIRGER CHRISTENSEN",
-    "name": "фактурные брюки средней посадки",
-    "price": "$83"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/08/93/97/23089397_53293565_480.jpg",
-    "label": "b+ab",
-    "name": "комплект из топа и брюк со складками",
-    "price": "$185"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/18/75/19/57/18751957_40596957_480.jpg",
-    "label": "Alexander Wang",
-    "name": "logo-print tapered track pants",
-    "price": "$208"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/54/25/37/23542537_53730029_480.jpg",
-    "label": "Peserico",
-    "name": "укороченные меланжевые брюки узкого кроя",
-    "price": "$318"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/16/84/31/56/16843156_33546849_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/18/63/33/22186333_52668968_480.jpg",
     "label": "SANDRO",
-    "name": "укороченные брюки с завышенной талией",
-    "price": "$236"
+    "name": "брюки палаццо с графичным принтом",
+    "price": "$290",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-22186333.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/27/50/15/20275015_50329876_480.jpg",
-    "label": "Marine Serre",
-    "name": "Fuseaux Moon printed leggings",
-    "price": "$355"
+    "image": "https://cdn-images.farfetch-contents.com/22/71/68/92/22716892_52837859_480.jpg",
+    "label": "Y-3",
+    "name": "брюки карго с жатым эффектом",
+    "price": "$312",
+    "url": "https://www.farfetch.com/kz/shopping/women/y-3--item-22716892.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/15/89/66/23158966_53342484_480.jpg",
-    "label": "Brunello Cucinelli",
-    "name": "шелковые брюки с геометричным принтом",
-    "price": "$3,991"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/14/94/30/71/14943071_27996069_480.jpg",
-    "label": "STADIUM GOODS®",
-    "name": "embroidered logo track pants",
-    "price": "$82"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/24/86/90/20248690_52352479_480.jpg",
-    "label": "Natasha Zinko",
-    "name": "comic-book cargo trousers",
-    "price": "$755"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/85/45/31/23854531_53946016_480.jpg",
-    "label": "Diesel",
-    "name": "x ToFF photograph-print track pants",
-    "price": "$337"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/33/89/29/21338929_52516406_480.jpg",
-    "label": "TOM FORD",
-    "name": "шелковые брюки с зебровым принтом",
-    "price": "$777"
+    "image": "https://cdn-images.farfetch-contents.com/17/71/59/11/17715911_37174361_480.jpg",
+    "label": "Alexander Wang",
+    "name": "брюки со складками и логотипом",
+    "price": "$851",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-wang--item-17715911.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/21/60/85/52/21608552_51847768_480.jpg",
     "label": "PINKO",
-    "name": "abstract-print straight-leg trousers",
-    "price": "$203"
+    "name": "прямые брюки с абстрактным принтом",
+    "price": "$203",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21608552.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/18/31/90/22/18319022_40312639_480.jpg",
-    "label": "Maison Close",
-    "name": "L'Amoureuse sheer stirrup leggings",
-    "price": "$156"
+    "image": "https://cdn-images.farfetch-contents.com/19/59/52/07/19595207_44718423_480.jpg",
+    "label": "AMI Paris",
+    "name": "спортивные брюки с вышитым логотипом",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-19595207.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/33/83/44/21338344_52014614_480.jpg",
-    "label": "ROTATE BIRGER CHRISTENSEN",
-    "name": "slim-leg patent trousers",
-    "price": "$59"
+    "image": "https://cdn-images.farfetch-contents.com/20/19/70/56/20197056_50265730_480.jpg",
+    "label": "TOTEME",
+    "name": "широкие брюки строгого кроя",
+    "price": "$161",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20197056.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/46/84/59/21468459_52399144_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/21/86/53/98/21865398_52385615_480.jpg",
     "label": "SANDRO",
     "name": "брюки палаццо с завышенной талией",
-    "price": "$290"
+    "price": "$315",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21865398.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/22/33/97/22223397_53668513_480.jpg",
-    "label": "Philipp Plein",
-    "name": "Leggings Bombing Graffiti",
-    "price": "$430"
+    "image": "https://cdn-images.farfetch-contents.com/22/04/36/17/22043617_52395221_480.jpg",
+    "label": "Claudie Pierlot",
+    "name": "атласные брюки палаццо с завышенной талией",
+    "price": "$340",
+    "url": "https://www.farfetch.com/kz/shopping/women/claudie-pierlot--item-22043617.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/15/48/31/22154831_51909831_480.jpg",
-    "label": "ETRO",
-    "name": "кюлоты с цветочным принтом",
-    "price": "$587"
+    "image": "https://cdn-images.farfetch-contents.com/19/62/09/94/19620994_43895316_480.jpg",
+    "label": "adidas by Stella McCartney",
+    "name": "спортивные брюки с кулиской",
+    "price": "$157",
+    "url": "https://www.farfetch.com/kz/shopping/women/adidas-by-stella-mccartney--item-19620994.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/82/92/29/22829229_52906849_480.jpg",
-    "label": "Missoni",
-    "name": "брюки строгого кроя с узором зигзаг",
-    "price": "$566"
+    "image": "https://cdn-images.farfetch-contents.com/23/77/19/09/23771909_53761486_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "спортивные брюки Made In USA",
+    "price": "$189",
+    "url": "https://www.farfetch.com/kz/shopping/women/sporty-rich-made-in-usa-item-23771909.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/13/43/35/20134335_50416686_480.jpg",
-    "label": "Palm Angels",
-    "name": "трикотажные расклешенные брюки с логотипом",
-    "price": "$396"
+    "image": "https://cdn-images.farfetch-contents.com/16/69/88/82/16698882_33223454_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "спортивные брюки с монограммой",
+    "price": "$123",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld--item-16698882.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/24/86/90/20248690_52352479_480.jpg",
+    "label": "Natasha Zinko",
+    "name": "брюки карго",
+    "price": "$755",
+    "url": "https://www.farfetch.com/kz/shopping/women/natasha-zinko--item-20248690.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/85/45/31/23854531_53946016_480.jpg",
+    "label": "Diesel",
+    "name": "спортивные брюки с фотопринтом из коллаборации с ToFF",
+    "price": "$337",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-toff-item-23854531.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/60/13/71/22601371_53094531_480.jpg",
+    "label": "Maje",
+    "name": "твидовые брюки палаццо в клетку",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22601371.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/19/80/18/20198018_50439708_480.jpg",
+    "label": "TOTEME",
+    "name": "брюки строгого кроя с завышенной талией",
+    "price": "$137",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20198018.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/19/57/54/20195754_50289999_480.jpg",
+    "label": "TOTEME",
+    "name": "прямые брюки с кулиской",
+    "price": "$146",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20195754.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/82/59/22118259_52378167_480.jpg",
+    "label": "Maje",
+    "name": "твидовые брюки широкого кроя",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22118259.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/19/52/71/22195271_52840248_480.jpg",
+    "label": "Maje",
+    "name": "твидовые брюки широкого кроя",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22195271.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/93/45/30/23934530_53962503_480.jpg",
+    "label": "Maison Margiela",
+    "name": "брюки со складками",
+    "price": "$1,176",
+    "url": "https://www.farfetch.com/kz/shopping/women/maison-margiela--item-23934530.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/24/44/22872444_54806588_480.jpg",
+    "label": "The Frankie Shop",
+    "name": "брюки палаццо Piper с завышенной талией",
+    "price": "$296",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-frankie-shop-piper-item-22872444.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/78/02/21467802_52138290_480.jpg",
+    "label": "SANDRO",
+    "name": "брюки палаццо Narsy в клетку",
+    "price": "$290",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro-narsy-item-21467802.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/22/30/49/65/22304965_52357436_480.jpg",
     "label": "Agua By Agua Bendita",
-    "name": "Memoria Paraíso wide-leg trousers",
-    "price": "$529"
+    "name": "широкие брюки Memoria Paraíso",
+    "price": "$529",
+    "url": "https://www.farfetch.com/kz/shopping/women/agua-by-agua-bendita-memoria-paraiso-item-22304965.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/50/00/77/22500077_48162869_480.jpg",
-    "label": "Ottolinger",
-    "name": "брюки с эффектом градиента",
-    "price": "$222"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/55/72/72/21557272_51748799_480.jpg",
-    "label": "TOTEME",
-    "name": "wool cropped trousers",
-    "price": "$137"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/15/30/49/07/15304907_27402439_480.jpg",
-    "label": "The Frankie Shop",
-    "name": "брюки Bea со складками",
-    "price": "$259"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/93/34/11/23933411_53961457_480.jpg",
-    "label": "adidas",
-    "name": "спортивные брюки с лампасами из коллаборации с Wales Bonner",
-    "price": "$256"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/60/85/53/21608553_52354376_480.jpg",
-    "label": "PINKO",
-    "name": "укороченные брюки с завышенной талией",
-    "price": "$151"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/87/90/25/23879025_53990147_480.jpg",
-    "label": "Baruni",
-    "name": "шифоновый комплект Ashtar с брюками",
-    "price": "$388"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/02/79/58/22027958_52992213_480.jpg",
-    "label": "SANDRO",
-    "name": "брюки палаццо с завышенной талией",
-    "price": "$290"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/51/82/43/22518243_52668316_480.jpg",
-    "label": "ZIMMERMANN",
-    "name": "широкие брюки с принтом",
-    "price": "$520"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/48/75/24/20487524_50518169_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/96/57/38/22965738_48953585_480.jpg",
     "label": "Sporty & Rich",
-    "name": "брюки с эластичным поясом и логотипом",
-    "price": "$97"
+    "name": "спортивные брюки SR Sport",
+    "price": "$138",
+    "url": "https://www.farfetch.com/kz/shopping/women/sporty-rich-sr-sport-item-22965738.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/72/25/33/21722533_51735774_480.jpg",
-    "label": "Dorothee Schumacher",
-    "name": "декорированные брюки палаццо с завышенной талией",
-    "price": "$245"
+    "image": "https://cdn-images.farfetch-contents.com/16/32/34/17/16323417_31266155_480.jpg",
+    "label": "Ea7 Emporio Armani",
+    "name": "спортивный костюм с декорированным логотипом",
+    "price": "$232",
+    "url": "https://www.farfetch.com/kz/shopping/women/ea7-emporio-armani--item-16323417.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/40/50/21684050_52463095_480.jpg",
+    "label": "Acne Studios",
+    "name": "вельветовые брюки карго",
+    "price": "$372",
+    "url": "https://www.farfetch.com/kz/shopping/women/acne-studios--item-21684050.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/90/71/51/22907151_53053044_480.jpg",
+    "label": "TOTEME",
+    "name": "прямые брюки",
+    "price": "$171",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-22907151.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/72/36/23497236_54394584_480.jpg",
+    "label": "Gucci",
+    "name": "брюки из канваса с узором GG",
+    "price": "$1,435",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci-gg-item-23497236.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/79/25/22027925_52669677_480.jpg",
+    "label": "SANDRO",
+    "name": "брюки палаццо с графичным принтом",
+    "price": "$230",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-22027925.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/13/03/70/19130370_42258246_480.jpg",
+    "label": "TOTEME",
+    "name": "брюки строгого кроя",
+    "price": "$169",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-19130370.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/23/67/23602367_53630253_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "шелковые брюки широкого кроя",
+    "price": "$1,480",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23602367.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/54/98/23495498_53984623_480.jpg",
+    "label": "Maje",
+    "name": "расклешенные брюки с разрезами",
+    "price": "$162",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23495498.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/99/74/23729974_53943034_480.jpg",
+    "label": "Maje",
+    "name": "расклешенные укороченные брюки",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23729974.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/53/58/22875358_54725507_480.jpg",
+    "label": "The Frankie Shop",
+    "name": "широкие брюки Ripley в тонкую полоску",
+    "price": "$265",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-frankie-shop-ripley-item-22875358.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/19/81/84/12/19818412_44490751_480.jpg",
     "label": "TOTEME",
     "name": "спортивные брюки с карманами карго",
-    "price": "$153"
+    "price": "$153",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-19818412.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/05/32/25/23053225_53869365_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "брюки палаццо Waverly с завышенной талией",
+    "price": "$612",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-waverly-item-23053225.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/69/86/09/22698609_52721824_480.jpg",
+    "label": "Elisabetta Franchi",
+    "name": "расклешенные креповые брюки",
+    "price": "$377",
+    "url": "https://www.farfetch.com/kz/shopping/women/elisabetta-franchi--item-22698609.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/80/08/22158008_52417069_480.jpg",
+    "label": "PINKO",
+    "name": "широкие брюки в полоску",
+    "price": "$210",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-22158008.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/94/30/71/14943071_27996069_480.jpg",
+    "label": "STADIUM GOODS®",
+    "name": "спортивные брюки с логотипом",
+    "price": "$31",
+    "url": "https://www.farfetch.com/kz/shopping/women/stadium-goods--item-14943071.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/55/72/72/21557272_51748799_480.jpg",
+    "label": "TOTEME",
+    "name": "укороченные шерстяные брюки",
+    "price": "$137",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-21557272.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/86/87/21608687_51919085_480.jpg",
+    "label": "PINKO",
+    "name": "брюки с завышенной талией",
+    "price": "$181",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21608687.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/52/04/19595204_45038961_480.jpg",
+    "label": "AMI Paris",
+    "name": "спортивные брюки с вышитым логотипом",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-19595204.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/52/09/68/22520968_53159337_480.jpg",
+    "label": "TOTEME",
+    "name": "брюки из джерси со сборками",
+    "price": "$136",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-22520968.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/31/90/22/18319022_40312639_480.jpg",
+    "label": "Maison Close",
+    "name": "прозрачные легинсы со штрипками",
+    "price": "$156",
+    "url": "https://www.farfetch.com/kz/shopping/women/maison-close--item-18319022.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/37/63/10/17376310_37285438_480.jpg",
+    "label": "The Frankie Shop",
+    "name": "брюки Gelso с завышенной талией",
+    "price": "$215",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-frankie-shop-gelso-item-17376310.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/19/80/25/20198025_50268264_480.jpg",
+    "label": "TOTEME",
+    "name": "широкие брюки строгого кроя",
+    "price": "$153",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20198025.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/29/72/60/21297260_53380706_480.jpg",
+    "label": "Marine Serre",
+    "name": "спортивные брюки из органического хлопка",
+    "price": "$199",
+    "url": "https://www.farfetch.com/kz/shopping/women/marine-serre--item-21297260.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/52/50/58/23525058_53505241_480.jpg",
+    "label": "TWINSET",
+    "name": "расклешенные брюки в технике кроше",
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/women/twinset--item-23525058.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/30/63/62/24306362_54339333_480.jpg",
+    "label": "Elisabetta Franchi",
+    "name": "креповые брюки с принтом",
+    "price": "$470",
+    "url": "https://www.farfetch.com/kz/shopping/women/elisabetta-franchi--item-24306362.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/19/80/48/20198048_50275005_480.jpg",
+    "label": "TOTEME",
+    "name": "брюки строгого кроя со складками",
+    "price": "$177",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20198048.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/40/51/21684051_52126309_480.jpg",
+    "label": "Acne Studios",
+    "name": "прямые брюки с нашивкой-логотипом",
+    "price": "$322",
+    "url": "https://www.farfetch.com/kz/shopping/women/acne-studios--item-21684051.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/61/92/29/19619229_44143890_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "широкие брюки с завышенной талией",
+    "price": "$140",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld--item-19619229.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/68/91/17/22689117_52976365_480.jpg",
+    "label": "GANNI",
+    "name": "брюки в клетку гингем",
+    "price": "$218",
+    "url": "https://www.farfetch.com/kz/shopping/women/ganni--item-22689117.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/23/89/99/14238999_20160049_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "брюки прямого кроя с леопардовым принтом",
+    "price": "$1,795",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-14238999.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/37/63/09/17376309_37937965_480.jpg",
+    "label": "The Frankie Shop",
+    "name": "брюки Gelso с завышенной талией",
+    "price": "$209",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-frankie-shop-gelso-item-17376309.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/22/61/21612261_52313884_480.jpg",
+    "label": "Diesel",
+    "name": "спортивные брюки P-Martyn",
+    "price": "$174",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-p-martyn-item-21612261.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/48/31/22154831_51909831_480.jpg",
+    "label": "ETRO",
+    "name": "кюлоты с цветочным принтом",
+    "price": "$372",
+    "url": "https://www.farfetch.com/kz/shopping/women/etro--item-22154831.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/71/07/10/22710710_53076480_480.jpg",
+    "label": "Alexander Wang",
+    "name": "спортивные брюки с логотипом",
+    "price": "$201",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-wang--item-22710710.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/05/75/23600575_54413041_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "брюки в клетку тартан",
+    "price": "$1,299",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23600575.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/23/52/23602352_54235951_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "кружевные брюки широкого кроя",
+    "price": "$1,994",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23602352.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/11/41/40/20114140_53536857_480.jpg",
+    "label": "Balenciaga",
+    "name": "спортивные брюки 3B Sports Icon",
+    "price": "$2,592",
+    "url": "https://www.farfetch.com/kz/shopping/women/balenciaga-3b-sports-icon-item-20114140.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/84/59/21468459_52399144_480.jpg",
+    "label": "SANDRO",
+    "name": "брюки палаццо с завышенной талией",
+    "price": "$290",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21468459.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/46/64/57/20466457_50447881_480.jpg",
+    "label": "TOM FORD",
+    "name": "прямые шелковые брюки с завышенной талией",
+    "price": "$690",
+    "url": "https://www.farfetch.com/kz/shopping/women/tom-ford--item-20466457.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/66/13/23/17661323_5c1b2e60-c4f4-46dd-8ea7-0b1fea81424d_480.jpg",
+    "label": "Mugler",
+    "name": "легинсы с прозрачными вставками",
+    "price": "$400",
+    "url": "https://www.farfetch.com/kz/shopping/women/mugler--item-17661323.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/52/02/19595202_45036417_480.jpg",
+    "label": "AMI Paris",
+    "name": "спортивные брюки с монограммой Ami de Coeur",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-19595202.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/64/30/21686430_51935092_480.jpg",
+    "label": "Diesel",
+    "name": "кожаные брюки L-Stellar",
+    "price": "$409",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-l-stellar-item-21686430.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/54/17/31/22541731_52522325_480.jpg",
+    "label": "Elisabetta Franchi",
+    "name": "креповые брюки палаццо",
+    "price": "$222",
+    "url": "https://www.farfetch.com/kz/shopping/women/elisabetta-franchi--item-22541731.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/18/23/20/22182320_52868975_480.jpg",
+    "label": "Maje",
+    "name": "трикотажные брюки с цветочной аппликацией",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22182320.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/42/84/32/22428432_52414315_480.jpg",
+    "label": "Elisabetta Franchi",
+    "name": "широкие брюки со складками и логотипом",
+    "price": "$437",
+    "url": "https://www.farfetch.com/kz/shopping/women/elisabetta-franchi--item-22428432.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/34/03/70/21340370_52422177_480.jpg",
+    "label": "TOM FORD",
+    "name": "легинсы Logoed с логотипом",
+    "price": "$367",
+    "url": "https://www.farfetch.com/kz/shopping/women/tom-ford-logoed-item-21340370.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/68/60/62/22686062_53672493_480.jpg",
+    "label": "Maje",
+    "name": "твидовые брюки широкого кроя",
+    "price": "$450",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22686062.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/37/48/55/17374855_37345670_480.jpg",
+    "label": "The Frankie Shop",
+    "name": "укороченные брюки Bea строгого кроя",
+    "price": "$222",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-frankie-shop-bea-item-17374855.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/04/48/14/22044814_51882737_480.jpg",
+    "label": "b+ab",
+    "name": "расклешенные брюки",
+    "price": "$40",
+    "url": "https://www.farfetch.com/kz/shopping/women/bab--item-22044814.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/19/70/47/20197047_50284878_480.jpg",
+    "label": "TOTEME",
+    "name": "зауженные брюки карго с завышенной талией",
+    "price": "$145",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20197047.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/83/33/22118333_52296045_480.jpg",
+    "label": "Maje",
+    "name": "твидовые брюки прямого кроя",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22118333.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/83/38/22118338_52279352_480.jpg",
+    "label": "Maje",
+    "name": "твидовые брюки с цепочками",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22118338.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/24/41/27/21244127_51204498_480.jpg",
+    "label": "KHAITE",
+    "name": "широкие брюки Teyana",
+    "price": "$785",
+    "url": "https://www.farfetch.com/kz/shopping/women/khaite-teyana-item-21244127.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/22/02/67/92/22026792_52540004_480.jpg",
     "label": "SANDRO",
-    "name": "floral crochet trousers",
-    "price": "$325"
+    "name": "брюки в технике кроше",
+    "price": "$325",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-22026792.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/91/26/09/22912609_53112727_480.jpg",
-    "label": "Diesel",
-    "name": "спортивные брюки P-Wild с завышенной талией",
-    "price": "$174"
+    "image": "https://cdn-images.farfetch-contents.com/21/60/85/53/21608553_52354376_480.jpg",
+    "label": "PINKO",
+    "name": "укороченные брюки с завышенной талией",
+    "price": "$151",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21608553.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/05/51/33/22055133_52758112_480.jpg",
-    "label": "Dolce & Gabbana",
-    "name": "зауженные брюки с цветочным принтом",
-    "price": "$1,195"
+    "image": "https://cdn-images.farfetch-contents.com/18/65/53/04/18655304_40465764_480.jpg",
+    "label": "SPANX",
+    "name": "легинсы из искусственной кожи",
+    "price": "$143",
+    "url": "https://www.farfetch.com/kz/shopping/women/spanx--item-18655304.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/72/57/70/23725770_53883758_480.jpg",
-    "label": "Asceno",
-    "name": "прямые брюки Isola средней посадки",
-    "price": "$339"
+    "image": "https://cdn-images.farfetch-contents.com/23/08/93/97/23089397_53293565_480.jpg",
+    "label": "b+ab",
+    "name": "комплект из топа и брюк со складками",
+    "price": "$185",
+    "url": "https://www.farfetch.com/kz/shopping/women/bab--item-23089397.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/34/65/82/23346582_53857397_480.jpg",
+    "label": "adidas",
+    "name": "спортивные брюки Firebird",
+    "price": "$123",
+    "url": "https://www.farfetch.com/kz/shopping/women/adidas-firebird-item-23346582.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/72/25/00/16722500_38256734_480.jpg",
+    "label": "Acne Studios",
+    "name": "спортивные брюки с нашивками",
+    "price": "$272",
+    "url": "https://www.farfetch.com/kz/shopping/women/acne-studios--item-16722500.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/94/58/96/20945896_51193012_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "спортивные брюки Runner с логотипом",
+    "price": "$205",
+    "url": "https://www.farfetch.com/kz/shopping/women/sporty-rich-runner-item-20945896.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/15/58/50/20155850_50491264_480.jpg",
+    "label": "Acne Studios",
+    "name": "спортивные брюки с эффектом потертости",
+    "price": "$322",
+    "url": "https://www.farfetch.com/kz/shopping/women/acne-studios--item-20155850.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/33/10/10/22331010_52245920_480.jpg",
+    "label": "adidas",
+    "name": "брюки чинос с декоративной строчкой",
+    "price": "$51",
+    "url": "https://www.farfetch.com/kz/shopping/women/adidas--item-22331010.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/92/38/21469238_52144082_480.jpg",
+    "label": "SANDRO",
+    "name": "брюки палаццо с декоративными пуговицами",
+    "price": "$315",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21469238.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/67/29/94/18672994_40395756_480.jpg",
+    "label": "Jacquemus",
+    "name": "спортивные брюки Le Jogging Jacquemus",
+    "price": "$174",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-le-jogging-jacquemus-item-18672994.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/40/56/21684056_52129735_480.jpg",
+    "label": "Acne Studios",
+    "name": "прямые брюки с нашивкой-логотипом",
+    "price": "$322",
+    "url": "https://www.farfetch.com/kz/shopping/women/acne-studios--item-21684056.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/48/46/70/22484670_52377677_480.jpg",
+    "label": "Jil Sander",
+    "name": "широкие брюки с завышенной талией",
+    "price": "$963",
+    "url": "https://www.farfetch.com/kz/shopping/women/jil-sander--item-22484670.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/70/13/23797013_53768226_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "брюки палаццо Halliday с цветочным принтом",
+    "price": "$505",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-halliday-item-23797013.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/87/90/25/23879025_53990147_480.jpg",
+    "label": "Baruni",
+    "name": "шифоновый комплект Ashtar с брюками",
+    "price": "$388",
+    "url": "https://www.farfetch.com/kz/shopping/women/baruni-ashtar-item-23879025.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/24/35/22872435_54701904_480.jpg",
+    "label": "The Frankie Shop",
+    "name": "брюки Piper",
+    "price": "$259",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-frankie-shop-piper-item-22872435.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/84/95/68/22849568_53058506_480.jpg",
+    "label": "Elisabetta Franchi",
+    "name": "расклешенные брюки с тиснеными пуговицами",
+    "price": "$318",
+    "url": "https://www.farfetch.com/kz/shopping/women/elisabetta-franchi--item-22849568.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/98/57/05/23985705_54622326_480.jpg",
+    "label": "Saint Laurent",
+    "name": "брюки широкого кроя из органического хлопка",
+    "price": "$2,890",
+    "url": "https://www.farfetch.com/kz/shopping/women/saint-laurent--item-23985705.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/48/75/24/20487524_50518169_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "брюки с эластичным поясом и логотипом",
+    "price": "$97",
+    "url": "https://www.farfetch.com/kz/shopping/women/sporty-rich--item-20487524.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/67/80/61/21678061_51980840_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "шелковые брюки с узором Toile Iconographe",
+    "price": "$1,360",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani-toile-iconographe-item-21678061.aspx"
   }
 ]

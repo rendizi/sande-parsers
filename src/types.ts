@@ -3,4 +3,10 @@ export interface Product{
     price: string 
     label: string 
     image: string 
+    url: string 
+}
+
+export interface MagazResponse{
+    type: string 
+    clothes: Product[]
 }

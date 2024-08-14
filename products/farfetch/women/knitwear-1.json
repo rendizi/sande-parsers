@@ -1,218 +1,1346 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/17/95/98/57/17959857_40036973_480.jpg",
-    "label": "AMI Paris",
-    "name": "шерстяной джемпер с логотипом",
-    "price": "$377"
+    "image": "https://cdn-images.farfetch-contents.com/19/50/54/08/19505408_43822781_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "джемпер Juliana фактурной вязки",
+    "price": "$215",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren-juliana-item-19505408.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/16/46/89/84/16468984_31997489_480.jpg",
-    "label": "Burberry",
-    "name": "кардиган в клетку Vintage Check",
-    "price": "$1,180"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/27/81/01/24278101_54373723_480.jpg",
-    "label": "Gucci",
-    "name": "кардиган с жаккардовым логотипом",
-    "price": "$1,351"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/20/83/48/20208348_50583151_480.jpg",
-    "label": "SANDRO",
-    "name": "платье мини в рубчик",
-    "price": "$204"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/51/58/35/24515835_54597923_480.jpg",
-    "label": "Saint Laurent",
-    "name": "трикотажная рубашка поло",
-    "price": "$988"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/18/63/32/22186332_52823050_480.jpg",
-    "label": "SANDRO",
-    "name": "кардиган в рубчик с декорированными пуговицами",
-    "price": "$170"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/11/82/62/22118262_52862018_480.jpg",
-    "label": "Maje",
-    "name": "комплект из топа и кардигана вязки интарсия",
-    "price": "$480"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/59/50/63/19595063_43860394_480.jpg",
-    "label": "AMI Paris",
-    "name": "кардиган с монограммой Ami de Coeur",
-    "price": "$301"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/26/68/77/24266877_54249277_480.jpg",
-    "label": "Oscar de la Renta",
-    "name": "свитер с анималистичным принтом",
-    "price": "$2,365"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/82/08/67/21820867_48163517_480.jpg",
-    "label": "AMI Paris",
-    "name": "шерстяной кардиган с монограммой Ami de Coeur",
-    "price": "$231"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/11/82/67/22118267_52891071_480.jpg",
-    "label": "Maje",
-    "name": "трикотажный топ в полоску",
-    "price": "$220"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/15/38/35/22153835_51906537_480.jpg",
-    "label": "ETRO",
-    "name": "джемпер с цветочным принтом",
-    "price": "$1,215"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/42/55/85/22425585_52323968_480.jpg",
-    "label": "ETRO",
-    "name": "платье макси с цветочным принтом",
-    "price": "$1,928"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/44/55/17/23445517_53604977_480.jpg",
-    "label": "Valentino Garavani",
-    "name": "топ в полоску",
-    "price": "$1,594"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/34/75/31/24347531_54498761_480.jpg",
-    "label": "Gucci",
-    "name": "футболка из шерсти с отделкой Web",
-    "price": "$1,027"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/61/42/22/21614222_52521787_480.jpg",
-    "label": "PINKO",
-    "name": "кардиган с контрастным логотипом Love Birds",
-    "price": "$297"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/59/78/32/22597832_54452713_480.jpg",
-    "label": "Valentino Garavani",
-    "name": "рубашка поло с полосками",
-    "price": "$2,230"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/12/89/70/20128970_45361085_480.jpg",
-    "label": "ZIMMERMANN",
-    "name": "трикотажное платье без рукавов",
-    "price": "$1,087"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/16/38/79/93/16387993_31612778_480.jpg",
-    "label": "MISBHV",
-    "name": "джемпер с воротником-воронкой и логотипом",
-    "price": "$107"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/55/36/02/22553602_53112519_480.jpg",
-    "label": "Diesel",
-    "name": "укороченный топ M-Bletilla в рубчик",
-    "price": "$309"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/99/29/07/21992907_52551493_480.jpg",
-    "label": "Maje",
-    "name": "кардиган с контрастной отделкой",
-    "price": "$480"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/03/11/67/24031167_54235682_480.jpg",
-    "label": "Gucci",
-    "name": "кардиган с жаккардовым логотипом",
-    "price": "$1,351"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/86/38/76/22863876_53121961_480.jpg",
-    "label": "b+ab",
-    "name": "кардиган с цветочной вышивкой",
-    "price": "$125"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/44/45/34/23444534_53630530_480.jpg",
-    "label": "Valentino Garavani",
-    "name": "кардиган на пуговицах с логотипом VLogo Signature",
-    "price": "$1,534"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/37/05/20/22370520_52397124_480.jpg",
-    "label": "Thom Browne",
-    "name": "трикотажный топ с цветочным принтом",
-    "price": "$1,458"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/28/86/46/24288646_54366835_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/68/88/08/23688808_53845268_480.jpg",
     "label": "Brunello Cucinelli",
-    "name": "топ рыхлой вязки с пайетками",
-    "price": "$3,608"
+    "name": "кардиган на молнии",
+    "price": "$7,555",
+    "url": "https://www.farfetch.com/kz/shopping/women/brunello-cucinelli--item-23688808.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/44/45/38/23444538_53604999_480.jpg",
-    "label": "Valentino Garavani",
-    "name": "джемпер в полоску",
-    "price": "$1,670"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/18/58/24/96/18582496_40240679_480.jpg",
-    "label": "SANDRO",
-    "name": "джемпер Bridget с V-образным вырезом",
-    "price": "$225"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/62/27/17/22622717_52690161_480.jpg",
-    "label": "Cult Gaia",
-    "name": "платье миди Andreas в рубчик",
-    "price": "$373"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/72/56/87/23725687_54365497_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/24/26/04/42/24260442_54411102_480.jpg",
     "label": "Gucci",
-    "name": "рубашка поло в рубчик",
-    "price": "$1,685"
+    "name": "кардиган с кристаллами",
+    "price": "$2,537",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci--item-24260442.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/53/17/66/22531766_52517298_480.jpg",
-    "label": "Jacquemus",
-    "name": "топ Le Haut с логотипом",
-    "price": "$440"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/73/01/91/22730191_52976499_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/02/94/43/22029443_52729499_480.jpg",
     "label": "GANNI",
-    "name": "шерстяной кардиган в полоску",
-    "price": "$366"
+    "name": "джемпер вязки интарсия с логотипом",
+    "price": "$103",
+    "url": "https://www.farfetch.com/kz/shopping/women/ganni--item-22029443.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/85/85/27/22858527_53049664_480.jpg",
+    "label": "sacai",
+    "name": "многослойный топ без рукавов",
+    "price": "$1,115",
+    "url": "https://www.farfetch.com/kz/shopping/women/sacai--item-22858527.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/50/75/19595075_43859573_480.jpg",
+    "label": "AMI Paris",
+    "name": "топ с V-образным вырезом и монограммой Ami de Coeur",
+    "price": "$202",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-v-ami-de-coeur-item-19595075.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/81/91/30/23819130_54211145_480.jpg",
+    "label": "ETRO",
+    "name": "жаккардовый кардиган с узором пейсли",
+    "price": "$1,956",
+    "url": "https://www.farfetch.com/kz/shopping/women/etro--item-23819130.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/71/32/39/20713239_50657197_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "cable-knit wool-cashmere jumper",
+    "price": "$209",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren-cable-knit-wool-cashmere-jumper-item-20713239.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/11/24/13/21112413_53124852_480.jpg",
+    "label": "Diesel",
+    "name": "топ-бандо M-Clarksvillex",
+    "price": "$133",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-m-clarksvillex-item-21112413.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/56/15/60/17561560_36802651_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "кардиган с V-образным вырезом",
+    "price": "$174",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld-v-item-17561560.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/10/28/23731028_53941602_480.jpg",
+    "label": "Maje",
+    "name": "кардиган с V-образным вырезом и тисненым логотипом",
+    "price": "$267",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje-v-item-23731028.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/19/59/26/93/19592693_43858827_480.jpg",
     "label": "AMI Paris",
     "name": "жилет с логотипом",
-    "price": "$216"
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-19592693.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/71/67/09/22716709_52789925_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/24/39/83/14/24398314_54612068_480.jpg",
+    "label": "Burberry",
+    "name": "кардиган в клетку",
+    "price": "$1,428",
+    "url": "https://www.farfetch.com/kz/shopping/women/burberry--item-24398314.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/31/59/01/24315901_54389078_480.jpg",
+    "label": "Cult Gaia",
+    "name": "кардиган Galina",
+    "price": "$429",
+    "url": "https://www.farfetch.com/kz/shopping/women/cult-gaia-galina-item-24315901.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/13/45/17961345_40017051_480.jpg",
+    "label": "AMI Paris",
+    "name": "жилет вязки интарсия с логотипом",
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-17961345.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/58/33/53/18583353_40242841_480.jpg",
+    "label": "SANDRO",
+    "name": "кардиган в двух тонах",
+    "price": "$278",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-18583353.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/82/07/23748207_54320794_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка поло с отделкой в полоску",
+    "price": "$470",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-23748207.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/12/95/72/24129572_54276901_480.jpg",
     "label": "Jacquemus",
-    "name": "трикотажное платье мини La Robe Sierra",
-    "price": "$464"
+    "name": "джемпер La Maille Jacquemus",
+    "price": "$613",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-maille-jacquemus-item-24129572.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/05/86/17960586_38415099_480.jpg",
+    "label": "AMI Paris",
+    "name": "полосатый джемпер с монограммой Ami de Coeur",
+    "price": "$279",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-17960586.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/58/90/31/21589031_51675602_480.jpg",
+    "label": "CAVIA",
+    "name": "джемпер Franco крупной вязки",
+    "price": "$436",
+    "url": "https://www.farfetch.com/kz/shopping/women/cavia-franco-item-21589031.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/45/97/79/22459779_52533285_480.jpg",
+    "label": "Proenza Schouler",
+    "name": "трикотажное платье макси Lara",
+    "price": "$677",
+    "url": "https://www.farfetch.com/kz/shopping/women/proenza-schouler-lara-item-22459779.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/81/97/51/23819751_53938873_480.jpg",
+    "label": "Courrèges",
+    "name": "джемпер в рубчик с вышитым логотипом",
+    "price": "$472",
+    "url": "https://www.farfetch.com/kz/shopping/women/courreges--item-23819751.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/67/21820867_48163517_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной кардиган с монограммой Ami de Coeur",
+    "price": "$248",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21820867.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/37/64/23/24376423_54603970_480.jpg",
+    "label": "Jacquemus",
+    "name": "топ Le Debardeur",
+    "price": "$364",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-le-debardeur-item-24376423.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/82/06/22118206_53204968_480.jpg",
+    "label": "SANDRO",
+    "name": "трикотажный топ с контрастной отделкой",
+    "price": "$170",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-22118206.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/32/07/00/18320700_39854352_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "кашемировый джемпер рыхлой вязки",
+    "price": "$2,749",
+    "url": "https://www.farfetch.com/kz/shopping/women/brunello-cucinelli--item-18320700.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/84/09/23498409_53614818_480.jpg",
+    "label": "Versace",
+    "name": "кардиган La Coupe des Dieux",
+    "price": "$1,575",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-la-coupe-des-dieux-item-23498409.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/18/07/07/24180707_54415124_480.jpg",
+    "label": "Molly Goddard",
+    "name": "кардиган Charlotte",
+    "price": "$824",
+    "url": "https://www.farfetch.com/kz/shopping/women/molly-goddard-charlotte-item-24180707.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/34/07/05/21340705_51481220_480.jpg",
+    "label": "CAVIA",
+    "name": "платье фактурной вязки с эффектом потертости",
+    "price": "$579",
+    "url": "https://www.farfetch.com/kz/shopping/women/cavia--item-21340705.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/82/67/22118267_52891071_480.jpg",
+    "label": "Maje",
+    "name": "трикотажный топ в полоску",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22118267.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/80/28/22158028_52422498_480.jpg",
+    "label": "PINKO",
+    "name": "топ в рубчик с вырезами",
+    "price": "$139",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-22158028.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/39/17/80/24391780_54485997_480.jpg",
+    "label": "Ferragamo",
+    "name": "кашемировый джемпер с шарфом",
+    "price": "$1,626",
+    "url": "https://www.farfetch.com/kz/shopping/women/ferragamo--item-24391780.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/19/80/65/20198065_50286026_480.jpg",
+    "label": "TOTEME",
+    "name": "трикотажный топ в рубчик с баской",
+    "price": "$129",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20198065.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/78/82/21467882_52293014_480.jpg",
+    "label": "Maje",
+    "name": "укороченный кардиган на пуговицах",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21467882.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/93/54/04/20935404_51073442_480.jpg",
+    "label": "b+ab",
+    "name": "джемпер рыхлой вязки с V-образным вырезом",
+    "price": "$80",
+    "url": "https://www.farfetch.com/kz/shopping/women/bab-v-item-20935404.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/89/22/96/23892296_54183569_480.jpg",
+    "label": "KHAITE",
+    "name": "кардиган The Nora с короткими рукавами",
+    "price": "$1,435",
+    "url": "https://www.farfetch.com/kz/shopping/women/khaite-the-nora-item-23892296.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/24/96/93/20249693_51078842_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с монограммой Ami de Coeur",
+    "price": "$398",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-20249693.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/91/39/62/20913962_50909199_480.jpg",
+    "label": "LIU JO",
+    "name": "джемпер с эффектом металлик",
+    "price": "$103",
+    "url": "https://www.farfetch.com/kz/shopping/women/liu-jo--item-20913962.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/82/33/43/23823343_53999815_480.jpg",
+    "label": "SANDRO",
+    "name": "топ в рубчик",
+    "price": "$180",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-23823343.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/09/85/23490985_53925602_480.jpg",
+    "label": "Versace",
+    "name": "кардиган с V-образным вырезом и декором Medusa",
+    "price": "$1,549",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-v-medusa-item-23490985.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/42/97/62/23429762_53562020_480.jpg",
+    "label": "Reformation",
+    "name": "трикотажное платье мини Defina",
+    "price": "$214",
+    "url": "https://www.farfetch.com/kz/shopping/women/reformation-defina-item-23429762.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/07/36/21820736_48164655_480.jpg",
+    "label": "AMI Paris",
+    "name": "жилет из смесовой вирджинской шерсти в мелкую точку",
+    "price": "$152",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-21820736.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/82/78/22118278_52690102_480.jpg",
+    "label": "Maje",
+    "name": "топ в рубчик с вырезом в форме сердца",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22118278.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/93/45/21469345_52374057_480.jpg",
+    "label": "Maje",
+    "name": "укороченный жакет в рубчик",
+    "price": "$410",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21469345.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/40/29/35/24402935_54412648_480.jpg",
+    "label": "Jacquemus",
+    "name": "джемпер в рубчик",
+    "price": "$582",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus--item-24402935.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/43/75/22024375_52365444_480.jpg",
+    "label": "TOTEME",
+    "name": "шерстяной джемпер",
+    "price": "$231",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-22024375.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/85/03/21468503_52279556_480.jpg",
+    "label": "Maje",
+    "name": "кардиган с эффектом металлик",
+    "price": "$560",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21468503.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/62/21820862_52440105_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной кардиган с монограммой Ami de Coeur",
+    "price": "$316",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21820862.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/69/57/95/19695795_51601326_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло в рубчик с длинными рукавами",
+    "price": "$201",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren--item-19695795.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/89/12/44/23891244_54040663_480.jpg",
+    "label": "Self-Portrait",
+    "name": "топ в рубчик с кристаллами",
+    "price": "$199",
+    "url": "https://www.farfetch.com/kz/shopping/women/self-portrait--item-23891244.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/20/47/84/24204784_54324355_480.jpg",
+    "label": "Gucci",
+    "name": "шерстяной джемпер с декором GG",
+    "price": "$1,782",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci-gg-item-24204784.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/37/05/20/22370520_52397124_480.jpg",
+    "label": "Thom Browne",
+    "name": "трикотажный топ с цветочным принтом",
+    "price": "$1,458",
+    "url": "https://www.farfetch.com/kz/shopping/women/thom-browne--item-22370520.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/37/04/96/22370496_52402926_480.jpg",
+    "label": "Thom Browne",
+    "name": "кашемировый кардиган вязки интарсия",
+    "price": "$2,754",
+    "url": "https://www.farfetch.com/kz/shopping/women/thom-browne--item-22370496.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/11/84/20251184_50738963_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной джемпер вязки интарсия с логотипом",
+    "price": "$398",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-20251184.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/15/84/23601584_54235865_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "кардиган с вышитым логотипом",
+    "price": "$1,892",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23601584.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/76/49/21717649_52550114_480.jpg",
+    "label": "SANDRO",
+    "name": "платье макси со стразами",
+    "price": "$500",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21717649.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/26/68/97/24266897_54250113_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "кардиган с принтом Chrysanthemum",
+    "price": "$2,365",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta-chrysanthemum-item-24266897.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/85/73/41/20857341_51126370_480.jpg",
+    "label": "TOTEME",
+    "name": "шерстяной джемпер в рубчик",
+    "price": "$209",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20857341.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/92/19/21469219_52915864_480.jpg",
+    "label": "SANDRO",
+    "name": "кардиган на пуговицах с вышитым логотипом",
+    "price": "$470",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21469219.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/36/93/23733693_53829504_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "жаккардовый кардиган с цветочным узором",
+    "price": "$3,524",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-23733693.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/11/87/20251187_51864264_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной джемпер вязки интарсия с логотипом",
+    "price": "$419",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-20251187.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/78/21820878_48164681_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер в горизонтальную полоску",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-21820878.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/17/78/14/24177814_54231584_480.jpg",
+    "label": "Jacquemus",
+    "name": "топ La Maille с V-образным вырезом",
+    "price": "$297",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-maille-v-item-24177814.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/83/35/22708335_52924038_480.jpg",
+    "label": "Versace",
+    "name": "топ 1978 Re-Edition Logo",
+    "price": "$362",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-1978-re-edition-logo-item-22708335.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/24/20/98/24242098_54319000_480.jpg",
+    "label": "Diesel",
+    "name": "M-Clarksvillex ribbed top",
+    "price": "$204",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-m-clarksvillex-ribbed-top-item-24242098.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/49/15/58/19491558_43608359_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "джемпер фактурной вязки с вышитым логотипом",
+    "price": "$156",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren--item-19491558.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/24/03/23602403_54236094_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "укороченный топ с вышитым логотипом",
+    "price": "$995",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23602403.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/55/54/71/19555471_43671570_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "джемпер фактурной вязки с логотипом Polo Pony",
+    "price": "$215",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren-polo-pony-item-19555471.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/95/63/56/22956356_53441679_480.jpg",
+    "label": "Patou",
+    "name": "платье мини с двойными бретелями",
+    "price": "$506",
+    "url": "https://www.farfetch.com/kz/shopping/women/patou--item-22956356.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/55/18/23445518_53624257_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "джемпер в полоску",
+    "price": "$1,246",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani--item-23445518.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/24/16/23602416_53690071_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "кардиган в горох",
+    "price": "$1,580",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23602416.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/45/34/23444534_53630530_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "кардиган на пуговицах с логотипом VLogo Signature",
+    "price": "$1,534",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani-vlogo-signature-item-23444534.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/94/41/22029441_52640994_480.jpg",
+    "label": "GANNI",
+    "name": "вязаный жилет с логотипом",
+    "price": "$165",
+    "url": "https://www.farfetch.com/kz/shopping/women/ganni--item-22029441.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/50/76/19595076_44717943_480.jpg",
+    "label": "AMI Paris",
+    "name": "трикотажный жилет с вышитым логотипом",
+    "price": "$202",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-19595076.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/24/42/23602442_54238429_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "свитер с вышитым логотипом",
+    "price": "$1,427",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23602442.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/82/40/57/23824057_54184818_480.jpg",
+    "label": "SANDRO",
+    "name": "джемпер Nimbus с вышитым логотипом",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro-nimbus-item-23824057.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/03/17/23790317_54430641_480.jpg",
+    "label": "Acne Studios",
+    "name": "свитер вязки интарсия",
+    "price": "$594",
+    "url": "https://www.farfetch.com/kz/shopping/women/acne-studios--item-23790317.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/43/16/22024316_51991833_480.jpg",
+    "label": "TOTEME",
+    "name": "фактурный джемпер с U-образным вырезом",
+    "price": "$231",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme-u-item-22024316.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/83/01/22118301_52840391_480.jpg",
+    "label": "Maje",
+    "name": "боди в рубчик",
+    "price": "$260",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22118301.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/94/37/22029437_52641868_480.jpg",
+    "label": "GANNI",
+    "name": "кардиган с V-образным вырезом и логотипом",
+    "price": "$181",
+    "url": "https://www.farfetch.com/kz/shopping/women/ganni-v-item-22029437.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/76/24/30/23762430_53745843_480.jpg",
+    "label": "Retrofete",
+    "name": "платье мини Ellison в рубчик",
+    "price": "$354",
+    "url": "https://www.farfetch.com/kz/shopping/women/retrofete-ellison-item-23762430.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/52/50/58/23525058_53505241_480.jpg",
+    "label": "TWINSET",
+    "name": "расклешенные брюки в технике кроше",
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/women/twinset--item-23525058.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/36/03/14/20360314_52972681_480.jpg",
+    "label": "Proenza Schouler",
+    "name": "джемпер Patti в стиле колор-блок",
+    "price": "$412",
+    "url": "https://www.farfetch.com/kz/shopping/women/proenza-schouler-patti-item-20360314.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/58/21819758_48164026_480.jpg",
+    "label": "AMI Paris",
+    "name": "кардиган с монограммой Ami de Coeur",
+    "price": "$215",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819758.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/03/17/52/24031752_54214827_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "кардиган с пайетками",
+    "price": "$2,069",
+    "url": "https://www.farfetch.com/kz/shopping/women/brunello-cucinelli--item-24031752.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/27/81/01/24278101_54373723_480.jpg",
+    "label": "Gucci",
+    "name": "кардиган с жаккардовым логотипом",
+    "price": "$1,351",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci--item-24278101.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/99/09/70/21990970_52304455_480.jpg",
+    "label": "Maje",
+    "name": "жаккардовый джемпер с короткими рукавами",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21990970.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/99/29/07/21992907_52551493_480.jpg",
+    "label": "Maje",
+    "name": "кардиган с контрастной отделкой",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21992907.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/56/87/23725687_54365497_480.jpg",
+    "label": "Gucci",
+    "name": "рубашка поло в рубчик",
+    "price": "$1,685",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci--item-23725687.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/83/45/22118345_52690192_480.jpg",
+    "label": "Maje",
+    "name": "трикотажное платье миди с вырезом",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22118345.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/91/60/39/20916039_50911221_480.jpg",
+    "label": "LIU JO",
+    "name": "джемпер с эффектом металлик",
+    "price": "$104",
+    "url": "https://www.farfetch.com/kz/shopping/women/liu-jo--item-20916039.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/22/46/96/20224696_50560240_480.jpg",
+    "label": "Alanui",
+    "name": "кардиган Mysteries в технике пэчворк",
+    "price": "$2,573",
+    "url": "https://www.farfetch.com/kz/shopping/women/alanui-mysteries-item-20224696.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/08/46/19/24084619_54252883_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "свитер в клетку",
+    "price": "$1,364",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-mcqueen--item-24084619.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/09/69/96/20096996_50103657_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "джемпер Kimberly Polo Pony фактурной вязки",
+    "price": "$223",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren-kimberly-polo-pony-item-20096996.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/15/22/23/17152223_45038562_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с вышитой монограммой Ami De Coeur",
+    "price": "$266",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-17152223.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/37/10/23973710_54176053_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с монограммой Ami de Coeur",
+    "price": "$501",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-23973710.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/28/86/46/24288646_54366835_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "топ рыхлой вязки с пайетками",
+    "price": "$3,608",
+    "url": "https://www.farfetch.com/kz/shopping/women/brunello-cucinelli--item-24288646.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/75/58/23497558_53577071_480.jpg",
+    "label": "Versace",
+    "name": "джемпер Medusa",
+    "price": "$1,012",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-medusa-item-23497558.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/83/14/22118314_52373641_480.jpg",
+    "label": "Maje",
+    "name": "топ с воротником поло и узором шеврон",
+    "price": "$330",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22118314.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/61/21820861_52437020_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной кардиган с монограммой Ami de Coeur",
+    "price": "$476",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21820861.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/98/21819798_52629586_480.jpg",
+    "label": "AMI Paris",
+    "name": "полосатый джемпер с воротником поло",
+    "price": "$252",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-21819798.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/14/85/04/24148504_54229425_480.jpg",
+    "label": "Gucci",
+    "name": "шерстяной джемпер с логотипом",
+    "price": "$1,019",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci--item-24148504.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/01/21819801_49111508_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер в рубчик с отложным воротником",
+    "price": "$317",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-21819801.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/05/61/23730561_53750058_480.jpg",
+    "label": "Maje",
+    "name": "платье в рубчик со вставками",
+    "price": "$204",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23730561.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/41/21/23974121_54135501_480.jpg",
+    "label": "AMI Paris",
+    "name": "свитер с монограммой Ami de Coeur",
+    "price": "$514",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-23974121.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/55/36/02/22553602_53112519_480.jpg",
+    "label": "Diesel",
+    "name": "укороченный топ M-Bletilla в рубчик",
+    "price": "$309",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-m-bletilla-item-22553602.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/59/78/32/22597832_54452713_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "рубашка поло с полосками",
+    "price": "$2,230",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani--item-22597832.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/24/06/23602406_54510092_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "шерстяной жилет в рубчик",
+    "price": "$1,045",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23602406.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/73/01/91/22730191_52976499_480.jpg",
+    "label": "GANNI",
+    "name": "шерстяной кардиган в полоску",
+    "price": "$366",
+    "url": "https://www.farfetch.com/kz/shopping/women/ganni--item-22730191.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/00/21819800_49109835_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с монограммой Ami-de-Coeur",
+    "price": "$317",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819800.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/46/08/17/24460817_54634166_480.jpg",
+    "label": "Gucci",
+    "name": "кардиган с тисненым логотипом",
+    "price": "$1,887",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci--item-24460817.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/45/02/04/22450204_53582511_480.jpg",
+    "label": "KHAITE",
+    "name": "полосатый джемпер Luphia",
+    "price": "$915",
+    "url": "https://www.farfetch.com/kz/shopping/women/khaite-luphia-item-22450204.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/66/21819766_49110075_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с монограммой Ami De Coeur",
+    "price": "$272",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819766.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/68/21820868_48162900_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной кардиган с монограммой Ami de Coeur",
+    "price": "$248",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21820868.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/68/88/87/23688887_53727496_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "джемпер рыхлой вязки",
+    "price": "$3,186",
+    "url": "https://www.farfetch.com/kz/shopping/women/brunello-cucinelli--item-23688887.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/64/21/25/23642125_53678360_480.jpg",
+    "label": "TWINSET",
+    "name": "трикотажное платье макси",
+    "price": "$227",
+    "url": "https://www.farfetch.com/kz/shopping/women/twinset--item-23642125.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/91/47/22119147_52547773_480.jpg",
+    "label": "Maje",
+    "name": "топ с узором шеврон",
+    "price": "$330",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22119147.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/99/92/23729992_53750088_480.jpg",
+    "label": "Maje",
+    "name": "укороченный топ в полоску",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23729992.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/61/21819761_48164054_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с монограммой Ami De Coeur",
+    "price": "$226",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819761.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/92/35/23749235_53760946_480.jpg",
+    "label": "SANDRO",
+    "name": "юбка в рубчик",
+    "price": "$350",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-23749235.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/11/97/23791197_54311833_480.jpg",
+    "label": "Acne Studios",
+    "name": "джемпер крупной вязки с принтом",
+    "price": "$594",
+    "url": "https://www.farfetch.com/kz/shopping/women/acne-studios--item-23791197.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/16/50/80/22165080_52711938_480.jpg",
+    "label": "Jacquemus",
+    "name": "кардиган La Maille Pralu Longue",
+    "price": "$377",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-maille-pralu-longue-item-22165080.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/77/92/21467792_51575765_480.jpg",
+    "label": "SANDRO",
+    "name": "топ с искусственным жемчугом",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21467792.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/91/95/22119195_52378820_480.jpg",
+    "label": "Maje",
+    "name": "кардиган в рубчик",
+    "price": "$330",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22119195.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/85/00/21468500_52277254_480.jpg",
+    "label": "Maje",
+    "name": "кардиган в рубчик с фестонами",
+    "price": "$330",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21468500.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/80/85/12/20808512_50749340_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "джемпер фактурной вязки с V-образным вырезом",
+    "price": "$201",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren-v-item-20808512.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/99/41/23729941_53818890_480.jpg",
+    "label": "Maje",
+    "name": "укороченный кардиган",
+    "price": "$267",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23729941.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/20/08/21/00/20082100_51273639_480.jpg",
     "label": "Karl Lagerfeld Jeans",
     "name": "logo-print belted minidress",
-    "price": "$62"
+    "price": "$51",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld-jeans-logo-print-belted-minidress-item-20082100.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/46/00/45/24460045_54596637_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/98/45/61/23984561_54212703_480.jpg",
+    "label": "KHAITE",
+    "name": "вязаный топ в полоску",
+    "price": "$1,036",
+    "url": "https://www.farfetch.com/kz/shopping/women/khaite--item-23984561.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/99/36/73/21993673_52378699_480.jpg",
+    "label": "Maje",
+    "name": "кардиган из смесовой шерсти с контрастной отделкой",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21993673.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/26/78/05/24267805_54250782_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "кардиган с цепочкой",
+    "price": "$2,149",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-24267805.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/89/12/06/23891206_53952377_480.jpg",
+    "label": "Self-Portrait",
+    "name": "платье в рубчик с баской",
+    "price": "$461",
+    "url": "https://www.farfetch.com/kz/shopping/women/self-portrait--item-23891206.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/82/40/44/23824044_54184402_480.jpg",
+    "label": "SANDRO",
+    "name": "боди в рубчик с бисером",
+    "price": "$330",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-23824044.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/51/58/35/24515835_54597923_480.jpg",
+    "label": "Saint Laurent",
+    "name": "трикотажная рубашка поло",
+    "price": "$988",
+    "url": "https://www.farfetch.com/kz/shopping/women/saint-laurent--item-24515835.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/82/62/22118262_52862018_480.jpg",
+    "label": "Maje",
+    "name": "комплект из топа и кардигана вязки интарсия",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22118262.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/26/01/15/22260115_52518687_480.jpg",
+    "label": "Jacquemus",
+    "name": "укороченный кардиган La Maille Pralu",
+    "price": "$213",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-maille-pralu-item-22260115.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/26/68/77/24266877_54249277_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "свитер с анималистичным принтом",
+    "price": "$2,365",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-24266877.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/44/83/19594483_43858374_480.jpg",
+    "label": "AMI Paris",
+    "name": "жилет с логотипом",
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-19594483.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/89/39/88/22893988_53008655_480.jpg",
+    "label": "Jacquemus",
+    "name": "топ Le Haut Bella фактурной вязки",
+    "price": "$155",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-le-haut-bella-item-22893988.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/64/21819764_48165244_480.jpg",
     "label": "AMI Paris",
     "name": "шерстяной джемпер с монограммой Ami de Coeur",
-    "price": "$376"
+    "price": "$182",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819764.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/91/65/22119165_52744112_480.jpg",
+    "label": "Maje",
+    "name": "кардиган с пайетками",
+    "price": "$560",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22119165.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/85/64/70/20856470_51113374_480.jpg",
+    "label": "TOTEME",
+    "name": "джемпер с высоким воротником",
+    "price": "$153",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20856470.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/03/11/67/24031167_54235682_480.jpg",
+    "label": "Gucci",
+    "name": "кардиган с жаккардовым логотипом",
+    "price": "$1,351",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci--item-24031167.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/95/98/06/17959806_42148564_480.jpg",
+    "label": "AMI Paris",
+    "name": "жилет с логотипом",
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-17959806.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/34/75/31/24347531_54498761_480.jpg",
+    "label": "Gucci",
+    "name": "футболка из шерсти с отделкой Web",
+    "price": "$1,027",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci-web-item-24347531.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/85/72/99/20857299_51122442_480.jpg",
+    "label": "TOTEME",
+    "name": "джемпер с круглым вырезом",
+    "price": "$153",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20857299.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/28/46/38/19284638_43944502_480.jpg",
+    "label": "Maje",
+    "name": "платье миди в технике кроше",
+    "price": "$670",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-19284638.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/81/92/23748192_54280438_480.jpg",
+    "label": "SANDRO",
+    "name": "многослойный джемпер",
+    "price": "$430",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-23748192.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/25/94/04/21259404_51226237_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "джемпер с графичным принтом",
+    "price": "$420",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren--item-21259404.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/86/32/93/21863293_52548385_480.jpg",
+    "label": "SANDRO",
+    "name": "трикотажное платье миди",
+    "price": "$315",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21863293.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/82/33/29/23823329_54472011_480.jpg",
+    "label": "SANDRO",
+    "name": "трикотажный топ со съемным воротником",
+    "price": "$350",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-23823329.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/49/16/93/19491693_44882372_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "джемпер с длинными рукавами",
+    "price": "$150",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren--item-19491693.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/37/59/23973759_54135889_480.jpg",
+    "label": "AMI Paris",
+    "name": "свитер с монограммой Ami de Coeur",
+    "price": "$375",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-23973759.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/99/36/90/21993690_52544673_480.jpg",
+    "label": "Maje",
+    "name": "полосатый джемпер крупной вязки",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21993690.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/80/21820880_48165194_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной джемпер с монограммой Ami de Coeur",
+    "price": "$182",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21820880.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/45/38/23444538_53604999_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "джемпер в полоску",
+    "price": "$1,670",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani--item-23444538.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/86/13/54/20861354_50832825_480.jpg",
+    "label": "LEMAIRE",
+    "name": "блузка тонкой вязки",
+    "price": "$125",
+    "url": "https://www.farfetch.com/kz/shopping/women/lemaire--item-20861354.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/11/53/53/24115353_54193922_480.jpg",
+    "label": "Marni",
+    "name": "свитер асимметричного кроя с V-образным вырезом",
+    "price": "$1,023",
+    "url": "https://www.farfetch.com/kz/shopping/women/marni-v-item-24115353.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/50/63/19595063_43860394_480.jpg",
+    "label": "AMI Paris",
+    "name": "кардиган с монограммой Ami de Coeur",
+    "price": "$301",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-19595063.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/74/21/10/22742110_52727340_480.jpg",
+    "label": "GANNI",
+    "name": "шерстяной джемпер в полоску",
+    "price": "$366",
+    "url": "https://www.farfetch.com/kz/shopping/women/ganni--item-22742110.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/52/64/55/21526455_51783704_480.jpg",
+    "label": "SANDRO",
+    "name": "платье в рубчик с эффектом металлик",
+    "price": "$350",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21526455.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/20/52/44/24205244_54258214_480.jpg",
+    "label": "Gucci",
+    "name": "жаккардовый джемпер с узором GG Supreme",
+    "price": "$1,315",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci-gg-supreme-item-24205244.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/56/11/53/19561153_43758426_480.jpg",
+    "label": "Michael Kors",
+    "name": "платье вязки интарсия с монограммой",
+    "price": "$233",
+    "url": "https://www.farfetch.com/kz/shopping/women/michael-kors--item-19561153.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/82/24/90/22822490_52859547_480.jpg",
+    "label": "Gucci",
+    "name": "кардиган с логотипом Interlocking G",
+    "price": "$3,430",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci-interlocking-g-item-22822490.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/22/13/12/24221312_54210756_480.jpg",
+    "label": "GANNI",
+    "name": "джемпер вязки интарсия",
+    "price": "$278",
+    "url": "https://www.farfetch.com/kz/shopping/women/ganni--item-24221312.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/09/16/23720916_53973788_480.jpg",
+    "label": "TOTEME",
+    "name": "кашемировая рубашка",
+    "price": "$731",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-23720916.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/86/49/47/22864947_53121876_480.jpg",
+    "label": "b+ab",
+    "name": "комплект из юбки и кардигана",
+    "price": "$123",
+    "url": "https://www.farfetch.com/kz/shopping/women/bab--item-22864947.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/24/13/23602413_54236423_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "кардиган с логотипом",
+    "price": "$1,925",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23602413.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/91/38/22119138_52870116_480.jpg",
+    "label": "Maje",
+    "name": "топ в рубчик с логотипом",
+    "price": "$290",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22119138.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/24/46/22022446_52427222_480.jpg",
+    "label": "TOTEME",
+    "name": "пальто с приспущенными плечами",
+    "price": "$382",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-22022446.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/84/68/21468468_51943859_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка поло с искусственным мехом",
+    "price": "$230",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21468468.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/98/61/23729861_53749704_480.jpg",
+    "label": "Maje",
+    "name": "рубашка поло с отделкой в технике кроше",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23729861.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/18/73/47/19187347_43493252_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "кардиган с V-образным вырезом и логотипом",
+    "price": "$168",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld-v-item-19187347.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/37/64/13/24376413_54608689_480.jpg",
+    "label": "Jacquemus",
+    "name": "платье La Mini Robe",
+    "price": "$686",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-mini-robe-item-24376413.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/19/70/48/20197048_50360666_480.jpg",
+    "label": "TOTEME",
+    "name": "трикотажный топ на одно плечо",
+    "price": "$97",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20197048.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/63/21819763_48163614_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с монограммой Ami De Coeur",
+    "price": "$189",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819763.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/92/99/23749299_53909038_480.jpg",
+    "label": "SANDRO",
+    "name": "укороченный кардиган с оборками",
+    "price": "$310",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-23749299.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/42/22/21614222_52521787_480.jpg",
+    "label": "PINKO",
+    "name": "кардиган с контрастным логотипом Love Birds",
+    "price": "$275",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko-love-birds-item-21614222.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/22/67/24/24226724_54274808_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "джемпер Blossom",
+    "price": "$1,728",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-mcqueen-blossom-item-24226724.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/60/21819760_52433277_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной джемпер с монограммой Ami de Coeur",
+    "price": "$416",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819760.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/55/17/23445517_53604977_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "топ в полоску",
+    "price": "$1,594",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani--item-23445517.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/37/04/89/22370489_52400319_480.jpg",
+    "label": "Thom Browne",
+    "name": "твидовый кардиган с круглым вырезом",
+    "price": "$2,604",
+    "url": "https://www.farfetch.com/kz/shopping/women/thom-browne--item-22370489.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/58/24/96/18582496_40240679_480.jpg",
+    "label": "SANDRO",
+    "name": "джемпер Bridget с V-образным вырезом",
+    "price": "$225",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro-bridget-v-item-18582496.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/63/21820863_48165050_480.jpg",
+    "label": "AMI Paris",
+    "name": "кардиган с монограммой Ami de Coeur",
+    "price": "$215",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21820863.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/70/87/42/16708742_32856102_480.jpg",
+    "label": "Atu Body Couture",
+    "name": "джемпер на одно плечо с ремешками",
+    "price": "$224",
+    "url": "https://www.farfetch.com/kz/shopping/women/atu-body-couture--item-16708742.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/45/31/23734531_53679395_480.jpg",
+    "label": "Oscar de la Renta",
+    "name": "кардиган с цветочным принтом",
+    "price": "$2,149",
+    "url": "https://www.farfetch.com/kz/shopping/women/oscar-de-la-renta--item-23734531.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/95/98/59/17959859_38599533_480.jpg",
+    "label": "AMI Paris",
+    "name": "полосатый джемпер с монограммой Ami de Coeur",
+    "price": "$279",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-17959859.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/91/97/22119197_52690459_480.jpg",
+    "label": "Maje",
+    "name": "укороченный кардиган в рубчик с оборками",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22119197.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/98/19/40/19981940_50115830_480.jpg",
+    "label": "Marc Jacobs",
+    "name": "топ Icon в рубчик",
+    "price": "$51",
+    "url": "https://www.farfetch.com/kz/shopping/women/marc-jacobs-icon-item-19981940.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/23/47/23772347_54454242_480.jpg",
+    "label": "Maje",
+    "name": "свитер с логотипом",
+    "price": "$288",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23772347.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/38/81/23973881_54137790_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с воротником поло и монограммой Ami De Coeur",
+    "price": "$577",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-23973881.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/03/73/20250373_54928947_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной кардиган с монограммой Ami de Coeur",
+    "price": "$451",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-20250373.aspx"
   }
 ]

@@ -1,146 +1,1346 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/73/72/31/22737231_54168671_480.jpg",
-    "label": "Lacoste",
-    "name": "Ultra Dry logo-appliqué polo shirt",
-    "price": "$130"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/05/38/66/22053866_52887622_480.jpg",
-    "label": "Gucci",
-    "name": "GG jacquard cotton polo shirt",
-    "price": "$1,050"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/29/06/52/24290652_54422936_480.jpg",
-    "label": "AMIRI",
-    "name": "Ma Core Logo polo shirt",
-    "price": "$603"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/57/89/91/21578991_51852375_480.jpg",
-    "label": "Billionaire",
-    "name": "logo-embroidered cotton polo shirt",
-    "price": "$265"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/42/93/95/19429395_43197431_480.jpg",
-    "label": "Kenzo",
-    "name": "logo-patch cotton polo shirt",
-    "price": "$142"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/75/65/62/17756562_39165356_480.jpg",
-    "label": "Vilebrequin",
-    "name": "Palatin cotton polo shirt",
-    "price": "$109"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/73/70/18/23737018_54663050_480.jpg",
-    "label": "Thom Browne",
-    "name": "cotton polo shirt",
-    "price": "$313"
-  },
-  {
     "image": "https://cdn-images.farfetch-contents.com/22/49/67/06/22496706_52813994_480.jpg",
     "label": "Zegna",
-    "name": "cotton polo shirt",
-    "price": "$813"
+    "name": "рубашка поло",
+    "price": "$1,248",
+    "url": "https://www.farfetch.com/kz/shopping/men/zegna--item-22496706.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/19/35/58/24/19355824_42534975_480.jpg",
-    "label": "Saint Laurent",
-    "name": "short-sleeve polo shirt",
-    "price": "$627"
+    "image": "https://cdn-images.farfetch-contents.com/22/05/71/27/22057127_52668565_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "рубашка поло в рубчик",
+    "price": "$1,278",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-22057127.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/55/61/29/23556129_53694399_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло из ткани пике с логотипом",
+    "price": "$152",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-23556129.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/24/01/88/53/24018853_54042128_480.jpg",
     "label": "Marni",
-    "name": "Mixed Stripe Polo Shirt",
-    "price": "$690"
+    "name": "рубашка поло в полоску",
+    "price": "$690",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni--item-24018853.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/25/21/03/20252103_50994393_480.jpg",
-    "label": "Purple Brand",
-    "name": "logo-embossed polo top",
-    "price": "$208"
+    "image": "https://cdn-images.farfetch-contents.com/24/29/06/52/24290652_54422936_480.jpg",
+    "label": "AMIRI",
+    "name": "рубашка поло Ma Core Logo",
+    "price": "$603",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-ma-core-logo-item-24290652.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/86/91/77/20869177_50767534_480.jpg",
-    "label": "Burberry",
-    "name": "checked-collar cotton polo shirt",
-    "price": "$608"
+    "image": "https://cdn-images.farfetch-contents.com/22/36/84/77/22368477_52291849_480.jpg",
+    "label": "TOM FORD",
+    "name": "рубашка поло из ткани пике",
+    "price": "$285",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-22368477.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/18/83/53/97/18835397_42218866_480.jpg",
-    "label": "Versace",
-    "name": "Greca short-sleeved polo shirt",
-    "price": "$570"
+    "image": "https://cdn-images.farfetch-contents.com/23/97/42/10/23974210_54136619_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка поло с длинными рукавами и монограммой Ami De Coeur",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23974210.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/34/91/75/22349175_52244305_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с принтом Polo Pony",
+    "price": "$96",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22349175.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/79/11/22027911_51997267_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка поло из органического хлопка в рубчик",
+    "price": "$330",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-22027911.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/20/87/02/63/20870263_50767533_480.jpg",
     "label": "Burberry",
-    "name": "Vintage check print-detail polo shirt",
-    "price": "$608"
+    "name": "рубашка поло в клетку Vintage Check",
+    "price": "$608",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-vintage-check-item-20870263.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/66/70/59/24667059_54900918_480.jpg",
-    "label": "Saint Laurent",
-    "name": "piqué-weave polo shirt",
-    "price": "$501"
+    "image": "https://cdn-images.farfetch-contents.com/21/57/89/91/21578991_51852375_480.jpg",
+    "label": "Billionaire",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$265",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-21578991.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/18/30/24/20183024_50827207_480.jpg",
-    "label": "Plein Sport",
-    "name": "SS Thunder Tiger cotton polo shirt",
-    "price": "$86"
+    "image": "https://cdn-images.farfetch-contents.com/22/34/91/97/22349197_52249133_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло в полоску",
+    "price": "$212",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-22349197.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/97/98/48/23979848_54128956_480.jpg",
-    "label": "Casablanca",
-    "name": "Wave polo shirt",
-    "price": "$564"
+    "image": "https://cdn-images.farfetch-contents.com/18/49/68/50/18496850_41191234_480.jpg",
+    "label": "Philipp Plein",
+    "name": "рубашка поло с логотипом",
+    "price": "$240",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-18496850.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/18/94/58/24189458_54266555_480.jpg",
-    "label": "Moncler",
-    "name": "logo-appliqué piqué polo shirt",
-    "price": "$350"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/73/63/12/22736312_53335554_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/21/89/66/44/21896644_51718833_480.jpg",
     "label": "Lacoste",
-    "name": "logo-embroidered striped-border polo shirt",
-    "price": "$177"
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$161",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-21896644.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/73/83/30/22738330_53316895_480.jpg",
-    "label": "Lacoste",
-    "name": "logo-embroidered cotton polo shirt",
-    "price": "$100"
+    "image": "https://cdn-images.farfetch-contents.com/21/86/32/85/21863285_52224027_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка поло",
+    "price": "$265",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-21863285.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/97/41/83/23974183_54167691_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/24/52/72/23245272_53407803_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло с логотипом",
+    "price": "$112",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-23245272.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/99/44/14/23994414_54091084_480.jpg",
+    "label": "Burberry",
+    "name": "рубашка поло с вышивкой EDK",
+    "price": "$608",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-edk-item-23994414.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/66/94/31/22669431_52755574_480.jpg",
+    "label": "Fred Perry",
+    "name": "рубашка поло с вышивкой Laurel Wreath",
+    "price": "$89",
+    "url": "https://www.farfetch.com/kz/shopping/men/fred-perry-laurel-wreath-item-22669431.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/72/62/23607262_53783641_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "рубашка поло с принтом Majolica",
+    "price": "$1,045",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana-majolica-item-23607262.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/21/03/20252103_50994393_480.jpg",
+    "label": "Purple Brand",
+    "name": "рубашка поло с тисненым логотипом",
+    "price": "$208",
+    "url": "https://www.farfetch.com/kz/shopping/men/purple-brand--item-20252103.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/24/97/86/20249786_50740279_480.jpg",
     "label": "AMI Paris",
-    "name": "Ami De Coeur organic-cotton polo shirt",
-    "price": "$168"
+    "name": "рубашка поло из органического хлопка с вышитым логотипом",
+    "price": "$168",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-20249786.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/83/24/57/23832457_54235156_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/79/73/77/22797377_52852318_480.jpg",
     "label": "Versace",
-    "name": "Medusa cotton polo shirt",
-    "price": "$476"
+    "name": "рубашка поло с кристаллами",
+    "price": "$696",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace--item-22797377.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/91/98/77/22919877_53930800_480.jpg",
-    "label": "Paul & Shark",
-    "name": "piqué-weave polo shirt",
-    "price": "$180"
+    "image": "https://cdn-images.farfetch-contents.com/21/86/54/26/21865426_51996471_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка поло с короткой молнией",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-21865426.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/40/78/41/22407841_52607723_480.jpg",
+    "label": "Armani Exchange",
+    "name": "рубашка поло с логотипом",
+    "price": "$64",
+    "url": "https://www.farfetch.com/kz/shopping/men/armani-exchange--item-22407841.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/56/25/81/22562581_52896797_480.jpg",
+    "label": "Billionaire",
+    "name": "рубашка поло с абстрактным принтом",
+    "price": "$546",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-22562581.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/24/27/28/55/24272855_54367687_480.jpg",
     "label": "Gucci",
-    "name": "Web cotton polo shirt",
-    "price": "$745"
+    "name": "рубашка поло с отделкой Web",
+    "price": "$645",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci-web-item-24272855.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/27/51/68/23275168_53338356_480.jpg",
+    "label": "AAPE BY *A BATHING APE®",
+    "name": "рубашка поло с логотипом",
+    "price": "$57",
+    "url": "https://www.farfetch.com/kz/shopping/men/aape-by-a-bathing-ape--item-23275168.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/85/94/29/16859429_36191498_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$121",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-16859429.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/09/42/76/24094276_54120232_480.jpg",
+    "label": "Burberry",
+    "name": "рубашка поло с клетчатым воротником",
+    "price": "$608",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-24094276.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/93/24/65/14932465_24466662_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка-поло из ткани пике",
+    "price": "$136",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-14932465.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/56/42/22615642_52754043_480.jpg",
+    "label": "AMIRI",
+    "name": "рубашка поло Repeat вязки интарсия",
+    "price": "$1,099",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-repeat-item-22615642.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/83/53/97/18835397_42218866_480.jpg",
+    "label": "Versace",
+    "name": "рубашка поло с короткими рукавами и узором Greca",
+    "price": "$570",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-greca-item-18835397.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/39/14/98/15391498_28238747_480.jpg",
+    "label": "Moncler",
+    "name": "рубашка поло с логотипом",
+    "price": "$281",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-15391498.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/34/93/30/22349330_52246884_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с вышивкой Polo Pony",
+    "price": "$121",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22349330.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/64/28/68/23642868_53686785_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло на молнии",
+    "price": "$149",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-23642868.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/37/93/39/24379339_54484552_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло на молнии",
+    "price": "$148",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-24379339.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/90/90/04/23909004_53945788_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло Pallas с вышитым логотипом",
+    "price": "$123",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss-pallas-item-23909004.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/49/29/34/19492934_43610131_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$112",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-19492934.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/83/14/45/19831445_44576545_480.jpg",
+    "label": "Canali",
+    "name": "рубашка поло с короткими рукавами",
+    "price": "$511",
+    "url": "https://www.farfetch.com/kz/shopping/men/canali--item-19831445.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/57/04/14/22570414_52677410_480.jpg",
+    "label": "Versace Jeans Couture",
+    "name": "рубашка поло с логотипом",
+    "price": "$180",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-jeans-couture--item-22570414.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/46/36/97/24463697_54624582_480.jpg",
+    "label": "ETRO",
+    "name": "рубашка поло с принтом пейсли",
+    "price": "$338",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro--item-24463697.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/15/07/86/17150786_44850340_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка поло с монограммой Ami De Coeur",
+    "price": "$164",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-17150786.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/86/83/30/23868330_53923603_480.jpg",
+    "label": "Casablanca",
+    "name": "рубашка поло с логотипом",
+    "price": "$405",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca--item-23868330.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/83/24/57/23832457_54235156_480.jpg",
+    "label": "Versace",
+    "name": "рубашка поло с вышивкой Medusa",
+    "price": "$476",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-medusa-item-23832457.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/56/87/36/22568736_52483238_480.jpg",
+    "label": "ETRO",
+    "name": "рубашка поло Roma с вышивкой Pegaso",
+    "price": "$197",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro-roma-pegaso-item-22568736.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/93/13/66/23931366_54083852_480.jpg",
+    "label": "TOM FORD",
+    "name": "рубашка поло с короткими рукавами",
+    "price": "$350",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-23931366.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/07/48/94/23074894_53219819_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$108",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-23074894.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/45/01/23444501_53525070_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "рубашка поло с контрастной отделкой",
+    "price": "$1,472",
+    "url": "https://www.farfetch.com/kz/shopping/men/valentino-garavani--item-23444501.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/18/88/66/24188866_54269640_480.jpg",
+    "label": "Moncler",
+    "name": "рубашка поло с логотипом",
+    "price": "$267",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-24188866.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/12/42/78/14/12427814_12406199_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка-поло с вышитым логотипом",
+    "price": "$150",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-12427814.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/95/27/23799527_54175180_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с вышивкой Polo Bear",
+    "price": "$233",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-bear-item-23799527.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/05/43/05/23054305_53419861_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло Polo Bear",
+    "price": "$201",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-bear-item-23054305.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/09/21/21820921_53448703_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка поло из органического хлопка с монограммой Ami de Coeur",
+    "price": "$117",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21820921.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/70/18/23737018_54663050_480.jpg",
+    "label": "Thom Browne",
+    "name": "рубашка поло",
+    "price": "$313",
+    "url": "https://www.farfetch.com/kz/shopping/men/thom-browne--item-23737018.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/14/85/33/24148533_54219706_480.jpg",
+    "label": "Gucci",
+    "name": "рубашка поло с узором GG Supreme",
+    "price": "$1,135",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci-gg-supreme-item-24148533.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/14/26/89/19142689_42237950_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло с короткими рукавами",
+    "price": "$128",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-19142689.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/49/72/71/22497271_52816294_480.jpg",
+    "label": "Zegna",
+    "name": "рубашка поло",
+    "price": "$824",
+    "url": "https://www.farfetch.com/kz/shopping/men/zegna--item-22497271.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/70/66/44/24706644_54910459_480.jpg",
+    "label": "Moncler",
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$400",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-24706644.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/93/86/21499386_51765599_480.jpg",
+    "label": "DSQUARED2",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$166",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21499386.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/96/27/08/14962708_24998469_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка-поло с вышитым логотипом",
+    "price": "$131",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-14962708.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/06/99/08/16069908_31205272_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с логотипом",
+    "price": "$114",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-16069908.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/14/49/55/22144955_52070558_480.jpg",
+    "label": "ETRO",
+    "name": "рубашка поло с вышивкой Pegaso",
+    "price": "$260",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro-pegaso-item-22144955.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/70/66/40/24706640_54910662_480.jpg",
+    "label": "Moncler",
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$400",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-24706640.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/85/46/23608546_54237755_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "жаккардовая рубашка поло с монограммой",
+    "price": "$1,034",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-23608546.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/14/49/49/22144949_52071684_480.jpg",
+    "label": "ETRO",
+    "name": "рубашка поло с вышивкой Pegaso",
+    "price": "$245",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro-pegaso-item-22144949.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/50/03/93/21500393_51763395_480.jpg",
+    "label": "DSQUARED2",
+    "name": "рубашка поло с логотипом",
+    "price": "$166",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21500393.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/10/11/21/22101121_52047438_480.jpg",
+    "label": "Versace",
+    "name": "рубашка поло с логотипом Versace Nautical",
+    "price": "$360",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-versace-nautical-item-22101121.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/26/90/97/20269097_50327268_480.jpg",
+    "label": "Paul Smith",
+    "name": "рубашка поло",
+    "price": "$179",
+    "url": "https://www.farfetch.com/kz/shopping/men/paul-smith--item-20269097.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/47/18/04/22471804_52526224_480.jpg",
+    "label": "Versace Jeans Couture",
+    "name": "рубашка поло Watercolour Couture",
+    "price": "$209",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-jeans-couture-watercolour-couture-item-22471804.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/56/17/83/22561783_52896642_480.jpg",
+    "label": "Billionaire",
+    "name": "рубашка поло с абстрактным принтом",
+    "price": "$546",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-22561783.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/26/49/19/20264919_50905523_480.jpg",
+    "label": "Diesel",
+    "name": "рубашка поло T-Vort-Megoval-D",
+    "price": "$91",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-t-vort-megoval-d-item-20264919.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/75/75/29/19757529_44321077_480.jpg",
+    "label": "PS Paul Smith",
+    "name": "рубашка поло с нашивкой Zebra",
+    "price": "$99",
+    "url": "https://www.farfetch.com/kz/shopping/men/ps-paul-smith-zebra-item-19757529.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/45/62/23/21456223_51443019_480.jpg",
+    "label": "Casablanca",
+    "name": "жаккардовая рубашка поло с монограммой",
+    "price": "$889",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca--item-21456223.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/86/17/00/20861700_51982676_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "рубашка поло из органического хлопка с логотипом",
+    "price": "$72",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-20861700.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/91/22/45/23912245_54033912_480.jpg",
+    "label": "TOM FORD",
+    "name": "рубашка поло на пуговицах",
+    "price": "$350",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-23912245.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/55/65/23/22556523_52541692_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с вышивкой Polo Pony",
+    "price": "$101",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22556523.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/07/30/50/16073050_31115055_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с логотипом",
+    "price": "$107",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-16073050.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/95/69/27/20956927_51035753_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$115",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-20956927.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/70/98/67/18709867_43328218_480.jpg",
+    "label": "Diesel",
+    "name": "рубашка поло T-Smith-Doval-Pj",
+    "price": "$59",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-t-smith-doval-pj-item-18709867.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/55/69/60/22556960_52558884_480.jpg",
+    "label": "DSQUARED2",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$273",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-22556960.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/70/81/68/19708168_44893228_480.jpg",
+    "label": "Filippa K",
+    "name": "трикотажная рубашка поло",
+    "price": "$55",
+    "url": "https://www.farfetch.com/kz/shopping/men/filippa-k--item-19708168.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/93/50/59/22935059_53037342_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло в полоску с логотипом Polo Pony",
+    "price": "$138",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22935059.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/45/55/74/22455574_52381081_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло Polo Pony",
+    "price": "$190",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22455574.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/38/68/23973868_54138336_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка поло из органического хлопка с монограммой Ami de Coeur",
+    "price": "$168",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23973868.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/46/74/72/18467472_39920426_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка поло с воротником на молнии",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-18467472.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/68/61/18/16686118_32958847_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло из джерси",
+    "price": "$130",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-16686118.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/18/88/63/24188863_54266363_480.jpg",
+    "label": "Moncler",
+    "name": "рубашка поло с логотипом",
+    "price": "$281",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-24188863.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/94/64/00/22946400_53147693_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло с короткими рукавами",
+    "price": "$107",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-22946400.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/56/17/84/22561784_52896611_480.jpg",
+    "label": "Billionaire",
+    "name": "рубашка поло с принтом",
+    "price": "$564",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-22561784.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/56/11/22615611_52738907_480.jpg",
+    "label": "BOSS",
+    "name": "джемпер тонкой вязки с воротником поло",
+    "price": "$108",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-22615611.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/12/65/95/74/12659574_52800662_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$121",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-12659574.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/73/83/30/22738330_53316895_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$100",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-22738330.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/86/45/17/21864517_51996826_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка поло с короткой молнией",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-21864517.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/51/91/60/14519160_22305294_480.jpg",
+    "label": "Fred Perry",
+    "name": "рубашка-поло с отделкой в полоску",
+    "price": "$107",
+    "url": "https://www.farfetch.com/kz/shopping/men/fred-perry--item-14519160.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/56/26/21/22562621_53505938_480.jpg",
+    "label": "Billionaire",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$423",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-22562621.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/70/72/57/24707257_54912632_480.jpg",
+    "label": "Moncler",
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$366",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-24707257.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/10/05/01/22100501_52381393_480.jpg",
+    "label": "Versace",
+    "name": "рубашка поло с узором Greca",
+    "price": "$490",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-greca-item-22100501.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/90/53/15/23905315_54176465_480.jpg",
+    "label": "DSQUARED2",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$274",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-23905315.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/99/75/62/22997562_53312453_480.jpg",
+    "label": "Corneliani",
+    "name": "трикотажная рубашка поло с короткими рукавами",
+    "price": "$398",
+    "url": "https://www.farfetch.com/kz/shopping/men/corneliani--item-22997562.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/90/91/61/22909161_53094874_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "рубашка поло в рубчик",
+    "price": "$951",
+    "url": "https://www.farfetch.com/kz/shopping/men/brunello-cucinelli--item-22909161.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/86/45/33/21864533_52224030_480.jpg",
+    "label": "SANDRO",
+    "name": "трикотажная рубашка поло на молнии",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-21864533.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/95/43/96/14954396_24628069_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка-поло с вышитым логотипом",
+    "price": "$90",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-14954396.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/45/54/04/19455404_44078641_480.jpg",
+    "label": "Marcelo Burlon County of Milan",
+    "name": "рубашка поло с нашивкой-логотипом из коллаборации с KAPPA",
+    "price": "$195",
+    "url": "https://www.farfetch.com/kz/shopping/men/marcelo-burlon-county-of-milan-kappa-item-19455404.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/18/27/07/20182707_51427270_480.jpg",
+    "label": "Billionaire",
+    "name": "рубашка поло из шерсти мериноса с вышитым логотипом",
+    "price": "$534",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-20182707.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/37/66/38/24376638_54976413_480.jpg",
+    "label": "MARANT",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$167",
+    "url": "https://www.farfetch.com/kz/shopping/men/marant--item-24376638.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/77/71/22707771_52811953_480.jpg",
+    "label": "Stone Island",
+    "name": "рубашка поло с аппликацией Compass",
+    "price": "$199",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22707771.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/02/68/20250268_50497430_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$168",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-20250268.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/39/15/23973915_54133242_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка поло из органического хлопка с монограммой Ami de Coeur",
+    "price": "$188",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23973915.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/05/38/66/22053866_52887622_480.jpg",
+    "label": "Gucci",
+    "name": "жаккардовая рубашка поло с логотипом GG",
+    "price": "$1,050",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci-gg-item-22053866.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/40/26/00/22402600_52357147_480.jpg",
+    "label": "ETRO",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$197",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro--item-22402600.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/03/50/45/20035045_45278228_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$182",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-20035045.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/49/65/57/22496557_52778329_480.jpg",
+    "label": "Zegna",
+    "name": "футболка фактурной вязки",
+    "price": "$505",
+    "url": "https://www.farfetch.com/kz/shopping/men/zegna--item-22496557.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/73/47/62/22734762_53052396_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$184",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-22734762.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/26/76/65/20267665_50327552_480.jpg",
+    "label": "Paul Smith",
+    "name": "рубашка поло",
+    "price": "$133",
+    "url": "https://www.farfetch.com/kz/shopping/men/paul-smith--item-20267665.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/22/17/11/22221711_52977095_480.jpg",
+    "label": "Philipp Plein",
+    "name": "рубашка поло с монограммой",
+    "price": "$509",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-22221711.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/22/28/77/22222877_52977356_480.jpg",
+    "label": "Philipp Plein",
+    "name": "рубашка поло с логотипом",
+    "price": "$255",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-22222877.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/99/50/05/22995005_53240413_480.jpg",
+    "label": "Andersson Bell",
+    "name": "фактурная рубашка поло",
+    "price": "$359",
+    "url": "https://www.farfetch.com/kz/shopping/men/andersson-bell--item-22995005.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/00/07/94/23000794_53364187_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло с логотипом",
+    "price": "$138",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-23000794.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/14/49/22/22144922_52072981_480.jpg",
+    "label": "ETRO",
+    "name": "рубашка поло с принтом пейсли",
+    "price": "$587",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro--item-22144922.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/05/71/18/22057118_52050188_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "полосатая рубашка поло с вышитым логотипом",
+    "price": "$1,278",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-22057118.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/50/79/46/20507946_50835032_480.jpg",
+    "label": "Orlebar Brown",
+    "name": "рубашка поло Maranon с отделкой в полоску",
+    "price": "$362",
+    "url": "https://www.farfetch.com/kz/shopping/men/orlebar-brown-maranon-item-20507946.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/41/79/39/21417939_51603665_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло Smart Paris из ткани пике",
+    "price": "$133",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste-smart-paris-item-21417939.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/02/75/53/15027553_44619713_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка-поло с короткими рукавами",
+    "price": "$121",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-15027553.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/21/35/21/17213521_36055130_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с короткими рукавами",
+    "price": "$129",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-17213521.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/75/65/62/17756562_39165356_480.jpg",
+    "label": "Vilebrequin",
+    "name": "рубашка поло Palatin",
+    "price": "$109",
+    "url": "https://www.farfetch.com/kz/shopping/men/vilebrequin-palatin-item-17756562.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/16/50/66/22165066_53342620_480.jpg",
+    "label": "Jacquemus",
+    "name": "рубашка поло Juego",
+    "price": "$411",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-juego-item-22165066.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/18/11/67/20181167_50891311_480.jpg",
+    "label": "Paul Smith",
+    "name": "рубашка поло в полоску Rainbow Stripe",
+    "price": "$171",
+    "url": "https://www.farfetch.com/kz/shopping/men/paul-smith-rainbow-stripe-item-20181167.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/89/63/11/22896311_52992366_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло с геометричным узором",
+    "price": "$206",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-22896311.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/26/37/04/16263704_31200133_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с вышивкой Pony",
+    "price": "$114",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-pony-item-16263704.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/02/74/79/23027479_53267207_480.jpg",
+    "label": "Emporio Armani",
+    "name": "рубашка поло с логотипом",
+    "price": "$123",
+    "url": "https://www.farfetch.com/kz/shopping/men/emporio-armani--item-23027479.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/74/41/60/22744160_52819212_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло с логотипом",
+    "price": "$127",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-22744160.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/39/06/22613906_52546263_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло Paddy Curved",
+    "price": "$92",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss-paddy-curved-item-22613906.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/12/38/83/86/12388386_52250911_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с длинными рукавами и логотипом",
+    "price": "$139",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-12388386.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/35/96/97/18359697_39720374_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$84",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-18359697.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/35/70/61/21357061_51384415_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "рубашка поло с логотипом",
+    "price": "$645",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-21357061.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/93/44/96/19934496_50310141_480.jpg",
+    "label": "Billionaire",
+    "name": "рубашка поло из смесовой шерсти мериноса",
+    "price": "$730",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-19934496.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/83/54/21718354_52433360_480.jpg",
+    "label": "Diesel",
+    "name": "рубашка поло T-Rasmith",
+    "price": "$88",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-t-rasmith-item-21718354.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/18/30/24/20183024_50827207_480.jpg",
+    "label": "Plein Sport",
+    "name": "рубашка поло Thunder Tiger",
+    "price": "$86",
+    "url": "https://www.farfetch.com/kz/shopping/men/plein-sport-thunder-tiger-item-20183024.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/28/55/69/22285569_52350421_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$151",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-22285569.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/56/05/05/20560505_50697608_480.jpg",
+    "label": "Hackett",
+    "name": "рубашка поло с логотипом",
+    "price": "$71",
+    "url": "https://www.farfetch.com/kz/shopping/men/hackett--item-20560505.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/88/72/62/22887262_53014524_480.jpg",
+    "label": "Stone Island",
+    "name": "рубашка поло с аппликацией Compass",
+    "price": "$189",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22887262.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/42/18/06/19421806_43217718_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$107",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-19421806.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/65/15/40/23651540_53725297_480.jpg",
+    "label": "Ferragamo",
+    "name": "полосатая рубашка поло вязки интарсия",
+    "price": "$1,321",
+    "url": "https://www.farfetch.com/kz/shopping/men/ferragamo--item-23651540.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/09/71/62/24097162_54165332_480.jpg",
+    "label": "Gucci",
+    "name": "рубашка поло с логотипом",
+    "price": "$745",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci--item-24097162.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/80/26/30/19802630_45018541_480.jpg",
+    "label": "TOM FORD",
+    "name": "рубашка поло с короткими рукавами",
+    "price": "$198",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-19802630.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/10/85/51/24108551_54150435_480.jpg",
+    "label": "Burberry",
+    "name": "рубашка поло с отделкой Vintage Check",
+    "price": "$608",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-vintage-check-item-24108551.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/31/00/90/20310090_50392503_480.jpg",
+    "label": "Versace Jeans Couture",
+    "name": "рубашка поло с узором Baroque",
+    "price": "$249",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-jeans-couture-baroque-item-20310090.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/52/93/46/23529346_54358152_480.jpg",
+    "label": "Gucci",
+    "name": "жаккардовая рубашка поло с логотипом GG",
+    "price": "$1,050",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci-gg-item-23529346.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/85/43/23608543_53946984_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "полосатая рубашка поло с аппликацией",
+    "price": "$1,325",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-23608543.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/40/65/02/21406502_51681585_480.jpg",
+    "label": "HUGO",
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$118",
+    "url": "https://www.farfetch.com/kz/shopping/men/hugo--item-21406502.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/24/34/85/17243485_36012648_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с логотипом Polo Pony",
+    "price": "$186",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-17243485.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/98/48/23979848_54128956_480.jpg",
+    "label": "Casablanca",
+    "name": "рубашка поло Wave",
+    "price": "$564",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-wave-item-23979848.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/19/16/13/23191613_53556910_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с логотипом",
+    "price": "$119",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-23191613.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/86/54/29/21865429_51997005_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка поло из ткани пике",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-21865429.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/10/26/82/15102682_25918076_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка-поло с нашивкой-логотипом",
+    "price": "$157",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-15102682.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/98/49/41/22984941_53157137_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$127",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-22984941.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/47/10/61/16471061_31976548_480.jpg",
+    "label": "Burberry",
+    "name": "рубашка поло с контрастным воротником",
+    "price": "$559",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-16471061.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/30/71/63/24307163_54503527_480.jpg",
+    "label": "Stone Island",
+    "name": "рубашка поло с принтом Compass",
+    "price": "$509",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-24307163.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/45/48/83/18454883_40111166_480.jpg",
+    "label": "Burberry",
+    "name": "рубашка поло с монограммой",
+    "price": "$472",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-18454883.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/41/86/23974186_54134635_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка поло с длинными рукавами и монограммой Ami De Coeur",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23974186.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/13/66/17/80/13661780_32539673_480.jpg",
+    "label": "Armani Exchange",
+    "name": "рубашка поло с логотипом",
+    "price": "$82",
+    "url": "https://www.farfetch.com/kz/shopping/men/armani-exchange--item-13661780.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/18/94/58/24189458_54266555_480.jpg",
+    "label": "Moncler",
+    "name": "рубашка поло с логотипом",
+    "price": "$285",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-24189458.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/79/05/02/18790502_41868117_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$93",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-18790502.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/71/01/64/18710164_52143947_480.jpg",
+    "label": "Diesel",
+    "name": "рубашка поло T-Smith-Doval-Pj",
+    "price": "$59",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-t-smith-doval-pj-item-18710164.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/13/36/52/49/13365249_15233807_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$107",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-13365249.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/22/24/41/15222441_26361038_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка-поло с вышитым логотипом",
+    "price": "$143",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-15222441.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/09/23/21820923_53472824_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка поло с монограммой Ami de Coeur",
+    "price": "$178",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21820923.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/23/78/12/18237812_38958239_480.jpg",
+    "label": "Moncler",
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$281",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-18237812.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/96/07/13/22960713_53147828_480.jpg",
+    "label": "Herno",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$137",
+    "url": "https://www.farfetch.com/kz/shopping/men/herno--item-22960713.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/57/04/24/22570424_52675103_480.jpg",
+    "label": "Versace Jeans Couture",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$116",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-jeans-couture--item-22570424.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/44/55/12/24445512_54704405_480.jpg",
+    "label": "TOM FORD",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$351",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-24445512.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/90/53/17/23905317_54180139_480.jpg",
+    "label": "DSQUARED2",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$301",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-23905317.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/45/71/01/22457101_52835291_480.jpg",
+    "label": "Orlebar Brown",
+    "name": "трикотажная рубашка поло Horton",
+    "price": "$435",
+    "url": "https://www.farfetch.com/kz/shopping/men/orlebar-brown-horton-item-22457101.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/78/99/22027899_52225092_480.jpg",
+    "label": "SANDRO",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$140",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-22027899.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/73/63/25/22736325_53052577_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$153",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-22736325.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/45/15/22/19451522_43342900_480.jpg",
+    "label": "Versace",
+    "name": "рубашка поло с вышивкой Medusa",
+    "price": "$311",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-medusa-item-19451522.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/40/79/21/24407921_54612848_480.jpg",
+    "label": "Stone Island",
+    "name": "рубашка поло с логотипом Compass",
+    "price": "$208",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-24407921.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/51/00/02/22510002_52484022_480.jpg",
+    "label": "ETRO",
+    "name": "рубашка поло с логотипом Pegaso",
+    "price": "$412",
+    "url": "https://www.farfetch.com/kz/shopping/men/etro-pegaso-item-22510002.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/32/28/65/22322865_49257170_480.jpg",
+    "label": "Bally",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$157",
+    "url": "https://www.farfetch.com/kz/shopping/men/bally--item-22322865.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/34/79/74/22347974_52614415_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с вышивкой Polo Bear",
+    "price": "$135",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-bear-item-22347974.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/41/83/23974183_54167691_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка поло из органического хлопка с монограммой Ami de Coeur",
+    "price": "$168",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23974183.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/17/62/53/22176253_52185621_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло с логотипом Polo Pony",
+    "price": "$163",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22176253.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/94/71/11/14947111_24649187_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "рубашка поло из ткани пике",
+    "price": "$134",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-14947111.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/55/78/19/22557819_52549408_480.jpg",
+    "label": "Moncler",
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$281",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-22557819.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/84/23/24/22842324_53120631_480.jpg",
+    "label": "Corneliani",
+    "name": "рубашка поло тонкой вязки",
+    "price": "$347",
+    "url": "https://www.farfetch.com/kz/shopping/men/corneliani--item-22842324.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/91/39/62/23913962_54043527_480.jpg",
+    "label": "Tommy Hilfiger",
+    "name": "рубашка поло из органического хлопка с вышитым логотипом",
+    "price": "$113",
+    "url": "https://www.farfetch.com/kz/shopping/men/tommy-hilfiger--item-23913962.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/56/25/82/22562582_52896816_480.jpg",
+    "label": "Billionaire",
+    "name": "рубашка поло с принтом",
+    "price": "$564",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-22562582.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/85/41/94/17854194_38296037_480.jpg",
+    "label": "Emporio Armani",
+    "name": "рубашка поло с узором",
+    "price": "$118",
+    "url": "https://www.farfetch.com/kz/shopping/men/emporio-armani--item-17854194.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/66/70/59/24667059_54900918_480.jpg",
+    "label": "Saint Laurent",
+    "name": "рубашка поло из ткани пике",
+    "price": "$501",
+    "url": "https://www.farfetch.com/kz/shopping/men/saint-laurent--item-24667059.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/96/91/21/23969121_54067965_480.jpg",
+    "label": "DSQUARED2",
+    "name": "рубашка поло с нашивкой-логотипом",
+    "price": "$274",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-23969121.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/05/70/20/18057020_38643042_480.jpg",
+    "label": "BOSS",
+    "name": "рубашка поло с полосками",
+    "price": "$108",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-18057020.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/03/30/39/20033039_50304483_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$132",
+    "url": "https://www.farfetch.com/kz/shopping/men/sporty-rich--item-20033039.aspx"
   }
 ]

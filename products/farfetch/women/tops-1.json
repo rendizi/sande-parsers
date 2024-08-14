@@ -1,290 +1,1346 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/19/55/71/01/19557101_43709746_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/21/61/36/03/21613603_51845060_480.jpg",
+    "label": "PINKO",
+    "name": "топ с воротником-стойкой",
+    "price": "$149",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21613603.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/58/73/92/22587392_52915519_480.jpg",
+    "label": "Ferragamo",
+    "name": "кафтан с разрезом на воротнике и складками",
+    "price": "$1,167",
+    "url": "https://www.farfetch.com/kz/shopping/women/ferragamo--item-22587392.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/60/33/23746033_53883790_480.jpg",
+    "label": "Diesel",
+    "name": "топ асимметричного кроя",
+    "price": "$295",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel--item-23746033.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/39/22/23973922_54133328_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка из органического хлопка с монограммой Ami de Coeur",
+    "price": "$126",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-23973922.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/05/21819905_48164640_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с монограммой Ami de Coeur",
+    "price": "$168",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819905.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/79/05/02/18790502_41868117_480.jpg",
+    "label": "Lacoste",
+    "name": "рубашка поло с вышитым логотипом",
+    "price": "$93",
+    "url": "https://www.farfetch.com/kz/shopping/women/lacoste--item-18790502.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/51/57/96/19515796_43733566_480.jpg",
     "label": "Polo Ralph Lauren",
-    "name": "Polo Pony cotton T-shirt",
-    "price": "$82"
+    "name": "рубашка с вышитым логотипом",
+    "price": "$170",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren--item-19515796.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/72/95/15/22729515_52976500_480.jpg",
-    "label": "GANNI",
-    "name": "organic-cotton lace polo shirt",
-    "price": "$190"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/10/13/68/22101368_51890853_480.jpg",
-    "label": "Mugler",
-    "name": "boned scoop-neck tank top",
-    "price": "$323"
+    "image": "https://cdn-images.farfetch-contents.com/23/74/92/80/23749280_53896363_480.jpg",
+    "label": "SANDRO",
+    "name": "укороченная рубашка со стразами",
+    "price": "$500",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-23749280.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/21/82/07/47/21820747_53446722_480.jpg",
     "label": "AMI Paris",
-    "name": "button-front cotton-rib tank top",
-    "price": "$63"
+    "name": "топ в рубчик на пуговицах",
+    "price": "$63",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-21820747.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/97/86/58/21978658_54230187_480.jpg",
-    "label": "Saint Laurent",
-    "name": "logo-embroidered wool tank top",
-    "price": "$402"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/75/15/58/22751558_52886139_480.jpg",
-    "label": "Casablanca",
-    "name": "Tennis Club Icon T-shirt",
-    "price": "$245"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/18/71/01/64/18710164_52143947_480.jpg",
-    "label": "Diesel",
-    "name": "T-Smith-Doval-Pj polo shirt",
-    "price": "$59"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/21/14/42/20211442_50609368_480.jpg",
-    "label": "SANDRO",
-    "name": "oversized bow-detail cropped top",
-    "price": "$370"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/15/58/40/20155840_50555008_480.jpg",
-    "label": "Acne Studios",
-    "name": "logo-patch cotton T-shirt",
-    "price": "$221"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/46/78/59/22467859_52464715_480.jpg",
-    "label": "Kenzo",
-    "name": "x Verdy logo-print T-shirt",
-    "price": "$137"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/32/80/23/22328023_53038875_480.jpg",
-    "label": "Maje",
-    "name": "cropped ramie shirt",
-    "price": "$255"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/96/07/49/17960749_40331712_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/17/15/22/07/17152207_35371796_480.jpg",
     "label": "AMI Paris",
-    "name": "Ami de Coeur organic-cotton T-shirt",
-    "price": "$117"
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$100",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-17152207.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/81/98/99/21819899_49102276_480.jpg",
-    "label": "AMI Paris",
-    "name": "logo-print cotton hoodie",
-    "price": "$212"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/44/86/40/22448640_52822004_480.jpg",
-    "label": "KHAITE",
-    "name": "The Mahmet silk shirt",
-    "price": "$1,015"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/44/70/35/23447035_53630683_480.jpg",
-    "label": "Valentino Garavani",
-    "name": "V-plaque denim blouse",
-    "price": "$1,472"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/12/96/19/24129619_54276924_480.jpg",
-    "label": "Jacquemus",
-    "name": "La Chemise Simon shirt",
-    "price": "$427"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/16/14/06/48/16140648_30454890_480.jpg",
-    "label": "TOTEME",
-    "name": "relaxed-cut T-shirt",
-    "price": "$72"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/49/76/16/23497616_53592053_480.jpg",
-    "label": "Versace",
-    "name": "Barocco Sea cowl-neck silk top",
-    "price": "$1,152"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/61/93/76/22619376_52653570_480.jpg",
-    "label": "Kenzo",
-    "name": "Lucky Tiger cotton T-shirt",
-    "price": "$140"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/54/13/99/21541399_52496710_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/20/08/19/56/20081956_50409719_480.jpg",
     "label": "Karl Lagerfeld",
-    "name": "Ikonik Karl & Choupette sweatshirt",
-    "price": "$134"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/72/80/50/22728050_52779034_480.jpg",
-    "label": "VETEMENTS",
-    "name": "logo-appliqué hoodie",
-    "price": "$1,144"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/92/47/77/23924777_54043004_480.jpg",
-    "label": "Gucci",
-    "name": "Interlocking G-print cotton top",
-    "price": "$570"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/60/71/69/23607169_53514106_480.jpg",
-    "label": "Supreme",
-    "name": "x MM6 Maison Margiela foil box logo hoodie",
-    "price": "$539"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/78/44/19/23784419_54185392_480.jpg",
-    "label": "Chloé",
-    "name": "ruffled sleeveless silk blouse",
-    "price": "$1,319"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/68/46/11/21684611_52484495_480.jpg",
-    "label": "Diesel",
-    "name": "T-BUXT-N8 graphic-print cotton T-shirt",
-    "price": "$147"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/68/19/56/23681956_53921886_480.jpg",
-    "label": "JW Anderson",
-    "name": "graphic-print roll-neck T-shirt",
-    "price": "$185"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/96/06/59/17960659_40336088_480.jpg",
-    "label": "AMI Paris",
-    "name": "Ami de Coeur embroidered hoodie",
-    "price": "$242"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/54/14/57/21541457_52497348_480.jpg",
-    "label": "Karl Lagerfeld",
-    "name": "Ikonik Outline organic-cotton T-shirt",
-    "price": "$67"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/58/49/69/22584969_52613742_480.jpg",
-    "label": "Y-3",
-    "name": "tonal logo-print T-shirt",
-    "price": "$169"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/53/93/57/21539357_52496881_480.jpg",
-    "label": "Karl Lagerfeld",
-    "name": "logo-embroidered ribbed tank top",
-    "price": "$67"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/77/72/71/23777271_53778270_480.jpg",
-    "label": "Casablanca",
-    "name": "3D logo-print cotton T-shirt",
-    "price": "$155"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/09/98/36/22099836_52381979_480.jpg",
-    "label": "Versace",
-    "name": "logo-embroidered cropped denim shirt",
-    "price": "$537"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/10/85/39/17108539_40290090_480.jpg",
-    "label": "MODES GARMENTS",
-    "name": "graphic-print cotton T-shirt",
-    "price": "$152"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/53/93/82/21539382_52496714_480.jpg",
-    "label": "Karl Lagerfeld",
-    "name": "Ikonik Choupette organic-cotton T-shirt",
-    "price": "$67"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/16/14/25/72/16142572_30454907_480.jpg",
-    "label": "TOTEME",
-    "name": "relaxed-cut T-shirt",
-    "price": "$72"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/02/99/55/20029955_45139338_480.jpg",
-    "label": "Sporty & Rich",
-    "name": "logo-print cotton T-shirt",
-    "price": "$66"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/31/92/29/21319229_52995523_480.jpg",
-    "label": "Dion Lee",
-    "name": "Barball fine-ribbed tank top",
-    "price": "$89"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/51/63/15/19516315_43726554_480.jpg",
-    "label": "Polo Ralph Lauren",
-    "name": "Polo Pony-embroidered T-shirt",
-    "price": "$82"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/69/63/95/22696395_52976714_480.jpg",
-    "label": "GANNI",
-    "name": "leopard-print organic-cotton blouse",
-    "price": "$192"
+    "name": "рубашка из органического хлопка с вышивкой",
+    "price": "$123",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld--item-20081956.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/24/11/43/65/24114365_54191664_480.jpg",
     "label": "Chloé",
-    "name": "cape overlay silk blouse",
-    "price": "$2,204"
+    "name": "шелковая блузка с кейпом",
+    "price": "$1,965",
+    "url": "https://www.farfetch.com/kz/shopping/women/chloe--item-24114365.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/61/41/52/21614152_51918484_480.jpg",
-    "label": "PINKO",
-    "name": "rhinestone-embellished cotton shirt",
-    "price": "$271"
+    "image": "https://cdn-images.farfetch-contents.com/22/44/86/40/22448640_52822004_480.jpg",
+    "label": "KHAITE",
+    "name": "шелковая рубашка The Mahmet",
+    "price": "$1,006",
+    "url": "https://www.farfetch.com/kz/shopping/women/khaite-the-mahmet-item-22448640.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/44/45/44/23444544_53970458_480.jpg",
-    "label": "Valentino Garavani",
-    "name": "striped tank top",
-    "price": "$910"
+    "image": "https://cdn-images.farfetch-contents.com/23/79/11/55/23791155_54055253_480.jpg",
+    "label": "Acne Studios",
+    "name": "бесшовный топ с принтом",
+    "price": "$252",
+    "url": "https://www.farfetch.com/kz/shopping/women/acne-studios--item-23791155.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/88/90/46/23889046_54029148_480.jpg",
-    "label": "Cecilie Bahnsen",
-    "name": "Geo ruffled top",
-    "price": "$624"
+    "image": "https://cdn-images.farfetch-contents.com/21/86/54/21/21865421_52710347_480.jpg",
+    "label": "SANDRO",
+    "name": "атласная рубашка с короткими рукавами",
+    "price": "$290",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21865421.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/85/83/34/23858334_54162623_480.jpg",
-    "label": "ZIMMERMANN",
-    "name": "Pop broderie-anglaise tank top",
-    "price": "$486"
+    "image": "https://cdn-images.farfetch-contents.com/21/82/27/57/21822757_48163640_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$125",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21822757.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/26/57/13/20265713_50757732_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/37/10/71/22371071_52343393_480.jpg",
+    "label": "Giambattista Valli",
+    "name": "укороченный топ Pensées Sauvages с цветочной вышивкой",
+    "price": "$1,115",
+    "url": "https://www.farfetch.com/kz/shopping/women/giambattista-valli-pensees-sauvages-item-22371071.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/51/79/19595179_43865810_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с длинными рукавами и монограммой Ami de Coeur",
+    "price": "$227",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-19595179.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/57/89/25/22578925_52788426_480.jpg",
+    "label": "BARROW",
+    "name": "худи с фактурным логотипом",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/women/barrow--item-22578925.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/86/77/97/23867797_53939263_480.jpg",
+    "label": "ALEMAIS",
+    "name": "льняная рубашка Pinball",
+    "price": "$345",
+    "url": "https://www.farfetch.com/kz/shopping/women/alemais-pinball-item-23867797.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/68/96/84/23689684_53844974_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "топ с перьями",
+    "price": "$1,738",
+    "url": "https://www.farfetch.com/kz/shopping/women/brunello-cucinelli--item-23689684.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/86/71/46/23867146_53944872_480.jpg",
     "label": "Diesel",
-    "name": "M-Clarksville-A logo-plaque bandeau top",
-    "price": "$204"
+    "name": "топ с фотопринтом из коллаборации с ToFF",
+    "price": "$155",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-toff-item-23867146.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/91/14/33/22911433_53011997_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/75/91/75/23759175_53794850_480.jpg",
     "label": "ZIMMERMANN",
-    "name": "Natura floral-print blouse",
-    "price": "$868"
+    "name": "рубашка Ottie в технике кроше",
+    "price": "$685",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-ottie-item-23759175.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/07/41/29/23074129_54240497_480.jpg",
+    "label": "Saint Laurent",
+    "name": "рубашка с поясом",
+    "price": "$2,342",
+    "url": "https://www.farfetch.com/kz/shopping/women/saint-laurent--item-23074129.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/83/41/22118341_52695751_480.jpg",
+    "label": "Maje",
+    "name": "укороченный топ с вышивкой",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22118341.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/19/57/39/20195739_50286460_480.jpg",
+    "label": "TOTEME",
+    "name": "топ на бретелях с драпировкой",
+    "price": "$121",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20195739.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/36/21819936_52432258_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$107",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819936.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/81/30/75/22813075_54126800_480.jpg",
+    "label": "Jacquemus",
+    "name": "укороченная футболка Le Gros Grain",
+    "price": "$174",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-le-gros-grain-item-22813075.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/49/87/47/22498747_52885480_480.jpg",
+    "label": "Gucci",
+    "name": "топ-корсет Net с логотипом GG",
+    "price": "$1,430",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci-net-gg-item-22498747.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/95/98/66/17959866_40068003_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с логотипом",
+    "price": "$323",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-17959866.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/45/07/19594507_43856845_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с монограммой Ami de Coeur",
+    "price": "$198",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-19594507.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/80/94/96/23809496_53901488_480.jpg",
+    "label": "Alexander Wang",
+    "name": "комплект Pre-styled из топа и рубашки",
+    "price": "$430",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-wang-pre-styled-item-23809496.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/62/15/46/22621546_52636361_480.jpg",
+    "label": "Jacquemus",
+    "name": "топ Le Hoodie Gros Grain",
+    "price": "$271",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-le-hoodie-gros-grain-item-22621546.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/09/33/23490933_53614212_480.jpg",
+    "label": "Versace",
+    "name": "шелковая рубашка Barocco Sea",
+    "price": "$905",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-barocco-sea-item-23490933.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/22/52/40/43/22524043_52730877_480.jpg",
     "label": "Valentino Garavani",
-    "name": "floral cut-out cotton shirt",
-    "price": "$2,045"
+    "name": "рубашка с вырезами",
+    "price": "$1,790",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani--item-22524043.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/97/14/22709714_53088234_480.jpg",
+    "label": "Alexander Wang",
+    "name": "футболка с тисненым логотипом",
+    "price": "$134",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-wang--item-22709714.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/05/63/16/23056316_53870316_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "рубашка Pop с цветочным принтом",
+    "price": "$525",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-pop-item-23056316.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/11/96/20251196_51864158_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка из органического хлопка с вышитым логотипом",
+    "price": "$157",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-20251196.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/97/01/22709701_53088084_480.jpg",
+    "label": "Alexander Wang",
+    "name": "рубашка с тисненым логотипом",
+    "price": "$270",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-wang--item-22709701.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/79/16/77/22791677_54026072_480.jpg",
+    "label": "Christopher John Rogers",
+    "name": "топ-бралетт в полоску с бантом",
+    "price": "$911",
+    "url": "https://www.farfetch.com/kz/shopping/women/christopher-john-rogers--item-22791677.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/98/31/52/21983152_51703622_480.jpg",
+    "label": "Diesel",
+    "name": "топ в рубчик с логотипом Oval D",
+    "price": "$255",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-oval-d-item-21983152.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/78/44/19/23784419_54185392_480.jpg",
+    "label": "Chloé",
+    "name": "блузка без рукавов с оборками",
+    "price": "$1,275",
+    "url": "https://www.farfetch.com/kz/shopping/women/chloe--item-23784419.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/97/65/91/22976591_53623219_480.jpg",
+    "label": "Chloé",
+    "name": "рубашка с графичным принтом",
+    "price": "$879",
+    "url": "https://www.farfetch.com/kz/shopping/women/chloe--item-22976591.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/32/21819932_52438844_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с тисненым логотипом",
+    "price": "$174",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-21819932.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/78/44/13/23784413_54184447_480.jpg",
+    "label": "Chloé",
+    "name": "шелковая рубашка с кейпом",
+    "price": "$1,524",
+    "url": "https://www.farfetch.com/kz/shopping/women/chloe--item-23784413.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/14/57/21541457_52497348_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "футболка Ikonik Outline из органического хлопка",
+    "price": "$56",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld-ikonik-outline-item-21541457.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/05/05/23600505_53629997_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "рубашка с принтом Majolica",
+    "price": "$1,015",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana-majolica-item-23600505.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/14/52/21541452_53449613_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "футболка Karl Signature",
+    "price": "$56",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld-karl-signature-item-21541452.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/26/37/21822637_52829789_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с вышитой монограммой Ami de Coeur",
+    "price": "$159",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21822637.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/04/96/35/22049635_52102242_480.jpg",
+    "label": "Stella McCartney",
+    "name": "рубашка с короткими рукавами",
+    "price": "$449",
+    "url": "https://www.farfetch.com/kz/shopping/women/stella-mccartney--item-22049635.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/35/67/54/22356754_52496301_480.jpg",
+    "label": "Jacquemus",
+    "name": "толстовка Le Corto",
+    "price": "$253",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-le-corto-item-22356754.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/84/64/23498464_53614944_480.jpg",
+    "label": "Versace",
+    "name": "топ-корсет La Coupe des Dieux",
+    "price": "$1,483",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-la-coupe-des-dieux-item-23498464.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/71/29/94/23712994_53697253_480.jpg",
+    "label": "Coperni",
+    "name": "джинсовая рубашка со вставками из тюля",
+    "price": "$577",
+    "url": "https://www.farfetch.com/kz/shopping/women/coperni--item-23712994.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/83/71/21608371_51864378_480.jpg",
+    "label": "PINKO",
+    "name": "полосатая рубашка с вышитым логотипом",
+    "price": "$289",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21608371.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/07/21823007_48164278_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с монограммой Ami de Coeur",
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21823007.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/76/93/23497693_53925522_480.jpg",
+    "label": "Versace",
+    "name": "шелковая рубашка La Coupe des Dieux",
+    "price": "$1,427",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-la-coupe-des-dieux-item-23497693.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/28/90/24/23289024_53306753_480.jpg",
+    "label": "Diesel",
+    "name": "футболка T-Matic с цепочками",
+    "price": "$74",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-t-matic-item-23289024.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/84/21/21608421_52244821_480.jpg",
+    "label": "PINKO",
+    "name": "боди с перьями",
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21608421.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/69/61/01/23696101_53645979_480.jpg",
+    "label": "Proenza Schouler",
+    "name": "топ Bella в технике кроше",
+    "price": "$1,177",
+    "url": "https://www.farfetch.com/kz/shopping/women/proenza-schouler-bella-item-23696101.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/87/99/23/23879923_53901378_480.jpg",
+    "label": "ANINE BING",
+    "name": "толстовка Miles",
+    "price": "$229",
+    "url": "https://www.farfetch.com/kz/shopping/women/anine-bing-miles-item-23879923.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/05/49/23600549_53630132_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "укороченный топ-корсет с принтом Majolica",
+    "price": "$1,015",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana-majolica-item-23600549.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/60/82/83/22608283_53238430_480.jpg",
+    "label": "Stella McCartney",
+    "name": "топ в горох",
+    "price": "$782",
+    "url": "https://www.farfetch.com/kz/shopping/women/stella-mccartney--item-22608283.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/39/39/23973939_54133478_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$159",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-23973939.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/07/49/17960749_40331712_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка оверсайз с монограммой Ami de Coeur",
+    "price": "$117",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-17960749.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/72/95/15/22729515_52976500_480.jpg",
+    "label": "GANNI",
+    "name": "кружевная рубашка поло из органического хлопка",
+    "price": "$175",
+    "url": "https://www.farfetch.com/kz/shopping/women/ganni--item-22729515.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/39/26/00/22392600_52353217_480.jpg",
+    "label": "Nanushka",
+    "name": "драпированный топ Neline с вырезом халтер",
+    "price": "$302",
+    "url": "https://www.farfetch.com/kz/shopping/women/nanushka-neline-item-22392600.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/63/63/61/23636361_54692585_480.jpg",
+    "label": "Saint Laurent",
+    "name": "боди с открытой спиной",
+    "price": "$972",
+    "url": "https://www.farfetch.com/kz/shopping/women/saint-laurent--item-23636361.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/81/25/90/23812590_53977314_480.jpg",
+    "label": "ETRO",
+    "name": "длинная рубашка с принтом",
+    "price": "$613",
+    "url": "https://www.farfetch.com/kz/shopping/women/etro--item-23812590.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/84/29/23498429_53614932_480.jpg",
+    "label": "Versace",
+    "name": "боди La Coupe des Dieux с драпировкой",
+    "price": "$964",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-la-coupe-des-dieux-item-23498429.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/92/93/58/23929358_53947181_480.jpg",
+    "label": "DRIES VAN NOTEN",
+    "name": "рубашка с принтом",
+    "price": "$718",
+    "url": "https://www.farfetch.com/kz/shopping/women/dries-van-noten--item-23929358.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/70/35/23447035_53630683_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "джинсовая блузка с V-образной пряжкой",
+    "price": "$1,472",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani-v-item-23447035.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/05/32/12/23053212_53863996_480.jpg",
+    "label": "16Arlington",
+    "name": "креповая блузка Solarte с бисером",
+    "price": "$560",
+    "url": "https://www.farfetch.com/kz/shopping/women/16arlington-solarte-item-23053212.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/46/78/59/22467859_52464715_480.jpg",
+    "label": "Kenzo",
+    "name": "футболка с логотипом из коллаборации с Verdy",
+    "price": "$114",
+    "url": "https://www.farfetch.com/kz/shopping/women/kenzo-verdy-item-22467859.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/78/20/01/22782001_53970545_480.jpg",
+    "label": "Diesel",
+    "name": "рубашка с логотипом",
+    "price": "$245",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel--item-22782001.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/71/01/64/18710164_52143947_480.jpg",
+    "label": "Diesel",
+    "name": "рубашка поло T-Smith-Doval-Pj",
+    "price": "$59",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-t-smith-doval-pj-item-18710164.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/25/21819925_48164767_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$75",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819925.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/92/47/77/23924777_54043004_480.jpg",
+    "label": "Gucci",
+    "name": "топ с принтом Interlocking G",
+    "price": "$570",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci-interlocking-g-item-23924777.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/47/44/34/20474434_50461353_480.jpg",
+    "label": "Courrèges",
+    "name": "топ на одно плечо с вышитым логотипом",
+    "price": "$174",
+    "url": "https://www.farfetch.com/kz/shopping/women/courreges--item-20474434.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/14/25/72/16142572_30454907_480.jpg",
+    "label": "TOTEME",
+    "name": "футболка свободного кроя",
+    "price": "$72",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-16142572.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/80/21/76/22802176_52860260_480.jpg",
+    "label": "Diesel",
+    "name": "топ M-Teri в рубчик",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-m-teri-item-22802176.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/77/36/61/22773661_52795332_480.jpg",
+    "label": "Kenzo",
+    "name": "толстовка Lucky Tiger",
+    "price": "$182",
+    "url": "https://www.farfetch.com/kz/shopping/women/kenzo-lucky-tiger-item-22773661.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/20/05/23492005_53590160_480.jpg",
+    "label": "Versace",
+    "name": "боди La Coupe des Dieux",
+    "price": "$1,421",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-la-coupe-des-dieux-item-23492005.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/01/75/21540175_52497841_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "топ в рубчик с вышитым логотипом",
+    "price": "$67",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld--item-21540175.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/75/15/58/22751558_52886139_480.jpg",
+    "label": "Casablanca",
+    "name": "футболка Tennis Club Icon",
+    "price": "$239",
+    "url": "https://www.farfetch.com/kz/shopping/women/casablanca-tennis-club-icon-item-22751558.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/26/21819926_52438407_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка из органического хлопка с вышитым логотипом",
+    "price": "$110",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-21819926.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/26/66/19592666_43894155_480.jpg",
+    "label": "AMI Paris",
+    "name": "укороченная футболка с логотипом",
+    "price": "$82",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-19592666.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/15/58/40/20155840_50555008_480.jpg",
+    "label": "Acne Studios",
+    "name": "футболка с нашивкой-логотипом",
+    "price": "$221",
+    "url": "https://www.farfetch.com/kz/shopping/women/acne-studios--item-20155840.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/16/16/21491616_51712112_480.jpg",
+    "label": "Maje",
+    "name": "топ с V- образным вырезом и кружевными вставками",
+    "price": "$260",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje-v-item-21491616.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/60/19/88/22601988_52853776_480.jpg",
+    "label": "KHAITE",
+    "name": "шелковый топ с драпировкой",
+    "price": "$570",
+    "url": "https://www.farfetch.com/kz/shopping/women/khaite--item-22601988.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/22/86/23602286_53790412_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "укороченный топ с принтом Majolica",
+    "price": "$725",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana-majolica-item-23602286.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/57/30/23775730_53744128_480.jpg",
+    "label": "Saint Laurent",
+    "name": "твиловый топ без рукавов",
+    "price": "$1,046",
+    "url": "https://www.farfetch.com/kz/shopping/women/saint-laurent--item-23775730.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/09/23/21820923_53472824_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка поло с монограммой Ami de Coeur",
+    "price": "$178",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21820923.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/34/72/28/19347228_43858921_480.jpg",
+    "label": "AMI Paris",
+    "name": "джинсовая рубашка с косым воротником",
+    "price": "$201",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-19347228.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/09/53/21820953_52629735_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с вышитым логотипом",
+    "price": "$164",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-21820953.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/21/12/25/19211225_42108050_480.jpg",
+    "label": "Diesel",
+    "name": "футболка с эффектом разбрызганной краски",
+    "price": "$230",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel--item-19211225.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/04/16/39/22041639_53288195_480.jpg",
+    "label": "Claudie Pierlot",
+    "name": "футболка асимметричного кроя",
+    "price": "$290",
+    "url": "https://www.farfetch.com/kz/shopping/women/claudie-pierlot--item-22041639.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/59/41/78/18594178_40133183_480.jpg",
+    "label": "Palm Angels",
+    "name": "футболка с логотипом",
+    "price": "$356",
+    "url": "https://www.farfetch.com/kz/shopping/women/palm-angels--item-18594178.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/26/01/47/22260147_52307804_480.jpg",
+    "label": "Jacquemus",
+    "name": "топ Le T-shirt Gros Grain",
+    "price": "$159",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-le-t-shirt-gros-grain-item-22260147.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/36/20/70/19362070_53535898_480.jpg",
+    "label": "Saint Laurent",
+    "name": "топ в полоску с вышитым логотипом",
+    "price": "$690",
+    "url": "https://www.farfetch.com/kz/shopping/women/saint-laurent--item-19362070.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/20/64/17/22206417_52163698_480.jpg",
+    "label": "KHAITE",
+    "name": "шелковая блузка The Kass с драпировкой",
+    "price": "$959",
+    "url": "https://www.farfetch.com/kz/shopping/women/khaite-the-kass-item-22206417.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/30/21819930_53101792_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с логотипом",
+    "price": "$88",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-21819930.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/86/71/47/23867147_53944865_480.jpg",
+    "label": "Diesel",
+    "name": "топ с высоким воротником и эффектом тромплей из коллаборации с ToFF",
+    "price": "$177",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-toff-item-23867147.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/05/21823005_48164590_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с монограммой Ami de Coeur",
+    "price": "$145",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21823005.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/15/20/95/17152095_43747629_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$125",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-17152095.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/67/99/00/23679900_53588459_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "топ SRHWC в рубчик",
+    "price": "$81",
+    "url": "https://www.farfetch.com/kz/shopping/women/sporty-rich-srhwc-item-23679900.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/97/22/75/22972275_54381760_480.jpg",
+    "label": "Balenciaga",
+    "name": "футболка Tape Type",
+    "price": "$1,278",
+    "url": "https://www.farfetch.com/kz/shopping/women/balenciaga-tape-type-item-22972275.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/01/88/21540188_52496745_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "топ Ikonik Outline",
+    "price": "$56",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld-ikonik-outline-item-21540188.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/26/63/40/20266340_50580837_480.jpg",
+    "label": "Diesel",
+    "name": "футболка T-Angie с логотипом",
+    "price": "$100",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-t-angie-item-20266340.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/86/54/28/21865428_52711242_480.jpg",
+    "label": "SANDRO",
+    "name": "атласная рубашка с короткими рукавами",
+    "price": "$290",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21865428.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/89/59/71/23895971_54005374_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "джинсовая рубашка Lantern с объемными рукавами",
+    "price": "$482",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-lantern-item-23895971.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/32/86/61/21328661_51352445_480.jpg",
+    "label": "Diesel",
+    "name": "полупрозрачный топ T-Hoper-Devo",
+    "price": "$161",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-t-hoper-devo-item-21328661.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/88/92/79/22889279_52935032_480.jpg",
+    "label": "ETRO",
+    "name": "рубашка в полоску",
+    "price": "$647",
+    "url": "https://www.farfetch.com/kz/shopping/women/etro--item-22889279.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/82/40/44/23824044_54184402_480.jpg",
+    "label": "SANDRO",
+    "name": "боди в рубчик с бисером",
+    "price": "$330",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-23824044.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/91/14/33/22911433_53011997_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "блузка Natura с объемными рукавами",
+    "price": "$819",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-natura-item-22911433.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/72/69/23777269_53766742_480.jpg",
+    "label": "Casablanca",
+    "name": "футболка L'Arche De Jour",
+    "price": "$255",
+    "url": "https://www.farfetch.com/kz/shopping/women/casablanca-larche-de-jour-item-23777269.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/82/33/24/23823324_54280949_480.jpg",
+    "label": "SANDRO",
+    "name": "футболка Sailor со стразами",
+    "price": "$290",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro-sailor-item-23823324.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/55/71/12/23557112_53613863_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "полосатая футболка с логотипом",
+    "price": "$130",
+    "url": "https://www.farfetch.com/kz/shopping/women/comme-des-garcons-play--item-23557112.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/42/15/23974215_54139727_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с вышитым логотипом",
+    "price": "$126",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-23974215.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/96/21819896_48164359_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с монограммой Ami de Coeur",
+    "price": "$249",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819896.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/12/21819812_53101909_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка из смесовой вирджинской шерсти",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-21819812.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/55/76/06/22557606_52662821_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "полосатая футболка с нашивкой",
+    "price": "$128",
+    "url": "https://www.farfetch.com/kz/shopping/women/comme-des-garcons-play--item-22557606.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/22/47/10/30/22471030_52465697_480.jpg",
     "label": "Kenzo",
-    "name": "x Verdy logo-print T-shirt",
-    "price": "$169"
+    "name": "футболка с логотипом из коллаборации с Verdy",
+    "price": "$169",
+    "url": "https://www.farfetch.com/kz/shopping/women/kenzo-verdy-item-22471030.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/08/15/90/19081590_41765178_480.jpg",
+    "label": "Jacquemus",
+    "name": "блузка Notte с логотипом",
+    "price": "$401",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-notte-item-19081590.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/04/97/23600497_53629996_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "шелковая рубашка с принтом Majolica",
+    "price": "$1,515",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana-majolica-item-23600497.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/82/45/94/16824594_33333869_480.jpg",
+    "label": "TOTEME",
+    "name": "шелковая рубашка с монограммой",
+    "price": "$594",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-16824594.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/91/06/29/22910629_53155749_480.jpg",
+    "label": "TOM FORD",
+    "name": "бархатный топ-бралетт с жаккардовым логотипом",
+    "price": "$203",
+    "url": "https://www.farfetch.com/kz/shopping/women/tom-ford--item-22910629.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/41/22/07/21412207_53329868_480.jpg",
+    "label": "Wales Bonner",
+    "name": "топ Sonic в полоску",
+    "price": "$279",
+    "url": "https://www.farfetch.com/kz/shopping/women/wales-bonner-sonic-item-21412207.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/87/81/84/20878184_50873252_480.jpg",
+    "label": "JNBY",
+    "name": "футболка с аппликацией",
+    "price": "$116",
+    "url": "https://www.farfetch.com/kz/shopping/women/jnby--item-20878184.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/86/61/24/23866124_53923567_480.jpg",
+    "label": "Gucci",
+    "name": "укороченная футболка с логотипом",
+    "price": "$587",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci--item-23866124.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/07/13/17960713_43640428_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с короткими рукавами",
+    "price": "$117",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-17960713.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/53/92/89/21539289_52495765_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "топ в рубчик с вышитым логотипом",
+    "price": "$56",
+    "url": "https://www.farfetch.com/kz/shopping/women/karl-lagerfeld--item-21539289.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/74/30/21687430_52463728_480.jpg",
+    "label": "Diesel",
+    "name": "джинсовое боди M-Tansy без рукавов",
+    "price": "$206",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-m-tansy-item-21687430.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/10/13/68/22101368_51890853_480.jpg",
+    "label": "Mugler",
+    "name": "топ с U-образным вырезом",
+    "price": "$293",
+    "url": "https://www.farfetch.com/kz/shopping/women/mugler-u-item-22101368.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/58/62/36/22586236_52915908_480.jpg",
+    "label": "Ferragamo",
+    "name": "рубашка Kaftan из смесового шелка",
+    "price": "$1,062",
+    "url": "https://www.farfetch.com/kz/shopping/women/ferragamo-kaftan-item-22586236.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/36/21823036_52432080_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с тисненым логотипом",
+    "price": "$125",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-21823036.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/95/46/38/23954638_53973310_480.jpg",
+    "label": "Marni",
+    "name": "топ-корсет в полоску",
+    "price": "$729",
+    "url": "https://www.farfetch.com/kz/shopping/women/marni--item-23954638.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/83/07/75/23830775_53828002_480.jpg",
+    "label": "Jil Sander",
+    "name": "футболка с логотипом",
+    "price": "$368",
+    "url": "https://www.farfetch.com/kz/shopping/women/jil-sander--item-23830775.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/12/96/19/24129619_54276924_480.jpg",
+    "label": "Jacquemus",
+    "name": "рубашка La Chemise Simon",
+    "price": "$427",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-chemise-simon-item-24129619.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/11/91/20251191_50740358_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка с вышитым логотипом",
+    "price": "$241",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-20251191.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/42/46/23974246_54167850_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$126",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-23974246.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/05/82/45/23058245_54240618_480.jpg",
+    "label": "Saint Laurent",
+    "name": "рубашка Saharienne с поясом",
+    "price": "$2,447",
+    "url": "https://www.farfetch.com/kz/shopping/women/saint-laurent-saharienne-item-23058245.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/78/81/66/23788166_54016823_480.jpg",
+    "label": "Johanna Ortiz",
+    "name": "укороченный топ Tree Soul",
+    "price": "$529",
+    "url": "https://www.farfetch.com/kz/shopping/women/johanna-ortiz-tree-soul-item-23788166.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/21/53/95/20215395_50482979_480.jpg",
+    "label": "Courrèges",
+    "name": "топ с вырезом халтер и вышитым логотипом",
+    "price": "$139",
+    "url": "https://www.farfetch.com/kz/shopping/women/courreges--item-20215395.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/68/19/56/23681956_53921886_480.jpg",
+    "label": "JW Anderson",
+    "name": "футболка с высоким воротником и графичным принтом",
+    "price": "$155",
+    "url": "https://www.farfetch.com/kz/shopping/women/jw-anderson--item-23681956.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/89/39/31/23893931_53958492_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "топ в рубчик с логотипом VLogo",
+    "price": "$789",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani-vlogo-item-23893931.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/20/52/17962052_40333234_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка оверсайз с монограммой Ami de Coeur",
+    "price": "$117",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-17962052.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/70/98/67/18709867_43328218_480.jpg",
+    "label": "Diesel",
+    "name": "рубашка поло T-Smith-Doval-Pj",
+    "price": "$59",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-t-smith-doval-pj-item-18709867.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/48/35/05/23483505_53434792_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "футболка с логотипом",
+    "price": "$75",
+    "url": "https://www.farfetch.com/kz/shopping/women/comme-des-garcons-play--item-23483505.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/52/14/19595214_43856971_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$103",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-19595214.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/67/42/91/19674291_44067523_480.jpg",
+    "label": "TOM FORD",
+    "name": "топ-бралетт с логотипом Signature",
+    "price": "$165",
+    "url": "https://www.farfetch.com/kz/shopping/women/tom-ford-signature-item-19674291.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/83/30/72/21833072_52038229_480.jpg",
+    "label": "Off-White",
+    "name": "футболка с цветочным принтом",
+    "price": "$374",
+    "url": "https://www.farfetch.com/kz/shopping/women/off-white--item-21833072.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/53/30/46/22533046_52512604_480.jpg",
+    "label": "Jacquemus",
+    "name": "топ Le Debardeur в рубчик",
+    "price": "$125",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-le-debardeur-item-22533046.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/31/21819931_48165247_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка Ami Alexandre Mattiussi",
+    "price": "$111",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-alexandre-mattiussi-item-21819931.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/29/72/77/21297277_53368710_480.jpg",
+    "label": "Marine Serre",
+    "name": "худи с принтом",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/women/marine-serre--item-21297277.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/22/65/23742265_53660122_480.jpg",
+    "label": "Rabanne",
+    "name": "топ с бахромой",
+    "price": "$2,296",
+    "url": "https://www.farfetch.com/kz/shopping/women/rabanne--item-23742265.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/94/85/64/19948564_50570082_480.jpg",
+    "label": "Jacquemus",
+    "name": "драпированная рубашка La Chemise Bahia",
+    "price": "$547",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-chemise-bahia-item-19948564.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/37/24/23973724_54305549_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$126",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-23973724.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/33/79/72/21337972_52336211_480.jpg",
+    "label": "Magda Butrym",
+    "name": "топ со сборками и аппликацией",
+    "price": "$778",
+    "url": "https://www.farfetch.com/kz/shopping/women/magda-butrym--item-21337972.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/76/16/23497616_53592053_480.jpg",
+    "label": "Versace",
+    "name": "шелковый топ Barocco Sea с воротником-хомутом",
+    "price": "$1,152",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-barocco-sea-item-23497616.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/51/63/15/19516315_43726554_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "футболка с вышивкой Polo Pony",
+    "price": "$82",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren-polo-pony-item-19516315.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/72/15/90/23721590_54059067_480.jpg",
+    "label": "TOTEME",
+    "name": "шелковая рубашка с геометричным принтом",
+    "price": "$614",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-23721590.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/72/80/23777280_53766968_480.jpg",
+    "label": "Casablanca",
+    "name": "футболка L'Arche De Nuit",
+    "price": "$256",
+    "url": "https://www.farfetch.com/kz/shopping/women/casablanca-larche-de-nuit-item-23777280.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/33/78/22023378_51990660_480.jpg",
+    "label": "TOTEME",
+    "name": "платье с открытыми плечами",
+    "price": "$322",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-22023378.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/09/21/21820921_53448703_480.jpg",
+    "label": "AMI Paris",
+    "name": "рубашка поло из органического хлопка с монограммой Ami de Coeur",
+    "price": "$117",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21820921.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/85/45/33/23854533_53945140_480.jpg",
+    "label": "Diesel",
+    "name": "футболка из органического хлопка с фотопринтом из коллаборации с ToFF",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-toff-item-23854533.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/45/31/19594531_44718304_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$126",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-19594531.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/40/80/59/22408059_52357324_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "блузка Matchmaker Diamante из смесового льна",
+    "price": "$429",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-matchmaker-diamante-item-22408059.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/14/06/48/16140648_30454890_480.jpg",
+    "label": "TOTEME",
+    "name": "футболка свободного кроя",
+    "price": "$72",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-16140648.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/57/83/55/22578355_52766085_480.jpg",
+    "label": "Jacquemus",
+    "name": "худи с вышитым логотипом",
+    "price": "$208",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus--item-22578355.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/76/39/23497639_53590673_480.jpg",
+    "label": "Versace",
+    "name": "худи Barocco со вставками",
+    "price": "$1,176",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-barocco-item-23497639.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/76/52/23497652_53615156_480.jpg",
+    "label": "Versace",
+    "name": "укороченный топ-бюстье Medusa '95",
+    "price": "$941",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-medusa-95-item-23497652.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/94/21819894_48164358_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с монограммой Ami de Coeur",
+    "price": "$176",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819894.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/99/50/30/22995030_53163296_480.jpg",
+    "label": "Jacquemus",
+    "name": "топ Pablo асимметричного кроя",
+    "price": "$512",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-pablo-item-22995030.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/45/12/19594512_43861021_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с монограммой Ami de Coeur",
+    "price": "$227",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-19594512.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/60/22/90/23602290_53683534_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "укороченный топ в горох",
+    "price": "$1,015",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-23602290.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/38/31/09/24383109_54432597_480.jpg",
+    "label": "ANINE BING",
+    "name": "футболка Kent Love",
+    "price": "$125",
+    "url": "https://www.farfetch.com/kz/shopping/women/anine-bing-kent-love-item-24383109.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/72/75/23777275_53767064_480.jpg",
+    "label": "Casablanca",
+    "name": "футболка Maison De Reve",
+    "price": "$235",
+    "url": "https://www.farfetch.com/kz/shopping/women/casablanca-maison-de-reve-item-23777275.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/09/98/36/22099836_52381979_480.jpg",
+    "label": "Versace",
+    "name": "укороченная джинсовая рубашка с вышитым логотипом",
+    "price": "$555",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace--item-22099836.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/91/09/93/23910993_53935963_480.jpg",
+    "label": "Alaïa",
+    "name": "рубашка с запахом",
+    "price": "$1,046",
+    "url": "https://www.farfetch.com/kz/shopping/women/alaia--item-23910993.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/37/21819937_48162862_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$107",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-21819937.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/24/97/76/20249776_50503252_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с вышитым логотипом",
+    "price": "$157",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-20249776.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/93/76/22619376_52653570_480.jpg",
+    "label": "Kenzo",
+    "name": "футболка Lucky Tiger",
+    "price": "$145",
+    "url": "https://www.farfetch.com/kz/shopping/women/kenzo-lucky-tiger-item-22619376.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/61/00/40/19610040_43794270_480.jpg",
+    "label": "Jacquemus",
+    "name": "трикотажный топ-бралетт Le Bandeau Pralu",
+    "price": "$89",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-le-bandeau-pralu-item-19610040.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/90/90/22709090_52919645_480.jpg",
+    "label": "Versace",
+    "name": "рубашка Barocco в клетку",
+    "price": "$999",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-barocco-item-22709090.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/86/68/21608668_51847515_480.jpg",
+    "label": "PINKO",
+    "name": "футболка с перьями и логотипом",
+    "price": "$291",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21608668.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/83/91/77/22839177_53023084_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "толстовка Polo Pony в полоску",
+    "price": "$139",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren-polo-pony-item-22839177.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/11/95/20251195_50739924_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка из органического хлопка с вышитым логотипом",
+    "price": "$157",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-20251195.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/12/42/53/37/12425337_54907460_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "футболка с логотипом",
+    "price": "$75",
+    "url": "https://www.farfetch.com/kz/shopping/women/comme-des-garcons-play--item-12425337.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/52/17/19595217_43856381_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка в двух тонах с монограммой Ami de Coeur",
+    "price": "$79",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-19595217.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/03/15/92/23031592_53744844_480.jpg",
+    "label": "Proenza Schouler",
+    "name": "топ Reagan",
+    "price": "$1,069",
+    "url": "https://www.farfetch.com/kz/shopping/women/proenza-schouler-reagan-item-23031592.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/10/78/23971078_54107620_480.jpg",
+    "label": "Balenciaga",
+    "name": "футболка Paris Liberty",
+    "price": "$786",
+    "url": "https://www.farfetch.com/kz/shopping/women/balenciaga-paris-liberty-item-23971078.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/88/15/77/22881577_52878644_480.jpg",
+    "label": "Jacquemus",
+    "name": "топ Le Haut Maestra без рукавов",
+    "price": "$347",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-le-haut-maestra-item-22881577.aspx"
   }
 ]

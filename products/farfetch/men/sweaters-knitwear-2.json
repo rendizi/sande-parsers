@@ -1,290 +1,1346 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/84/48/45/20844845_50923373_300.jpg",
-    "label": "Thom Browne",
-    "name": "4-Bar stripe cotton sweatshirt",
-    "price": "$354"
+    "image": "https://cdn-images.farfetch-contents.com/18/58/34/08/18583408_40116736_480.jpg",
+    "label": "Burberry",
+    "name": "худи с клетчатым капюшоном",
+    "price": "$894",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry--item-18583408.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/17/33/80/69/17338069_35900613_300.jpg",
-    "label": "Polo Ralph Lauren",
-    "name": "high-neck polo sweatshirt",
-    "price": "$145"
+    "image": "https://cdn-images.farfetch-contents.com/20/25/43/31/20254331_50270959_480.jpg",
+    "label": "Ea7 Emporio Armani",
+    "name": "спортивный костюм с логотипом",
+    "price": "$178",
+    "url": "https://www.farfetch.com/kz/shopping/men/ea7-emporio-armani--item-20254331.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/47/70/77/22477077_52468130_300.jpg",
-    "label": "Kenzo",
-    "name": "Varsity Tiger cotton sweatshirt",
-    "price": "$278"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/46/85/97/22468597_52374441_300.jpg",
-    "label": "Denim Tears",
-    "name": "printed \"Cotton Wreath\" hoodie",
-    "price": "$355"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/81/97/61/21819761_48164054_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/09/21823009_48163735_480.jpg",
     "label": "AMI Paris",
-    "name": "Ami De Coeur jumper",
-    "price": "$225"
+    "name": "толстовка с монограммой Ami de Coeur",
+    "price": "$189",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21823009.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/76/17/08/23761708_54386602_300.jpg",
-    "label": "Craig Green",
-    "name": "knitted vest",
-    "price": "$495"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/79/02/71/23790271_53900981_300.jpg",
-    "label": "Acne Studios",
-    "name": "abstract-print jumper",
-    "price": "$473"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/17/46/75/23174675_53494769_300.jpg",
-    "label": "Tommy Hilfiger",
-    "name": "logo-embroidered knitted hoodie",
-    "price": "$117"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/48/42/79/22484279_52573505_300.jpg",
-    "label": "Stone Island",
-    "name": "Compass-badge cotton hoodie",
-    "price": "$180"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/72/91/47/21729147_53537264_300.jpg",
-    "label": "Balenciaga",
-    "name": "logo-print cotton hoodie",
-    "price": "$1,144"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/69/31/33/22693133_52853820_300.jpg",
-    "label": "Polo Ralph Lauren",
-    "name": "Polo Pony-embroidered sweatshirt",
-    "price": "$183"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/81/96/19/23819619_53937865_300.jpg",
-    "label": "Courrèges",
-    "name": "logo-embroidered wool sweater",
-    "price": "$828"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/87/53/87/22875387_52964618_300.jpg",
-    "label": "Off-White",
-    "name": "graphic-print cotton hoodie",
-    "price": "$479"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/48/30/16/21483016_53096742_300.jpg",
-    "label": "OUR LEGACY",
-    "name": "patterned intarsia-knit jumper",
-    "price": "$148"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/88/10/66/22881066_52976464_300.jpg",
-    "label": "Palm Angels",
-    "name": "Seasonal logo-print hoodie",
-    "price": "$479"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/79/70/07/23797007_53805632_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/88/52/77/23885277_53960366_480.jpg",
     "label": "AMIRI",
-    "name": "Poison cotton T-shirt",
-    "price": "$1,025"
+    "name": "худи Bones Stacked",
+    "price": "$930",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-bones-stacked-item-23885277.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/83/30/48/21833048_52049984_300.jpg",
-    "label": "Off-White",
-    "name": "23 Varsity Skate cotton hoodie",
-    "price": "$433"
+    "image": "https://cdn-images.farfetch-contents.com/22/34/93/56/22349356_53610772_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "худи Polo Pony на молнии",
+    "price": "$212",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22349356.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/25/55/09/21255509_51996133_300.jpg",
-    "label": "Off-White",
-    "name": "23 Skate logo-embroidered sweatshirt",
-    "price": "$414"
+    "image": "https://cdn-images.farfetch-contents.com/24/01/90/49/24019049_54042618_480.jpg",
+    "label": "Marni",
+    "name": "джемпер в стиле колор-блок",
+    "price": "$1,251",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni--item-24019049.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/73/95/66/22739566_52792361_300.jpg",
-    "label": "Represent",
-    "name": "logo-print cotton sweatshirt",
-    "price": "$124"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/26/57/92/23265792_53908925_300.jpg",
-    "label": "AMIRI",
-    "name": "Arts District cotton jumper",
-    "price": "$1,071"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/68/30/21/23683021_53921061_300.jpg",
-    "label": "JW Anderson",
-    "name": "Anchor-logo drop-shoulder jumper",
-    "price": "$678"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/59/13/11/23591311_54065996_300.jpg",
-    "label": "Moncler",
-    "name": "stripe detail zip-up sweatshirt",
-    "price": "$700"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/95/98/06/17959806_42148564_300.jpg",
-    "label": "AMI Paris",
-    "name": "logo-intarsia knitted vest",
-    "price": "$216"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/60/71/69/23607169_53514106_300.jpg",
-    "label": "Supreme",
-    "name": "x MM6 Maison Margiela foil box logo hoodie",
-    "price": "$539"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/50/83/67/22508367_52512926_300.jpg",
-    "label": "Stone Island",
-    "name": "63051 Compass cotton sweatshirt",
-    "price": "$298"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/56/25/78/22562578_54225015_300.jpg",
-    "label": "Billionaire",
-    "name": "logo-embroidered tracksuit",
-    "price": "$1,147"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/97/22/75/22972275_54381760_300.jpg",
-    "label": "Balenciaga",
-    "name": "Tape Type cotton sweatshirt",
-    "price": "$1,278"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/81/97/64/21819764_48165244_300.jpg",
-    "label": "AMI Paris",
-    "name": "Ami De Coeur wool jumper",
-    "price": "$182"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/25/11/84/20251184_50738963_300.jpg",
-    "label": "AMI Paris",
-    "name": "intarsia-logo wool jumper",
-    "price": "$398"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/56/75/50/24567550_54667555_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/24/56/75/50/24567550_54667555_480.jpg",
     "label": "Casablanca",
-    "name": "Casa Crest-embroidered sweatshirt",
-    "price": "$485"
+    "name": "толстовка с вышивкой Casa Crest",
+    "price": "$485",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-casa-crest-item-24567550.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/35/67/54/22356754_52496301_300.jpg",
-    "label": "Jacquemus",
-    "name": "Le Brode cotton sweatshirt",
-    "price": "$253"
+    "image": "https://cdn-images.farfetch-contents.com/23/03/55/87/23035587_53245455_480.jpg",
+    "label": "Rick Owens DRKSHDW",
+    "name": "худи Lido Mountain",
+    "price": "$620",
+    "url": "https://www.farfetch.com/kz/shopping/men/rick-owens-drkshdw-lido-mountain-item-23035587.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/71/76/81/21717681_52485234_300.jpg",
-    "label": "Diesel",
-    "name": "K-Zeros logo-jacquard sweatshirt",
-    "price": "$212"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/55/19/93/23551993_53548165_300.jpg",
-    "label": "Maison Kitsuné",
-    "name": "fox-motif knitted jumper",
-    "price": "$283"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/82/30/05/21823005_48164590_300.jpg",
-    "label": "AMI Paris",
-    "name": "Ami De Coeur sweatshirt",
-    "price": "$145"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/96/13/45/17961345_40017051_300.jpg",
-    "label": "AMI Paris",
-    "name": "logo-intarsia knitted vest",
-    "price": "$216"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/78/81/83/22788183_52913163_300.jpg",
-    "label": "BOSS",
-    "name": "high-neck cotton cardigan",
-    "price": "$130"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/20/84/73/23208473_53250465_300.jpg",
-    "label": "FEAR OF GOD ESSENTIALS",
-    "name": "Essentials cotton-blend hoodie",
-    "price": "$113"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/10/16/88/24101688_54112081_300.jpg",
-    "label": "DRIES VAN NOTEN",
-    "name": "zipped wool jumper",
-    "price": "$953"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/07/43/98/23074398_54066206_300.jpg",
-    "label": "Palm Angels",
-    "name": "logo-print cotton sweatshirt",
-    "price": "$435"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/15/39/60/22153960_52097003_300.jpg",
-    "label": "Versace",
-    "name": "Medusa cable-knit jumper",
-    "price": "$577"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/18/93/18/81/18931881_41264917_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/84/10/82/22841082_52805121_480.jpg",
     "label": "Polo Ralph Lauren",
-    "name": "Pony logo zip-up hoodie",
-    "price": "$205"
+    "name": "толстовка Teddy Bear",
+    "price": "$133",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-teddy-bear-item-22841082.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/97/41/61/23974161_54349463_300.jpg",
-    "label": "AMI Paris",
-    "name": "Bleu Blanc Rouge Ami hoodie",
-    "price": "$335"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/34/93/56/22349356_53610772_300.jpg",
-    "label": "Polo Ralph Lauren",
-    "name": "Polo Pony zip-up cotton hoodie",
-    "price": "$212"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/81/97/63/21819763_48163614_300.jpg",
-    "label": "AMI Paris",
-    "name": "Ami De Coeur jumper",
-    "price": "$189"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/96/06/59/17960659_40336088_300.jpg",
-    "label": "AMI Paris",
-    "name": "Ami de Coeur embroidered hoodie",
-    "price": "$242"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/65/20/09/23652009_53877651_300.jpg",
-    "label": "DSQUARED2",
-    "name": "logo-print knitted jumper",
-    "price": "$577"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/22/78/00/24227800_54275085_300.jpg",
-    "label": "RHUDE",
-    "name": "graphic-print cotton sweatshirt",
-    "price": "$518"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/67/79/03/22677903_52689778_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/52/20/43/22522043_52516995_480.jpg",
     "label": "Stone Island",
-    "name": "Compass-badge cotton sweatshirt",
-    "price": "$240"
+    "name": "толстовка с нашивкой Compass",
+    "price": "$320",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22522043.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/99/09/97/23990997_54084780_480.jpg",
+    "label": "Ferrari",
+    "name": "толстовка с логотипом",
+    "price": "$683",
+    "url": "https://www.farfetch.com/kz/shopping/men/ferrari--item-23990997.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/83/16/76/22831676_52858327_480.jpg",
+    "label": "John Elliott",
+    "name": "фактурное худи из шерсти мериноса",
+    "price": "$323",
+    "url": "https://www.farfetch.com/kz/shopping/men/john-elliott--item-22831676.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/49/76/24/17497624_36427348_480.jpg",
+    "label": "Ea7 Emporio Armani",
+    "name": "спортивный костюм с логотипом",
+    "price": "$184",
+    "url": "https://www.farfetch.com/kz/shopping/men/ea7-emporio-armani--item-17497624.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/79/73/71/22797371_52852337_480.jpg",
+    "label": "Stone Island",
+    "name": "джемпер с логотипом Compass",
+    "price": "$559",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22797371.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/87/45/92/23874592_54030172_480.jpg",
+    "label": "Jil Sander",
+    "name": "джемпер в рубчик с высоким воротником",
+    "price": "$1,372",
+    "url": "https://www.farfetch.com/kz/shopping/men/jil-sander--item-23874592.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/01/21819801_49111508_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер в рубчик с отложным воротником",
+    "price": "$317",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819801.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/45/60/52/22456052_53419753_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "худи с логотипом Polo Pony",
+    "price": "$142",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22456052.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/51/88/19595188_43910326_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с длинными рукавами и монограммой Ami de Coeur",
+    "price": "$242",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-19595188.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/76/81/21717681_52485234_480.jpg",
+    "label": "Diesel",
+    "name": "толстовка K-Zeros из джерси",
+    "price": "$212",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-k-zeros-item-21717681.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/69/26/38/22692638_53084994_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "толстовка с воротником на молнии",
+    "price": "$128",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-22692638.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/31/45/27/24314527_54682785_480.jpg",
+    "label": "Zegna",
+    "name": "кашемировый свитер",
+    "price": "$1,515",
+    "url": "https://www.farfetch.com/kz/shopping/men/zegna--item-24314527.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/50/83/67/22508367_52512926_480.jpg",
+    "label": "Stone Island",
+    "name": "толстовка 63051 Compass",
+    "price": "$224",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-63051-compass-item-22508367.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/37/07/23973707_54175980_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с монограммой Ami de Coeur",
+    "price": "$241",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23973707.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/97/01/22709701_53088084_480.jpg",
+    "label": "Alexander Wang",
+    "name": "рубашка с тисненым логотипом",
+    "price": "$270",
+    "url": "https://www.farfetch.com/kz/shopping/men/alexander-wang--item-22709701.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/45/12/19594512_43861021_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с монограммой Ami de Coeur",
+    "price": "$227",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-19594512.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/68/21820868_48162900_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной кардиган с монограммой Ami de Coeur",
+    "price": "$248",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21820868.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/22/77/96/24227796_54275087_480.jpg",
+    "label": "RHUDE",
+    "name": "толстовка с принтом Cross",
+    "price": "$357",
+    "url": "https://www.farfetch.com/kz/shopping/men/rhude-cross-item-24227796.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/11/66/23971166_54107689_480.jpg",
+    "label": "Balenciaga",
+    "name": "худи Paris Liberty с эффектом потертости",
+    "price": "$1,170",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga-paris-liberty-item-23971166.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/77/30/09/24773009_54905838_480.jpg",
+    "label": "Gucci",
+    "name": "толстовка с принтом",
+    "price": "$940",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci--item-24773009.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/66/21819766_49110075_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с монограммой Ami De Coeur",
+    "price": "$272",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819766.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/94/97/33/16949733_36120115_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "толстовка с вышитым логотипом",
+    "price": "$198",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-16949733.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/95/97/76/22959776_53258156_480.jpg",
+    "label": "Lacoste",
+    "name": "толстовка на молнии с нашивкой-логотипом",
+    "price": "$254",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-22959776.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/63/21820863_48165050_480.jpg",
+    "label": "AMI Paris",
+    "name": "кардиган с монограммой Ami de Coeur",
+    "price": "$215",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21820863.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/48/41/22704841_52747742_480.jpg",
+    "label": "Diesel",
+    "name": "худи S-Strahoop-N1 с эффектом потертости",
+    "price": "$233",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-s-strahoop-n1-item-22704841.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/45/04/23444504_53525433_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "худи с логотипом VLogo",
+    "price": "$895",
+    "url": "https://www.farfetch.com/kz/shopping/men/valentino-garavani-vlogo-item-23444504.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/58/90/21715890_52182497_480.jpg",
+    "label": "Diesel",
+    "name": "худи S-Boxt-Hood-N9 с эффектом потертости",
+    "price": "$241",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-s-boxt-hood-n9-item-21715890.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/60/21819760_52433277_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной джемпер с монограммой Ami de Coeur",
+    "price": "$416",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819760.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/91/84/22709184_52812925_480.jpg",
+    "label": "Stone Island",
+    "name": "толстовка с нашивкой Compass",
+    "price": "$337",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22709184.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/65/86/75/22658675_52662628_480.jpg",
+    "label": "Stone Island",
+    "name": "джемпер из букле с логотипом Compass",
+    "price": "$277",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22658675.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/66/55/39/22665539_52684146_480.jpg",
+    "label": "Off-White",
+    "name": "худи с вышитым логотипом Arrows",
+    "price": "$730",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white-arrows-item-22665539.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/07/42/68/23074268_54064203_480.jpg",
+    "label": "Palm Angels",
+    "name": "толстовка с логотипом",
+    "price": "$332",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-23074268.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/78/21820878_48164681_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер в горизонтальную полоску",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820878.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/68/20/04/23682004_54448240_480.jpg",
+    "label": "JW Anderson",
+    "name": "джемпер с капюшоном",
+    "price": "$613",
+    "url": "https://www.farfetch.com/kz/shopping/men/jw-anderson--item-23682004.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/17/16/94/19171694_42245045_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "худи с кулиской и логотипом",
+    "price": "$878",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-19171694.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/68/30/21/23683021_53921061_480.jpg",
+    "label": "JW Anderson",
+    "name": "джемпер с приспущенными плечами и логотипом Anchor",
+    "price": "$678",
+    "url": "https://www.farfetch.com/kz/shopping/men/jw-anderson-anchor-item-23683021.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/53/29/22/22532922_52517599_480.jpg",
+    "label": "Stone Island",
+    "name": "толстовка с нашивкой Compass",
+    "price": "$256",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22532922.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/57/89/25/22578925_52788426_480.jpg",
+    "label": "BARROW",
+    "name": "худи с фактурным логотипом",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/men/barrow--item-22578925.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/65/20/09/23652009_53877651_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джемпер с логотипом",
+    "price": "$577",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-23652009.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/97/22/75/22972275_54381760_480.jpg",
+    "label": "Balenciaga",
+    "name": "футболка Tape Type",
+    "price": "$1,278",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga-tape-type-item-22972275.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/80/21820880_48165194_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной джемпер с монограммой Ami de Coeur",
+    "price": "$182",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21820880.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/38/40/22613840_52750705_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "худи с вышитым логотипом",
+    "price": "$133",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-22613840.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/44/83/19594483_43858374_480.jpg",
+    "label": "AMI Paris",
+    "name": "жилет с логотипом",
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-19594483.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/01/40/42/24014042_54151934_480.jpg",
+    "label": "Off-White",
+    "name": "джемпер вязки интарсия с логотипом",
+    "price": "$711",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white--item-24014042.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/98/18/74/23981874_54004478_480.jpg",
+    "label": "Marni",
+    "name": "толстовка с логотипом",
+    "price": "$480",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni--item-23981874.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/67/79/03/22677903_52689778_480.jpg",
+    "label": "Stone Island",
+    "name": "толстовка с нашивкой Compass",
+    "price": "$299",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22677903.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/01/02/19/24010219_54091312_480.jpg",
+    "label": "Burberry",
+    "name": "толстовка с принтом EKD",
+    "price": "$608",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-ekd-item-24010219.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/37/59/23973759_54135889_480.jpg",
+    "label": "AMI Paris",
+    "name": "свитер с монограммой Ami de Coeur",
+    "price": "$375",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23973759.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/92/75/06/23927506_54028489_480.jpg",
+    "label": "Stone Island",
+    "name": "толстовка с нашивкой Compass",
+    "price": "$275",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-23927506.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/61/21820861_52437020_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной кардиган с монограммой Ami de Coeur",
+    "price": "$476",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21820861.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/96/21819896_48164359_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с монограммой Ami de Coeur",
+    "price": "$249",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819896.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/50/65/42/22506542_52513742_480.jpg",
+    "label": "Stone Island",
+    "name": "толстовка 63051 Compass",
+    "price": "$299",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-63051-compass-item-22506542.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/03/37/23790337_54310210_480.jpg",
+    "label": "Acne Studios",
+    "name": "кардиган на молнии",
+    "price": "$493",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-23790337.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/53/30/51/22533051_52510389_480.jpg",
+    "label": "Jacquemus",
+    "name": "топ Le Hoodie Gros Grain",
+    "price": "$214",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-le-hoodie-gros-grain-item-22533051.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/57/83/55/22578355_52766085_480.jpg",
+    "label": "Jacquemus",
+    "name": "худи с вышитым логотипом",
+    "price": "$208",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus--item-22578355.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/35/67/54/22356754_52496301_480.jpg",
+    "label": "Jacquemus",
+    "name": "толстовка Le Corto",
+    "price": "$253",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-le-corto-item-22356754.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/45/56/42/22455642_52381743_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "джемпер Polo Pony из смесовой шерсти",
+    "price": "$201",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22455642.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/50/55/21/15505521_31217944_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "худи с вышитым логотипом",
+    "price": "$140",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-15505521.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/50/57/09/20505709_50621898_480.jpg",
+    "label": "BOSS",
+    "name": "толстовка с логотипом",
+    "price": "$88",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-20505709.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/27/21/22872721_52969546_480.jpg",
+    "label": "Fear Of God",
+    "name": "шерстяной джемпер из ткани букле",
+    "price": "$1,194",
+    "url": "https://www.farfetch.com/kz/shopping/men/fear-of-god--item-22872721.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/67/21820867_48163517_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной кардиган с монограммой Ami de Coeur",
+    "price": "$248",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21820867.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/78/62/13/23786213_53836056_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "худи с вышитым логотипом",
+    "price": "$1,046",
+    "url": "https://www.farfetch.com/kz/shopping/men/alexander-mcqueen--item-23786213.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/69/59/93/22695993_52955482_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "толстовка Polo Pony",
+    "price": "$189",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22695993.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/22/63/21612263_51939869_480.jpg",
+    "label": "Diesel",
+    "name": "толстовка K-Osbert",
+    "price": "$206",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-k-osbert-item-21612263.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/81/96/19/23819619_53937865_480.jpg",
+    "label": "Courrèges",
+    "name": "шерстяной свитер с вышитым логотипом",
+    "price": "$828",
+    "url": "https://www.farfetch.com/kz/shopping/men/courreges--item-23819619.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/26/57/92/23265792_53908925_480.jpg",
+    "label": "AMIRI",
+    "name": "джемпер Arts District",
+    "price": "$1,071",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-arts-district-item-23265792.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/51/71/19595171_43858901_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с принтом Paris France",
+    "price": "$182",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-paris-france-item-19595171.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/24/78/22/21247822_52632877_480.jpg",
+    "label": "Diesel",
+    "name": "куртка S-Raband с вышитым логотипом",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-s-raband-item-21247822.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/77/36/44/22773644_52794362_480.jpg",
+    "label": "Kenzo",
+    "name": "толстовка Lucky Tiger",
+    "price": "$267",
+    "url": "https://www.farfetch.com/kz/shopping/men/kenzo-lucky-tiger-item-22773644.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/03/73/20250373_54928947_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной кардиган с монограммой Ami de Coeur",
+    "price": "$451",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-20250373.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/38/81/23973881_54137790_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с воротником поло и монограммой Ami De Coeur",
+    "price": "$577",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23973881.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/63/91/80/22639180_52628391_480.jpg",
+    "label": "Denim Tears",
+    "name": "худи с принтом",
+    "price": "$795",
+    "url": "https://www.farfetch.com/kz/shopping/men/denim-tears--item-22639180.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/45/07/19594507_43856845_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с монограммой Ami de Coeur",
+    "price": "$198",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-19594507.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/11/21823011_53101959_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с логотипом",
+    "price": "$176",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21823011.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/31/93/53/24319353_54868436_480.jpg",
+    "label": "Jacquemus",
+    "name": "рубашка поло Le Polo Tricot",
+    "price": "$518",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-le-polo-tricot-item-24319353.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/05/21823005_48164590_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с монограммой Ami de Coeur",
+    "price": "$145",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21823005.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/72/91/47/21729147_53537264_480.jpg",
+    "label": "Balenciaga",
+    "name": "худи с логотипом",
+    "price": "$1,144",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-21729147.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/41/65/69/20416569_51033969_480.jpg",
+    "label": "HUGO",
+    "name": "спортивный костюм с логотипом",
+    "price": "$223",
+    "url": "https://www.farfetch.com/kz/shopping/men/hugo--item-20416569.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/00/61/20250061_50522268_480.jpg",
+    "label": "AMI Paris",
+    "name": "кашемировый джемпер с вышитым логотипом",
+    "price": "$316",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-20250061.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/78/81/83/22788183_52913163_480.jpg",
+    "label": "BOSS",
+    "name": "кардиган с высоким воротником",
+    "price": "$130",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-22788183.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/20/58/23/24205823_54647885_480.jpg",
+    "label": "Jacquemus",
+    "name": "кардиган на пуговицах",
+    "price": "$676",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus--item-24205823.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/70/07/23797007_53805632_480.jpg",
+    "label": "AMIRI",
+    "name": "футболка Poison",
+    "price": "$1,025",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-poison-item-23797007.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/31/04/59/23310459_53398485_480.jpg",
+    "label": "Stone Island",
+    "name": "джемпер с короткой молнией и логотипом",
+    "price": "$441",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island--item-23310459.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/51/81/60/24518160_54712857_480.jpg",
+    "label": "Jacquemus",
+    "name": "свитер Le pull Jacquemus",
+    "price": "$618",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-le-pull-jacquemus-item-24518160.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/10/37/29/24103729_54601203_480.jpg",
+    "label": "Missoni",
+    "name": "рубашка поло из вирджинской шерсти с узором зигзаг",
+    "price": "$754",
+    "url": "https://www.farfetch.com/kz/shopping/men/missoni--item-24103729.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/63/43/19/20634319_50721401_480.jpg",
+    "label": "BOSS",
+    "name": "худи с логотипом",
+    "price": "$211",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-20634319.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/14/00/98/24140098_54624297_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "кашемировый свитер с высоким воротником",
+    "price": "$1,413",
+    "url": "https://www.farfetch.com/kz/shopping/men/brunello-cucinelli--item-24140098.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/16/21823016_52431675_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи на молнии с монограммой Ami de Coeur",
+    "price": "$218",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21823016.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/06/59/17960659_40336088_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с монограммой Ami de Coeur",
+    "price": "$242",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-17960659.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/35/01/09/22350109_52401582_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "джемпер Polo Pony с воротником на молнии",
+    "price": "$215",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22350109.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/01/92/84/24019284_54251726_480.jpg",
+    "label": "Off-White",
+    "name": "джемпер с логотипом",
+    "price": "$1,087",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white--item-24019284.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/29/72/77/21297277_53368710_480.jpg",
+    "label": "Marine Serre",
+    "name": "худи с принтом",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/men/marine-serre--item-21297277.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/98/21819798_52629586_480.jpg",
+    "label": "AMI Paris",
+    "name": "полосатый джемпер с воротником поло",
+    "price": "$252",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819798.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/37/10/23973710_54176053_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с монограммой Ami de Coeur",
+    "price": "$501",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23973710.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/11/27/69/24112769_54198901_480.jpg",
+    "label": "Stone Island",
+    "name": "джемпер с нашивкой Compass",
+    "price": "$398",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-24112769.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/50/76/19595076_44717943_480.jpg",
+    "label": "AMI Paris",
+    "name": "трикотажный жилет с вышитым логотипом",
+    "price": "$202",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-19595076.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/22/67/81/24226781_54275738_480.jpg",
+    "label": "RHUDE",
+    "name": "худи Vintage Racer",
+    "price": "$691",
+    "url": "https://www.farfetch.com/kz/shopping/men/rhude-vintage-racer-item-24226781.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/17/61/53/24176153_54280778_480.jpg",
+    "label": "Y-3",
+    "name": "худи с принтом из коллаборации с Japanese Football Association",
+    "price": "$189",
+    "url": "https://www.farfetch.com/kz/shopping/men/y-3-japanese-football-association-item-24176153.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/59/13/11/23591311_54065996_480.jpg",
+    "label": "Moncler",
+    "name": "толстовка на молнии с отделкой в полоску",
+    "price": "$700",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler--item-23591311.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/13/28/57/45/13285745_15170218_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "худи с логотипом",
+    "price": "$240",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-play--item-13285745.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/15/11/10/17151110_44855711_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с монограммой Ami de Coeur",
+    "price": "$198",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-17151110.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/01/30/99/24013099_54044330_480.jpg",
+    "label": "DRIES VAN NOTEN",
+    "name": "джемпер в стиле колор-блок из шерсти мериноса",
+    "price": "$779",
+    "url": "https://www.farfetch.com/kz/shopping/men/dries-van-noten--item-24013099.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/22/87/75/24228775_54457730_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "кашемировый свитер",
+    "price": "$1,247",
+    "url": "https://www.farfetch.com/kz/shopping/men/brunello-cucinelli--item-24228775.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/26/93/19592693_43858827_480.jpg",
+    "label": "AMI Paris",
+    "name": "жилет с логотипом",
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-19592693.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/50/63/19595063_43860394_480.jpg",
+    "label": "AMI Paris",
+    "name": "кардиган с монограммой Ami de Coeur",
+    "price": "$301",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-19595063.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/77/36/61/22773661_52795332_480.jpg",
+    "label": "Kenzo",
+    "name": "толстовка Lucky Tiger",
+    "price": "$182",
+    "url": "https://www.farfetch.com/kz/shopping/men/kenzo-lucky-tiger-item-22773661.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/93/18/81/18931881_41264917_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "худи Pony на молнии с логотипом",
+    "price": "$205",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-pony-item-18931881.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/11/84/20251184_50738963_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной джемпер вязки интарсия с логотипом",
+    "price": "$398",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-20251184.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/53/87/22875387_52964618_480.jpg",
+    "label": "Off-White",
+    "name": "худи с графичным принтом",
+    "price": "$479",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white--item-22875387.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/99/21819899_49102276_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с логотипом",
+    "price": "$212",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819899.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/92/62/57/21926257_51810342_480.jpg",
+    "label": "Walter Van Beirendonck",
+    "name": "шерстяной джемпер Viper вязки интарсия",
+    "price": "$548",
+    "url": "https://www.farfetch.com/kz/shopping/men/walter-van-beirendonck-viper-item-21926257.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/51/66/19595166_44716276_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с монограммой Ami de Coeur",
+    "price": "$239",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-19595166.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/07/21823007_48164278_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с монограммой Ami de Coeur",
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21823007.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/56/11/22615611_52738907_480.jpg",
+    "label": "BOSS",
+    "name": "джемпер тонкой вязки с воротником поло",
+    "price": "$108",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-22615611.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/11/55/20251155_54167892_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи из органического хлопка с монограммой Ami de Coeur",
+    "price": "$304",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-20251155.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/58/93/70/24589370_55074223_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "худи из джерси",
+    "price": "$1,068",
+    "url": "https://www.farfetch.com/kz/shopping/men/brunello-cucinelli--item-24589370.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/43/70/22/22437022_52414882_480.jpg",
+    "label": "Off-White",
+    "name": "толстовка с принтом Bacchus",
+    "price": "$414",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white-bacchus-item-22437022.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/36/69/92/22366992_53090523_480.jpg",
+    "label": "Gucci",
+    "name": "худи с логотипом",
+    "price": "$1,170",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci--item-22366992.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/95/99/09/23959909_54023286_480.jpg",
+    "label": "LEMAIRE",
+    "name": "джемпер с высоким воротником",
+    "price": "$468",
+    "url": "https://www.farfetch.com/kz/shopping/men/lemaire--item-23959909.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/95/98/06/17959806_42148564_480.jpg",
+    "label": "AMI Paris",
+    "name": "жилет с логотипом",
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-17959806.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/46/90/60/22469060_52374270_480.jpg",
+    "label": "Denim Tears",
+    "name": "худи с принтом Cotton Wreath",
+    "price": "$621",
+    "url": "https://www.farfetch.com/kz/shopping/men/denim-tears-cotton-wreath-item-22469060.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/02/51/03/23025103_53830945_480.jpg",
+    "label": "Balenciaga",
+    "name": "худи Business English с логотипом",
+    "price": "$1,620",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga-business-english-item-23025103.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/04/69/23790469_54976642_480.jpg",
+    "label": "Acne Studios",
+    "name": "свитер с контрастными полосками",
+    "price": "$654",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-23790469.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/58/89/59/22588959_52522114_480.jpg",
+    "label": "Maison Margiela",
+    "name": "толстовка Handwritten",
+    "price": "$1,142",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela-handwritten-item-22588959.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/66/15/42/22661542_52659034_480.jpg",
+    "label": "RHUDE",
+    "name": "худи с логотипом",
+    "price": "$465",
+    "url": "https://www.farfetch.com/kz/shopping/men/rhude--item-22661542.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/24/42/22612442_52645367_480.jpg",
+    "label": "Vivienne Westwood",
+    "name": "худи Time Machine",
+    "price": "$265",
+    "url": "https://www.farfetch.com/kz/shopping/men/vivienne-westwood-time-machine-item-22612442.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/03/17/23790317_54430641_480.jpg",
+    "label": "Acne Studios",
+    "name": "свитер вязки интарсия",
+    "price": "$594",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-23790317.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/18/21823018_48164124_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с монограммой Ami de Coeur",
+    "price": "$282",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21823018.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/41/61/23974161_54349463_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи Bleu Blanc Rouge Ami",
+    "price": "$335",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-bleu-blanc-rouge-ami-item-23974161.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/28/00/85/24280085_54494110_480.jpg",
+    "label": "Stone Island",
+    "name": "толстовка с вышивкой Compass",
+    "price": "$319",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-24280085.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/00/21819800_49109835_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с монограммой Ami-de-Coeur",
+    "price": "$317",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819800.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/84/03/19/23840319_54977674_480.jpg",
+    "label": "Acne Studios",
+    "name": "свитер с эффектом потертости и логотипом",
+    "price": "$423",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-23840319.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/04/71/70/23047170_53206839_480.jpg",
+    "label": "A-COLD-WALL*",
+    "name": "худи Brushstroke",
+    "price": "$497",
+    "url": "https://www.farfetch.com/kz/shopping/men/a-cold-wall-brushstroke-item-23047170.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/66/92/07/24669207_54970077_480.jpg",
+    "label": "Versace",
+    "name": "толстовка с принтом Medusa Medallion",
+    "price": "$925",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-medusa-medallion-item-24669207.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/64/21819764_48165244_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной джемпер с монограммой Ami de Coeur",
+    "price": "$182",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819764.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/08/41/06/24084106_54146717_480.jpg",
+    "label": "Balenciaga",
+    "name": "худи Beverly Hills с вышивкой",
+    "price": "$930",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga-beverly-hills-item-24084106.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/10/17/03/24101703_54111254_480.jpg",
+    "label": "DRIES VAN NOTEN",
+    "name": "шерстяной джемпер на пуговицах",
+    "price": "$953",
+    "url": "https://www.farfetch.com/kz/shopping/men/dries-van-noten--item-24101703.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/07/44/31/23074431_54065976_480.jpg",
+    "label": "Palm Angels",
+    "name": "джемпер Palm с меланжевым эффектом",
+    "price": "$768",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels-palm-item-23074431.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/62/21/11/22622111_52635957_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "худи с принтом Polo Bear",
+    "price": "$187",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-bear-item-22622111.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/46/85/97/22468597_52374441_480.jpg",
+    "label": "Denim Tears",
+    "name": "худи с принтом Cotton Wreath",
+    "price": "$355",
+    "url": "https://www.farfetch.com/kz/shopping/men/denim-tears-cotton-wreath-item-22468597.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/50/33/77/22503377_52496692_480.jpg",
+    "label": "Jacquemus",
+    "name": "топ Le Hoodie Gros Grain с логотипом",
+    "price": "$327",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-le-hoodie-gros-grain-item-22503377.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/62/21820862_52440105_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяной кардиган с монограммой Ami de Coeur",
+    "price": "$316",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21820862.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/95/98/66/17959866_40068003_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с логотипом",
+    "price": "$323",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-17959866.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/13/21823013_49101723_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с монограммой Ami de Coeur",
+    "price": "$203",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21823013.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/86/52/83/16865283_33800656_480.jpg",
+    "label": "Palm Angels",
+    "name": "худи с принтом",
+    "price": "$487",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-16865283.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/58/59/78/22585978_52608484_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсовая толстовка Cipro",
+    "price": "$544",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-cipro-item-22585978.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/23/11/32/24231132_54342255_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "джемпер из вирджинской шерсти с V-образным вырезом",
+    "price": "$1,133",
+    "url": "https://www.farfetch.com/kz/shopping/men/valentino-garavani-v-item-24231132.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/30/71/57/24307157_54500278_480.jpg",
+    "label": "Stone Island",
+    "name": "свитер с нашивкой Compass",
+    "price": "$554",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-24307157.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/53/17/10/22531710_52555966_480.jpg",
+    "label": "Jacquemus",
+    "name": "худи Le Sweater Camargue Zippé",
+    "price": "$349",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-le-sweater-camargue-zippe-item-22531710.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/10/06/70/24100670_54111210_480.jpg",
+    "label": "DRIES VAN NOTEN",
+    "name": "шерстяной джемпер с графичным принтом",
+    "price": "$1,200",
+    "url": "https://www.farfetch.com/kz/shopping/men/dries-van-noten--item-24100670.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/21/47/10/24214710_54235600_480.jpg",
+    "label": "Burberry",
+    "name": "джемпер EKD в полоску",
+    "price": "$894",
+    "url": "https://www.farfetch.com/kz/shopping/men/burberry-ekd-item-24214710.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/07/43/98/23074398_54066206_480.jpg",
+    "label": "Palm Angels",
+    "name": "толстовка с логотипом",
+    "price": "$435",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-23074398.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/86/13/18/22861318_52970145_480.jpg",
+    "label": "Stone Island",
+    "name": "толстовка с логотипом",
+    "price": "$201",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island--item-22861318.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/05/21819905_48164640_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с монограммой Ami de Coeur",
+    "price": "$168",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819905.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/65/21/67/22652167_52718560_480.jpg",
+    "label": "Represent",
+    "name": "худи Owners Club",
+    "price": "$144",
+    "url": "https://www.farfetch.com/kz/shopping/men/represent-owners-club-item-22652167.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/10/16/88/24101688_54112081_480.jpg",
+    "label": "DRIES VAN NOTEN",
+    "name": "шерстяной джемпер на молнии",
+    "price": "$953",
+    "url": "https://www.farfetch.com/kz/shopping/men/dries-van-noten--item-24101688.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/90/11/38/22901138_53093138_480.jpg",
+    "label": "Represent",
+    "name": "толстовка Owners' Club",
+    "price": "$119",
+    "url": "https://www.farfetch.com/kz/shopping/men/represent-owners-club-item-22901138.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/51/79/19595179_43865810_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с длинными рукавами и монограммой Ami de Coeur",
+    "price": "$227",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-19595179.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/58/21819758_48164026_480.jpg",
+    "label": "AMI Paris",
+    "name": "кардиган с монограммой Ami de Coeur",
+    "price": "$215",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819758.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/02/71/23790271_53900981_480.jpg",
+    "label": "Acne Studios",
+    "name": "джемпер с абстрактным принтом",
+    "price": "$473",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-23790271.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/21/86/43/24218643_54276269_480.jpg",
+    "label": "TOM FORD",
+    "name": "толстовка с воротником поло",
+    "price": "$767",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-24218643.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/93/28/53/23932853_54084248_480.jpg",
+    "label": "Marni",
+    "name": "джемпер Shetland с прорезями",
+    "price": "$891",
+    "url": "https://www.farfetch.com/kz/shopping/men/marni-shetland-item-23932853.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/91/39/41/23913941_54040145_480.jpg",
+    "label": "HUGO",
+    "name": "толстовка с абстрактным принтом и логотипом",
+    "price": "$115",
+    "url": "https://www.farfetch.com/kz/shopping/men/hugo--item-23913941.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/61/21819761_48164054_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с монограммой Ami De Coeur",
+    "price": "$226",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819761.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/24/97/81/20249781_53719270_480.jpg",
+    "label": "AMI Paris",
+    "name": "толстовка с монограммой Ami de Coeur",
+    "price": "$169",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-20249781.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/43/53/94/22435394_52401075_480.jpg",
+    "label": "Stone Island",
+    "name": "худи с нашивкой Compass",
+    "price": "$258",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22435394.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/38/70/20/24387020_54643745_480.jpg",
+    "label": "AMIRI",
+    "name": "худи с вышивкой Shotgun",
+    "price": "$1,069",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-shotgun-item-24387020.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/57/46/23975746_54138783_480.jpg",
+    "label": "AMIRI",
+    "name": "худи с логотипом",
+    "price": "$922",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri--item-23975746.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/30/61/17/20306117_50362014_480.jpg",
+    "label": "Rick Owens X Champion",
+    "name": "толстовка с вышитым логотипом",
+    "price": "$327",
+    "url": "https://www.farfetch.com/kz/shopping/men/rick-owens-x-champion--item-20306117.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/63/21819763_48163614_480.jpg",
+    "label": "AMI Paris",
+    "name": "джемпер с монограммой Ami De Coeur",
+    "price": "$189",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819763.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/13/45/17961345_40017051_480.jpg",
+    "label": "AMI Paris",
+    "name": "жилет вязки интарсия с логотипом",
+    "price": "$216",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-17961345.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/15/68/10/20156810_50490925_480.jpg",
+    "label": "Acne Studios",
+    "name": "худи с нашивкой-логотипом",
+    "price": "$392",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-20156810.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/84/26/23498426_53615144_480.jpg",
+    "label": "Versace",
+    "name": "джемпер Shell Blasone с вышивкой",
+    "price": "$1,310",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-shell-blasone-item-23498426.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/71/80/03/22718003_52760124_480.jpg",
+    "label": "Diesel",
+    "name": "худи S-Boxt-Hood-N8",
+    "price": "$119",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-s-boxt-hood-n8-item-22718003.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/22/78/00/24227800_54275085_480.jpg",
+    "label": "RHUDE",
+    "name": "толстовка с графичным принтом",
+    "price": "$518",
+    "url": "https://www.farfetch.com/kz/shopping/men/rhude--item-24227800.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/77/74/14/24777414_54976518_480.jpg",
+    "label": "Kenzo",
+    "name": "толстовка Lucky Tiger",
+    "price": "$364",
+    "url": "https://www.farfetch.com/kz/shopping/men/kenzo-lucky-tiger-item-24777414.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/23/04/59/24230459_54412517_480.jpg",
+    "label": "Stone Island",
+    "name": "худи с нашивкой Compass",
+    "price": "$359",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-24230459.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/98/94/21819894_48164358_480.jpg",
+    "label": "AMI Paris",
+    "name": "худи с монограммой Ami de Coeur",
+    "price": "$176",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819894.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/85/45/32/23854532_53944960_480.jpg",
+    "label": "Diesel",
+    "name": "худи с фотопринтом из коллаборации с ToFF",
+    "price": "$337",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-toff-item-23854532.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/03/05/52/22030552_52640247_480.jpg",
+    "label": "Palm Angels",
+    "name": "толстовка на молнии с вышитым логотипом",
+    "price": "$321",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-22030552.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/52/16/39/22521639_52518954_480.jpg",
+    "label": "Stone Island",
+    "name": "толстовка с нашивкой Compass",
+    "price": "$240",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22521639.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/95/98/59/17959859_38599533_480.jpg",
+    "label": "AMI Paris",
+    "name": "полосатый джемпер с монограммой Ami de Coeur",
+    "price": "$279",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-17959859.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/81/61/51/24816151_55039355_480.jpg",
+    "label": "Casablanca",
+    "name": "фактурный кардиган в технике кроше",
+    "price": "$727",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca--item-24816151.aspx"
   }
 ]

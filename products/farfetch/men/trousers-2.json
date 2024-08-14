@@ -1,146 +1,1346 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/97/38/42/23973842_54137432_300.jpg",
-    "label": "AMI Paris",
-    "name": "шерстяные брюки со складками",
-    "price": "$573"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/73/47/95/22734795_53345025_300.jpg",
-    "label": "Lacoste",
-    "name": "x Daniil Medvedev striped-tipping tracksuit",
-    "price": "$308"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/91/54/17/22915417_53383484_300.jpg",
-    "label": "GALLERY DEPT.",
-    "name": "брюки чинос",
-    "price": "$506"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/52/22/13/22522213_52493520_300.jpg",
-    "label": "Stone Island",
-    "name": "зауженные брюки",
-    "price": "$288"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/97/57/72/22975772_53246558_300.jpg",
-    "label": "Vivienne Westwood",
-    "name": "прямые джинсы Ranch с завышенной талией",
-    "price": "$429"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/49/85/01/21498501_51765397_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/17/81/40/40/17814040_37692702_480.jpg",
     "label": "DSQUARED2",
-    "name": "panelled wool-blend track pants",
-    "price": "$430"
+    "name": "укороченные зауженные брюки",
+    "price": "$728",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-17814040.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/24/86/90/20248690_52352479_300.jpg",
-    "label": "Natasha Zinko",
-    "name": "comic-book cargo trousers",
-    "price": "$755"
+    "image": "https://cdn-images.farfetch-contents.com/20/10/51/12/20105112_50217564_480.jpg",
+    "label": "Giuseppe Zanotti",
+    "name": "бархатные спортивные брюки с вышитым логотипом",
+    "price": "$435",
+    "url": "https://www.farfetch.com/kz/shopping/men/giuseppe-zanotti--item-20105112.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/49/85/02/21498502_51765417_300.jpg",
-    "label": "DSQUARED2",
-    "name": "tapered wool blend trousers",
-    "price": "$221"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/50/36/15/22503615_48166600_300.jpg",
-    "label": "Stone Island",
-    "name": "mid-rise tapered-leg cargo trousers",
-    "price": "$333"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/86/54/31/21865431_54560677_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/21/86/54/31/21865431_54560677_480.jpg",
     "label": "SANDRO",
     "name": "прямые брюки с кулиской",
-    "price": "$370"
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-21865431.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/31/47/74/21314774_51376634_300.jpg",
-    "label": "Martine Rose",
-    "name": "брюки карго с нашивкой-логотипом",
-    "price": "$324"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/26/83/40/20268340_50312626_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/17/81/28/01/17812801_37686504_480.jpg",
     "label": "DSQUARED2",
-    "name": "slim-cut stretch-cotton jeans",
-    "price": "$234"
+    "name": "прямые джинсы с логотипом",
+    "price": "$292",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-17812801.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/20/03/88/87/20038887_45178859_300.jpg",
-    "label": "GALLERY DEPT.",
-    "name": "Toxic LA flare trousers",
-    "price": "$1,043"
+    "image": "https://cdn-images.farfetch-contents.com/24/57/33/25/24573325_54702210_480.jpg",
+    "label": "Moncler Grenoble",
+    "name": "спортивные брюки с тисненым логотипом",
+    "price": "$665",
+    "url": "https://www.farfetch.com/kz/shopping/men/moncler-grenoble--item-24573325.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/99/58/53/22995853_53184645_300.jpg",
-    "label": "Denim Tears",
-    "name": "спортивные брюки с принтом Cotton Wreath",
-    "price": "$322"
+    "image": "https://cdn-images.farfetch-contents.com/20/15/58/50/20155850_50491264_480.jpg",
+    "label": "Acne Studios",
+    "name": "спортивные брюки с эффектом потертости",
+    "price": "$322",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-20155850.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/85/45/31/23854531_53946016_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/41/75/25/22417525_52940605_480.jpg",
     "label": "Diesel",
-    "name": "x ToFF photograph-print track pants",
-    "price": "$337"
+    "name": "широкие брюки карго P-Huges-New",
+    "price": "$413",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-huges-new-item-22417525.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/57/87/79/21578779_51852554_300.jpg",
-    "label": "Billionaire",
-    "name": "logo-embroidered tracksuit (set of two)",
-    "price": "$1,516"
+    "image": "https://cdn-images.farfetch-contents.com/20/26/58/60/20265860_50522614_480.jpg",
+    "label": "Diesel",
+    "name": "брюки карго P-Staind с карманами",
+    "price": "$233",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-staind-item-20265860.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/49/93/19/21499319_51765702_300.jpg",
-    "label": "DSQUARED2",
-    "name": "skinny cargo trousers",
-    "price": "$291"
+    "image": "https://cdn-images.farfetch-contents.com/16/86/34/75/16863475_bd0bff7b-b462-4683-baab-65f2219e316e_480.jpg",
+    "label": "Palm Angels",
+    "name": "спортивные брюки с логотипом",
+    "price": "$324",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-16863475.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/46/90/62/22469062_52374296_300.jpg",
-    "label": "Denim Tears",
-    "name": "drawstring \"Cotton Wreath\" track pants",
-    "price": "$339"
+    "image": "https://cdn-images.farfetch-contents.com/22/22/37/09/22223709_52262987_480.jpg",
+    "label": "The North Face",
+    "name": "x Undercover 50/50 down trousers",
+    "price": "$397",
+    "url": "https://www.farfetch.com/kz/shopping/men/the-north-face-x-undercover-5050-down-trousers-item-22223709.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/28/73/10/23287310_53413000_300.jpg",
-    "label": "Carhartt WIP",
-    "name": "поплиновые брюки Judd",
-    "price": "$149"
+    "image": "https://cdn-images.farfetch-contents.com/23/70/88/06/23708806_53804027_480.jpg",
+    "label": "FEAR OF GOD ESSENTIALS",
+    "name": "спортивные брюки с вышитым логотипом",
+    "price": "$155",
+    "url": "https://www.farfetch.com/kz/shopping/men/fear-of-god-essentials--item-23708806.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/18/75/44/56/18754456_41732009_300.jpg",
-    "label": "Billionaire",
-    "name": "спортивный костюм с логотипом",
-    "price": "$1,439"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/79/46/03/23794603_53803903_300.jpg",
-    "label": "Rick Owens DRKSHDW",
-    "name": "брюки карго DU01D1354TW",
-    "price": "$449"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/14/94/30/71/14943071_27996069_300.jpg",
-    "label": "STADIUM GOODS®",
-    "name": "embroidered logo track pants",
-    "price": "$82"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/93/21/87/22932187_53151385_300.jpg",
-    "label": "BOSS",
-    "name": "узкие брюки чинос",
-    "price": "$155"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/16/72/25/00/16722500_38256734_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/16/72/25/00/16722500_38256734_480.jpg",
     "label": "Acne Studios",
     "name": "спортивные брюки с нашивками",
-    "price": "$272"
+    "price": "$272",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-16722500.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/67/29/94/18672994_40395756_480.jpg",
+    "label": "Jacquemus",
+    "name": "спортивные брюки Le Jogging Jacquemus",
+    "price": "$174",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacquemus-le-jogging-jacquemus-item-18672994.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/91/43/57/23914357_54014190_480.jpg",
+    "label": "Ea7 Emporio Armani",
+    "name": "спортивный костюм с логотипом",
+    "price": "$166",
+    "url": "https://www.farfetch.com/kz/shopping/men/ea7-emporio-armani--item-23914357.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/52/22/13/22522213_52493520_480.jpg",
+    "label": "Stone Island",
+    "name": "зауженные брюки",
+    "price": "$252",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island--item-22522213.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/99/61/45/22996145_53364915_480.jpg",
+    "label": "Fear Of God",
+    "name": "спортивные брюки с кулиской и лампасами",
+    "price": "$887",
+    "url": "https://www.farfetch.com/kz/shopping/men/fear-of-god--item-22996145.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/11/53/07/24115307_54195343_480.jpg",
+    "label": "adidas",
+    "name": "брюки карго из коллаборации с NTS Radio",
+    "price": "$91",
+    "url": "https://www.farfetch.com/kz/shopping/men/adidas-nts-radio-item-24115307.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/45/10/90/22451090_52464344_480.jpg",
+    "label": "C.P. Company",
+    "name": "брюки карго с декором Lens",
+    "price": "$267",
+    "url": "https://www.farfetch.com/kz/shopping/men/cp-company-lens-item-22451090.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/20/63/71/24206371_54278850_480.jpg",
+    "label": "DSQUARED2",
+    "name": "брюки Skipper",
+    "price": "$709",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-skipper-item-24206371.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/40/69/23974069_54305625_480.jpg",
+    "label": "AMI Paris",
+    "name": "прямые брюки",
+    "price": "$587",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-23974069.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/03/05/64/22030564_52547231_480.jpg",
+    "label": "Palm Angels",
+    "name": "спортивные брюки с логотипом",
+    "price": "$385",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-22030564.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/24/90/82/19249082_42485995_480.jpg",
+    "label": "Drôle De Monsieur",
+    "name": "спортивные брюки Le Pantalon Signature",
+    "price": "$186",
+    "url": "https://www.farfetch.com/kz/shopping/men/drole-de-monsieur-le-pantalon-signature-item-19249082.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/29/93/90/22299390_52244566_480.jpg",
+    "label": "FIVE CM",
+    "name": "спортивные брюки с логотипом",
+    "price": "$79",
+    "url": "https://www.farfetch.com/kz/shopping/men/five-cm--item-22299390.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/94/30/71/14943071_27996069_480.jpg",
+    "label": "STADIUM GOODS®",
+    "name": "спортивные брюки с логотипом",
+    "price": "$31",
+    "url": "https://www.farfetch.com/kz/shopping/men/stadium-goods--item-14943071.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/24/86/90/20248690_52352479_480.jpg",
+    "label": "Natasha Zinko",
+    "name": "брюки карго",
+    "price": "$755",
+    "url": "https://www.farfetch.com/kz/shopping/men/natasha-zinko--item-20248690.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/44/09/19594409_45036746_480.jpg",
+    "label": "AMI Paris",
+    "name": "прямые брюки строгого кроя",
+    "price": "$179",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-19594409.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/06/81/14/20068114_50141059_480.jpg",
+    "label": "Versace",
+    "name": "брюки карго Versace Allover",
+    "price": "$622",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace-versace-allover-item-20068114.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/39/17/22153917_52377421_480.jpg",
+    "label": "Versace",
+    "name": "зауженные брюки чинос",
+    "price": "$359",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace--item-22153917.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/03/82/62/22038262_51960100_480.jpg",
+    "label": "FEAR OF GOD ESSENTIALS",
+    "name": "спортивные брюки из джерси с логотипом",
+    "price": "$128",
+    "url": "https://www.farfetch.com/kz/shopping/men/fear-of-god-essentials--item-22038262.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/80/48/21608048_51941473_480.jpg",
+    "label": "Diesel",
+    "name": "широкие джинсы P-Livery средней посадки",
+    "price": "$198",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-livery-item-21608048.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/52/07/19595207_44718423_480.jpg",
+    "label": "AMI Paris",
+    "name": "спортивные брюки с вышитым логотипом",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-19595207.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/75/22/78/23752278_54293578_480.jpg",
+    "label": "99% Is",
+    "name": "брюки с кулиской",
+    "price": "$930",
+    "url": "https://www.farfetch.com/kz/shopping/men/99-is--item-23752278.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/93/92/00/17939200_9349925e-5d23-4963-9188-f9b87d37da08_480.jpg",
+    "label": "Off-White",
+    "name": "брюки карго из коллаборации с teenage engineering",
+    "price": "$848",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white-teenage-engineering-item-17939200.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/96/57/38/22965738_48953585_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "спортивные брюки SR Sport",
+    "price": "$138",
+    "url": "https://www.farfetch.com/kz/shopping/men/sporty-rich-sr-sport-item-22965738.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/69/65/45/19696545_52881094_480.jpg",
+    "label": "Gucci",
+    "name": "укороченные брюки из рипстопа с узором GG",
+    "price": "$1,090",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci-gg-item-19696545.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/30/27/13/24302713_54655375_480.jpg",
+    "label": "Casablanca",
+    "name": "спортивные брюки с логотипом",
+    "price": "$476",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca--item-24302713.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/50/36/15/22503615_48166600_480.jpg",
+    "label": "Stone Island",
+    "name": "зауженные брюки карго средней посадки",
+    "price": "$241",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island--item-22503615.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/79/11/76/23791176_53991277_480.jpg",
+    "label": "Acne Studios",
+    "name": "широкие брюки с графичным принтом",
+    "price": "$493",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-23791176.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/26/68/96/23266896_53638353_480.jpg",
+    "label": "BOSS",
+    "name": "спортивные брюки Iconic средней посадки",
+    "price": "$115",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss-iconic-item-23266896.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/78/59/84/22785984_53503510_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "строгие брюки средней посадки",
+    "price": "$97",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-22785984.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/44/68/33/24446833_54774955_480.jpg",
+    "label": "Stone Island",
+    "name": "брюки с нашивкой Compass",
+    "price": "$402",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-24446833.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/93/19/21499319_51765702_480.jpg",
+    "label": "DSQUARED2",
+    "name": "облегающие брюки карго",
+    "price": "$445",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21499319.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/48/40/75/22484075_52573599_480.jpg",
+    "label": "Stone Island",
+    "name": "брюки карго с нашивкой Compass",
+    "price": "$386",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22484075.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/34/52/21613452_52859089_480.jpg",
+    "label": "Diesel",
+    "name": "спортивные брюки P-Ozamp",
+    "price": "$324",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-ozamp-item-21613452.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/26/21819726_52613899_480.jpg",
+    "label": "AMI Paris",
+    "name": "прямые брюки средней посадки",
+    "price": "$176",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819726.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/64/14/54/23641454_53607586_480.jpg",
+    "label": "Balenciaga",
+    "name": "бархатные брюки прямого кроя",
+    "price": "$982",
+    "url": "https://www.farfetch.com/kz/shopping/men/balenciaga--item-23641454.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/20/30/23772030_53761463_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "спортивные брюки Wellness Club с логотипом",
+    "price": "$169",
+    "url": "https://www.farfetch.com/kz/shopping/men/sporty-rich-wellness-club-item-23772030.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/73/30/73/22733073_52795660_480.jpg",
+    "label": "AMIRI",
+    "name": "брюки карго Utility",
+    "price": "$858",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri-utility-item-22733073.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/22/16/20/22221620_53225057_480.jpg",
+    "label": "Philipp Plein",
+    "name": "спортивный костюм с аппликацией Skeleton",
+    "price": "$1,625",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein-skeleton-item-22221620.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/78/94/11/18789411_41883783_480.jpg",
+    "label": "Lacoste",
+    "name": "спортивные брюки с нашивкой-логотипом",
+    "price": "$143",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste--item-18789411.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/03/88/87/20038887_45178859_480.jpg",
+    "label": "GALLERY DEPT.",
+    "name": "расклешенные брюки Toxic LA",
+    "price": "$1,043",
+    "url": "https://www.farfetch.com/kz/shopping/men/gallery-dept-toxic-la-item-20038887.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/35/00/49/22350049_52623843_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "твиловые брюки Bedford",
+    "price": "$128",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-bedford-item-22350049.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/34/91/21463491_51531257_480.jpg",
+    "label": "Philipp Plein",
+    "name": "спортивный костюм Gothic Plein с логотипом",
+    "price": "$1,111",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein-gothic-plein-item-21463491.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/35/32/54/19353254_44714750_480.jpg",
+    "label": "Alanui",
+    "name": "джинсы в технике пэчворк",
+    "price": "$609",
+    "url": "https://www.farfetch.com/kz/shopping/men/alanui--item-19353254.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/55/42/34/24554234_54690648_480.jpg",
+    "label": "DSQUARED2",
+    "name": "брюки карго Sexy",
+    "price": "$545",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-sexy-item-24554234.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/92/94/55/22929455_53103500_480.jpg",
+    "label": "C.P. Company",
+    "name": "зауженные брюки с декором Lens",
+    "price": "$293",
+    "url": "https://www.farfetch.com/kz/shopping/men/cp-company-lens-item-22929455.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/86/01/16/22860116_53016923_480.jpg",
+    "label": "Y-3",
+    "name": "зауженные брюки в полоску",
+    "price": "$372",
+    "url": "https://www.farfetch.com/kz/shopping/men/y-3--item-22860116.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/50/30/19595030_45036835_480.jpg",
+    "label": "AMI Paris",
+    "name": "спортивные брюки с кулиской и лампасами",
+    "price": "$176",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-19595030.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/50/55/57/15505557_29621911_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "спортивные брюки с кулиской",
+    "price": "$142",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-15505557.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/15/88/06/19158806_42698424_480.jpg",
+    "label": "Stüssy",
+    "name": "спортивные брюки с аппликацией 8 Ball",
+    "price": "$106",
+    "url": "https://www.farfetch.com/kz/shopping/men/stussy-8-ball-item-19158806.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/95/22/39/20952239_50970491_480.jpg",
+    "label": "DSQUARED2",
+    "name": "зауженные брюки с кулиской",
+    "price": "$747",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-20952239.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/71/68/40/22716840_52837667_480.jpg",
+    "label": "Y-3",
+    "name": "твиловые брюки карго",
+    "price": "$369",
+    "url": "https://www.farfetch.com/kz/shopping/men/y-3--item-22716840.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/86/33/64/23863364_53924025_480.jpg",
+    "label": "Herno",
+    "name": "брюки карго средней посадки",
+    "price": "$316",
+    "url": "https://www.farfetch.com/kz/shopping/men/herno--item-23863364.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/19/09/23771909_53761486_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "спортивные брюки Made In USA",
+    "price": "$189",
+    "url": "https://www.farfetch.com/kz/shopping/men/sporty-rich-made-in-usa-item-23771909.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/57/87/98/21578798_51648441_480.jpg",
+    "label": "Billionaire",
+    "name": "спортивный костюм с вышитым логотипом",
+    "price": "$847",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-21578798.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/97/28/21819728_52829293_480.jpg",
+    "label": "AMI Paris",
+    "name": "прямые брюки",
+    "price": "$176",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819728.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/81/07/46/22810746_52866834_480.jpg",
+    "label": "Jacob Cohën",
+    "name": "брюки чинос Bobby узкого кроя",
+    "price": "$263",
+    "url": "https://www.farfetch.com/kz/shopping/men/jacob-cohen-bobby-item-22810746.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/16/21819916_49112027_480.jpg",
+    "label": "AMI Paris",
+    "name": "спортивные брюки с тисненым логотипом",
+    "price": "$186",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819916.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/62/74/49/21627449_52297784_480.jpg",
+    "label": "Diesel",
+    "name": "спортивные брюки P-Topahoop-N1 с прорезями",
+    "price": "$442",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-topahoop-n1-item-21627449.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/40/56/21684056_52129735_480.jpg",
+    "label": "Acne Studios",
+    "name": "прямые брюки с нашивкой-логотипом",
+    "price": "$322",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-21684056.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/86/78/24/18867824_42393821_480.jpg",
+    "label": "Philipp Plein",
+    "name": "спортивный костюм с кристаллами",
+    "price": "$1,534",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-18867824.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/01/61/38/18016138_39554763_480.jpg",
+    "label": "Rossignol",
+    "name": "зауженные спортивные брюки с кулиской",
+    "price": "$59",
+    "url": "https://www.farfetch.com/kz/shopping/men/rossignol--item-18016138.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/85/45/31/23854531_53946016_480.jpg",
+    "label": "Diesel",
+    "name": "спортивные брюки с фотопринтом из коллаборации с ToFF",
+    "price": "$337",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-toff-item-23854531.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/48/84/57/18488457_39738740_480.jpg",
+    "label": "DSQUARED2",
+    "name": "укороченные узкие брюки",
+    "price": "$368",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-18488457.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/92/09/72/21920972_53029169_480.jpg",
+    "label": "Juun.J",
+    "name": "широкие брюки карго",
+    "price": "$487",
+    "url": "https://www.farfetch.com/kz/shopping/men/juunj--item-21920972.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/63/36/92/22633692_52593348_480.jpg",
+    "label": "Maison Margiela",
+    "name": "широкие брюки в тонкую полоску",
+    "price": "$756",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela--item-22633692.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/91/44/03/23914403_54014453_480.jpg",
+    "label": "Ea7 Emporio Armani",
+    "name": "спортивный костюм с логотипом",
+    "price": "$172",
+    "url": "https://www.farfetch.com/kz/shopping/men/ea7-emporio-armani--item-23914403.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/34/92/89/22349289_53022940_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "брюки с эффектом потертости",
+    "price": "$331",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-22349289.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/43/31/20254331_50270959_480.jpg",
+    "label": "Ea7 Emporio Armani",
+    "name": "спортивный костюм с логотипом",
+    "price": "$178",
+    "url": "https://www.farfetch.com/kz/shopping/men/ea7-emporio-armani--item-20254331.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/26/28/04/22262804_52165173_480.jpg",
+    "label": "The North Face",
+    "name": "прямые брюки Souku из коллаборации с Undercover",
+    "price": "$329",
+    "url": "https://www.farfetch.com/kz/shopping/men/the-north-face-souku-undercover-item-22262804.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/98/16/22879816_53028757_480.jpg",
+    "label": "Diesel",
+    "name": "спортивные брюки P-Gold-Tech прямого кроя",
+    "price": "$147",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-gold-tech-item-22879816.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/36/76/80/20367680_50738312_480.jpg",
+    "label": "Jil Sander",
+    "name": "брюки со вставками",
+    "price": "$1,382",
+    "url": "https://www.farfetch.com/kz/shopping/men/jil-sander--item-20367680.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/43/53/89/22435389_52409307_480.jpg",
+    "label": "Stone Island",
+    "name": "брюки карго с нашивкой Compass",
+    "price": "$343",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22435389.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/13/41/83/23134183_53358893_480.jpg",
+    "label": "Kiton",
+    "name": "спортивный костюм с вышитым логотипом",
+    "price": "$1,902",
+    "url": "https://www.farfetch.com/kz/shopping/men/kiton--item-23134183.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/49/65/63/22496563_52814169_480.jpg",
+    "label": "Zegna",
+    "name": "узкие брюки чинос",
+    "price": "$603",
+    "url": "https://www.farfetch.com/kz/shopping/men/zegna--item-22496563.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/90/58/04/19905804_50072688_480.jpg",
+    "label": "Philipp Plein",
+    "name": "спортивный костюм",
+    "price": "$833",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-19905804.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/31/75/40/21317540_47458228_480.jpg",
+    "label": "AMIRI",
+    "name": "брюки карго из искусственного меха",
+    "price": "$536",
+    "url": "https://www.farfetch.com/kz/shopping/men/amiri--item-21317540.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/22/82/21612282_52250806_480.jpg",
+    "label": "Diesel",
+    "name": "прямые брюки P-Gold-Zebra",
+    "price": "$147",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-gold-zebra-item-21612282.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/78/59/89/22785989_53503716_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "брюки чинос с кулиской",
+    "price": "$93",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-22785989.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/58/21/63/18582163_40213581_480.jpg",
+    "label": "Plein Sport",
+    "name": "спортивный костюм в стиле колор-блок",
+    "price": "$411",
+    "url": "https://www.farfetch.com/kz/shopping/men/plein-sport--item-18582163.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/84/90/57/22849057_52933800_480.jpg",
+    "label": "Palm Angels",
+    "name": "спортивные брюки с вышитым логотипом",
+    "price": "$407",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-22849057.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/85/02/21498502_51765417_480.jpg",
+    "label": "DSQUARED2",
+    "name": "зауженные брюки из смесовой шерсти",
+    "price": "$221",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21498502.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/96/87/20/23968720_54070461_480.jpg",
+    "label": "Diesel",
+    "name": "спортивные брюки D-Martians",
+    "price": "$307",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-d-martians-item-23968720.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/37/01/35/24370135_54411914_480.jpg",
+    "label": "Diesel",
+    "name": "брюки карго P-Danzel",
+    "price": "$286",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-danzel-item-24370135.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/24/78/21/21247821_51267100_480.jpg",
+    "label": "Diesel",
+    "name": "бархатные спортивные брюки P-Zampband",
+    "price": "$162",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-zampband-item-21247821.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/10/37/18/22103718_51926201_480.jpg",
+    "label": "Homme Plissé Issey Miyake",
+    "name": "плиссированные брюки MC September прямого кроя",
+    "price": "$435",
+    "url": "https://www.farfetch.com/kz/shopping/men/homme-plisse-issey-miyake-mc-september-item-22103718.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/90/53/82/19905382_50211830_480.jpg",
+    "label": "Philipp Plein",
+    "name": "спортивный костюм с принтом пейсли",
+    "price": "$1,743",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-19905382.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/83/77/99/22837799_53041713_480.jpg",
+    "label": "adidas",
+    "name": "брюки карго Ardi",
+    "price": "$123",
+    "url": "https://www.farfetch.com/kz/shopping/men/adidas-ardi-item-22837799.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/42/80/34/22428034_52452646_480.jpg",
+    "label": "Stone Island",
+    "name": "брюки карго с нашивкой Compass",
+    "price": "$337",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22428034.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/47/64/79/22476479_52652797_480.jpg",
+    "label": "Stone Island",
+    "name": "зауженные брюки карго",
+    "price": "$343",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island--item-22476479.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/52/02/19595202_45036417_480.jpg",
+    "label": "AMI Paris",
+    "name": "спортивные брюки с монограммой Ami de Coeur",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-19595202.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/69/91/17/22699117_52706139_480.jpg",
+    "label": "DSQUARED2",
+    "name": "брюки скинни Sexy с карманами карго",
+    "price": "$572",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-sexy-item-22699117.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/82/79/15/23827915_53851715_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "спортивные брюки S&R с логотипом",
+    "price": "$184",
+    "url": "https://www.farfetch.com/kz/shopping/men/sporty-rich-sr-item-23827915.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/04/30/28/19043028_42311191_480.jpg",
+    "label": "Billionaire",
+    "name": "спортивный костюм с вышитым логотипом",
+    "price": "$884",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-19043028.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/40/51/21684051_52126309_480.jpg",
+    "label": "Acne Studios",
+    "name": "прямые брюки с нашивкой-логотипом",
+    "price": "$322",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-21684051.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/86/55/26/23865526_53946372_480.jpg",
+    "label": "DSQUARED2",
+    "name": "зауженные брюки чинос Sexy",
+    "price": "$463",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-sexy-item-23865526.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/32/95/13/24329513_54324328_480.jpg",
+    "label": "Paul & Shark",
+    "name": "укороченные брюки скинни",
+    "price": "$131",
+    "url": "https://www.farfetch.com/kz/shopping/men/paul-shark--item-24329513.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/54/31/21685431_53123599_480.jpg",
+    "label": "Acne Studios",
+    "name": "брюки 2023 свободного кроя",
+    "price": "$654",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios-2023-item-21685431.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/57/87/79/21578779_51852554_480.jpg",
+    "label": "Billionaire",
+    "name": "спортивный костюм с вышитым логотипом",
+    "price": "$1,516",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-21578779.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/94/58/96/20945896_51193012_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "спортивные брюки Runner с логотипом",
+    "price": "$205",
+    "url": "https://www.farfetch.com/kz/shopping/men/sporty-rich-runner-item-20945896.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/39/43/22153943_52381618_480.jpg",
+    "label": "Versace",
+    "name": "зауженные брюки со складками",
+    "price": "$608",
+    "url": "https://www.farfetch.com/kz/shopping/men/versace--item-22153943.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/08/13/92/22081392_52199047_480.jpg",
+    "label": "HUGO",
+    "name": "спортивные брюки с логотипом",
+    "price": "$107",
+    "url": "https://www.farfetch.com/kz/shopping/men/hugo--item-22081392.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/53/94/10/21539410_52469615_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "брюки с монограммой",
+    "price": "$184",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-21539410.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/59/09/01/22590901_52621653_480.jpg",
+    "label": "HUGO",
+    "name": "спортивные брюки с логотипом",
+    "price": "$112",
+    "url": "https://www.farfetch.com/kz/shopping/men/hugo--item-22590901.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/27/11/21822711_49111137_480.jpg",
+    "label": "AMI Paris",
+    "name": "брюки чинос средней посадки",
+    "price": "$143",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21822711.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/71/68/92/22716892_52837859_480.jpg",
+    "label": "Y-3",
+    "name": "брюки карго с жатым эффектом",
+    "price": "$312",
+    "url": "https://www.farfetch.com/kz/shopping/men/y-3--item-22716892.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/86/45/23/21864523_52218500_480.jpg",
+    "label": "SANDRO",
+    "name": "зауженные брюки с эластичным поясом",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-21864523.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/53/94/19/23539419_53520503_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "спортивные брюки с логотипом",
+    "price": "$184",
+    "url": "https://www.farfetch.com/kz/shopping/men/sporty-rich--item-23539419.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/48/69/23/22486923_52462530_480.jpg",
+    "label": "Kenzo",
+    "name": "спортивные брюки с логотипом из коллаборации с Verdy",
+    "price": "$182",
+    "url": "https://www.farfetch.com/kz/shopping/men/kenzo-verdy-item-22486923.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/84/71/02/22847102_52850916_480.jpg",
+    "label": "Purple Brand",
+    "name": "брюки карго Impressionist Camo",
+    "price": "$96",
+    "url": "https://www.farfetch.com/kz/shopping/men/purple-brand-impressionist-camo-item-22847102.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/47/96/38/22479638_52436947_480.jpg",
+    "label": "GALLERY DEPT.",
+    "name": "расклешенные брюки с принтом",
+    "price": "$1,086",
+    "url": "https://www.farfetch.com/kz/shopping/men/gallery-dept--item-22479638.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/33/92/25/22339225_52413955_480.jpg",
+    "label": "Diesel",
+    "name": "джинсы D-Lab Track 068KQ",
+    "price": "$272",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-d-lab-track-068kq-item-22339225.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/12/19/68/17121968_34717080_480.jpg",
+    "label": "Ea7 Emporio Armani",
+    "name": "спортивный костюм с логотипом",
+    "price": "$184",
+    "url": "https://www.farfetch.com/kz/shopping/men/ea7-emporio-armani--item-17121968.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/46/90/62/22469062_52374296_480.jpg",
+    "label": "Denim Tears",
+    "name": "спортивные брюки Cotton Wreath с кулиской",
+    "price": "$339",
+    "url": "https://www.farfetch.com/kz/shopping/men/denim-tears-cotton-wreath-item-22469062.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/37/51/23973751_54135360_480.jpg",
+    "label": "AMI Paris",
+    "name": "шерстяные брюки в тонкую полоску",
+    "price": "$573",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-23973751.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/97/54/93/19975493_50866625_480.jpg",
+    "label": "TOM FORD",
+    "name": "прямые брюки чинос",
+    "price": "$639",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford--item-19975493.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/56/57/21715657_51940476_480.jpg",
+    "label": "Diesel",
+    "name": "брюки P-Marty-Lth",
+    "price": "$412",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-marty-lth-item-21715657.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/45/06/05/22450605_52469430_480.jpg",
+    "label": "C.P. Company",
+    "name": "брюки карго с декором Lens",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/men/cp-company-lens-item-22450605.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/22/63/66/20226366_50531043_480.jpg",
+    "label": "Acne Studios",
+    "name": "прямые брюки строгого кроя",
+    "price": "$292",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-20226366.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/74/86/23747486_53744056_480.jpg",
+    "label": "Diesel",
+    "name": "прямые брюки с лампасами",
+    "price": "$307",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel--item-23747486.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/62/48/08/18624808_40577308_480.jpg",
+    "label": "Philipp Plein",
+    "name": "спортивный костюм с капюшоном и принтом",
+    "price": "$667",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-18624808.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/09/90/69/23099069_53222354_480.jpg",
+    "label": "BOSS",
+    "name": "спортивные брюки с логотипом",
+    "price": "$101",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-23099069.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/69/88/82/16698882_33223454_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "спортивные брюки с монограммой",
+    "price": "$123",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-16698882.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/80/07/91/15800791_28875163_480.jpg",
+    "label": "Giuseppe Zanotti",
+    "name": "спортивные брюки с логотипом",
+    "price": "$528",
+    "url": "https://www.farfetch.com/kz/shopping/men/giuseppe-zanotti--item-15800791.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/73/84/50/22738450_52789480_480.jpg",
+    "label": "DSQUARED2",
+    "name": "зауженные брюки карго средней посадки",
+    "price": "$520",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-22738450.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/07/44/32/23074432_54066338_480.jpg",
+    "label": "Palm Angels",
+    "name": "спортивные брюки с вышитым логотипом",
+    "price": "$578",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-23074432.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/09/00/17960900_40011467_480.jpg",
+    "label": "AMI Paris",
+    "name": "брюки в тонкую полоску",
+    "price": "$186",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-17960900.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/75/44/56/18754456_41732009_480.jpg",
+    "label": "Billionaire",
+    "name": "спортивный костюм с логотипом",
+    "price": "$1,439",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-18754456.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/92/99/51/20929951_51039540_480.jpg",
+    "label": "Rick Owens",
+    "name": "широкие брюки Cargobelas с кулиской",
+    "price": "$1,134",
+    "url": "https://www.farfetch.com/kz/shopping/men/rick-owens-cargobelas-item-20929951.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/00/18/72/22001872_51805550_480.jpg",
+    "label": "Casablanca",
+    "name": "straight-leg trousers",
+    "price": "$531",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-straight-leg-trousers-item-22001872.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/59/13/21715913_51825930_480.jpg",
+    "label": "SANDRO",
+    "name": "брюки карго с нашивкой-логотипом",
+    "price": "$295",
+    "url": "https://www.farfetch.com/kz/shopping/men/sandro--item-21715913.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/71/36/16/22713616_52821849_480.jpg",
+    "label": "Alexander Wang",
+    "name": "спортивные брюки с эффектом тромплей",
+    "price": "$352",
+    "url": "https://www.farfetch.com/kz/shopping/men/alexander-wang--item-22713616.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/26/58/40/20265840_50907601_480.jpg",
+    "label": "Diesel",
+    "name": "широкие брюки P-Smash",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-smash-item-20265840.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/56/25/78/22562578_54225015_480.jpg",
+    "label": "Billionaire",
+    "name": "спортивный костюм с вышитым логотипом",
+    "price": "$1,147",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-22562578.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/07/21820807_49110615_480.jpg",
+    "label": "AMI Paris",
+    "name": "брюки широкого кроя",
+    "price": "$222",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820807.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/60/89/29/24608929_54792551_480.jpg",
+    "label": "Rick Owens",
+    "name": "брюки Mastodon Megacargo",
+    "price": "$1,001",
+    "url": "https://www.farfetch.com/kz/shopping/men/rick-owens-mastodon-megacargo-item-24608929.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/41/65/69/20416569_51033969_480.jpg",
+    "label": "HUGO",
+    "name": "спортивный костюм с логотипом",
+    "price": "$223",
+    "url": "https://www.farfetch.com/kz/shopping/men/hugo--item-20416569.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/31/22/75/22312275_52289014_480.jpg",
+    "label": "Jil Sander",
+    "name": "шерстяные брюки с эластичным поясом",
+    "price": "$534",
+    "url": "https://www.farfetch.com/kz/shopping/men/jil-sander--item-22312275.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/46/32/78/20463278_50460311_480.jpg",
+    "label": "Diesel",
+    "name": "брюки P-Aurthur",
+    "price": "$106",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-aurthur-item-20463278.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/29/21823029_49111305_480.jpg",
+    "label": "AMI Paris",
+    "name": "спортивные брюки с вышивкой Ami de Coeur",
+    "price": "$276",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21823029.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/93/70/06/22937006_53084537_480.jpg",
+    "label": "Y-3",
+    "name": "спортивные брюки с кулиской",
+    "price": "$169",
+    "url": "https://www.farfetch.com/kz/shopping/men/y-3--item-22937006.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/40/50/21684050_52463095_480.jpg",
+    "label": "Acne Studios",
+    "name": "вельветовые брюки карго",
+    "price": "$372",
+    "url": "https://www.farfetch.com/kz/shopping/men/acne-studios--item-21684050.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/27/26/23/24272623_54279335_480.jpg",
+    "label": "Y-3",
+    "name": "спортивные брюки с контрастными полосками",
+    "price": "$332",
+    "url": "https://www.farfetch.com/kz/shopping/men/y-3--item-24272623.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/78/59/88/22785988_53503600_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "брюки строгого кроя",
+    "price": "$71",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-22785988.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/49/76/24/17497624_36427348_480.jpg",
+    "label": "Ea7 Emporio Armani",
+    "name": "спортивный костюм с логотипом",
+    "price": "$184",
+    "url": "https://www.farfetch.com/kz/shopping/men/ea7-emporio-armani--item-17497624.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/03/21820803_49111284_480.jpg",
+    "label": "AMI Paris",
+    "name": "зауженные брюки средней посадки",
+    "price": "$262",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820803.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/14/20/17961420_38416333_480.jpg",
+    "label": "AMI Paris",
+    "name": "спортивные брюки с монограммой Ami de Coeur",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-17961420.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/89/53/82/22895382_52936025_480.jpg",
+    "label": "FEAR OF GOD ESSENTIALS",
+    "name": "спортивные брюки с кулиской",
+    "price": "$144",
+    "url": "https://www.farfetch.com/kz/shopping/men/fear-of-god-essentials--item-22895382.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/31/72/78/24317278_54861882_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "брюки из смесовой вирджинской шерсти",
+    "price": "$821",
+    "url": "https://www.farfetch.com/kz/shopping/men/valentino-garavani--item-24317278.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/49/82/10/24498210_54771057_480.jpg",
+    "label": "DSQUARED2",
+    "name": "брюки карго с логотипом",
+    "price": "$491",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-24498210.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/59/43/56/22594356_52623731_480.jpg",
+    "label": "DONDUP",
+    "name": "узкие брюки чинос",
+    "price": "$246",
+    "url": "https://www.farfetch.com/kz/shopping/men/dondup--item-22594356.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/87/21/22708721_52834130_480.jpg",
+    "label": "Thom Krom",
+    "name": "расклешенные брюки карго средней посадки",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/men/thom-krom--item-22708721.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/85/01/21498501_51765397_480.jpg",
+    "label": "DSQUARED2",
+    "name": "спортивные брюки из смесовой шерсти",
+    "price": "$663",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21498501.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/26/83/40/20268340_50312626_480.jpg",
+    "label": "DSQUARED2",
+    "name": "узкие джинсы",
+    "price": "$286",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-20268340.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/52/04/19595204_45038961_480.jpg",
+    "label": "AMI Paris",
+    "name": "спортивные брюки с вышитым логотипом",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-19595204.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/86/66/35/18866635_42392166_480.jpg",
+    "label": "Philipp Plein",
+    "name": "спортивные брюки с графичным принтом",
+    "price": "$1,227",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-18866635.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/31/59/02/24315902_54381758_480.jpg",
+    "label": "Y-3",
+    "name": "брюки карго Sport Uniform из коллаборации с adidas",
+    "price": "$284",
+    "url": "https://www.farfetch.com/kz/shopping/men/y-3-sport-uniform-adidas-item-24315902.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/61/10/53/24611053_54792559_480.jpg",
+    "label": "JW Anderson",
+    "name": "брюки с карманами",
+    "price": "$472",
+    "url": "https://www.farfetch.com/kz/shopping/men/jw-anderson--item-24611053.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/79/80/36/22798036_52849971_480.jpg",
+    "label": "DSQUARED2",
+    "name": "спортивные брюки Dean",
+    "price": "$181",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-dean-item-22798036.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/67/23/74/19672374_44055689_480.jpg",
+    "label": "DSQUARED2",
+    "name": "Icon logo-print track pants",
+    "price": "$274",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-icon-logo-print-track-pants-item-19672374.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/73/77/13/22737713_52908338_480.jpg",
+    "label": "adidas",
+    "name": "спортивные брюки с вышитым логотипом",
+    "price": "$110",
+    "url": "https://www.farfetch.com/kz/shopping/men/adidas--item-22737713.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/94/28/18/18942818_41718435_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсы узкого кроя с эффектом потертости",
+    "price": "$776",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-18942818.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/29/72/60/21297260_53380706_480.jpg",
+    "label": "Marine Serre",
+    "name": "спортивные брюки из органического хлопка",
+    "price": "$199",
+    "url": "https://www.farfetch.com/kz/shopping/men/marine-serre--item-21297260.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/79/73/41/22797341_52852257_480.jpg",
+    "label": "Stone Island",
+    "name": "широкие брюки карго с нашивкой Compass",
+    "price": "$263",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22797341.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/51/83/87/16518387_32222058_480.jpg",
+    "label": "Ea7 Emporio Armani",
+    "name": "спортивные брюки с логотипом",
+    "price": "$184",
+    "url": "https://www.farfetch.com/kz/shopping/men/ea7-emporio-armani--item-16518387.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/41/78/65/21417865_52222641_480.jpg",
+    "label": "Lacoste",
+    "name": "спортивный костюм из коллаборации с Daniil Medevov",
+    "price": "$262",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste-daniil-medevov-item-21417865.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/38/21/99/22382199_52341741_480.jpg",
+    "label": "DSQUARED2",
+    "name": "зауженные брюки Cool Guy",
+    "price": "$262",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-cool-guy-item-22382199.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/19/21820819_49104099_480.jpg",
+    "label": "AMI Paris",
+    "name": "прямые брюки с нашивкой-логотипом",
+    "price": "$143",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820819.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/71/37/22877137_52954130_480.jpg",
+    "label": "Diesel",
+    "name": "брюки P-Cornwall",
+    "price": "$136",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-p-cornwall-item-22877137.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/78/65/40/22786540_53503665_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "брюки чинос с кулиской",
+    "price": "$93",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-22786540.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/48/75/24/20487524_50518169_480.jpg",
+    "label": "Sporty & Rich",
+    "name": "брюки с эластичным поясом и логотипом",
+    "price": "$97",
+    "url": "https://www.farfetch.com/kz/shopping/men/sporty-rich--item-20487524.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/45/60/25/22456025_53419763_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "льняные брюки с кулиской",
+    "price": "$269",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-22456025.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/07/98/21820798_52433621_480.jpg",
+    "label": "AMI Paris",
+    "name": "зауженные брюки со складками",
+    "price": "$287",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21820798.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/06/21820806_52619760_480.jpg",
+    "label": "AMI Paris",
+    "name": "брюки с монограммой Ami de Coeur",
+    "price": "$235",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21820806.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/14/53/02/18145302_38597581_480.jpg",
+    "label": "Herno",
+    "name": "брюки с кулиской",
+    "price": "$234",
+    "url": "https://www.farfetch.com/kz/shopping/men/herno--item-18145302.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/58/89/01/17588901_40359123_480.jpg",
+    "label": "C.P. Company",
+    "name": "спортивные брюки с декором Lens",
+    "price": "$184",
+    "url": "https://www.farfetch.com/kz/shopping/men/cp-company-lens-item-17588901.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/78/65/41/22786541_53504586_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "строгие брюки средней посадки",
+    "price": "$97",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-22786541.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/57/76/96/21577696_53887788_480.jpg",
+    "label": "Billionaire",
+    "name": "спортивный костюм с вышитым логотипом",
+    "price": "$847",
+    "url": "https://www.farfetch.com/kz/shopping/men/billionaire--item-21577696.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/70/13/22617013_52740690_480.jpg",
+    "label": "BOSS",
+    "name": "твидовые укороченные брюки",
+    "price": "$178",
+    "url": "https://www.farfetch.com/kz/shopping/men/boss--item-22617013.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/73/47/95/22734795_53345025_480.jpg",
+    "label": "Lacoste",
+    "name": "спортивный костюм из коллаборации с Daniil Medvedev",
+    "price": "$308",
+    "url": "https://www.farfetch.com/kz/shopping/men/lacoste-daniil-medvedev-item-22734795.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/48/38/17/22483817_52569537_480.jpg",
+    "label": "Stone Island",
+    "name": "брюки карго с нашивкой Compass",
+    "price": "$386",
+    "url": "https://www.farfetch.com/kz/shopping/men/stone-island-compass-item-22483817.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/85/05/21498505_51765232_480.jpg",
+    "label": "DSQUARED2",
+    "name": "джинсы карго с эффектом потертости",
+    "price": "$986",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21498505.aspx"
   }
 ]

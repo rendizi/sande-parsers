@@ -1,146 +1,674 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/75/15/58/22751558_52886139_300.jpg",
-    "label": "Casablanca",
-    "name": "Tennis Club Icon T-shirt",
-    "price": "$245"
+    "image": "https://cdn-images.farfetch-contents.com/22/62/10/81/22621081_52667358_480.jpg",
+    "label": "Represent",
+    "name": "футболка Represent Owners Club",
+    "price": "$101",
+    "url": "https://www.farfetch.com/kz/shopping/men/represent-represent-owners-club-item-22621081.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/60/23/15/24602315_54776044_300.jpg",
-    "label": "LOEWE",
-    "name": "graphic-print cotton t-shirt",
-    "price": "$593"
+    "image": "https://cdn-images.farfetch-contents.com/19/42/63/97/19426397_48191869_480.jpg",
+    "label": "Maison Margiela",
+    "name": "комплект из трех футболок из органического хлопка",
+    "price": "$284",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-margiela--item-19426397.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/79/06/22/23790622_54430983_300.jpg",
-    "label": "Acne Studios",
-    "name": "logo-print T-shirt",
-    "price": "$292"
+    "image": "https://cdn-images.farfetch-contents.com/15/56/33/86/15563386_28149387_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "футболка с логотипом",
+    "price": "$82",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-play--item-15563386.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/60/72/64/24607264_54671649_300.jpg",
-    "label": "Lanvin",
-    "name": "Archive-print Classic T-shirt",
-    "price": "$618"
+    "image": "https://cdn-images.farfetch-contents.com/23/48/35/05/23483505_53434792_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "футболка с логотипом",
+    "price": "$75",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-play--item-23483505.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/95/47/11/23954711_54054205_300.jpg",
-    "label": "Marni",
-    "name": "logo-print cotton T-shirt",
-    "price": "$358"
+    "image": "https://cdn-images.farfetch-contents.com/23/81/42/15/23814215_53834106_480.jpg",
+    "label": "Drôle De Monsieur",
+    "name": "футболка с надписью",
+    "price": "$109",
+    "url": "https://www.farfetch.com/kz/shopping/men/drole-de-monsieur--item-23814215.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/36/32/34/22363234_52305720_300.jpg",
-    "label": "DSQUARED2",
-    "name": "logo-embossed cotton T-shirt",
-    "price": "$151"
+    "image": "https://cdn-images.farfetch-contents.com/21/82/26/37/21822637_52829789_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с вышитой монограммой Ami de Coeur",
+    "price": "$159",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21822637.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/54/20/69/21542069_52494955_300.jpg",
-    "label": "Karl Lagerfeld",
-    "name": "flocked-logo organic-cotton T-shirt",
-    "price": "$80"
+    "image": "https://cdn-images.farfetch-contents.com/22/55/76/06/22557606_52662821_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "полосатая футболка с нашивкой",
+    "price": "$128",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-play--item-22557606.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/23/47/37/22234737_52149878_300.jpg",
-    "label": "DSQUARED2",
-    "name": "Icon Blur-print cotton T-shirt",
-    "price": "$195"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/45/96/74/24459674_54598044_300.jpg",
-    "label": "Jacquemus",
-    "name": "Le T-shirt Gros Grain",
-    "price": "$153"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/88/70/38/23887038_54338072_300.jpg",
-    "label": "Wales Bonner",
-    "name": "logo-patch cotton T-shirt",
-    "price": "$252"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/16/65/43/32/16654332_33814298_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/14/16/09/10/14160910_19017642_480.jpg",
     "label": "Dolce & Gabbana",
-    "name": "logo-print cotton T-shirt",
-    "price": "$460"
+    "name": "футболка с круглым вырезом и логотипом",
+    "price": "$315",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-14160910.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/81/99/36/21819936_52432258_300.jpg",
-    "label": "AMI Paris",
-    "name": "Ami de Coeur T-shirt",
-    "price": "$107"
+    "image": "https://cdn-images.farfetch-contents.com/13/99/82/85/13998285_44276330_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "футболка с вышитым логотипом",
+    "price": "$69",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren--item-13998285.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/77/37/06/21773706_52369905_300.jpg",
-    "label": "Palm Angels",
-    "name": "Foggy logo-print T-shirt",
-    "price": "$353"
+    "image": "https://cdn-images.farfetch-contents.com/23/86/71/46/23867146_53944872_480.jpg",
+    "label": "Diesel",
+    "name": "топ с фотопринтом из коллаборации с ToFF",
+    "price": "$155",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-toff-item-23867146.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/59/15/28/23591528_53677424_300.jpg",
-    "label": "Saint Laurent",
-    "name": "Cassandre-embroidered piqué T-shirt",
-    "price": "$409"
+    "image": "https://cdn-images.farfetch-contents.com/15/20/40/23/15204023_26274045_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "футболка с нашивкой-логотипом",
+    "price": "$82",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-play--item-15204023.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/26/83/48/23268348_54362166_300.jpg",
-    "label": "AMIRI",
-    "name": "Vintage T-shirt",
-    "price": "$780"
+    "image": "https://cdn-images.farfetch-contents.com/23/85/45/33/23854533_53945140_480.jpg",
+    "label": "Diesel",
+    "name": "футболка из органического хлопка с фотопринтом из коллаборации с ToFF",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-toff-item-23854533.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/53/17/08/22531708_52520247_300.jpg",
-    "label": "Jacquemus",
-    "name": "Le T-shirt Gros Grain top",
-    "price": "$185"
+    "image": "https://cdn-images.farfetch-contents.com/22/22/17/18/22221718_53021764_480.jpg",
+    "label": "Philipp Plein",
+    "name": "футболка с принтом Dripping Skull",
+    "price": "$174",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein-dripping-skull-item-22221718.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/83/14/01/23831401_53889167_300.jpg",
-    "label": "Acne Studios",
-    "name": "abstract-print organic-cotton T-shirt",
-    "price": "$292"
+    "image": "https://cdn-images.farfetch-contents.com/22/75/15/58/22751558_52886139_480.jpg",
+    "label": "Casablanca",
+    "name": "футболка Tennis Club Icon",
+    "price": "$239",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-tennis-club-icon-item-22751558.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/82/27/57/21822757_48163640_300.jpg",
-    "label": "AMI Paris",
-    "name": "Ami De Coeur T-shirt",
-    "price": "$125"
+    "image": "https://cdn-images.farfetch-contents.com/21/46/35/97/21463597_51421864_480.jpg",
+    "label": "Philipp Plein",
+    "name": "футболка SS Smile",
+    "price": "$234",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein-ss-smile-item-21463597.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/25/60/45/21256045_51858438_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/20/18/88/57/20188857_54995732_480.jpg",
     "label": "Off-White",
-    "name": "logo-print cotton T-shirt",
-    "price": "$263"
+    "name": "футболка Off Stitch",
+    "price": "$335",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white-off-stitch-item-20188857.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/17/76/28/24177628_54268926_300.jpg",
-    "label": "Balenciaga",
-    "name": "logo-print cotton T-shirt",
-    "price": "$711"
+    "image": "https://cdn-images.farfetch-contents.com/17/96/07/13/17960713_43640428_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с короткими рукавами",
+    "price": "$117",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-17960713.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/98/35/79/23983579_54605708_300.jpg",
-    "label": "Moncler",
-    "name": "printed T-shirt",
-    "price": "$320"
+    "image": "https://cdn-images.farfetch-contents.com/21/77/37/10/21773710_52372165_480.jpg",
+    "label": "Palm Angels",
+    "name": "футболка City",
+    "price": "$175",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels-city-item-21773710.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/54/03/32/21540332_54386182_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/36/32/34/22363234_52305720_480.jpg",
+    "label": "DSQUARED2",
+    "name": "футболка с тисненым логотипом",
+    "price": "$151",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-22363234.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/36/21819936_52432258_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$107",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819936.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/22/17/83/22221783_52977231_480.jpg",
+    "label": "Philipp Plein",
+    "name": "футболка с принтом",
+    "price": "$180",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-22221783.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/72/80/23777280_53766968_480.jpg",
+    "label": "Casablanca",
+    "name": "футболка L'Arche De Nuit",
+    "price": "$256",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-larche-de-nuit-item-23777280.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/93/88/21499388_51763980_480.jpg",
+    "label": "DSQUARED2",
+    "name": "футболка Icon с логотипом",
+    "price": "$232",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-icon-item-21499388.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/97/24/42/15972442_29862307_480.jpg",
+    "label": "TOM FORD",
+    "name": "футболка с V-образным вырезом",
+    "price": "$112",
+    "url": "https://www.farfetch.com/kz/shopping/men/tom-ford-v-item-15972442.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/28/11/44/22281144_52149123_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "футболка с принтом",
+    "price": "$209",
+    "url": "https://www.farfetch.com/kz/shopping/men/alexander-mcqueen--item-22281144.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/03/32/21540332_54386182_480.jpg",
     "label": "Karl Lagerfeld",
-    "name": "flocked-logo pocket t-shirt",
-    "price": "$67"
+    "name": "футболка с фактурным логотипом",
+    "price": "$56",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-21540332.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/77/37/11/21773711_52278703_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/31/21819931_48165247_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка Ami Alexandre Mattiussi",
+    "price": "$111",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-alexandre-mattiussi-item-21819931.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/52/70/59/22527059_52487266_480.jpg",
+    "label": "FEAR OF GOD ESSENTIALS",
+    "name": "футболка с логотипом",
+    "price": "$49",
+    "url": "https://www.farfetch.com/kz/shopping/men/fear-of-god-essentials--item-22527059.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/55/71/12/23557112_53613863_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "полосатая футболка с логотипом",
+    "price": "$130",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-play--item-23557112.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/12/96/36/88/12963688_52672103_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "футболка с принтом VLTN",
+    "price": "$465",
+    "url": "https://www.farfetch.com/kz/shopping/men/valentino-garavani-vltn-item-12963688.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/39/39/23973939_54133478_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$159",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23973939.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/50/25/24/20502524_50554256_480.jpg",
+    "label": "Diesel",
+    "name": "футболка T-Just-OD",
+    "price": "$89",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-t-just-od-item-20502524.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/04/05/22610405_52624146_480.jpg",
+    "label": "DSQUARED2",
+    "name": "футболка с логотипом",
+    "price": "$148",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-22610405.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/03/15/21540315_52465668_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "футболка из органического хлопка с логотипом",
+    "price": "$67",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-21540315.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/84/68/68/22846868_52971859_480.jpg",
     "label": "Palm Angels",
-    "name": "monogram-embroidered cotton T-shirt",
-    "price": "$196"
+    "name": "футболка с логотипом",
+    "price": "$305",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-22846868.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/54/05/81/23540581_54557862_300.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/21/49/86/31/21498631_51759446_480.jpg",
+    "label": "DSQUARED2",
+    "name": "logo-print cotton T-shirt",
+    "price": "$201",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-logo-print-cotton-t-shirt-item-21498631.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/53/93/40/21539340_52465586_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "футболка из органического хлопка с логотипом",
+    "price": "$67",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-21539340.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/77/37/06/21773706_52369905_480.jpg",
+    "label": "Palm Angels",
+    "name": "футболка Foggy с логотипом",
+    "price": "$349",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels-foggy-item-21773706.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/57/86/22875786_52949240_480.jpg",
+    "label": "Maison Kitsuné",
+    "name": "футболка с нашивкой",
+    "price": "$99",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-kitsune--item-22875786.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/65/43/32/16654332_33814298_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "футболка с логотипом",
+    "price": "$460",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-16654332.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/04/71/01/16047101_30405587_480.jpg",
+    "label": "Palm Angels",
+    "name": "футболка с логотипом Logo Over",
+    "price": "$270",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels-logo-over-item-16047101.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/38/01/17/22380117_52366783_480.jpg",
+    "label": "DSQUARED2",
+    "name": "футболка Icon с логотипом",
+    "price": "$249",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-icon-item-22380117.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/43/57/22614357_52620693_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "футболка Polo Pony",
+    "price": "$83",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-22614357.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/93/78/21499378_51765108_480.jpg",
+    "label": "DSQUARED2",
+    "name": "футболка с логотипом",
+    "price": "$148",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21499378.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/77/37/11/21773711_52278703_480.jpg",
+    "label": "Palm Angels",
+    "name": "футболка с монограммой",
+    "price": "$196",
+    "url": "https://www.farfetch.com/kz/shopping/men/palm-angels--item-21773711.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/97/14/22709714_53088234_480.jpg",
+    "label": "Alexander Wang",
+    "name": "футболка с тисненым логотипом",
+    "price": "$134",
+    "url": "https://www.farfetch.com/kz/shopping/men/alexander-wang--item-22709714.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/50/05/52/21500552_51760185_480.jpg",
+    "label": "DSQUARED2",
+    "name": "logo-print cotton T-shirt",
+    "price": "$162",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-logo-print-cotton-t-shirt-item-21500552.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/14/64/21541464_52551501_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "футболка из коллаборации с Darcel Disappoints",
+    "price": "$67",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld-darcel-disappoints-item-21541464.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/07/49/17960749_40331712_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка оверсайз с монограммой Ami de Coeur",
+    "price": "$117",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-17960749.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/18/70/22871870_52950295_480.jpg",
+    "label": "Maison Kitsuné",
+    "name": "футболка Handwriting Comfort",
+    "price": "$99",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-kitsune-handwriting-comfort-item-22871870.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/61/72/58/19617258_44084304_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "футболка Rue Saint-Guillaume из органического хлопка",
+    "price": "$67",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld-rue-saint-guillaume-item-19617258.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/93/83/21499383_51764220_480.jpg",
+    "label": "DSQUARED2",
+    "name": "футболка с графичным принтом",
+    "price": "$212",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21499383.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/86/71/47/23867147_53944865_480.jpg",
+    "label": "Diesel",
+    "name": "топ с высоким воротником и эффектом тромплей из коллаборации с ToFF",
+    "price": "$177",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-toff-item-23867147.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/30/36/21823036_52432080_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с тисненым логотипом",
+    "price": "$125",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21823036.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/50/03/85/21500385_51765189_480.jpg",
+    "label": "DSQUARED2",
+    "name": "футболка с логотипом",
+    "price": "$243",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21500385.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/11/96/20251196_51864158_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка из органического хлопка с вышитым логотипом",
+    "price": "$157",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-20251196.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/75/69/77/18756977_41137697_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "футболка Ikonik 2.0 из органического хлопка",
+    "price": "$111",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld-ikonik-20-item-18756977.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/53/23/21465323_53294145_480.jpg",
+    "label": "Philipp Plein",
+    "name": "футболка с принтом и логотипом",
+    "price": "$189",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-21465323.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/44/19/22704419_52831419_480.jpg",
+    "label": "PS Paul Smith",
+    "name": "футболка из органического хлопка с принтом",
+    "price": "$40",
+    "url": "https://www.farfetch.com/kz/shopping/men/ps-paul-smith--item-22704419.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/37/24/23973724_54305549_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$126",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-23973724.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/36/99/95/24369995_54411495_480.jpg",
+    "label": "Casablanca",
+    "name": "футболка Leaning Column",
+    "price": "$243",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-leaning-column-item-24369995.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/37/21819937_48162862_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$107",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21819937.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/46/33/55/22463355_52471024_480.jpg",
+    "label": "Lanvin",
+    "name": "футболка Curb с вышивкой",
+    "price": "$457",
+    "url": "https://www.farfetch.com/kz/shopping/men/lanvin-curb-item-22463355.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/47/10/30/22471030_52465697_480.jpg",
+    "label": "Kenzo",
+    "name": "футболка с логотипом из коллаборации с Verdy",
+    "price": "$169",
+    "url": "https://www.farfetch.com/kz/shopping/men/kenzo-verdy-item-22471030.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/21/12/25/19211225_42108050_480.jpg",
+    "label": "Diesel",
+    "name": "футболка с эффектом разбрызганной краски",
+    "price": "$230",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel--item-19211225.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/07/27/60/17072760_34274756_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "футболка с вышивкой Polo Pony",
+    "price": "$62",
+    "url": "https://www.farfetch.com/kz/shopping/men/polo-ralph-lauren-polo-pony-item-17072760.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/70/24/33/15702433_28612891_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "футболка с круглым вырезом и логотипом",
+    "price": "$315",
+    "url": "https://www.farfetch.com/kz/shopping/men/dolce-gabbana--item-15702433.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/14/94/41/96/14944196_25989246_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "футболка с логотипом",
+    "price": "$87",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-play--item-14944196.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/20/52/17962052_40333234_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка оверсайз с монограммой Ami de Coeur",
+    "price": "$117",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-17962052.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/27/57/21822757_48163640_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$125",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-21822757.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/83/30/45/21833045_52049659_480.jpg",
     "label": "Off-White",
-    "name": "logo-print T-shirt",
-    "price": "$364"
+    "name": "футболка с вышивкой Tattoo Arrow",
+    "price": "$567",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white-tattoo-arrow-item-21833045.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/13/83/40/43/13834043_52850486_480.jpg",
+    "label": "Gucci",
+    "name": "футболка с принтом Gucci Blade",
+    "price": "$505",
+    "url": "https://www.farfetch.com/kz/shopping/men/gucci-gucci-blade-item-13834043.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/93/76/22619376_52653570_480.jpg",
+    "label": "Kenzo",
+    "name": "футболка Lucky Tiger",
+    "price": "$145",
+    "url": "https://www.farfetch.com/kz/shopping/men/kenzo-lucky-tiger-item-22619376.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/15/22/07/17152207_35371796_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$100",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-17152207.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/41/40/54/22414054_52430525_480.jpg",
+    "label": "Y-3",
+    "name": "футболка с логотипом",
+    "price": "$155",
+    "url": "https://www.farfetch.com/kz/shopping/men/y-3--item-22414054.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/72/75/23777275_53767064_480.jpg",
+    "label": "Casablanca",
+    "name": "футболка Maison De Reve",
+    "price": "$235",
+    "url": "https://www.farfetch.com/kz/shopping/men/casablanca-maison-de-reve-item-23777275.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/39/52/21463952_53294173_480.jpg",
+    "label": "Philipp Plein",
+    "name": "футболка с принтом и логотипом",
+    "price": "$192",
+    "url": "https://www.farfetch.com/kz/shopping/men/philipp-plein--item-21463952.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/45/33/40/22453340_52488874_480.jpg",
+    "label": "Off-White",
+    "name": "футболка с вышитым логотипом",
+    "price": "$363",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white--item-22453340.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/45/51/36/19455136_43377527_480.jpg",
+    "label": "Heron Preston",
+    "name": "футболка с логотипом",
+    "price": "$172",
+    "url": "https://www.farfetch.com/kz/shopping/men/heron-preston--item-19455136.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/25/11/95/20251195_50739924_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка из органического хлопка с вышитым логотипом",
+    "price": "$157",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-20251195.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/23/47/37/22234737_52149878_480.jpg",
+    "label": "DSQUARED2",
+    "name": "футболка с принтом Icon Blur",
+    "price": "$183",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-icon-blur-item-22234737.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/45/31/19594531_44718304_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с монограммой Ami de Coeur",
+    "price": "$126",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-19594531.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/30/21819930_53101792_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с логотипом",
+    "price": "$88",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819930.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/42/15/23974215_54139727_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с вышитым логотипом",
+    "price": "$126",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-23974215.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/47/99/41/22479941_52477667_480.jpg",
+    "label": "Kenzo",
+    "name": "футболка Tiger Varsity",
+    "price": "$219",
+    "url": "https://www.farfetch.com/kz/shopping/men/kenzo-tiger-varsity-item-22479941.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/36/89/86/22368986_52376232_480.jpg",
+    "label": "DSQUARED2",
+    "name": "футболка Leaf Skater",
+    "price": "$151",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2-leaf-skater-item-22368986.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/33/41/87/15334187_26812741_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "футболка с короткими рукавами и нашивкой",
+    "price": "$82",
+    "url": "https://www.farfetch.com/kz/shopping/men/comme-des-garcons-play--item-15334187.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/57/82/22875782_52949342_480.jpg",
+    "label": "Maison Kitsuné",
+    "name": "футболка с логотипом",
+    "price": "$101",
+    "url": "https://www.farfetch.com/kz/shopping/men/maison-kitsune--item-22875782.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/81/99/32/21819932_52438844_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка с тисненым логотипом",
+    "price": "$174",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris--item-21819932.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/60/41/64/19604164_44477156_480.jpg",
+    "label": "Diesel",
+    "name": "футболка T-Nlabel с логотипом",
+    "price": "$56",
+    "url": "https://www.farfetch.com/kz/shopping/men/diesel-t-nlabel-item-19604164.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/54/20/69/21542069_52494955_480.jpg",
+    "label": "Karl Lagerfeld",
+    "name": "футболка из органического хлопка с логотипом",
+    "price": "$67",
+    "url": "https://www.farfetch.com/kz/shopping/men/karl-lagerfeld--item-21542069.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/49/85/26/21498526_51763957_480.jpg",
+    "label": "DSQUARED2",
+    "name": "футболка с логотипом",
+    "price": "$141",
+    "url": "https://www.farfetch.com/kz/shopping/men/dsquared2--item-21498526.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/30/55/65/24305565_54394030_480.jpg",
+    "label": "Y-3",
+    "name": "футболка Japanese Football Association Away из коллаборации с adidas",
+    "price": "$123",
+    "url": "https://www.farfetch.com/kz/shopping/men/y-3-japanese-football-association-away-adidas-item-24305565.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/59/52/17/19595217_43856381_480.jpg",
+    "label": "AMI Paris",
+    "name": "футболка в двух тонах с монограммой Ami de Coeur",
+    "price": "$79",
+    "url": "https://www.farfetch.com/kz/shopping/men/ami-paris-ami-de-coeur-item-19595217.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/52/59/13/22525913_52485900_480.jpg",
+    "label": "FEAR OF GOD ESSENTIALS",
+    "name": "футболка с логотипом",
+    "price": "$49",
+    "url": "https://www.farfetch.com/kz/shopping/men/fear-of-god-essentials--item-22525913.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/83/22/32/21832232_48186035_480.jpg",
+    "label": "Off-White",
+    "name": "футболка с логотипом Arrows",
+    "price": "$567",
+    "url": "https://www.farfetch.com/kz/shopping/men/off-white-arrows-item-21832232.aspx"
   }
 ]

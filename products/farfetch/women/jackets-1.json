@@ -1,290 +1,1346 @@
 [
   {
-    "image": "https://cdn-images.farfetch-contents.com/17/62/17/33/17621733_36776404_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/02/33/46/22023346_52357166_480.jpg",
     "label": "TOTEME",
-    "name": "embroidered scarf jacket",
-    "price": "$857"
+    "name": "куртка оверсайз со смещенной застежкой",
+    "price": "$428",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-22023346.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/46/78/71/21467871_52367876_480.jpg",
-    "label": "Maje",
-    "name": "quilted padded jacket",
-    "price": "$750"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/44/86/59/22448659_53582207_480.jpg",
-    "label": "KHAITE",
-    "name": "The Jacobson asymmetric blazer",
-    "price": "$3,485"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/37/48/09/17374809_37694492_480.jpg",
-    "label": "The Frankie Shop",
-    "name": "Bea single-breasted oversize blazer",
-    "price": "$345"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/41/41/57/22414157_52421242_480.jpg",
-    "label": "Lacoste",
-    "name": "x Le Fleur logo-patches varsity jacket",
-    "price": "$895"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/14/90/49/23149049_53595636_480.jpg",
-    "label": "Jean Paul Gaultier",
-    "name": "Morphing Digital-print denim jacket",
-    "price": "$788"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/54/16/89/17541689_36571268_480.jpg",
-    "label": "Burberry",
-    "name": "Diamond Quilted Thermoregulated jacket",
-    "price": "$1,105"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/16/05/70/20160570_50679829_480.jpg",
-    "label": "MCM",
-    "name": "monogram-pattern puffer jacket",
-    "price": "$600"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/81/15/80/23811580_53911880_480.jpg",
-    "label": "ETRO",
-    "name": "floral-print silk jacket",
-    "price": "$3,596"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/09/97/76/22099776_52228091_480.jpg",
-    "label": "Versace",
-    "name": "Medusa Head-buttons wool blazer",
-    "price": "$1,127"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/18/50/31/89/18503189_40474406_480.jpg",
-    "label": "Comme Des Garçons Play",
-    "name": "x K-Way zipped hooded jacket",
-    "price": "$211"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/68/55/50/21685550_52095973_480.jpg",
-    "label": "Acne Studios",
-    "name": "padded denim jacket",
-    "price": "$594"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/15/34/33/20153433_51300824_480.jpg",
-    "label": "Acne Studios",
-    "name": "hooded puffer jacket",
-    "price": "$1,057"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/24/22/08/27/24220827_54332556_480.jpg",
-    "label": "ZIMMERMANN",
-    "name": "Tranquillity jacket",
-    "price": "$1,790"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/79/13/01/23791301_54149959_480.jpg",
-    "label": "Acne Studios",
-    "name": "belted tweed blazer",
-    "price": "$1,057"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/14/53/90/81/14539081_22269940_480.jpg",
-    "label": "Unreal Fur",
-    "name": "Fur Delish faux-fur jacket",
-    "price": "$637"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/91/24/55/23912455_54033658_480.jpg",
-    "label": "Gucci",
-    "name": "GG canvas single-breasted blazer",
-    "price": "$3,100"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/11/91/67/22119167_52696627_480.jpg",
-    "label": "Maje",
-    "name": "belted tweed waistcoat",
-    "price": "$560"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/22/28/08/20222808_52256151_480.jpg",
-    "label": "Philipp Plein",
-    "name": "leopard-print quilted down jacket",
-    "price": "$571"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/05/39/96/23053996_53189807_480.jpg",
-    "label": "Max Mara",
-    "name": "Pacos military jacket",
-    "price": "$1,297"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/19/96/79/85/19967985_50669688_480.jpg",
-    "label": "Elie Saab",
-    "name": "eyelet-detail single-breast blazer",
-    "price": "$1,701"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/44/94/04/22449404_52810167_480.jpg",
-    "label": "KHAITE",
-    "name": "The Hammond jacket",
-    "price": "$3,132"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/51/65/11/21516511_51594875_480.jpg",
-    "label": "The North Face",
-    "name": "1996 Retro Nuptse down gilet",
-    "price": "$334"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/23/78/44/34/23784434_54184365_480.jpg",
-    "label": "Chloé",
-    "name": "belted leather jacket",
-    "price": "$5,187"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/69/10/80/22691080_52976695_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/02/93/71/22029371_52125414_480.jpg",
     "label": "GANNI",
-    "name": "tie-fastening textured blazer",
-    "price": "$176"
+    "name": "джинсовый пиджак строгого кроя",
+    "price": "$318",
+    "url": "https://www.farfetch.com/kz/shopping/women/ganni--item-22029371.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/02/67/49/22026749_52670035_480.jpg",
-    "label": "SANDRO",
-    "name": "double-breasted pinstripe blazer",
-    "price": "$525"
+    "image": "https://cdn-images.farfetch-contents.com/21/82/08/46/21820846_52629032_480.jpg",
+    "label": "AMI Paris",
+    "name": "джинсовая куртка-рубашка с вышитым логотипом",
+    "price": "$225",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris--item-21820846.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/49/13/04/23491304_53590115_480.jpg",
-    "label": "Versace",
-    "name": "double-breasted chambray blazer",
-    "price": "$2,273"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/17/20/74/89/17207489_34985669_480.jpg",
-    "label": "SANDRO",
-    "name": "peak-lapel single-breasted blazer",
-    "price": "$309"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/86/45/14/21864514_51802662_480.jpg",
-    "label": "SANDRO",
-    "name": "cropped studded suede jacket",
-    "price": "$735"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/07/02/60/22070260_51856021_480.jpg",
-    "label": "Alexander Wang",
-    "name": "herringbone wrap wool blazer",
-    "price": "$676"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/21/08/55/22/21085522_51491399_480.jpg",
-    "label": "Mugler",
-    "name": "drawstring-fastening blazer",
-    "price": "$915"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/94/67/36/20946736_51131018_480.jpg",
-    "label": "JNBY",
-    "name": "cropped tailored jacket",
-    "price": "$311"
+    "image": "https://cdn-images.farfetch-contents.com/18/89/80/65/18898065_41434313_480.jpg",
+    "label": "Moncler",
+    "name": "дутый жилет Ghany",
+    "price": "$680",
+    "url": "https://www.farfetch.com/kz/shopping/women/moncler-ghany-item-18898065.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/22/23/12/76/22231276_52427488_480.jpg",
     "label": "The North Face",
-    "name": "x Undercover logo-print padded jacket",
-    "price": "$618"
+    "name": "пуховик с логотипом из коллаборации с Undercover",
+    "price": "$618",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-north-face-undercover-item-22231276.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/60/13/70/22601370_53196169_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/23/49/76/85/23497685_53590247_480.jpg",
+    "label": "Versace",
+    "name": "укороченный жакет с пуговицами Medusa",
+    "price": "$2,035",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-medusa-item-23497685.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/71/70/91/22717091_52760359_480.jpg",
+    "label": "Patrizia Pepe",
+    "name": "куртка из искусственной кожи со вставками",
+    "price": "$413",
+    "url": "https://www.farfetch.com/kz/shopping/women/patrizia-pepe--item-22717091.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/95/35/15/17953515_37953207_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "куртка с капюшоном из коллаборации с K-Way Leon",
+    "price": "$181",
+    "url": "https://www.farfetch.com/kz/shopping/women/comme-des-garcons-play-k-way-leon-item-17953515.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/36/69/21613669_52247647_480.jpg",
+    "label": "PINKO",
+    "name": "двубортный пиджак",
+    "price": "$329",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21613669.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/83/04/22118304_52072345_480.jpg",
     "label": "Maje",
-    "name": "drop-shoulder cropped bomber jacket",
-    "price": "$520"
+    "name": "однобортный блейзер",
+    "price": "$940",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22118304.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/16/78/27/53/16782753_34526385_480.jpg",
-    "label": "Herno",
-    "name": "Ultralight quilted down jacket",
-    "price": "$491"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/20/04/42/72/20044272_50632725_480.jpg",
-    "label": "Dolce & Gabbana",
-    "name": "logo-plaque puffer jacket",
-    "price": "$910"
-  },
-  {
-    "image": "https://cdn-images.farfetch-contents.com/22/04/96/37/22049637_51989289_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/22/96/87/62/22968762_53135560_480.jpg",
     "label": "Stella McCartney",
-    "name": "double-breasted blazer",
-    "price": "$861"
+    "name": "укороченный шерстяной блейзер",
+    "price": "$1,153",
+    "url": "https://www.farfetch.com/kz/shopping/women/stella-mccartney--item-22968762.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/16/78/59/24/16785924_37305267_480.jpg",
-    "label": "3.1 Phillip Lim",
-    "name": "Duvet oversized parka",
-    "price": "$242"
+    "image": "https://cdn-images.farfetch-contents.com/22/02/34/19/22023419_51871839_480.jpg",
+    "label": "TOTEME",
+    "name": "приталенный пиджак",
+    "price": "$342",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-22023419.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/21/71/76/52/21717652_52137050_480.jpg",
-    "label": "SANDRO",
-    "name": "short-sleeve tweed jacket",
-    "price": "$385"
+    "image": "https://cdn-images.farfetch-contents.com/20/96/49/51/20964951_53072813_480.jpg",
+    "label": "Courrèges",
+    "name": "виниловая куртка Reedition в клетку",
+    "price": "$1,378",
+    "url": "https://www.farfetch.com/kz/shopping/women/courreges-reedition-item-20964951.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/23/41/16/70/23411670_53476054_480.jpg",
-    "label": "Jacquemus",
-    "name": "La Veste Ovalo single-breasted blazer",
-    "price": "$1,153"
+    "image": "https://cdn-images.farfetch-contents.com/23/87/40/11/23874011_54692733_480.jpg",
+    "label": "Gucci",
+    "name": "твидовый пиджак",
+    "price": "$2,432",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci--item-23874011.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/24/23/30/41/24233041_54336022_480.jpg",
-    "label": "KHAITE",
-    "name": "Kember leather jacket",
-    "price": "$4,017"
+    "image": "https://cdn-images.farfetch-contents.com/22/52/09/84/22520984_52971024_480.jpg",
+    "label": "TOTEME",
+    "name": "куртка с заостренными лацканами",
+    "price": "$1,067",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-22520984.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/11/91/91/22119191_52547779_480.jpg",
-    "label": "Maje",
-    "name": "belted cropped leather jacket",
-    "price": "$860"
+    "image": "https://cdn-images.farfetch-contents.com/19/62/21/80/19622180_43948763_480.jpg",
+    "label": "JEAN-LOUIS SABAJI",
+    "name": "однобортный блейзер с цепочками",
+    "price": "$2,422",
+    "url": "https://www.farfetch.com/kz/shopping/women/jean-louis-sabaji--item-19622180.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/31/13/24/18311324_51044225_480.jpg",
+    "label": "Khrisjoy",
+    "name": "пуховик Iconic",
+    "price": "$1,086",
+    "url": "https://www.farfetch.com/kz/shopping/women/khrisjoy-iconic-item-18311324.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/27/77/67/24277767_54307077_480.jpg",
+    "label": "Gucci",
+    "name": "шерстяной блейзер с логотипом GG",
+    "price": "$2,703",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci-gg-item-24277767.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/46/64/22024664_51841821_480.jpg",
+    "label": "JNBY",
+    "name": "куртка с цветочным принтом",
+    "price": "$406",
+    "url": "https://www.farfetch.com/kz/shopping/women/jnby--item-22024664.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/35/29/08/22352908_52395018_480.jpg",
+    "label": "Nina Ricci",
+    "name": "укороченный жакет с объемными рукавами",
+    "price": "$834",
+    "url": "https://www.farfetch.com/kz/shopping/women/nina-ricci--item-22352908.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/23/85/45/34/23854534_53944940_480.jpg",
     "label": "Diesel",
-    "name": "x ToFF PR-D-Barcy cotton jacket",
-    "price": "$465"
+    "name": "куртка PR-D-Barcy из коллаборации с ToFF",
+    "price": "$465",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-pr-d-barcy-toff-item-23854534.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/64/51/26/22645126_52727890_480.jpg",
+    "image": "https://cdn-images.farfetch-contents.com/21/46/85/04/21468504_52265949_480.jpg",
+    "label": "Maje",
+    "name": "укороченный твидовый пиджак",
+    "price": "$640",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21468504.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/93/38/00/22933800_48868425_480.jpg",
+    "label": "Mugler",
+    "name": "джинсовая куртка с принтом",
+    "price": "$513",
+    "url": "https://www.farfetch.com/kz/shopping/women/mugler--item-22933800.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/27/32/13/22273213_52665733_480.jpg",
+    "label": "Maje",
+    "name": "твидовый жакет на пуговицах",
+    "price": "$600",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22273213.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/82/94/15/22829415_52915582_480.jpg",
+    "label": "TWINSET",
+    "name": "байкерская куртка с металлическим логотипом",
+    "price": "$261",
+    "url": "https://www.farfetch.com/kz/shopping/women/twinset--item-22829415.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/43/62/62/18436262_44161949_480.jpg",
+    "label": "Balenciaga",
+    "name": "пуховик Sporty B",
+    "price": "$1,793",
+    "url": "https://www.farfetch.com/kz/shopping/women/balenciaga-sporty-b-item-18436262.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/26/50/63/22265063_52166278_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "укороченная джинсовая куртка",
+    "price": "$973",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-mcqueen--item-22265063.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/85/12/02/21851202_51766897_480.jpg",
+    "label": "TOTEME",
+    "name": "дафлкот с капюшоном",
+    "price": "$330",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-21851202.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/93/21/04/17932104_37835697_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "легкая куртка с капюшоном из коллаборации с K-Way",
+    "price": "$178",
+    "url": "https://www.farfetch.com/kz/shopping/women/comme-des-garcons-play-k-way-item-17932104.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/13/44/34/22134434_52059184_480.jpg",
+    "label": "Patrizia Pepe",
+    "name": "пиджак Essential с молниями",
+    "price": "$504",
+    "url": "https://www.farfetch.com/kz/shopping/women/patrizia-pepe-essential-item-22134434.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/69/72/13/23697213_53747469_480.jpg",
+    "label": "Proenza Schouler White Label",
+    "name": "куртка Barnes на молнии",
+    "price": "$594",
+    "url": "https://www.farfetch.com/kz/shopping/women/proenza-schouler-white-label-barnes-item-23697213.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/26/68/29/20266829_52327277_480.jpg",
+    "label": "Proenza Schouler White Label",
+    "name": "кожаный бомбер Mika",
+    "price": "$418",
+    "url": "https://www.farfetch.com/kz/shopping/women/proenza-schouler-white-label-mika-item-20266829.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/15/80/38/37/15803837_ade89840-71e8-40ca-88e5-b34f7417a18f_480.jpg",
+    "label": "Moncler",
+    "name": "пуховик с капюшоном и нашивкой-логотипом",
+    "price": "$1,205",
+    "url": "https://www.farfetch.com/kz/shopping/women/moncler--item-15803837.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/06/26/68/21062668_51128903_480.jpg",
+    "label": "adidas",
+    "name": "полосатый блейзер с вышитым логотипом",
+    "price": "$226",
+    "url": "https://www.farfetch.com/kz/shopping/women/adidas--item-21062668.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/76/52/22707652_53211554_480.jpg",
+    "label": "Versace",
+    "name": "двубортный твидовый пиджак",
+    "price": "$1,253",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace--item-22707652.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/41/25/36/23412536_53491978_480.jpg",
+    "label": "Burberry",
+    "name": "тренч со смещенной застежкой",
+    "price": "$2,595",
+    "url": "https://www.farfetch.com/kz/shopping/women/burberry--item-23412536.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/69/27/20/22692720_53548047_480.jpg",
+    "label": "JW Anderson",
+    "name": "двубортный пиджак из денима",
+    "price": "$582",
+    "url": "https://www.farfetch.com/kz/shopping/women/jw-anderson--item-22692720.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/71/76/52/21717652_52137050_480.jpg",
+    "label": "SANDRO",
+    "name": "твидовый жакет с короткими рукавами",
+    "price": "$385",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21717652.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/83/52/05/23835205_53823249_480.jpg",
+    "label": "Adam Lippes",
+    "name": "блейзер Gazar",
+    "price": "$2,689",
+    "url": "https://www.farfetch.com/kz/shopping/women/adam-lippes-gazar-item-23835205.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/24/41/22872441_54112553_480.jpg",
+    "label": "The Frankie Shop",
+    "name": "однобортный пиджак Aiden",
+    "price": "$431",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-frankie-shop-aiden-item-22872441.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/13/04/23491304_53590115_480.jpg",
+    "label": "Versace",
+    "name": "двубортный пиджак из ткани шамбре",
+    "price": "$2,273",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace--item-23491304.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/70/76/62/22707662_52919132_480.jpg",
+    "label": "Versace",
+    "name": "блейзер в клетку гингем",
+    "price": "$1,545",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace--item-22707662.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/87/53/63/22875363_54111828_480.jpg",
+    "label": "The Frankie Shop",
+    "name": "топ Chelsea с V-образным вырезом",
+    "price": "$240",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-frankie-shop-chelsea-v-item-22875363.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/24/80/37/21248037_51539920_480.jpg",
+    "label": "Maje",
+    "name": "блейзер строгого кроя с цепочкой",
+    "price": "$670",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21248037.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/97/72/89/22977289_53124290_480.jpg",
+    "label": "Burberry",
+    "name": "жакеь Rose",
+    "price": "$2,347",
+    "url": "https://www.farfetch.com/kz/shopping/women/burberry-rose-item-22977289.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/17/70/23/22177023_52955336_480.jpg",
+    "label": "Burberry",
+    "name": "однобортный блейзер в клетку",
+    "price": "$2,843",
+    "url": "https://www.farfetch.com/kz/shopping/women/burberry--item-22177023.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/24/69/41/21246941_51593140_480.jpg",
+    "label": "Maje",
+    "name": "куртка из шерпы с объемным воротником",
+    "price": "$750",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21246941.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/87/01/97/23870197_54355099_480.jpg",
+    "label": "PINKO",
+    "name": "пуховик с нашивкой-логотипом",
+    "price": "$497",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-23870197.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/35/31/79/22353179_52419041_480.jpg",
+    "label": "Nina Ricci",
+    "name": "однобортный бархатный пиджак",
+    "price": "$952",
+    "url": "https://www.farfetch.com/kz/shopping/women/nina-ricci--item-22353179.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/31/08/71/23310871_53515948_480.jpg",
+    "label": "Cinq A Sept",
+    "name": "пиджак Roxie со вставками",
+    "price": "$751",
+    "url": "https://www.farfetch.com/kz/shopping/women/cinq-a-sept-roxie-item-23310871.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/62/20/90/22622090_52711328_480.jpg",
+    "label": "ENTIRE STUDIOS",
+    "name": "пуховик с капюшоном",
+    "price": "$764",
+    "url": "https://www.farfetch.com/kz/shopping/women/entire-studios--item-22622090.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/60/13/68/22601368_52862286_480.jpg",
+    "label": "Maje",
+    "name": "твидовый блейзер",
+    "price": "$600",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22601368.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/78/75/63/20787563_51448963_480.jpg",
+    "label": "Balenciaga",
+    "name": "бомбер оверсайз Paris",
+    "price": "$2,292",
+    "url": "https://www.farfetch.com/kz/shopping/women/balenciaga-paris-item-20787563.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/80/27/26/22802726_53147702_480.jpg",
+    "label": "Maje",
+    "name": "укороченный твидовый жакт",
+    "price": "$370",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22802726.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/95/28/61/22952861_53150917_480.jpg",
+    "label": "ETRO",
+    "name": "двубортный пиджак",
+    "price": "$1,850",
+    "url": "https://www.farfetch.com/kz/shopping/women/etro--item-22952861.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/22/08/27/24220827_54332556_480.jpg",
+    "label": "ZIMMERMANN",
+    "name": "куртка Tranquility",
+    "price": "$1,790",
+    "url": "https://www.farfetch.com/kz/shopping/women/zimmermann-tranquility-item-24220827.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/64/63/75/22646375_52676729_480.jpg",
+    "label": "ISABEL MARANT",
+    "name": "двубортный пиджак Nevimea",
+    "price": "$759",
+    "url": "https://www.farfetch.com/kz/shopping/women/isabel-marant-nevimea-item-22646375.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/35/08/21613508_51863933_480.jpg",
+    "label": "PINKO",
+    "name": "укороченная куртка со вставками",
+    "price": "$305",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21613508.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/78/27/53/16782753_34526385_480.jpg",
+    "label": "Herno",
+    "name": "легкая стеганая куртка",
+    "price": "$621",
+    "url": "https://www.farfetch.com/kz/shopping/women/herno--item-16782753.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/05/21/33/22052133_51953365_480.jpg",
+    "label": "Stella McCartney",
+    "name": "джинсовая куртка со вставками",
+    "price": "$691",
+    "url": "https://www.farfetch.com/kz/shopping/women/stella-mccartney--item-22052133.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/18/67/87/20186787_51111011_480.jpg",
+    "label": "16Arlington",
+    "name": "блейзер Elinor с перьями",
+    "price": "$1,276",
+    "url": "https://www.farfetch.com/kz/shopping/women/16arlington-elinor-item-20186787.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/45/60/66/22456066_52378769_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "куртка с эффектом кракле",
+    "price": "$1,905",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren--item-22456066.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/91/61/22119161_52543358_480.jpg",
+    "label": "Maje",
+    "name": "однобортный пиджак с заостренными лацканами",
+    "price": "$670",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22119161.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/80/50/21608050_52750927_480.jpg",
+    "label": "Diesel",
+    "name": "укороченная куртка F-Kinigli",
+    "price": "$191",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-f-kinigli-item-21608050.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/20/15/23492015_53590471_480.jpg",
+    "label": "Versace",
+    "name": "укороченный твидовый жакет Heritage",
+    "price": "$2,520",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-heritage-item-23492015.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/85/03/21468503_52279556_480.jpg",
+    "label": "Maje",
+    "name": "кардиган с эффектом металлик",
+    "price": "$560",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21468503.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/10/45/02/23104502_53611092_480.jpg",
+    "label": "Coperni",
+    "name": "однобортный пиджак",
+    "price": "$1,020",
+    "url": "https://www.farfetch.com/kz/shopping/women/coperni--item-23104502.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/44/55/10/23445510_53630658_480.jpg",
+    "label": "Valentino Garavani",
+    "name": "пиджак из вирджинской шерсти с логотипом VLogo Signature",
+    "price": "$3,140",
+    "url": "https://www.farfetch.com/kz/shopping/women/valentino-garavani-vlogo-signature-item-23445510.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/96/86/19/23968619_54059473_480.jpg",
+    "label": "Moncler",
+    "name": "дутый жилет",
+    "price": "$780",
+    "url": "https://www.farfetch.com/kz/shopping/women/moncler--item-23968619.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/83/11/24/23831124_53827474_480.jpg",
+    "label": "Jil Sander",
+    "name": "жилет строгого кроя с поясом",
+    "price": "$2,907",
+    "url": "https://www.farfetch.com/kz/shopping/women/jil-sander--item-23831124.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/71/34/19/22713419_52836997_480.jpg",
+    "label": "b+ab",
+    "name": "укороченный твидовый жакт",
+    "price": "$131",
+    "url": "https://www.farfetch.com/kz/shopping/women/bab--item-22713419.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/72/91/22157291_52419099_480.jpg",
+    "label": "PINKO",
+    "name": "однобортный блейзер Goldeneye",
+    "price": "$340",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko-goldeneye-item-22157291.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/98/33/70/22983370_53287475_480.jpg",
+    "label": "LOEWE",
+    "name": "твиловая куртка Balloon",
+    "price": "$3,248",
+    "url": "https://www.farfetch.com/kz/shopping/women/loewe-balloon-item-22983370.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/13/66/79/23136679_53264830_480.jpg",
     "label": "Elisabetta Franchi",
-    "name": "double-breasted crepe blazer",
-    "price": "$422"
+    "name": "креповый блейзер с вырезами",
+    "price": "$527",
+    "url": "https://www.farfetch.com/kz/shopping/women/elisabetta-franchi--item-23136679.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/00/22/72/23002272_53291621_480.jpg",
+    "label": "FENDI",
+    "name": "жилет с вышитым логотипом",
+    "price": "$2,079",
+    "url": "https://www.farfetch.com/kz/shopping/women/fendi--item-23002272.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/77/70/48/22777048_53198734_480.jpg",
+    "label": "ERDEM",
+    "name": "укороченный жакет с цветочным узором",
+    "price": "$928",
+    "url": "https://www.farfetch.com/kz/shopping/women/erdem--item-22777048.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/87/12/07/18871207_41900869_480.jpg",
+    "label": "Philipp Plein",
+    "name": "куртка с кристаллами",
+    "price": "$6,237",
+    "url": "https://www.farfetch.com/kz/shopping/women/philipp-plein--item-18871207.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/58/71/19/21587119_51780296_480.jpg",
+    "label": "STUDIO TOMBOY",
+    "name": "стеганая куртка",
+    "price": "$310",
+    "url": "https://www.farfetch.com/kz/shopping/women/studio-tomboy--item-21587119.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/28/99/85/21289985_51364924_480.jpg",
+    "label": "1017 ALYX 9SM",
+    "name": "пуховик с пряжкой",
+    "price": "$776",
+    "url": "https://www.farfetch.com/kz/shopping/women/1017-alyx-9sm--item-21289985.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/74/81/74/23748174_53898822_480.jpg",
+    "label": "SANDRO",
+    "name": "укороченный жакет без воротника",
+    "price": "$660",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-23748174.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/16/29/69/63/16296963_32567349_480.jpg",
     "label": "3.1 Phillip Lim",
-    "name": "The Journey Puffer vest",
-    "price": "$149"
+    "name": "дутый жилет The Journey",
+    "price": "$149",
+    "url": "https://www.farfetch.com/kz/shopping/women/31-phillip-lim-the-journey-item-16296963.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/17/79/07/20177907_52310939_480.jpg",
+    "label": "WARDROBE.NYC",
+    "name": "двусторонний бомбер",
+    "price": "$808",
+    "url": "https://www.farfetch.com/kz/shopping/women/wardrobenyc--item-20177907.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/95/98/95/17959895_38413356_480.jpg",
+    "label": "AMI Paris",
+    "name": "пуховик с монограммой Ami de Coeur",
+    "price": "$616",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-17959895.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/66/21/72/18662172_41987127_480.jpg",
+    "label": "Axel Arigato",
+    "name": "пуховик Rhode с капюшоном",
+    "price": "$710",
+    "url": "https://www.farfetch.com/kz/shopping/women/axel-arigato-rhode-item-18662172.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/91/24/55/23912455_54033658_480.jpg",
+    "label": "Gucci",
+    "name": "однобортный пиджак с узором GG",
+    "price": "$3,100",
+    "url": "https://www.farfetch.com/kz/shopping/women/gucci-gg-item-23912455.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/67/49/22026749_52670035_480.jpg",
+    "label": "SANDRO",
+    "name": "двубортный блейзер в тонкую полоску",
+    "price": "$525",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-22026749.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/98/26/22159826_53164363_480.jpg",
+    "label": "The Frankie Shop",
+    "name": "укороченный бомбер Micky",
+    "price": "$175",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-frankie-shop-micky-item-22159826.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/09/03/48/23090348_53762225_480.jpg",
+    "label": "VETEMENTS",
+    "name": "бомбер Blackout Racing",
+    "price": "$2,742",
+    "url": "https://www.farfetch.com/kz/shopping/women/vetements-blackout-racing-item-23090348.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/49/76/70/23497670_53577176_480.jpg",
+    "label": "Versace",
+    "name": "твидовый жакет с декором Medusa",
+    "price": "$2,384",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-medusa-item-23497670.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/30/31/39/22303139_52082560_480.jpg",
+    "label": "ETRO",
+    "name": "двубортный блейзер",
+    "price": "$865",
+    "url": "https://www.farfetch.com/kz/shopping/women/etro--item-22303139.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/23/43/23772343_54190350_480.jpg",
+    "label": "Maje",
+    "name": "бомбер из джерси",
+    "price": "$330",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23772343.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/23/22/22/19232222_42220144_480.jpg",
+    "label": "Goen.J",
+    "name": "куртка с бахромой и поясом",
+    "price": "$846",
+    "url": "https://www.farfetch.com/kz/shopping/women/goenj--item-19232222.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/76/98/09/23769809_53844233_480.jpg",
+    "label": "Comme Des Garçons Play",
+    "name": "куртка на молнии с капюшоном из коллаборации с K-Way",
+    "price": "$220",
+    "url": "https://www.farfetch.com/kz/shopping/women/comme-des-garcons-play-k-way-item-23769809.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/45/60/63/18456063_39675273_480.jpg",
+    "label": "Burberry",
+    "name": "укороченная куртка с длинными рукавами",
+    "price": "$1,229",
+    "url": "https://www.farfetch.com/kz/shopping/women/burberry--item-18456063.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/60/13/70/22601370_53196169_480.jpg",
+    "label": "Maje",
+    "name": "бомбер с приспущенными плечами",
+    "price": "$520",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22601370.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/23/30/41/24233041_54336022_480.jpg",
+    "label": "KHAITE",
+    "name": "куртка Kember",
+    "price": "$3,983",
+    "url": "https://www.farfetch.com/kz/shopping/women/khaite-kember-item-24233041.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/16/29/69/58/16296958_33292499_480.jpg",
+    "label": "3.1 Phillip Lim",
+    "name": "пуховик The Journey",
+    "price": "$188",
+    "url": "https://www.farfetch.com/kz/shopping/women/31-phillip-lim-the-journey-item-16296958.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/25/36/83/22253683_53018815_480.jpg",
+    "label": "JW Anderson",
+    "name": "атласный бомбер без рукавов",
+    "price": "$555",
+    "url": "https://www.farfetch.com/kz/shopping/women/jw-anderson--item-22253683.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/70/33/44/17703344_39853335_480.jpg",
+    "label": "The Frankie Shop",
+    "name": "однобортный блейзер Gelso Oversized",
+    "price": "$406",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-frankie-shop-gelso-oversized-item-17703344.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/96/05/84/17960584_38412207_480.jpg",
+    "label": "AMI Paris",
+    "name": "пуховик с монограммой Ami de Coeur",
+    "price": "$616",
+    "url": "https://www.farfetch.com/kz/shopping/women/ami-paris-ami-de-coeur-item-17960584.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/81/15/80/23811580_53911880_480.jpg",
+    "label": "ETRO",
+    "name": "шелковое пальто с цветочным принтом",
+    "price": "$3,596",
+    "url": "https://www.farfetch.com/kz/shopping/women/etro--item-23811580.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/56/06/60/22560660_52639187_480.jpg",
+    "label": "PINKO",
+    "name": "двубортный креповый блейзер",
+    "price": "$329",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-22560660.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/20/14/20/22201420_51942889_480.jpg",
+    "label": "Diesel",
+    "name": "укороченная куртка Awwt-Cynthia-Wt40",
+    "price": "$132",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-awwt-cynthia-wt40-item-22201420.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/35/04/23973504_54025201_480.jpg",
+    "label": "Nina Ricci",
+    "name": "джинсовая куртка с баской",
+    "price": "$895",
+    "url": "https://www.farfetch.com/kz/shopping/women/nina-ricci--item-23973504.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/68/88/34/22688834_52790523_480.jpg",
+    "label": "LOEWE",
+    "name": "бомбер-пуховик",
+    "price": "$2,970",
+    "url": "https://www.farfetch.com/kz/shopping/women/loewe--item-22688834.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/31/15/77/23311577_53516112_480.jpg",
+    "label": "Cinq A Sept",
+    "name": "декорированный блейзер Cheyenne",
+    "price": "$751",
+    "url": "https://www.farfetch.com/kz/shopping/women/cinq-a-sept-cheyenne-item-23311577.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/31/45/00/20314500_51019802_480.jpg",
+    "label": "Nanushka",
+    "name": "укороченный двубортный тренч",
+    "price": "$700",
+    "url": "https://www.farfetch.com/kz/shopping/women/nanushka--item-20314500.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/51/65/11/21516511_51594875_480.jpg",
+    "label": "The North Face",
+    "name": "жилет 1996 Retro Nuptse",
+    "price": "$334",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-north-face-1996-retro-nuptse-item-21516511.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/90/12/28/20901228_51909531_480.jpg",
+    "label": "Yohji Yamamoto",
+    "name": "укороченная шерстяная куртка с эффектом потертости",
+    "price": "$2,433",
+    "url": "https://www.farfetch.com/kz/shopping/women/yohji-yamamoto--item-20901228.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/90/23/84/23902384_54486986_480.jpg",
+    "label": "Maje",
+    "name": "твидовый комплект из платья и жакета",
+    "price": "$393",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23902384.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/68/60/63/22686063_53089679_480.jpg",
+    "label": "Maje",
+    "name": "твидовый жакет с цепочками",
+    "price": "$670",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22686063.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/23/90/91/21239091_51248991_480.jpg",
+    "label": "GANNI",
+    "name": "однобортный блейзер с V-образным вырезом",
+    "price": "$300",
+    "url": "https://www.farfetch.com/kz/shopping/women/ganni-v-item-21239091.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/29/26/16/23292616_53315838_480.jpg",
+    "label": "Balenciaga",
+    "name": "твидовый блейзер Hourglass",
+    "price": "$2,199",
+    "url": "https://www.farfetch.com/kz/shopping/women/balenciaga-hourglass-item-23292616.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/86/49/54/22864954_53122057_480.jpg",
+    "label": "b+ab",
+    "name": "твидовый жакет с плетеной отделкой",
+    "price": "$131",
+    "url": "https://www.farfetch.com/kz/shopping/women/bab--item-22864954.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/77/72/00/23777200_54339260_480.jpg",
+    "label": "Max Mara",
+    "name": "фактурный кейп Tebe",
+    "price": "$1,490",
+    "url": "https://www.farfetch.com/kz/shopping/women/max-mara-tebe-item-23777200.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/46/84/55/21468455_51944178_480.jpg",
+    "label": "SANDRO",
+    "name": "твидовый однобортный блейзер",
+    "price": "$405",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-21468455.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/73/40/27/18734027_42375257_480.jpg",
+    "label": "The Frankie Shop",
+    "name": "однобортный блейзер Bea",
+    "price": "$363",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-frankie-shop-bea-item-18734027.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/61/32/51/21613251_52182075_480.jpg",
+    "label": "Diesel",
+    "name": "куртка L-Totem",
+    "price": "$442",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-l-totem-item-21613251.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/16/42/72/22164272_53102872_480.jpg",
+    "label": "Jacquemus",
+    "name": "куртка La Veste Obra Cuir",
+    "price": "$1,598",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-veste-obra-cuir-item-22164272.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/37/23/50/22372350_52669586_480.jpg",
+    "label": "Dolce & Gabbana",
+    "name": "двубортный пиджак",
+    "price": "$3,980",
+    "url": "https://www.farfetch.com/kz/shopping/women/dolce-gabbana--item-22372350.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/15/19/75/24151975_54334567_480.jpg",
+    "label": "Moncler",
+    "name": "пуховик с трикотажными рукавами",
+    "price": "$869",
+    "url": "https://www.farfetch.com/kz/shopping/women/moncler--item-24151975.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/35/40/46/22354046_53404387_480.jpg",
+    "label": "Nanushka",
+    "name": "жилет Arnona из искусственной кожи",
+    "price": "$294",
+    "url": "https://www.farfetch.com/kz/shopping/women/nanushka-arnona-item-22354046.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/82/71/67/21827167_51764343_480.jpg",
+    "label": "b+ab",
+    "name": "жакет на пуговицах",
+    "price": "$89",
+    "url": "https://www.farfetch.com/kz/shopping/women/bab--item-21827167.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/97/13/48/22971348_55005302_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "однобортный пиджак Damask",
+    "price": "$1,861",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-mcqueen-damask-item-22971348.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/52/09/93/22520993_52986456_480.jpg",
+    "label": "TOTEME",
+    "name": "куртка-рубашка из органического хлопка",
+    "price": "$272",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-22520993.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/84/14/22028414_51866771_480.jpg",
+    "label": "GANNI",
+    "name": "глянцевый стеганый пуховик",
+    "price": "$197",
+    "url": "https://www.farfetch.com/kz/shopping/women/ganni--item-22028414.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/39/44/22153944_52019047_480.jpg",
+    "label": "Versace",
+    "name": "пуховик с принтом Barocco и декором Medusa",
+    "price": "$1,281",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace-barocco-medusa-item-22153944.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/83/59/21608359_53057457_480.jpg",
+    "label": "PINKO",
+    "name": "однобортный пиджак",
+    "price": "$438",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21608359.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/44/86/59/22448659_53582207_480.jpg",
+    "label": "KHAITE",
+    "name": "блейзер The Jacobson асимметричного кроя",
+    "price": "$3,485",
+    "url": "https://www.farfetch.com/kz/shopping/women/khaite-the-jacobson-item-22448659.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/31/34/38/21313438_53770059_480.jpg",
+    "label": "Natasha Zinko",
+    "name": "куртка с эффектом потертости",
+    "price": "$855",
+    "url": "https://www.farfetch.com/kz/shopping/women/natasha-zinko--item-21313438.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/37/48/09/17374809_37694492_480.jpg",
+    "label": "The Frankie Shop",
+    "name": "однобортный блейзер оверсайз Bea",
+    "price": "$345",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-frankie-shop-bea-item-17374809.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/84/39/76/19843976_44494480_480.jpg",
+    "label": "TOTEME",
+    "name": "куртка с карманами карго",
+    "price": "$541",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-19843976.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/83/65/21608365_52242594_480.jpg",
+    "label": "PINKO",
+    "name": "пиджак с кружевной вставкой",
+    "price": "$546",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21608365.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/96/03/66/22960366_53258493_480.jpg",
+    "label": "Lacoste",
+    "name": "утепленная куртка-рубашка",
+    "price": "$708",
+    "url": "https://www.farfetch.com/kz/shopping/women/lacoste--item-22960366.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/97/61/93/22976193_53216171_480.jpg",
+    "label": "ISABEL MARANT",
+    "name": "двубортный блейзер Klero",
+    "price": "$785",
+    "url": "https://www.farfetch.com/kz/shopping/women/isabel-marant-klero-item-22976193.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/28/88/17/24288817_54345424_480.jpg",
+    "label": "LOEWE",
+    "name": "шерстяной пиджак строгого кроя",
+    "price": "$1,636",
+    "url": "https://www.farfetch.com/kz/shopping/women/loewe--item-24288817.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/38/54/05/22385405_52364671_480.jpg",
+    "label": "TWINSET",
+    "name": "двубортный блейзер",
+    "price": "$200",
+    "url": "https://www.farfetch.com/kz/shopping/women/twinset--item-22385405.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/20/74/89/17207489_34985669_480.jpg",
+    "label": "SANDRO",
+    "name": "однобортный блейзер с заостренными лацканами",
+    "price": "$309",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-17207489.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/78/69/22027869_52141170_480.jpg",
+    "label": "SANDRO",
+    "name": "укороченная джинсовая куртка с кристаллами",
+    "price": "$455",
+    "url": "https://www.farfetch.com/kz/shopping/women/sandro--item-22027869.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/80/71/36/22807136_53143927_480.jpg",
+    "label": "Maje",
+    "name": "укороченный твидовый жакет",
+    "price": "$600",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22807136.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/64/41/39/21644139_52135558_480.jpg",
+    "label": "Canada Goose",
+    "name": "дутый жилет из коллаборации с Pyer Moss",
+    "price": "$469",
+    "url": "https://www.farfetch.com/kz/shopping/women/canada-goose-pyer-moss-item-21644139.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/19/57/38/20195738_50264832_480.jpg",
+    "label": "TOTEME",
+    "name": "укороченная джинсовая куртка",
+    "price": "$326",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-20195738.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/51/63/65/24516365_54598210_480.jpg",
+    "label": "Saint Laurent",
+    "name": "кожаное пальто с поясом",
+    "price": "$5,625",
+    "url": "https://www.farfetch.com/kz/shopping/women/saint-laurent--item-24516365.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/26/48/44/22264844_54242589_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "однобортный пиджак с принтом Chiaroscuro",
+    "price": "$1,655",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-mcqueen-chiaroscuro-item-22264844.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/15/34/33/20153433_51300824_480.jpg",
+    "label": "Acne Studios",
+    "name": "пуховик с капюшоном",
+    "price": "$1,057",
+    "url": "https://www.farfetch.com/kz/shopping/women/acne-studios--item-20153433.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/67/95/74/17679574_38862345_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "блейзер с вышитой монограммой",
+    "price": "$447",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren--item-17679574.aspx"
   },
   {
     "image": "https://cdn-images.farfetch-contents.com/21/46/78/70/21467870_52266247_480.jpg",
     "label": "Maje",
-    "name": "cape-style wool-blend coat",
-    "price": "$830"
+    "name": "пальто-кейп из смесовой шерсти",
+    "price": "$830",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-21467870.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/71/34/26/22713426_52837486_480.jpg",
-    "label": "b+ab",
-    "name": "cropped tweed jacket",
-    "price": "$131"
+    "image": "https://cdn-images.farfetch-contents.com/19/52/33/78/19523378_43794509_480.jpg",
+    "label": "Moschino",
+    "name": "двубортный блейзер",
+    "price": "$1,024",
+    "url": "https://www.farfetch.com/kz/shopping/women/moschino--item-19523378.aspx"
   },
   {
-    "image": "https://cdn-images.farfetch-contents.com/22/87/53/61/22875361_54088659_480.jpg",
-    "label": "The Frankie Shop",
-    "name": "Shane double-breasted gilet",
-    "price": "$296"
+    "image": "https://cdn-images.farfetch-contents.com/23/88/88/11/23888811_54382895_480.jpg",
+    "label": "sacai",
+    "name": "деконструированный блейзер",
+    "price": "$1,550",
+    "url": "https://www.farfetch.com/kz/shopping/women/sacai--item-23888811.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/61/25/90/22612590_52757573_480.jpg",
+    "label": "Brunello Cucinelli",
+    "name": "бомбер с пайетками",
+    "price": "$4,803",
+    "url": "https://www.farfetch.com/kz/shopping/women/brunello-cucinelli--item-22612590.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/47/19/69/20471969_52369295_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "пуховик фактурной вязки",
+    "price": "$784",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren--item-20471969.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/54/86/54/22548654_53283134_480.jpg",
+    "label": "Diesel",
+    "name": "джинсовая куртка De-Bika-Fse",
+    "price": "$1,944",
+    "url": "https://www.farfetch.com/kz/shopping/women/diesel-de-bika-fse-item-22548654.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/24/87/57/20248757_52354521_480.jpg",
+    "label": "Natasha Zinko",
+    "name": "джинсовая куртка на пуговицах",
+    "price": "$1,106",
+    "url": "https://www.farfetch.com/kz/shopping/women/natasha-zinko--item-20248757.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/29/36/86/24293686_54312409_480.jpg",
+    "label": "DRIES VAN NOTEN",
+    "name": "бархатный блейзер с цветочным принтом",
+    "price": "$1,262",
+    "url": "https://www.farfetch.com/kz/shopping/women/dries-van-noten--item-24293686.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/44/94/04/22449404_52810167_480.jpg",
+    "label": "KHAITE",
+    "name": "куртка The Hammond",
+    "price": "$3,132",
+    "url": "https://www.farfetch.com/kz/shopping/women/khaite-the-hammond-item-22449404.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/38/66/47/22386647_53551452_480.jpg",
+    "label": "Y/Project",
+    "name": "укороченный пуховик Snap Off",
+    "price": "$857",
+    "url": "https://www.farfetch.com/kz/shopping/women/yproject-snap-off-item-22386647.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/36/82/44/20368244_50909548_480.jpg",
+    "label": "Jil Sander",
+    "name": "кейп с воротником на молнии",
+    "price": "$1,716",
+    "url": "https://www.farfetch.com/kz/shopping/women/jil-sander--item-20368244.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/51/89/82/22518982_53286569_480.jpg",
+    "label": "TOTEME",
+    "name": "твиловая куртка-рубашка с приспущенными плечами",
+    "price": "$326",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-22518982.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/19/61/87/49/19618749_50187765_480.jpg",
+    "label": "Maje",
+    "name": "твидовая куртка с поясом",
+    "price": "$640",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-19618749.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/23/59/51/22235951_52744778_480.jpg",
+    "label": "Alexander Wang",
+    "name": "блейзер из шерсти и канваса с поясом",
+    "price": "$612",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-wang--item-22235951.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/94/57/67/23945767_54028744_480.jpg",
+    "label": "Herno",
+    "name": "стеганый пуховик с искусственным мехом",
+    "price": "$608",
+    "url": "https://www.farfetch.com/kz/shopping/women/herno--item-23945767.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/38/95/90/23389590_53501125_480.jpg",
+    "label": "Jacquemus",
+    "name": "укороченная куртка La Veste de Nîmes Obra",
+    "price": "$493",
+    "url": "https://www.farfetch.com/kz/shopping/women/jacquemus-la-veste-de-nimes-obra-item-23389590.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/38/95/66/23389566_53491105_480.jpg",
+    "label": "Rick Owens",
+    "name": "укороченная куртка Micro Biker",
+    "price": "$2,623",
+    "url": "https://www.farfetch.com/kz/shopping/women/rick-owens-micro-biker-item-23389566.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/22/75/46/24227546_54274951_480.jpg",
+    "label": "Alexander McQueen",
+    "name": "жакет с цветочным узором",
+    "price": "$2,240",
+    "url": "https://www.farfetch.com/kz/shopping/women/alexander-mcqueen--item-24227546.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/67/03/47/22670347_52717112_480.jpg",
+    "label": "LEMAIRE",
+    "name": "джинсовая куртка-рубашка",
+    "price": "$626",
+    "url": "https://www.farfetch.com/kz/shopping/women/lemaire--item-22670347.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/13/16/37/23131637_53275136_480.jpg",
+    "label": "ISABEL MARANT",
+    "name": "твидовый жилет Djiroy",
+    "price": "$694",
+    "url": "https://www.farfetch.com/kz/shopping/women/isabel-marant-djiroy-item-23131637.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/59/15/97/22591597_52612531_480.jpg",
+    "label": "adidas by Stella McCartney",
+    "name": "пальто с капюшоном и логотипом",
+    "price": "$307",
+    "url": "https://www.farfetch.com/kz/shopping/women/adidas-by-stella-mccartney--item-22591597.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/15/49/91/22154991_52377252_480.jpg",
+    "label": "Versace",
+    "name": "укороченный твидовый жакет в клетку",
+    "price": "$1,336",
+    "url": "https://www.farfetch.com/kz/shopping/women/versace--item-22154991.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/24/17/94/01/24179401_54630814_480.jpg",
+    "label": "Polo Ralph Lauren",
+    "name": "куртка с логотипом Polo Pony",
+    "price": "$373",
+    "url": "https://www.farfetch.com/kz/shopping/women/polo-ralph-lauren-polo-pony-item-24179401.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/88/92/51/22889251_52939953_480.jpg",
+    "label": "ETRO",
+    "name": "джинсовый жилет с поясом",
+    "price": "$958",
+    "url": "https://www.farfetch.com/kz/shopping/women/etro--item-22889251.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/18/30/09/33/18300933_43387822_480.jpg",
+    "label": "Supreme",
+    "name": "куртка Summit Series Rescue Baltoro из коллаборации с TNF",
+    "price": "$788",
+    "url": "https://www.farfetch.com/kz/shopping/women/supreme-summit-series-rescue-baltoro-tnf-item-18300933.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/88/87/56/22888756_52942175_480.jpg",
+    "label": "ETRO",
+    "name": "кожаный жилет с вышивкой",
+    "price": "$2,237",
+    "url": "https://www.farfetch.com/kz/shopping/women/etro--item-22888756.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/11/91/59/22119159_52382344_480.jpg",
+    "label": "Maje",
+    "name": "двубортный пиджак в тонкую полоску",
+    "price": "$670",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22119159.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/60/84/22/21608422_51863806_480.jpg",
+    "label": "PINKO",
+    "name": "однобортный блейзер без рукавов",
+    "price": "$411",
+    "url": "https://www.farfetch.com/kz/shopping/women/pinko--item-21608422.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/78/66/51/20786651_54371268_480.jpg",
+    "label": "Balenciaga",
+    "name": "куртка Unity Sports Icon",
+    "price": "$2,066",
+    "url": "https://www.farfetch.com/kz/shopping/women/balenciaga-unity-sports-icon-item-20786651.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/13/34/90/03/13349003_15080747_480.jpg",
+    "label": "Alpha Industries",
+    "name": "бомбер свободного кроя",
+    "price": "$230",
+    "url": "https://www.farfetch.com/kz/shopping/women/alpha-industries--item-13349003.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/62/17/33/17621733_36776404_480.jpg",
+    "label": "TOTEME",
+    "name": "куртка с шарфом и вышивкой",
+    "price": "$857",
+    "url": "https://www.farfetch.com/kz/shopping/women/toteme--item-17621733.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/19/32/46/22193246_52671499_480.jpg",
+    "label": "Maje",
+    "name": "байкерская куртка со стеганой отделкой",
+    "price": "$790",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-22193246.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/68/55/50/21685550_52095973_480.jpg",
+    "label": "Acne Studios",
+    "name": "джинсовый пуховик",
+    "price": "$594",
+    "url": "https://www.farfetch.com/kz/shopping/women/acne-studios--item-21685550.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/22/28/08/20222808_52256151_480.jpg",
+    "label": "Philipp Plein",
+    "name": "стеганый пуховик с леопардовым принтом",
+    "price": "$571",
+    "url": "https://www.farfetch.com/kz/shopping/women/philipp-plein--item-20222808.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/73/10/01/23731001_53818562_480.jpg",
+    "label": "Maje",
+    "name": "куртка в стиле милитари с заклепками",
+    "price": "$372",
+    "url": "https://www.farfetch.com/kz/shopping/women/maje--item-23731001.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/03/21/53/22032153_51985173_480.jpg",
+    "label": "The Attico",
+    "name": "однобортный блейзер оверсайз Glen",
+    "price": "$1,070",
+    "url": "https://www.farfetch.com/kz/shopping/women/the-attico-glen-item-22032153.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/20/64/99/63/20649963_50583467_480.jpg",
+    "label": "Khrisjoy",
+    "name": "пуховик Khris Iconic",
+    "price": "$1,130",
+    "url": "https://www.farfetch.com/kz/shopping/women/khrisjoy-khris-iconic-item-20649963.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/13/37/51/22133751_52061896_480.jpg",
+    "label": "Patrizia Pepe",
+    "name": "джинсовая куртка с монограммой",
+    "price": "$537",
+    "url": "https://www.farfetch.com/kz/shopping/women/patrizia-pepe--item-22133751.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/53/84/32/17538432_36949390_480.jpg",
+    "label": "Burberry",
+    "name": "стеганая куртка с терморегуляцией",
+    "price": "$1,105",
+    "url": "https://www.farfetch.com/kz/shopping/women/burberry--item-17538432.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/97/31/62/23973162_54132831_480.jpg",
+    "label": "Elisabetta Franchi",
+    "name": "пиджак с карманами",
+    "price": "$799",
+    "url": "https://www.farfetch.com/kz/shopping/women/elisabetta-franchi--item-23973162.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/34/03/64/21340364_52949655_480.jpg",
+    "label": "TOM FORD",
+    "name": "полосатый жилет с V-образным вырезом",
+    "price": "$1,771",
+    "url": "https://www.farfetch.com/kz/shopping/women/tom-ford-v-item-21340364.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/21/27/28/76/21272876_51418270_480.jpg",
+    "label": "Marni",
+    "name": "куртка с логотипом",
+    "price": "$583",
+    "url": "https://www.farfetch.com/kz/shopping/women/marni--item-21272876.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/90/53/61/22905361_53688435_480.jpg",
+    "label": "Axel Arigato",
+    "name": "фетровый бомбер Orson",
+    "price": "$427",
+    "url": "https://www.farfetch.com/kz/shopping/women/axel-arigato-orson-item-22905361.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/22/02/84/19/22028419_51838263_480.jpg",
+    "label": "GANNI",
+    "name": "приталенный пиджак без лацканов",
+    "price": "$230",
+    "url": "https://www.farfetch.com/kz/shopping/women/ganni--item-22028419.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/17/54/49/06/17544906_37038692_480.jpg",
+    "label": "Burberry",
+    "name": "стеганая куртка",
+    "price": "$1,105",
+    "url": "https://www.farfetch.com/kz/shopping/women/burberry--item-17544906.aspx"
+  },
+  {
+    "image": "https://cdn-images.farfetch-contents.com/23/78/44/34/23784434_54184365_480.jpg",
+    "label": "Chloé",
+    "name": "кожаное пальто с поясом",
+    "price": "$3,943",
+    "url": "https://www.farfetch.com/kz/shopping/women/chloe--item-23784434.aspx"
   }
 ]
